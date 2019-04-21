@@ -1,0 +1,235 @@
+{
+  "chapters": {
+    "chapter_number": 103,
+    "bismillah_pre": true,
+    "revelation_order": 13,
+    "revelation_place": "makkah",
+    "name_arabic": "العصر",
+    "name_complex": "Al-`Aşr",
+    "name_simple": "Al-'Asr",
+    "verses_count": 3,
+    "pages": [
+      601,
+      601
+    ],
+    "meaning": {
+      "text": "The Declining Day",
+      "en": "The Declining Day",
+      "id": "The Declining Day"
+    },
+    "verses": [
+      {
+        "verse_number": 1,
+        "verse_key": "103:1",
+        "text_madani": "وَالْعَصْرِ",
+        "translation": "Demi masa,",
+        "page_number": 601,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 3,
+            "page_number": 601,
+            "text_madani": "وَالْعَصْرِ",
+            "code": "&#xfb51;",
+            "code_v3": "&#xfb51;",
+            "char_type": "word",
+            "translation": ""
+          },
+          {
+            "position": 2,
+            "line_number": 3,
+            "page_number": 601,
+            "text_madani": null,
+            "code": "&#xfb52;",
+            "code_v3": "&#xa001;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 2,
+        "verse_key": "103:2",
+        "text_madani": "إِنَّ الْإِنسَانَ لَفِي خُسْرٍ",
+        "translation": "sungguh, manusia berada dalam kerugian,",
+        "page_number": 601,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 3,
+            "page_number": 601,
+            "text_madani": "إِنَّ",
+            "code": "&#xfb53;",
+            "code_v3": "&#xfb53;",
+            "char_type": "word",
+            "translation": "sesungguhnya"
+          },
+          {
+            "position": 2,
+            "line_number": 3,
+            "page_number": 601,
+            "text_madani": "الْإِنْسَانَ",
+            "code": "&#xfb54;",
+            "code_v3": "&#xfb54;",
+            "char_type": "word",
+            "translation": "manusia"
+          },
+          {
+            "position": 3,
+            "line_number": 3,
+            "page_number": 601,
+            "text_madani": "لَفِي",
+            "code": "&#xfb55;",
+            "code_v3": "&#xfb55;",
+            "char_type": "word",
+            "translation": "benar-benar dalam"
+          },
+          {
+            "position": 4,
+            "line_number": 3,
+            "page_number": 601,
+            "text_madani": "خُسْرٍ",
+            "code": "&#xfb56;",
+            "code_v3": "&#xfb56;",
+            "char_type": "word",
+            "translation": "kerugian"
+          },
+          {
+            "position": 5,
+            "line_number": 3,
+            "page_number": 601,
+            "text_madani": null,
+            "code": "&#xfb57;",
+            "code_v3": "&#xa002;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 3,
+        "verse_key": "103:3",
+        "text_madani": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+        "translation": "kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran.",
+        "page_number": 601,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 3,
+            "page_number": 601,
+            "text_madani": "إِلَّا",
+            "code": "&#xfb58;",
+            "code_v3": "&#xfb58;",
+            "char_type": "word",
+            "translation": "kecuali"
+          },
+          {
+            "position": 2,
+            "line_number": 3,
+            "page_number": 601,
+            "text_madani": "الَّذِينَ",
+            "code": "&#xfb59;",
+            "code_v3": "&#xfb59;",
+            "char_type": "word",
+            "translation": "orang-orang yang"
+          },
+          {
+            "position": 3,
+            "line_number": 3,
+            "page_number": 601,
+            "text_madani": "آمَنُوا",
+            "code": "&#xfb5a;",
+            "code_v3": "&#xfb5a;",
+            "char_type": "word",
+            "translation": "beriman"
+          },
+          {
+            "position": 4,
+            "line_number": 4,
+            "page_number": 601,
+            "text_madani": "وَعَمِلُوا",
+            "code": "&#xfb5b;",
+            "code_v3": "&#xfb5b;",
+            "char_type": "word",
+            "translation": "dan mereka berbuat/beramal"
+          },
+          {
+            "position": 5,
+            "line_number": 4,
+            "page_number": 601,
+            "text_madani": "الصَّالِحَاتِ",
+            "code": "&#xfb5c;",
+            "code_v3": "&#xfb5c;",
+            "char_type": "word",
+            "translation": "kebajikan/sholeh"
+          },
+          {
+            "position": 6,
+            "line_number": 4,
+            "page_number": 601,
+            "text_madani": "وَتَوَاصَوْا",
+            "code": "&#xfb5d;",
+            "code_v3": "&#xfb5d;",
+            "char_type": "word",
+            "translation": "dan mereka saling berwasiat/menasehati"
+          },
+          {
+            "position": 7,
+            "line_number": 4,
+            "page_number": 601,
+            "text_madani": "بِالْحَقِّ",
+            "code": "&#xfb5e;",
+            "code_v3": "&#xfb5e;",
+            "char_type": "word",
+            "translation": "dengan kebenaran"
+          },
+          {
+            "position": 8,
+            "line_number": 4,
+            "page_number": 601,
+            "text_madani": "وَتَوَاصَوْا",
+            "code": "&#xfb5f;",
+            "code_v3": "&#xfb5f;",
+            "char_type": "word",
+            "translation": "dan mereka saling berwasiat/menasehati"
+          },
+          {
+            "position": 9,
+            "line_number": 4,
+            "page_number": 601,
+            "text_madani": "بِالصَّبْرِ",
+            "code": "&#xfb60;",
+            "code_v3": "&#xfb60;",
+            "char_type": "word",
+            "translation": "dengan kesabaran"
+          },
+          {
+            "position": 10,
+            "line_number": 4,
+            "page_number": 601,
+            "text_madani": null,
+            "code": "&#xfb61;",
+            "code_v3": "&#xa003;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      }
+    ]
+  }
+}

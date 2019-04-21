@@ -1,0 +1,276 @@
+{
+  "chapter_number": 110,
+  "bismillah_pre": true,
+  "revelation_order": 114,
+  "revelation_place": "madinah",
+  "name_arabic": "النصر",
+  "name_complex": "An-Naşr",
+  "name_simple": "An-Nasr",
+  "verses_count": 3,
+  "pages": [
+    603,
+    603
+  ],
+  "meaning": {
+    "text": "The Divine Support",
+    "en": "The Divine Support",
+    "id": "Pertolongan"
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "verse_total_number": 6214,
+      "verse_key": "110:1",
+      "text_madani": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+      "translation_en": "When there comes the help of Allah and the victory,",
+      "translation_id": "Apabila telah datang pertolongan Allah dan kemenangan,",
+      "page_number": 603,
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_number": 240,
+      "sajdah": null,
+      "sajdah_number": null,
+      "words": [
+        {
+          "position": 1,
+          "line_number": 8,
+          "page_number": 603,
+          "code": "&#xfb71;",
+          "char_type": "word",
+          "translation_en": "When",
+          "translation_id": "dan kemenangan"
+        },
+        {
+          "position": 2,
+          "line_number": 8,
+          "page_number": 603,
+          "code": "&#xfb72;",
+          "char_type": "word",
+          "translation_en": "comes",
+          "translation_id": ""
+        },
+        {
+          "position": 3,
+          "line_number": 8,
+          "page_number": 603,
+          "code": "&#xfb73;",
+          "char_type": "word",
+          "translation_en": "(the) Help",
+          "translation_id": ""
+        },
+        {
+          "position": 4,
+          "line_number": 8,
+          "page_number": 603,
+          "code": "&#xfb74;",
+          "char_type": "word",
+          "translation_en": "(of) Allah",
+          "translation_id": ""
+        },
+        {
+          "position": 5,
+          "line_number": 8,
+          "page_number": 603,
+          "code": "&#xfb75;",
+          "char_type": "word",
+          "translation_en": "and the Victory",
+          "translation_id": ""
+        },
+        {
+          "position": 6,
+          "line_number": 8,
+          "page_number": 603,
+          "code": "&#xfb76;",
+          "char_type": "end",
+          "translation_en": null,
+          "translation_id": null
+        }
+      ]
+    },
+    {
+      "verse_number": 2,
+      "verse_total_number": 6215,
+      "verse_key": "110:2",
+      "text_madani": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+      "translation_en": "And you see men entering the religion of Allah in companies,",
+      "translation_id": "dan engkau melihat manusia berbondong-bondong masuk agama Allah,",
+      "page_number": 603,
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_number": 240,
+      "sajdah": null,
+      "sajdah_number": null,
+      "words": [
+        {
+          "position": 1,
+          "line_number": 8,
+          "page_number": 603,
+          "code": "&#xfb77;",
+          "char_type": "word",
+          "translation_en": "And you see",
+          "translation_id": "dan kamu lihat"
+        },
+        {
+          "position": 2,
+          "line_number": 8,
+          "page_number": 603,
+          "code": "&#xfb78;",
+          "char_type": "word",
+          "translation_en": "the people",
+          "translation_id": "manusia"
+        },
+        {
+          "position": 3,
+          "line_number": 9,
+          "page_number": 603,
+          "code": "&#xfb79;",
+          "char_type": "word",
+          "translation_en": "entering",
+          "translation_id": "masuk"
+        },
+        {
+          "position": 4,
+          "line_number": 9,
+          "page_number": 603,
+          "code": "&#xfb7a;",
+          "char_type": "word",
+          "translation_en": "into",
+          "translation_id": "kedalam"
+        },
+        {
+          "position": 5,
+          "line_number": 9,
+          "page_number": 603,
+          "code": "&#xfb7b;",
+          "char_type": "word",
+          "translation_en": "(the) religion",
+          "translation_id": "agama"
+        },
+        {
+          "position": 6,
+          "line_number": 9,
+          "page_number": 603,
+          "code": "&#xfb7c;",
+          "char_type": "word",
+          "translation_en": "(of) Allah",
+          "translation_id": "Allah"
+        },
+        {
+          "position": 7,
+          "line_number": 9,
+          "page_number": 603,
+          "code": "&#xfb7d;",
+          "char_type": "word",
+          "translation_en": "(in) multitudes",
+          "translation_id": "berbondong-bondong"
+        },
+        {
+          "position": 8,
+          "line_number": 9,
+          "page_number": 603,
+          "code": "&#xfb7e;",
+          "char_type": "end",
+          "translation_en": null,
+          "translation_id": null
+        }
+      ]
+    },
+    {
+      "verse_number": 3,
+      "verse_total_number": 6216,
+      "verse_key": "110:3",
+      "text_madani": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا",
+      "translation_en": "Then celebrate the praise of your Lord, and ask His forgiveness; surely He is oft-returning (to mercy).",
+      "translation_id": "maka bertasbihlah dengan memuji Tuhanmu dan mohonlah ampunan kepada-Nya. Sungguh, Dia Maha Penerima tobat.",
+      "page_number": 603,
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_number": 240,
+      "sajdah": null,
+      "sajdah_number": null,
+      "words": [
+        {
+          "position": 1,
+          "line_number": 9,
+          "page_number": 603,
+          "code": "&#xfb7f;",
+          "char_type": "word",
+          "translation_en": "Then glorify",
+          "translation_id": "maka bertasbihlah"
+        },
+        {
+          "position": 2,
+          "line_number": 9,
+          "page_number": 603,
+          "code": "&#xfb80;",
+          "char_type": "word",
+          "translation_en": "with (the) praises",
+          "translation_id": "dengan memuji"
+        },
+        {
+          "position": 3,
+          "line_number": 9,
+          "page_number": 603,
+          "code": "&#xfb81;",
+          "char_type": "word",
+          "translation_en": "(of) your Lord",
+          "translation_id": "Tuhanmu"
+        },
+        {
+          "position": 4,
+          "line_number": 10,
+          "page_number": 603,
+          "code": "&#xfb82;",
+          "char_type": "word",
+          "translation_en": "and ask His forgiveness",
+          "translation_id": "dan mohonlah ampun"
+        },
+        {
+          "position": 5,
+          "line_number": 10,
+          "page_number": 603,
+          "code": "&#xfb83;",
+          "char_type": "pause",
+          "translation_en": null,
+          "translation_id": null
+        },
+        {
+          "position": 6,
+          "line_number": 10,
+          "page_number": 603,
+          "code": "&#xfb84;",
+          "char_type": "word",
+          "translation_en": "Indeed, He",
+          "translation_id": "sesungguhnya Dia"
+        },
+        {
+          "position": 7,
+          "line_number": 10,
+          "page_number": 603,
+          "code": "&#xfb85;",
+          "char_type": "word",
+          "translation_en": "is",
+          "translation_id": "adalah Dia"
+        },
+        {
+          "position": 8,
+          "line_number": 10,
+          "page_number": 603,
+          "code": "&#xfb86;",
+          "char_type": "word",
+          "translation_en": "Oft-Returning",
+          "translation_id": "Maha Penerima Taubat"
+        },
+        {
+          "position": 9,
+          "line_number": 10,
+          "page_number": 603,
+          "code": "&#xfb87;",
+          "char_type": "end",
+          "translation_en": null,
+          "translation_id": null
+        }
+      ]
+    }
+  ]
+}

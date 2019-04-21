@@ -1,0 +1,6031 @@
+{
+  "chapters": {
+    "chapter_number": 45,
+    "bismillah_pre": true,
+    "revelation_order": 65,
+    "revelation_place": "makkah",
+    "name_arabic": "الجاثية",
+    "name_complex": "Al-Jāthiyah",
+    "name_simple": "Al-Jathiyah",
+    "verses_count": 37,
+    "pages": [
+      499,
+      502
+    ],
+    "meaning": {
+      "text": "The Crouching",
+      "en": "The Crouching",
+      "id": "The Crouching"
+    },
+    "verses": [
+      {
+        "verse_number": 1,
+        "verse_key": "45:1",
+        "text_madani": "حم",
+        "translation": "Haa Mim",
+        "page_number": 499,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 199,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 2,
+            "page_number": 499,
+            "text_madani": "حم",
+            "code": "&#xfb51;",
+            "code_v3": "&#xfb51;",
+            "char_type": "word",
+            "translation": ""
+          },
+          {
+            "position": 2,
+            "line_number": 2,
+            "page_number": 499,
+            "text_madani": null,
+            "code": "&#xfb52;",
+            "code_v3": "&#xa001;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 2,
+        "verse_key": "45:2",
+        "text_madani": "تَنزِيلُ الْكِتَابِ مِنَ اللَّهِ الْعَزِيزِ الْحَكِيمِ",
+        "translation": "Kitab (ini) diturunkan dari Allah Yang Mahaperkasa, Mahabijaksana.",
+        "page_number": 499,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 199,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 2,
+            "page_number": 499,
+            "text_madani": "تَنْزِيلُ",
+            "code": "&#xfb53;",
+            "code_v3": "&#xfb53;",
+            "char_type": "word",
+            "translation": "turunnya"
+          },
+          {
+            "position": 2,
+            "line_number": 2,
+            "page_number": 499,
+            "text_madani": "الْكِتَابِ",
+            "code": "&#xfb54;",
+            "code_v3": "&#xfb54;",
+            "char_type": "word",
+            "translation": "kitab"
+          },
+          {
+            "position": 3,
+            "line_number": 2,
+            "page_number": 499,
+            "text_madani": "مِنَ",
+            "code": "&#xfb55;",
+            "code_v3": "&#xfb55;",
+            "char_type": "word",
+            "translation": "dari"
+          },
+          {
+            "position": 4,
+            "line_number": 2,
+            "page_number": 499,
+            "text_madani": "اللَّهِ",
+            "code": "&#xfb56;",
+            "code_v3": "&#xfb56;",
+            "char_type": "word",
+            "translation": "Allah"
+          },
+          {
+            "position": 5,
+            "line_number": 2,
+            "page_number": 499,
+            "text_madani": "الْعَزِيزِ",
+            "code": "&#xfb57;",
+            "code_v3": "&#xfb57;",
+            "char_type": "word",
+            "translation": "Maha Perkasa"
+          },
+          {
+            "position": 6,
+            "line_number": 2,
+            "page_number": 499,
+            "text_madani": "الْحَكِيمِ",
+            "code": "&#xfb58;",
+            "code_v3": "&#xfb58;",
+            "char_type": "word",
+            "translation": "Maha Bijaksana"
+          },
+          {
+            "position": 7,
+            "line_number": 2,
+            "page_number": 499,
+            "text_madani": null,
+            "code": "&#xfb59;",
+            "code_v3": "&#xa002;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 3,
+        "verse_key": "45:3",
+        "text_madani": "إِنَّ فِي السَّمَاوَاتِ وَالْأَرْضِ لَآيَاتٍ لِّلْمُؤْمِنِينَ",
+        "translation": "Sungguh, pada langit dan bumi benar-benar terdapat tanda-tanda (kebesaran Allah) bagi orang-orang mukmin.",
+        "page_number": 499,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 199,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 2,
+            "page_number": 499,
+            "text_madani": "إِنَّ",
+            "code": "&#xfb5a;",
+            "code_v3": "&#xfb5a;",
+            "char_type": "word",
+            "translation": "sesungguhnya"
+          },
+          {
+            "position": 2,
+            "line_number": 2,
+            "page_number": 499,
+            "text_madani": "فِي",
+            "code": "&#xfb5b;",
+            "code_v3": "&#xfb5b;",
+            "char_type": "word",
+            "translation": "pada"
+          },
+          {
+            "position": 3,
+            "line_number": 2,
+            "page_number": 499,
+            "text_madani": "السَّمَاوَاتِ",
+            "code": "&#xfb5c;",
+            "code_v3": "&#xfb5c;",
+            "char_type": "word",
+            "translation": "langit"
+          },
+          {
+            "position": 4,
+            "line_number": 3,
+            "page_number": 499,
+            "text_madani": "وَالْأَرْضِ",
+            "code": "&#xfb5d;",
+            "code_v3": "&#xfb5d;",
+            "char_type": "word",
+            "translation": "dan bumi"
+          },
+          {
+            "position": 5,
+            "line_number": 3,
+            "page_number": 499,
+            "text_madani": "لَآيَاتٍ",
+            "code": "&#xfb5e;",
+            "code_v3": "&#xfb5e;",
+            "char_type": "word",
+            "translation": "benar-benar terdapat tanda-tanda"
+          },
+          {
+            "position": 6,
+            "line_number": 3,
+            "page_number": 499,
+            "text_madani": "لِلْمُؤْمِنِينَ",
+            "code": "&#xfb5f;",
+            "code_v3": "&#xfb5f;",
+            "char_type": "word",
+            "translation": "bagi orang-orang yang beriman"
+          },
+          {
+            "position": 7,
+            "line_number": 3,
+            "page_number": 499,
+            "text_madani": null,
+            "code": "&#xfb60;",
+            "code_v3": "&#xa003;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 4,
+        "verse_key": "45:4",
+        "text_madani": "وَفِي خَلْقِكُمْ وَمَا يَبُثُّ مِن دَابَّةٍ آيَاتٌ لِّقَوْمٍ يُوقِنُونَ",
+        "translation": "Dan pada penciptaan dirimu dan pada makhluk bergerak yang bernyawa yang bertebaran (di bumi) terdapat tanda-tanda (kebesaran Allah) untuk kaum yang meyakini,",
+        "page_number": 499,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 199,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 3,
+            "page_number": 499,
+            "text_madani": "وَفِي",
+            "code": "&#xfb61;",
+            "code_v3": "&#xfb61;",
+            "char_type": "word",
+            "translation": "dan pada"
+          },
+          {
+            "position": 2,
+            "line_number": 3,
+            "page_number": 499,
+            "text_madani": "خَلْقِكُمْ",
+            "code": "&#xfb62;",
+            "code_v3": "&#xfb62;",
+            "char_type": "word",
+            "translation": "penciptaan kamu"
+          },
+          {
+            "position": 3,
+            "line_number": 3,
+            "page_number": 499,
+            "text_madani": "وَمَا",
+            "code": "&#xfb63;",
+            "code_v3": "&#xfb63;",
+            "char_type": "word",
+            "translation": "dan apa yang"
+          },
+          {
+            "position": 4,
+            "line_number": 3,
+            "page_number": 499,
+            "text_madani": "يَبُثُّ",
+            "code": "&#xfb64;",
+            "code_v3": "&#xfb64;",
+            "char_type": "word",
+            "translation": "bertebaran"
+          },
+          {
+            "position": 5,
+            "line_number": 3,
+            "page_number": 499,
+            "text_madani": "مِنْ",
+            "code": "&#xfb65;",
+            "code_v3": "&#xfb65;",
+            "char_type": "word",
+            "translation": "dari"
+          },
+          {
+            "position": 6,
+            "line_number": 3,
+            "page_number": 499,
+            "text_madani": "دَابَّةٍ",
+            "code": "&#xfb66;",
+            "code_v3": "&#xfb66;",
+            "char_type": "word",
+            "translation": "binatang ternak"
+          },
+          {
+            "position": 7,
+            "line_number": 3,
+            "page_number": 499,
+            "text_madani": "آيَاتٌ",
+            "code": "&#xfb67;",
+            "code_v3": "&#xfb67;",
+            "char_type": "word",
+            "translation": "tanda-tanda"
+          },
+          {
+            "position": 8,
+            "line_number": 4,
+            "page_number": 499,
+            "text_madani": "لِقَوْمٍ",
+            "code": "&#xfb68;",
+            "code_v3": "&#xfb68;",
+            "char_type": "word",
+            "translation": "bagi kaum"
+          },
+          {
+            "position": 9,
+            "line_number": 4,
+            "page_number": 499,
+            "text_madani": "يُوقِنُونَ",
+            "code": "&#xfb69;",
+            "code_v3": "&#xfb69;",
+            "char_type": "word",
+            "translation": "mereka meyakini"
+          },
+          {
+            "position": 10,
+            "line_number": 4,
+            "page_number": 499,
+            "text_madani": null,
+            "code": "&#xfb6a;",
+            "code_v3": "&#xa004;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 5,
+        "verse_key": "45:5",
+        "text_madani": "وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ وَمَا أَنزَلَ اللَّهُ مِنَ السَّمَاءِ مِن رِّزْقٍ فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا وَتَصْرِيفِ الرِّيَاحِ آيَاتٌ لِّقَوْمٍ يَعْقِلُونَ",
+        "translation": "dan pada pergantian malam dan siang dan hujan yang diturunkan Allah dari langit lalu dengan (air hujan) itu dihidupkan-Nya bumi setelah mati (kering); dan pada perkisaran angin terdapat pula tanda-tanda (kebesaran Allah) bagi kaum yang mengerti.",
+        "page_number": 499,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 199,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 4,
+            "page_number": 499,
+            "text_madani": "وَاخْتِلَافِ",
+            "code": "&#xfb6b;",
+            "code_v3": "&#xfb6b;",
+            "char_type": "word",
+            "translation": "dan pergantian"
+          },
+          {
+            "position": 2,
+            "line_number": 4,
+            "page_number": 499,
+            "text_madani": "اللَّيْلِ",
+            "code": "&#xfb6c;",
+            "code_v3": "&#xfb6c;",
+            "char_type": "word",
+            "translation": "malam"
+          },
+          {
+            "position": 3,
+            "line_number": 4,
+            "page_number": 499,
+            "text_madani": "وَالنَّهَارِ",
+            "code": "&#xfb6d;",
+            "code_v3": "&#xfb6d;",
+            "char_type": "word",
+            "translation": "dan siang"
+          },
+          {
+            "position": 4,
+            "line_number": 4,
+            "page_number": 499,
+            "text_madani": "وَمَا",
+            "code": "&#xfb6e;",
+            "code_v3": "&#xfb6e;",
+            "char_type": "word",
+            "translation": "dan apa yang"
+          },
+          {
+            "position": 5,
+            "line_number": 4,
+            "page_number": 499,
+            "text_madani": "أَنْزَلَ",
+            "code": "&#xfb6f;",
+            "code_v3": "&#xfb6f;",
+            "char_type": "word",
+            "translation": "diturunkan"
+          },
+          {
+            "position": 6,
+            "line_number": 4,
+            "page_number": 499,
+            "text_madani": "اللَّهُ",
+            "code": "&#xfb70;",
+            "code_v3": "&#xfb70;",
+            "char_type": "word",
+            "translation": "Allah"
+          },
+          {
+            "position": 7,
+            "line_number": 4,
+            "page_number": 499,
+            "text_madani": "مِنَ",
+            "code": "&#xfb71;",
+            "code_v3": "&#xfb71;",
+            "char_type": "word",
+            "translation": "dari"
+          },
+          {
+            "position": 8,
+            "line_number": 4,
+            "page_number": 499,
+            "text_madani": "السَّمَاءِ",
+            "code": "&#xfb72;",
+            "code_v3": "&#xfb72;",
+            "char_type": "word",
+            "translation": "langit"
+          },
+          {
+            "position": 9,
+            "line_number": 5,
+            "page_number": 499,
+            "text_madani": "مِنْ",
+            "code": "&#xfb73;",
+            "code_v3": "&#xfb73;",
+            "char_type": "word",
+            "translation": "dari"
+          },
+          {
+            "position": 10,
+            "line_number": 5,
+            "page_number": 499,
+            "text_madani": "رِزْقٍ",
+            "code": "&#xfb74;",
+            "code_v3": "&#xfb74;",
+            "char_type": "word",
+            "translation": "rezeki"
+          },
+          {
+            "position": 11,
+            "line_number": 5,
+            "page_number": 499,
+            "text_madani": "فَأَحْيَا",
+            "code": "&#xfb75;",
+            "code_v3": "&#xfb75;",
+            "char_type": "word",
+            "translation": "lalu Dia menghidupkan"
+          },
+          {
+            "position": 12,
+            "line_number": 5,
+            "page_number": 499,
+            "text_madani": "بِهِ",
+            "code": "&#xfb76;",
+            "code_v3": "&#xfb76;",
+            "char_type": "word",
+            "translation": "dengannya"
+          },
+          {
+            "position": 13,
+            "line_number": 5,
+            "page_number": 499,
+            "text_madani": "الْأَرْضَ",
+            "code": "&#xfb77;",
+            "code_v3": "&#xfb77;",
+            "char_type": "word",
+            "translation": "bumi"
+          },
+          {
+            "position": 14,
+            "line_number": 5,
+            "page_number": 499,
+            "text_madani": "بَعْدَ",
+            "code": "&#xfb78;",
+            "code_v3": "&#xfb78;",
+            "char_type": "word",
+            "translation": "sesudah"
+          },
+          {
+            "position": 15,
+            "line_number": 5,
+            "page_number": 499,
+            "text_madani": "مَوْتِهَا",
+            "code": "&#xfb79;",
+            "code_v3": "&#xfb79;",
+            "char_type": "word",
+            "translation": "matinya"
+          },
+          {
+            "position": 16,
+            "line_number": 5,
+            "page_number": 499,
+            "text_madani": "وَتَصْرِيفِ",
+            "code": "&#xfb7a;",
+            "code_v3": "&#xfb7a;",
+            "char_type": "word",
+            "translation": "dan perkisaran"
+          },
+          {
+            "position": 17,
+            "line_number": 5,
+            "page_number": 499,
+            "text_madani": "الرِّيَاحِ",
+            "code": "&#xfb7b;",
+            "code_v3": "&#xfb7b;",
+            "char_type": "word",
+            "translation": "angin"
+          },
+          {
+            "position": 18,
+            "line_number": 5,
+            "page_number": 499,
+            "text_madani": "آيَاتٌ",
+            "code": "&#xfb7c;",
+            "code_v3": "&#xfb7c;",
+            "char_type": "word",
+            "translation": "tanda-tanda"
+          },
+          {
+            "position": 19,
+            "line_number": 5,
+            "page_number": 499,
+            "text_madani": "لِقَوْمٍ",
+            "code": "&#xfb7d;",
+            "code_v3": "&#xfb7d;",
+            "char_type": "word",
+            "translation": "bagi kaum"
+          },
+          {
+            "position": 20,
+            "line_number": 6,
+            "page_number": 499,
+            "text_madani": "يَعْقِلُونَ",
+            "code": "&#xfb7e;",
+            "code_v3": "&#xfb7e;",
+            "char_type": "word",
+            "translation": "mereka berakal"
+          },
+          {
+            "position": 21,
+            "line_number": 6,
+            "page_number": 499,
+            "text_madani": null,
+            "code": "&#xfb7f;",
+            "code_v3": "&#xa005;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 6,
+        "verse_key": "45:6",
+        "text_madani": "تِلْكَ آيَاتُ اللَّهِ نَتْلُوهَا عَلَيْكَ بِالْحَقِّ ۖ فَبِأَيِّ حَدِيثٍ بَعْدَ اللَّهِ وَآيَاتِهِ يُؤْمِنُونَ",
+        "translation": "Itulah ayat-ayat Allah yang Kami bacakan kepadamu dengan sebenarnya; maka dengan perkataan mana lagi mereka akan beriman setelah Allah dan ayat-ayat-Nya.",
+        "page_number": 499,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 199,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 6,
+            "page_number": 499,
+            "text_madani": "تِلْكَ",
+            "code": "&#xfb80;",
+            "code_v3": "&#xfb80;",
+            "char_type": "word",
+            "translation": "itulah"
+          },
+          {
+            "position": 2,
+            "line_number": 6,
+            "page_number": 499,
+            "text_madani": "آيَاتُ",
+            "code": "&#xfb81;",
+            "code_v3": "&#xfb81;",
+            "char_type": "word",
+            "translation": "ayat-ayat"
+          },
+          {
+            "position": 3,
+            "line_number": 6,
+            "page_number": 499,
+            "text_madani": "اللَّهِ",
+            "code": "&#xfb82;",
+            "code_v3": "&#xfb82;",
+            "char_type": "word",
+            "translation": "Allah"
+          },
+          {
+            "position": 4,
+            "line_number": 6,
+            "page_number": 499,
+            "text_madani": "نَتْلُوهَا",
+            "code": "&#xfb83;",
+            "code_v3": "&#xfb83;",
+            "char_type": "word",
+            "translation": "Kami bacakan"
+          },
+          {
+            "position": 5,
+            "line_number": 6,
+            "page_number": 499,
+            "text_madani": "عَلَيْكَ",
+            "code": "&#xfb84;",
+            "code_v3": "&#xfb84;",
+            "char_type": "word",
+            "translation": "atas kamu"
+          },
+          {
+            "position": 6,
+            "line_number": 6,
+            "page_number": 499,
+            "text_madani": "بِالْحَقِّ",
+            "code": "&#xfb85;",
+            "code_v3": "&#xfb85;",
+            "char_type": "word",
+            "translation": "dengan benar"
+          },
+          {
+            "position": 7,
+            "line_number": 6,
+            "page_number": 499,
+            "text_madani": null,
+            "code": "&#xfb86;",
+            "code_v3": "&#x6d6;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 8,
+            "line_number": 6,
+            "page_number": 499,
+            "text_madani": "فَبِأَيِّ",
+            "code": "&#xfb87;",
+            "code_v3": "&#xfb87;",
+            "char_type": "word",
+            "translation": "maka dengan yang mana"
+          },
+          {
+            "position": 9,
+            "line_number": 6,
+            "page_number": 499,
+            "text_madani": "حَدِيثٍ",
+            "code": "&#xfb88;",
+            "code_v3": "&#xfb88;",
+            "char_type": "word",
+            "translation": "perkataan"
+          },
+          {
+            "position": 10,
+            "line_number": 6,
+            "page_number": 499,
+            "text_madani": "بَعْدَ",
+            "code": "&#xfb89;",
+            "code_v3": "&#xfb89;",
+            "char_type": "word",
+            "translation": "sesudah"
+          },
+          {
+            "position": 11,
+            "line_number": 7,
+            "page_number": 499,
+            "text_madani": "اللَّهِ",
+            "code": "&#xfb8a;",
+            "code_v3": "&#xfb8a;",
+            "char_type": "word",
+            "translation": "Allah"
+          },
+          {
+            "position": 12,
+            "line_number": 7,
+            "page_number": 499,
+            "text_madani": "وَآيَاتِهِ",
+            "code": "&#xfb8b;",
+            "code_v3": "&#xfb8b;",
+            "char_type": "word",
+            "translation": "dan ayat-ayat-Nya"
+          },
+          {
+            "position": 13,
+            "line_number": 7,
+            "page_number": 499,
+            "text_madani": "يُؤْمِنُونَ",
+            "code": "&#xfb8c;",
+            "code_v3": "&#xfb8c;",
+            "char_type": "word",
+            "translation": "mereka beriman"
+          },
+          {
+            "position": 14,
+            "line_number": 7,
+            "page_number": 499,
+            "text_madani": null,
+            "code": "&#xfb8d;",
+            "code_v3": "&#xa006;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 7,
+        "verse_key": "45:7",
+        "text_madani": "وَيْلٌ لِّكُلِّ أَفَّاكٍ أَثِيمٍ",
+        "translation": "Celakalah bagi setiap orang yang banyak berdusta lagi banyak berdosa,",
+        "page_number": 499,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 199,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 7,
+            "page_number": 499,
+            "text_madani": "وَيْلٌ",
+            "code": "&#xfb8e;",
+            "code_v3": "&#xfb8e;",
+            "char_type": "word",
+            "translation": "kecelakaanlah"
+          },
+          {
+            "position": 2,
+            "line_number": 7,
+            "page_number": 499,
+            "text_madani": "لِكُلِّ",
+            "code": "&#xfb8f;",
+            "code_v3": "&#xfb8f;",
+            "char_type": "word",
+            "translation": "bagi tiap-tiap"
+          },
+          {
+            "position": 3,
+            "line_number": 7,
+            "page_number": 499,
+            "text_madani": "أَفَّاكٍ",
+            "code": "&#xfb90;",
+            "code_v3": "&#xfb90;",
+            "char_type": "word",
+            "translation": "banyak berdusta"
+          },
+          {
+            "position": 4,
+            "line_number": 7,
+            "page_number": 499,
+            "text_madani": "أَثِيمٍ",
+            "code": "&#xfb91;",
+            "code_v3": "&#xfb91;",
+            "char_type": "word",
+            "translation": "berdosa"
+          },
+          {
+            "position": 5,
+            "line_number": 7,
+            "page_number": 499,
+            "text_madani": null,
+            "code": "&#xfb92;",
+            "code_v3": "&#xa007;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 8,
+        "verse_key": "45:8",
+        "text_madani": "يَسْمَعُ آيَاتِ اللَّهِ تُتْلَىٰ عَلَيْهِ ثُمَّ يُصِرُّ مُسْتَكْبِرًا كَأَن لَّمْ يَسْمَعْهَا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ",
+        "translation": "(yaitu) orang yang mendengar ayat-ayat Allah ketika dibacakan kepadanya namun dia tetap menyombongkan diri seakan-akan dia tidak mendengarnya. Maka peringatkanlah dia dengan azab yang pedih.",
+        "page_number": 499,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 199,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 7,
+            "page_number": 499,
+            "text_madani": "يَسْمَعُ",
+            "code": "&#xfb93;",
+            "code_v3": "&#xfb93;",
+            "char_type": "word",
+            "translation": "dia mendengar"
+          },
+          {
+            "position": 2,
+            "line_number": 7,
+            "page_number": 499,
+            "text_madani": "آيَاتِ",
+            "code": "&#xfb94;",
+            "code_v3": "&#xfb94;",
+            "char_type": "word",
+            "translation": "ayat-ayat"
+          },
+          {
+            "position": 3,
+            "line_number": 8,
+            "page_number": 499,
+            "text_madani": "اللَّهِ",
+            "code": "&#xfb95;",
+            "code_v3": "&#xfb95;",
+            "char_type": "word",
+            "translation": "Allah"
+          },
+          {
+            "position": 4,
+            "line_number": 8,
+            "page_number": 499,
+            "text_madani": "تُتْلَىٰ",
+            "code": "&#xfb96;",
+            "code_v3": "&#xfb96;",
+            "char_type": "word",
+            "translation": "dibacakan"
+          },
+          {
+            "position": 5,
+            "line_number": 8,
+            "page_number": 499,
+            "text_madani": "عَلَيْهِ",
+            "code": "&#xfb97;",
+            "code_v3": "&#xfb97;",
+            "char_type": "word",
+            "translation": "atasnya"
+          },
+          {
+            "position": 6,
+            "line_number": 8,
+            "page_number": 499,
+            "text_madani": "ثُمَّ",
+            "code": "&#xfb98;",
+            "code_v3": "&#xfb98;",
+            "char_type": "word",
+            "translation": "kemudian"
+          },
+          {
+            "position": 7,
+            "line_number": 8,
+            "page_number": 499,
+            "text_madani": "يُصِرُّ",
+            "code": "&#xfb99;",
+            "code_v3": "&#xfb99;",
+            "char_type": "word",
+            "translation": "dia tetap"
+          },
+          {
+            "position": 8,
+            "line_number": 8,
+            "page_number": 499,
+            "text_madani": "مُسْتَكْبِرًا",
+            "code": "&#xfb9a;",
+            "code_v3": "&#xfb9a;",
+            "char_type": "word",
+            "translation": "menyombongkan diri"
+          },
+          {
+            "position": 9,
+            "line_number": 8,
+            "page_number": 499,
+            "text_madani": "كَأَنْ",
+            "code": "&#xfb9b;",
+            "code_v3": "&#xfb9b;",
+            "char_type": "word",
+            "translation": "seakan-akan"
+          },
+          {
+            "position": 10,
+            "line_number": 8,
+            "page_number": 499,
+            "text_madani": "لَمْ",
+            "code": "&#xfb9c;",
+            "code_v3": "&#xfb9c;",
+            "char_type": "word",
+            "translation": "tidak"
+          },
+          {
+            "position": 11,
+            "line_number": 8,
+            "page_number": 499,
+            "text_madani": "يَسْمَعْهَا",
+            "code": "&#xfb9d;",
+            "code_v3": "&#xfb9d;",
+            "char_type": "word",
+            "translation": "dia mendengar"
+          },
+          {
+            "position": 12,
+            "line_number": 8,
+            "page_number": 499,
+            "text_madani": null,
+            "code": "&#xfb9e;",
+            "code_v3": "&#x6d6;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 13,
+            "line_number": 8,
+            "page_number": 499,
+            "text_madani": "فَبَشِّرْهُ",
+            "code": "&#xfb9f;",
+            "code_v3": "&#xfb9f;",
+            "char_type": "word",
+            "translation": "maka beri kabar gembira "
+          },
+          {
+            "position": 14,
+            "line_number": 8,
+            "page_number": 499,
+            "text_madani": "بِعَذَابٍ",
+            "code": "&#xfba0;",
+            "code_v3": "&#xfba0;",
+            "char_type": "word",
+            "translation": "dengan azab"
+          },
+          {
+            "position": 15,
+            "line_number": 8,
+            "page_number": 499,
+            "text_madani": "أَلِيمٍ",
+            "code": "&#xfba1;",
+            "code_v3": "&#xfba1;",
+            "char_type": "word",
+            "translation": "pedih"
+          },
+          {
+            "position": 16,
+            "line_number": 9,
+            "page_number": 499,
+            "text_madani": null,
+            "code": "&#xfba2;",
+            "code_v3": "&#xa008;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 9,
+        "verse_key": "45:9",
+        "text_madani": "وَإِذَا عَلِمَ مِنْ آيَاتِنَا شَيْئًا اتَّخَذَهَا هُزُوًا ۚ أُولَٰئِكَ لَهُمْ عَذَابٌ مُّهِينٌ",
+        "translation": "Dan apabila dia mengetahui sedikit tentang ayat-ayat Kami, maka (ayat-ayat itu) dijadikan olok-olok. Merekalah yang akan menerima azab yang menghinakan.",
+        "page_number": 499,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 199,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 9,
+            "page_number": 499,
+            "text_madani": "وَإِذَا",
+            "code": "&#xfba3;",
+            "code_v3": "&#xfba3;",
+            "char_type": "word",
+            "translation": "dan apabila"
+          },
+          {
+            "position": 2,
+            "line_number": 9,
+            "page_number": 499,
+            "text_madani": "عَلِمَ",
+            "code": "&#xfba4;",
+            "code_v3": "&#xfba4;",
+            "char_type": "word",
+            "translation": "dia mengetahui"
+          },
+          {
+            "position": 3,
+            "line_number": 9,
+            "page_number": 499,
+            "text_madani": "مِنْ",
+            "code": "&#xfba5;",
+            "code_v3": "&#xfba5;",
+            "char_type": "word",
+            "translation": "dari"
+          },
+          {
+            "position": 4,
+            "line_number": 9,
+            "page_number": 499,
+            "text_madani": "آيَاتِنَا",
+            "code": "&#xfba6;",
+            "code_v3": "&#xfba6;",
+            "char_type": "word",
+            "translation": "ayat-ayat Kami"
+          },
+          {
+            "position": 5,
+            "line_number": 9,
+            "page_number": 499,
+            "text_madani": "شَيْئًا",
+            "code": "&#xfba7;",
+            "code_v3": "&#xfba7;",
+            "char_type": "word",
+            "translation": "sesuatu"
+          },
+          {
+            "position": 6,
+            "line_number": 9,
+            "page_number": 499,
+            "text_madani": "اتَّخَذَهَا",
+            "code": "&#xfba8;",
+            "code_v3": "&#xfba8;",
+            "char_type": "word",
+            "translation": "dia menjadikannya"
+          },
+          {
+            "position": 7,
+            "line_number": 9,
+            "page_number": 499,
+            "text_madani": "هُزُوًا",
+            "code": "&#xfba9;",
+            "code_v3": "&#xfba9;",
+            "char_type": "word",
+            "translation": "ejekan"
+          },
+          {
+            "position": 8,
+            "line_number": 9,
+            "page_number": 499,
+            "text_madani": null,
+            "code": "&#xfbaa;",
+            "code_v3": "&#x6da;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 9,
+            "line_number": 9,
+            "page_number": 499,
+            "text_madani": "أُولَٰئِكَ",
+            "code": "&#xfbab;",
+            "code_v3": "&#xfbab;",
+            "char_type": "word",
+            "translation": "mereka itu"
+          },
+          {
+            "position": 10,
+            "line_number": 9,
+            "page_number": 499,
+            "text_madani": "لَهُمْ",
+            "code": "&#xfbac;",
+            "code_v3": "&#xfbac;",
+            "char_type": "word",
+            "translation": "bagi mereka"
+          },
+          {
+            "position": 11,
+            "line_number": 9,
+            "page_number": 499,
+            "text_madani": "عَذَابٌ",
+            "code": "&#xfbad;",
+            "code_v3": "&#xfbad;",
+            "char_type": "word",
+            "translation": "azab"
+          },
+          {
+            "position": 12,
+            "line_number": 10,
+            "page_number": 499,
+            "text_madani": "مُهِينٌ",
+            "code": "&#xfbae;",
+            "code_v3": "&#xfbae;",
+            "char_type": "word",
+            "translation": "menghinakan"
+          },
+          {
+            "position": 13,
+            "line_number": 10,
+            "page_number": 499,
+            "text_madani": null,
+            "code": "&#xfbaf;",
+            "code_v3": "&#xa009;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 10,
+        "verse_key": "45:10",
+        "text_madani": "مِّن وَرَائِهِمْ جَهَنَّمُ ۖ وَلَا يُغْنِي عَنْهُم مَّا كَسَبُوا شَيْئًا وَلَا مَا اتَّخَذُوا مِن دُونِ اللَّهِ أَوْلِيَاءَ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+        "translation": "Di hadapan mereka neraka Jahanam dan tidak akan berguna bagi mereka sedikit pun apa yang telah mereka kerjakan, dan tidak pula (bermanfaat) apa yang mereka jadikan sebagai pelindung-pelindung (mereka) selain Allah. Dan mereka akan mendapat azab yang besar.",
+        "page_number": 499,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 199,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 10,
+            "page_number": 499,
+            "text_madani": "مِنْ",
+            "code": "&#xfbb0;",
+            "code_v3": "&#xfbb0;",
+            "char_type": "word",
+            "translation": "dari"
+          },
+          {
+            "position": 2,
+            "line_number": 10,
+            "page_number": 499,
+            "text_madani": "وَرَائِهِمْ",
+            "code": "&#xfbb1;",
+            "code_v3": "&#xfbb1;",
+            "char_type": "word",
+            "translation": "belakang mereka"
+          },
+          {
+            "position": 3,
+            "line_number": 10,
+            "page_number": 499,
+            "text_madani": "جَهَنَّمُ",
+            "code": "&#xfbd3;",
+            "code_v3": "&#xfbd3;",
+            "char_type": "word",
+            "translation": "neraka jahanam"
+          },
+          {
+            "position": 4,
+            "line_number": 10,
+            "page_number": 499,
+            "text_madani": null,
+            "code": "&#xfbd4;",
+            "code_v3": "&#x6d6;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 5,
+            "line_number": 10,
+            "page_number": 499,
+            "text_madani": "وَلَا",
+            "code": "&#xfbd5;",
+            "code_v3": "&#xfbd5;",
+            "char_type": "word",
+            "translation": "dan tidak"
+          },
+          {
+            "position": 6,
+            "line_number": 10,
+            "page_number": 499,
+            "text_madani": "يُغْنِي",
+            "code": "&#xfbd6;",
+            "code_v3": "&#xfbd6;",
+            "char_type": "word",
+            "translation": "berguna"
+          },
+          {
+            "position": 7,
+            "line_number": 10,
+            "page_number": 499,
+            "text_madani": "عَنْهُمْ",
+            "code": "&#xfbd7;",
+            "code_v3": "&#xfbd7;",
+            "char_type": "word",
+            "translation": "dari mereka"
+          },
+          {
+            "position": 8,
+            "line_number": 10,
+            "page_number": 499,
+            "text_madani": "مَا",
+            "code": "&#xfbd8;",
+            "code_v3": "&#xfbd8;",
+            "char_type": "word",
+            "translation": "apa-apa"
+          },
+          {
+            "position": 9,
+            "line_number": 10,
+            "page_number": 499,
+            "text_madani": "كَسَبُوا",
+            "code": "&#xfbd9;",
+            "code_v3": "&#xfbd9;",
+            "char_type": "word",
+            "translation": "yang mereka kerjakan"
+          },
+          {
+            "position": 10,
+            "line_number": 10,
+            "page_number": 499,
+            "text_madani": "شَيْئًا",
+            "code": "&#xfbda;",
+            "code_v3": "&#xfbda;",
+            "char_type": "word",
+            "translation": "sesuatu"
+          },
+          {
+            "position": 11,
+            "line_number": 11,
+            "page_number": 499,
+            "text_madani": "وَلَا",
+            "code": "&#xfbdb;",
+            "code_v3": "&#xfbdb;",
+            "char_type": "word",
+            "translation": "dan tidak"
+          },
+          {
+            "position": 12,
+            "line_number": 11,
+            "page_number": 499,
+            "text_madani": "مَا",
+            "code": "&#xfbdc;",
+            "code_v3": "&#xfbdc;",
+            "char_type": "word",
+            "translation": "apa yang"
+          },
+          {
+            "position": 13,
+            "line_number": 11,
+            "page_number": 499,
+            "text_madani": "اتَّخَذُوا",
+            "code": "&#xfbdd;",
+            "code_v3": "&#xfbdd;",
+            "char_type": "word",
+            "translation": "mereka jadikan"
+          },
+          {
+            "position": 14,
+            "line_number": 11,
+            "page_number": 499,
+            "text_madani": "مِنْ",
+            "code": "&#xfbde;",
+            "code_v3": "&#xfbde;",
+            "char_type": "word",
+            "translation": "dari"
+          },
+          {
+            "position": 15,
+            "line_number": 11,
+            "page_number": 499,
+            "text_madani": "دُونِ",
+            "code": "&#xfbdf;",
+            "code_v3": "&#xfbdf;",
+            "char_type": "word",
+            "translation": "selain"
+          },
+          {
+            "position": 16,
+            "line_number": 11,
+            "page_number": 499,
+            "text_madani": "اللَّهِ",
+            "code": "&#xfbe0;",
+            "code_v3": "&#xfbe0;",
+            "char_type": "word",
+            "translation": "Allah"
+          },
+          {
+            "position": 17,
+            "line_number": 11,
+            "page_number": 499,
+            "text_madani": "أَوْلِيَاءَ",
+            "code": "&#xfbe1;",
+            "code_v3": "&#xfbe1;",
+            "char_type": "word",
+            "translation": "penolong"
+          },
+          {
+            "position": 18,
+            "line_number": 11,
+            "page_number": 499,
+            "text_madani": null,
+            "code": "&#xfbe2;",
+            "code_v3": "&#x6d6;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 19,
+            "line_number": 11,
+            "page_number": 499,
+            "text_madani": "وَلَهُمْ",
+            "code": "&#xfbe3;",
+            "code_v3": "&#xfbe3;",
+            "char_type": "word",
+            "translation": "dan bagi mereka"
+          },
+          {
+            "position": 20,
+            "line_number": 11,
+            "page_number": 499,
+            "text_madani": "عَذَابٌ",
+            "code": "&#xfbe4;",
+            "code_v3": "&#xfbe4;",
+            "char_type": "word",
+            "translation": "azab"
+          },
+          {
+            "position": 21,
+            "line_number": 11,
+            "page_number": 499,
+            "text_madani": "عَظِيمٌ",
+            "code": "&#xfbe5;",
+            "code_v3": "&#xfbe5;",
+            "char_type": "word",
+            "translation": "besar"
+          },
+          {
+            "position": 22,
+            "line_number": 11,
+            "page_number": 499,
+            "text_madani": null,
+            "code": "&#xfbe6;",
+            "code_v3": "&#xa010;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 11,
+        "verse_key": "45:11",
+        "text_madani": "هَٰذَا هُدًى ۖ وَالَّذِينَ كَفَرُوا بِآيَاتِ رَبِّهِمْ لَهُمْ عَذَابٌ مِّن رِّجْزٍ أَلِيمٌ",
+        "translation": "Ini (Al-Qur'an) adalah petunjuk. Dan orang-orang yang mengingkari ayat-ayat Tuhannya mereka akan mendapat azab berupa siksaan yang sangat pedih.",
+        "page_number": 499,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 199,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 11,
+            "page_number": 499,
+            "text_madani": "هَٰذَا",
+            "code": "&#xfbe7;",
+            "code_v3": "&#xfbe7;",
+            "char_type": "word",
+            "translation": "ini"
+          },
+          {
+            "position": 2,
+            "line_number": 12,
+            "page_number": 499,
+            "text_madani": "هُدًى",
+            "code": "&#xfbe8;",
+            "code_v3": "&#xfbe8;",
+            "char_type": "word",
+            "translation": "petunjuk"
+          },
+          {
+            "position": 3,
+            "line_number": 12,
+            "page_number": 499,
+            "text_madani": null,
+            "code": "&#xfbe9;",
+            "code_v3": "&#x6d6;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 4,
+            "line_number": 12,
+            "page_number": 499,
+            "text_madani": "وَالَّذِينَ",
+            "code": "&#xfbea;",
+            "code_v3": "&#xfbea;",
+            "char_type": "word",
+            "translation": "dan orang-orang yang"
+          },
+          {
+            "position": 5,
+            "line_number": 12,
+            "page_number": 499,
+            "text_madani": "كَفَرُوا",
+            "code": "&#xfbeb;",
+            "code_v3": "&#xfbeb;",
+            "char_type": "word",
+            "translation": "kafir"
+          },
+          {
+            "position": 6,
+            "line_number": 12,
+            "page_number": 499,
+            "text_madani": "بِآيَاتِ",
+            "code": "&#xfbec;",
+            "code_v3": "&#xfbec;",
+            "char_type": "word",
+            "translation": "terhadap ayat-ayat"
+          },
+          {
+            "position": 7,
+            "line_number": 12,
+            "page_number": 499,
+            "text_madani": "رَبِّهِمْ",
+            "code": "&#xfbed;",
+            "code_v3": "&#xfbed;",
+            "char_type": "word",
+            "translation": "Tuhan mereka"
+          },
+          {
+            "position": 8,
+            "line_number": 12,
+            "page_number": 499,
+            "text_madani": "لَهُمْ",
+            "code": "&#xfbee;",
+            "code_v3": "&#xfbee;",
+            "char_type": "word",
+            "translation": "bagi mereka"
+          },
+          {
+            "position": 9,
+            "line_number": 12,
+            "page_number": 499,
+            "text_madani": "عَذَابٌ",
+            "code": "&#xfbef;",
+            "code_v3": "&#xfbef;",
+            "char_type": "word",
+            "translation": "azab"
+          },
+          {
+            "position": 10,
+            "line_number": 12,
+            "page_number": 499,
+            "text_madani": "مِنْ",
+            "code": "&#xfbf0;",
+            "code_v3": "&#xfbf0;",
+            "char_type": "word",
+            "translation": "dari"
+          },
+          {
+            "position": 11,
+            "line_number": 12,
+            "page_number": 499,
+            "text_madani": "رِجْزٍ",
+            "code": "&#xfbf1;",
+            "code_v3": "&#xfbf1;",
+            "char_type": "word",
+            "translation": "siksaan"
+          },
+          {
+            "position": 12,
+            "line_number": 12,
+            "page_number": 499,
+            "text_madani": "أَلِيمٌ",
+            "code": "&#xfbf2;",
+            "code_v3": "&#xfbf2;",
+            "char_type": "word",
+            "translation": "pedih"
+          },
+          {
+            "position": 13,
+            "line_number": 12,
+            "page_number": 499,
+            "text_madani": null,
+            "code": "&#xfbf3;",
+            "code_v3": "&#xa011;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 12,
+        "verse_key": "45:12",
+        "text_madani": "اللَّهُ الَّذِي سَخَّرَ لَكُمُ الْبَحْرَ لِتَجْرِيَ الْفُلْكُ فِيهِ بِأَمْرِهِ وَلِتَبْتَغُوا مِن فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ",
+        "translation": "Allah-lah yang menundukkan laut untukmu agar kapal-kapal dapat berlayar di atasnya dengan perintah-Nya, dan agar kamu dapat mencari sebagian karunia-Nya dan agar kamu bersyukur.",
+        "page_number": 499,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 13,
+            "page_number": 499,
+            "text_madani": "۞",
+            "code": "&#xfbf4;",
+            "code_v3": "&#x6de;",
+            "char_type": "rub-el-hizb",
+            "translation": null
+          },
+          {
+            "position": 2,
+            "line_number": 13,
+            "page_number": 499,
+            "text_madani": "اللَّهُ",
+            "code": "&#xfbf5;",
+            "code_v3": "&#xfbf5;",
+            "char_type": "word",
+            "translation": "Allah"
+          },
+          {
+            "position": 3,
+            "line_number": 13,
+            "page_number": 499,
+            "text_madani": "الَّذِي",
+            "code": "&#xfbf6;",
+            "code_v3": "&#xfbf6;",
+            "char_type": "word",
+            "translation": "yang"
+          },
+          {
+            "position": 4,
+            "line_number": 13,
+            "page_number": 499,
+            "text_madani": "سَخَّرَ",
+            "code": "&#xfbf7;",
+            "code_v3": "&#xfbf7;",
+            "char_type": "word",
+            "translation": "menundukkan"
+          },
+          {
+            "position": 5,
+            "line_number": 13,
+            "page_number": 499,
+            "text_madani": "لَكُمُ",
+            "code": "&#xfbf8;",
+            "code_v3": "&#xfbf8;",
+            "char_type": "word",
+            "translation": "untuk kamu"
+          },
+          {
+            "position": 6,
+            "line_number": 13,
+            "page_number": 499,
+            "text_madani": "الْبَحْرَ",
+            "code": "&#xfbf9;",
+            "code_v3": "&#xfbf9;",
+            "char_type": "word",
+            "translation": "lautan"
+          },
+          {
+            "position": 7,
+            "line_number": 13,
+            "page_number": 499,
+            "text_madani": "لِتَجْرِيَ",
+            "code": "&#xfbfa;",
+            "code_v3": "&#xfbfa;",
+            "char_type": "word",
+            "translation": "supaya berlayar"
+          },
+          {
+            "position": 8,
+            "line_number": 13,
+            "page_number": 499,
+            "text_madani": "الْفُلْكُ",
+            "code": "&#xfbfb;",
+            "code_v3": "&#xfbfb;",
+            "char_type": "word",
+            "translation": "perahu"
+          },
+          {
+            "position": 9,
+            "line_number": 13,
+            "page_number": 499,
+            "text_madani": "فِيهِ",
+            "code": "&#xfbfc;",
+            "code_v3": "&#xfbfc;",
+            "char_type": "word",
+            "translation": "di dalamnya/padanya"
+          },
+          {
+            "position": 10,
+            "line_number": 13,
+            "page_number": 499,
+            "text_madani": "بِأَمْرِهِ",
+            "code": "&#xfbfd;",
+            "code_v3": "&#xfbfd;",
+            "char_type": "word",
+            "translation": "dengan perintah-Nya"
+          },
+          {
+            "position": 11,
+            "line_number": 13,
+            "page_number": 499,
+            "text_madani": "وَلِتَبْتَغُوا",
+            "code": "&#xfbfe;",
+            "code_v3": "&#xfbfe;",
+            "char_type": "word",
+            "translation": "dan supaya kamu mencari"
+          },
+          {
+            "position": 12,
+            "line_number": 13,
+            "page_number": 499,
+            "text_madani": "مِنْ",
+            "code": "&#xfbff;",
+            "code_v3": "&#xfbff;",
+            "char_type": "word",
+            "translation": "dari"
+          },
+          {
+            "position": 13,
+            "line_number": 14,
+            "page_number": 499,
+            "text_madani": "فَضْلِهِ",
+            "code": "&#xfc00;",
+            "code_v3": "&#xfc00;",
+            "char_type": "word",
+            "translation": "karunia-Nya"
+          },
+          {
+            "position": 14,
+            "line_number": 14,
+            "page_number": 499,
+            "text_madani": "وَلَعَلَّكُمْ",
+            "code": "&#xfc01;",
+            "code_v3": "&#xfc01;",
+            "char_type": "word",
+            "translation": "dan supaya kamu"
+          },
+          {
+            "position": 15,
+            "line_number": 14,
+            "page_number": 499,
+            "text_madani": "تَشْكُرُونَ",
+            "code": "&#xfc02;",
+            "code_v3": "&#xfc02;",
+            "char_type": "word",
+            "translation": "kamu bersyukur"
+          },
+          {
+            "position": 16,
+            "line_number": 14,
+            "page_number": 499,
+            "text_madani": null,
+            "code": "&#xfc03;",
+            "code_v3": "&#xa012;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 13,
+        "verse_key": "45:13",
+        "text_madani": "وَسَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ جَمِيعًا مِّنْهُ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
+        "translation": "Dan Dia menundukkan apa yang ada di langit dan apa yang ada di bumi untukmu semuanya (sebagai rahmat) dari-Nya. Sungguh, dalam hal yang demikian itu benar-benar terdapat tanda-tanda (kebesaran Allah) bagi orang-orang yang berpikir.",
+        "page_number": 499,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 14,
+            "page_number": 499,
+            "text_madani": "وَسَخَّرَ",
+            "code": "&#xfc04;",
+            "code_v3": "&#xfc04;",
+            "char_type": "word",
+            "translation": "dan Dia menundukkan"
+          },
+          {
+            "position": 2,
+            "line_number": 14,
+            "page_number": 499,
+            "text_madani": "لَكُمْ",
+            "code": "&#xfc05;",
+            "code_v3": "&#xfc05;",
+            "char_type": "word",
+            "translation": "bagi kamu"
+          },
+          {
+            "position": 3,
+            "line_number": 14,
+            "page_number": 499,
+            "text_madani": "مَا",
+            "code": "&#xfc06;",
+            "code_v3": "&#xfc06;",
+            "char_type": "word",
+            "translation": "apa yang"
+          },
+          {
+            "position": 4,
+            "line_number": 14,
+            "page_number": 499,
+            "text_madani": "فِي",
+            "code": "&#xfc07;",
+            "code_v3": "&#xfc07;",
+            "char_type": "word",
+            "translation": "di"
+          },
+          {
+            "position": 5,
+            "line_number": 14,
+            "page_number": 499,
+            "text_madani": "السَّمَاوَاتِ",
+            "code": "&#xfc08;",
+            "code_v3": "&#xfc08;",
+            "char_type": "word",
+            "translation": "langit"
+          },
+          {
+            "position": 6,
+            "line_number": 14,
+            "page_number": 499,
+            "text_madani": "وَمَا",
+            "code": "&#xfc09;",
+            "code_v3": "&#xfc09;",
+            "char_type": "word",
+            "translation": "dan apa yang"
+          },
+          {
+            "position": 7,
+            "line_number": 14,
+            "page_number": 499,
+            "text_madani": "فِي",
+            "code": "&#xfc0a;",
+            "code_v3": "&#xfc0a;",
+            "char_type": "word",
+            "translation": "di"
+          },
+          {
+            "position": 8,
+            "line_number": 15,
+            "page_number": 499,
+            "text_madani": "الْأَرْضِ",
+            "code": "&#xfc0b;",
+            "code_v3": "&#xfc0b;",
+            "char_type": "word",
+            "translation": "bumi"
+          },
+          {
+            "position": 9,
+            "line_number": 15,
+            "page_number": 499,
+            "text_madani": "جَمِيعًا",
+            "code": "&#xfc0c;",
+            "code_v3": "&#xfc0c;",
+            "char_type": "word",
+            "translation": "semuanya"
+          },
+          {
+            "position": 10,
+            "line_number": 15,
+            "page_number": 499,
+            "text_madani": "مِنْهُ",
+            "code": "&#xfc0d;",
+            "code_v3": "&#xfc0d;",
+            "char_type": "word",
+            "translation": "dari pada-Nya"
+          },
+          {
+            "position": 11,
+            "line_number": 15,
+            "page_number": 499,
+            "text_madani": null,
+            "code": "&#xfc0e;",
+            "code_v3": "&#x6da;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 12,
+            "line_number": 15,
+            "page_number": 499,
+            "text_madani": "إِنَّ",
+            "code": "&#xfc0f;",
+            "code_v3": "&#xfc0f;",
+            "char_type": "word",
+            "translation": "sesungguhnya"
+          },
+          {
+            "position": 13,
+            "line_number": 15,
+            "page_number": 499,
+            "text_madani": "فِي",
+            "code": "&#xfc10;",
+            "code_v3": "&#xfc10;",
+            "char_type": "word",
+            "translation": "pada yang"
+          },
+          {
+            "position": 14,
+            "line_number": 15,
+            "page_number": 499,
+            "text_madani": "ذَٰلِكَ",
+            "code": "&#xfc11;",
+            "code_v3": "&#xfc11;",
+            "char_type": "word",
+            "translation": "demikian itu"
+          },
+          {
+            "position": 15,
+            "line_number": 15,
+            "page_number": 499,
+            "text_madani": "لَآيَاتٍ",
+            "code": "&#xfc12;",
+            "code_v3": "&#xfc12;",
+            "char_type": "word",
+            "translation": "benar-benar terdapat tanda-tanda"
+          },
+          {
+            "position": 16,
+            "line_number": 15,
+            "page_number": 499,
+            "text_madani": "لِقَوْمٍ",
+            "code": "&#xfc13;",
+            "code_v3": "&#xfc13;",
+            "char_type": "word",
+            "translation": "bagi kaum"
+          },
+          {
+            "position": 17,
+            "line_number": 15,
+            "page_number": 499,
+            "text_madani": "يَتَفَكَّرُونَ",
+            "code": "&#xfc14;",
+            "code_v3": "&#xfc14;",
+            "char_type": "word",
+            "translation": "mereka berfikir"
+          },
+          {
+            "position": 18,
+            "line_number": 15,
+            "page_number": 499,
+            "text_madani": null,
+            "code": "&#xfc15;",
+            "code_v3": "&#xa013;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 14,
+        "verse_key": "45:14",
+        "text_madani": "قُل لِّلَّذِينَ آمَنُوا يَغْفِرُوا لِلَّذِينَ لَا يَرْجُونَ أَيَّامَ اللَّهِ لِيَجْزِيَ قَوْمًا بِمَا كَانُوا يَكْسِبُونَ",
+        "translation": "Katakanlah (Muhammad) kepada orang-orang yang beriman hendaklah mereka memaafkan orang-orang yang tidak takut akan hari-hari Allah karena Dia akan membalas suatu kaum sesuai dengan apa yang telah mereka kerjakan.",
+        "page_number": 500,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 1,
+            "page_number": 500,
+            "text_madani": "قُلْ",
+            "code": "&#xfb51;",
+            "code_v3": "&#xfb51;",
+            "char_type": "word",
+            "translation": "katakanlah"
+          },
+          {
+            "position": 2,
+            "line_number": 1,
+            "page_number": 500,
+            "text_madani": "لِلَّذِينَ",
+            "code": "&#xfb52;",
+            "code_v3": "&#xfb52;",
+            "char_type": "word",
+            "translation": "kepada orang-orang yang"
+          },
+          {
+            "position": 3,
+            "line_number": 1,
+            "page_number": 500,
+            "text_madani": "آمَنُوا",
+            "code": "&#xfb53;",
+            "code_v3": "&#xfb53;",
+            "char_type": "word",
+            "translation": "beriman"
+          },
+          {
+            "position": 4,
+            "line_number": 1,
+            "page_number": 500,
+            "text_madani": "يَغْفِرُوا",
+            "code": "&#xfb54;",
+            "code_v3": "&#xfb54;",
+            "char_type": "word",
+            "translation": "mereka memaafkan"
+          },
+          {
+            "position": 5,
+            "line_number": 1,
+            "page_number": 500,
+            "text_madani": "لِلَّذِينَ",
+            "code": "&#xfb55;",
+            "code_v3": "&#xfb55;",
+            "char_type": "word",
+            "translation": "kepada orang-orang yang"
+          },
+          {
+            "position": 6,
+            "line_number": 1,
+            "page_number": 500,
+            "text_madani": "لَا",
+            "code": "&#xfb56;",
+            "code_v3": "&#xfb56;",
+            "char_type": "word",
+            "translation": "tidak"
+          },
+          {
+            "position": 7,
+            "line_number": 1,
+            "page_number": 500,
+            "text_madani": "يَرْجُونَ",
+            "code": "&#xfb57;",
+            "code_v3": "&#xfb57;",
+            "char_type": "word",
+            "translation": "mereka mengharap"
+          },
+          {
+            "position": 8,
+            "line_number": 1,
+            "page_number": 500,
+            "text_madani": "أَيَّامَ",
+            "code": "&#xfb58;",
+            "code_v3": "&#xfb58;",
+            "char_type": "word",
+            "translation": "hari-hari"
+          },
+          {
+            "position": 9,
+            "line_number": 1,
+            "page_number": 500,
+            "text_madani": "اللَّهِ",
+            "code": "&#xfb59;",
+            "code_v3": "&#xfb59;",
+            "char_type": "word",
+            "translation": "Allah"
+          },
+          {
+            "position": 10,
+            "line_number": 1,
+            "page_number": 500,
+            "text_madani": "لِيَجْزِيَ",
+            "code": "&#xfb5a;",
+            "code_v3": "&#xfb5a;",
+            "char_type": "word",
+            "translation": "untuk Dia memberi balasan"
+          },
+          {
+            "position": 11,
+            "line_number": 2,
+            "page_number": 500,
+            "text_madani": "قَوْمًا",
+            "code": "&#xfb5b;",
+            "code_v3": "&#xfb5b;",
+            "char_type": "word",
+            "translation": "kaum"
+          },
+          {
+            "position": 12,
+            "line_number": 2,
+            "page_number": 500,
+            "text_madani": "بِمَا",
+            "code": "&#xfb5c;",
+            "code_v3": "&#xfb5c;",
+            "char_type": "word",
+            "translation": "terhadap apa"
+          },
+          {
+            "position": 13,
+            "line_number": 2,
+            "page_number": 500,
+            "text_madani": "كَانُوا",
+            "code": "&#xfb5d;",
+            "code_v3": "&#xfb5d;",
+            "char_type": "word",
+            "translation": "adalah mereka"
+          },
+          {
+            "position": 14,
+            "line_number": 2,
+            "page_number": 500,
+            "text_madani": "يَكْسِبُونَ",
+            "code": "&#xfb5e;",
+            "code_v3": "&#xfb5e;",
+            "char_type": "word",
+            "translation": "mereka kerjakan"
+          },
+          {
+            "position": 15,
+            "line_number": 2,
+            "page_number": 500,
+            "text_madani": null,
+            "code": "&#xfb5f;",
+            "code_v3": "&#xa014;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 15,
+        "verse_key": "45:15",
+        "text_madani": "مَنْ عَمِلَ صَالِحًا فَلِنَفْسِهِ ۖ وَمَنْ أَسَاءَ فَعَلَيْهَا ۖ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ",
+        "translation": "Barangsiapa mengerjakan kebajikan maka itu adalah untuk dirinya sendiri, dan barangsiapa mengerjakan kejahatan, maka itu akan menimpa dirinya sendiri, kemudian kepada Tuhanmu kamu dikembalikan.",
+        "page_number": 500,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 2,
+            "page_number": 500,
+            "text_madani": "مَنْ",
+            "code": "&#xfb60;",
+            "code_v3": "&#xfb60;",
+            "char_type": "word",
+            "translation": "barang siapa"
+          },
+          {
+            "position": 2,
+            "line_number": 2,
+            "page_number": 500,
+            "text_madani": "عَمِلَ",
+            "code": "&#xfb61;",
+            "code_v3": "&#xfb61;",
+            "char_type": "word",
+            "translation": "berbuat"
+          },
+          {
+            "position": 3,
+            "line_number": 2,
+            "page_number": 500,
+            "text_madani": "صَالِحًا",
+            "code": "&#xfb62;",
+            "code_v3": "&#xfb62;",
+            "char_type": "word",
+            "translation": "kebaikan"
+          },
+          {
+            "position": 4,
+            "line_number": 2,
+            "page_number": 500,
+            "text_madani": "فَلِنَفْسِهِ",
+            "code": "&#xfb63;",
+            "code_v3": "&#xfb63;",
+            "char_type": "word",
+            "translation": "maka untuk dirinya sendiri"
+          },
+          {
+            "position": 5,
+            "line_number": 2,
+            "page_number": 500,
+            "text_madani": null,
+            "code": "&#xfb64;",
+            "code_v3": "&#x6d6;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 6,
+            "line_number": 3,
+            "page_number": 500,
+            "text_madani": "وَمَنْ",
+            "code": "&#xfb65;",
+            "code_v3": "&#xfb65;",
+            "char_type": "word",
+            "translation": "dan barang siapa"
+          },
+          {
+            "position": 7,
+            "line_number": 3,
+            "page_number": 500,
+            "text_madani": "أَسَاءَ",
+            "code": "&#xfb66;",
+            "code_v3": "&#xfb66;",
+            "char_type": "word",
+            "translation": "berbuat kejahatan"
+          },
+          {
+            "position": 8,
+            "line_number": 3,
+            "page_number": 500,
+            "text_madani": "فَعَلَيْهَا",
+            "code": "&#xfb67;",
+            "code_v3": "&#xfb67;",
+            "char_type": "word",
+            "translation": "maka atasnya"
+          },
+          {
+            "position": 9,
+            "line_number": 3,
+            "page_number": 500,
+            "text_madani": null,
+            "code": "&#xfb68;",
+            "code_v3": "&#x6d6;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 10,
+            "line_number": 3,
+            "page_number": 500,
+            "text_madani": "ثُمَّ",
+            "code": "&#xfb69;",
+            "code_v3": "&#xfb69;",
+            "char_type": "word",
+            "translation": "kemudian"
+          },
+          {
+            "position": 11,
+            "line_number": 3,
+            "page_number": 500,
+            "text_madani": "إِلَىٰ",
+            "code": "&#xfb6a;",
+            "code_v3": "&#xfb6a;",
+            "char_type": "word",
+            "translation": "kepada"
+          },
+          {
+            "position": 12,
+            "line_number": 3,
+            "page_number": 500,
+            "text_madani": "رَبِّكُمْ",
+            "code": "&#xfb6b;",
+            "code_v3": "&#xfb6b;",
+            "char_type": "word",
+            "translation": "Tuhanmu"
+          },
+          {
+            "position": 13,
+            "line_number": 3,
+            "page_number": 500,
+            "text_madani": "تُرْجَعُونَ",
+            "code": "&#xfb6c;",
+            "code_v3": "&#xfb6c;",
+            "char_type": "word",
+            "translation": "kamu dikembalikan"
+          },
+          {
+            "position": 14,
+            "line_number": 3,
+            "page_number": 500,
+            "text_madani": null,
+            "code": "&#xfb6d;",
+            "code_v3": "&#xa015;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 16,
+        "verse_key": "45:16",
+        "text_madani": "وَلَقَدْ آتَيْنَا بَنِي إِسْرَائِيلَ الْكِتَابَ وَالْحُكْمَ وَالنُّبُوَّةَ وَرَزَقْنَاهُم مِّنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَى الْعَالَمِينَ",
+        "translation": "Dan sungguh, kepada Bani Israil telah Kami berikan Kitab (Taurat), kekuasaan dan kenabian, Kami anugerahkan kepada mereka rezeki yang baik dan Kami lebihkan mereka atas bangsa-bangsa (pada masa itu).",
+        "page_number": 500,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 3,
+            "page_number": 500,
+            "text_madani": "وَلَقَدْ",
+            "code": "&#xfb6e;",
+            "code_v3": "&#xfb6e;",
+            "char_type": "word",
+            "translation": "dan sesungguhnya"
+          },
+          {
+            "position": 2,
+            "line_number": 3,
+            "page_number": 500,
+            "text_madani": "آتَيْنَا",
+            "code": "&#xfb6f;",
+            "code_v3": "&#xfb6f;",
+            "char_type": "word",
+            "translation": "telah Kami berikan"
+          },
+          {
+            "position": 3,
+            "line_number": 4,
+            "page_number": 500,
+            "text_madani": "بَنِي",
+            "code": "&#xfb70;",
+            "code_v3": "&#xfb70;",
+            "char_type": "word",
+            "translation": "Bani"
+          },
+          {
+            "position": 4,
+            "line_number": 4,
+            "page_number": 500,
+            "text_madani": "إِسْرَائِيلَ",
+            "code": "&#xfb71;",
+            "code_v3": "&#xfb71;",
+            "char_type": "word",
+            "translation": "Israil"
+          },
+          {
+            "position": 5,
+            "line_number": 4,
+            "page_number": 500,
+            "text_madani": "الْكِتَابَ",
+            "code": "&#xfb72;",
+            "code_v3": "&#xfb72;",
+            "char_type": "word",
+            "translation": "Al kitab"
+          },
+          {
+            "position": 6,
+            "line_number": 4,
+            "page_number": 500,
+            "text_madani": "وَالْحُكْمَ",
+            "code": "&#xfb73;",
+            "code_v3": "&#xfb73;",
+            "char_type": "word",
+            "translation": "dan hukkum-hukum"
+          },
+          {
+            "position": 7,
+            "line_number": 4,
+            "page_number": 500,
+            "text_madani": "وَالنُّبُوَّةَ",
+            "code": "&#xfb74;",
+            "code_v3": "&#xfb74;",
+            "char_type": "word",
+            "translation": "dan kenabian"
+          },
+          {
+            "position": 8,
+            "line_number": 4,
+            "page_number": 500,
+            "text_madani": "وَرَزَقْنَاهُمْ",
+            "code": "&#xfb75;",
+            "code_v3": "&#xfb75;",
+            "char_type": "word",
+            "translation": "dan Kami berikan mereka rezeki"
+          },
+          {
+            "position": 9,
+            "line_number": 4,
+            "page_number": 500,
+            "text_madani": "مِنَ",
+            "code": "&#xfb76;",
+            "code_v3": "&#xfb76;",
+            "char_type": "word",
+            "translation": "dari"
+          },
+          {
+            "position": 10,
+            "line_number": 4,
+            "page_number": 500,
+            "text_madani": "الطَّيِّبَاتِ",
+            "code": "&#xfb77;",
+            "code_v3": "&#xfb77;",
+            "char_type": "word",
+            "translation": "yang baik-baik"
+          },
+          {
+            "position": 11,
+            "line_number": 5,
+            "page_number": 500,
+            "text_madani": "وَفَضَّلْنَاهُمْ",
+            "code": "&#xfb78;",
+            "code_v3": "&#xfb78;",
+            "char_type": "word",
+            "translation": "dan Kami lebihkan mereka"
+          },
+          {
+            "position": 12,
+            "line_number": 5,
+            "page_number": 500,
+            "text_madani": "عَلَى",
+            "code": "&#xfb79;",
+            "code_v3": "&#xfb79;",
+            "char_type": "word",
+            "translation": "atas"
+          },
+          {
+            "position": 13,
+            "line_number": 5,
+            "page_number": 500,
+            "text_madani": "الْعَالَمِينَ",
+            "code": "&#xfb7a;",
+            "code_v3": "&#xfb7a;",
+            "char_type": "word",
+            "translation": "alam semesta"
+          },
+          {
+            "position": 14,
+            "line_number": 5,
+            "page_number": 500,
+            "text_madani": null,
+            "code": "&#xfb7b;",
+            "code_v3": "&#xa016;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 17,
+        "verse_key": "45:17",
+        "text_madani": "وَآتَيْنَاهُم بَيِّنَاتٍ مِّنَ الْأَمْرِ ۖ فَمَا اخْتَلَفُوا إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ ۚ إِنَّ رَبَّكَ يَقْضِي بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ",
+        "translation": "Dan Kami berikan kepada mereka keterangan-keterangan yang jelas tentang urusan (agama); maka mereka tidak berselisih kecuali setelah datang ilmu kepada mereka, karena kedengkian (yang ada) di antara mereka. Sungguh, Tuhanmu akan memberi putusan kepada mereka pada hari Kiamat terhadap apa yang selalu mereka perselisihkan.",
+        "page_number": 500,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 5,
+            "page_number": 500,
+            "text_madani": "وَآتَيْنَاهُمْ",
+            "code": "&#xfb7c;",
+            "code_v3": "&#xfb7c;",
+            "char_type": "word",
+            "translation": "dan Kami berikan kepada mereka"
+          },
+          {
+            "position": 2,
+            "line_number": 5,
+            "page_number": 500,
+            "text_madani": "بَيِّنَاتٍ",
+            "code": "&#xfb7d;",
+            "code_v3": "&#xfb7d;",
+            "char_type": "word",
+            "translation": "keterangan-keterangan"
+          },
+          {
+            "position": 3,
+            "line_number": 5,
+            "page_number": 500,
+            "text_madani": "مِنَ",
+            "code": "&#xfb7e;",
+            "code_v3": "&#xfb7e;",
+            "char_type": "word",
+            "translation": "dari"
+          },
+          {
+            "position": 4,
+            "line_number": 5,
+            "page_number": 500,
+            "text_madani": "الْأَمْرِ",
+            "code": "&#xfb7f;",
+            "code_v3": "&#xfb7f;",
+            "char_type": "word",
+            "translation": "urusan"
+          },
+          {
+            "position": 5,
+            "line_number": 5,
+            "page_number": 500,
+            "text_madani": null,
+            "code": "&#xfb80;",
+            "code_v3": "&#x6d6;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 6,
+            "line_number": 6,
+            "page_number": 500,
+            "text_madani": "فَمَا",
+            "code": "&#xfb81;",
+            "code_v3": "&#xfb81;",
+            "char_type": "word",
+            "translation": "maka tidak"
+          },
+          {
+            "position": 7,
+            "line_number": 6,
+            "page_number": 500,
+            "text_madani": "اخْتَلَفُوا",
+            "code": "&#xfb82;",
+            "code_v3": "&#xfb82;",
+            "char_type": "word",
+            "translation": "mereka perselisihkan"
+          },
+          {
+            "position": 8,
+            "line_number": 6,
+            "page_number": 500,
+            "text_madani": "إِلَّا",
+            "code": "&#xfb83;",
+            "code_v3": "&#xfb83;",
+            "char_type": "word",
+            "translation": "kecuali"
+          },
+          {
+            "position": 9,
+            "line_number": 6,
+            "page_number": 500,
+            "text_madani": "مِنْ",
+            "code": "&#xfb84;",
+            "code_v3": "&#xfb84;",
+            "char_type": "word",
+            "translation": "dari"
+          },
+          {
+            "position": 10,
+            "line_number": 6,
+            "page_number": 500,
+            "text_madani": "بَعْدِ",
+            "code": "&#xfb85;",
+            "code_v3": "&#xfb85;",
+            "char_type": "word",
+            "translation": "sesudah"
+          },
+          {
+            "position": 11,
+            "line_number": 6,
+            "page_number": 500,
+            "text_madani": "مَا",
+            "code": "&#xfb86;",
+            "code_v3": "&#xfb86;",
+            "char_type": "word",
+            "translation": "apa"
+          },
+          {
+            "position": 12,
+            "line_number": 6,
+            "page_number": 500,
+            "text_madani": "جَاءَهُمُ",
+            "code": "&#xfb87;",
+            "code_v3": "&#xfb87;",
+            "char_type": "word",
+            "translation": "datang kepada mereka"
+          },
+          {
+            "position": 13,
+            "line_number": 6,
+            "page_number": 500,
+            "text_madani": "الْعِلْمُ",
+            "code": "&#xfb88;",
+            "code_v3": "&#xfb88;",
+            "char_type": "word",
+            "translation": "ilmu pengetahuan"
+          },
+          {
+            "position": 14,
+            "line_number": 6,
+            "page_number": 500,
+            "text_madani": "بَغْيًا",
+            "code": "&#xfb89;",
+            "code_v3": "&#xfb89;",
+            "char_type": "word",
+            "translation": "kedengkian"
+          },
+          {
+            "position": 15,
+            "line_number": 6,
+            "page_number": 500,
+            "text_madani": "بَيْنَهُمْ",
+            "code": "&#xfb8a;",
+            "code_v3": "&#xfb8a;",
+            "char_type": "word",
+            "translation": "diantara mereka"
+          },
+          {
+            "position": 16,
+            "line_number": 6,
+            "page_number": 500,
+            "text_madani": null,
+            "code": "&#xfb8b;",
+            "code_v3": "&#x6da;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 17,
+            "line_number": 6,
+            "page_number": 500,
+            "text_madani": "إِنَّ",
+            "code": "&#xfb8c;",
+            "code_v3": "&#xfb8c;",
+            "char_type": "word",
+            "translation": "sesungguhnya"
+          },
+          {
+            "position": 18,
+            "line_number": 7,
+            "page_number": 500,
+            "text_madani": "رَبَّكَ",
+            "code": "&#xfb8d;",
+            "code_v3": "&#xfb8d;",
+            "char_type": "word",
+            "translation": "Tuhanmu"
+          },
+          {
+            "position": 19,
+            "line_number": 7,
+            "page_number": 500,
+            "text_madani": "يَقْضِي",
+            "code": "&#xfb8e;",
+            "code_v3": "&#xfb8e;",
+            "char_type": "word",
+            "translation": "Dia akan memutuskan"
+          },
+          {
+            "position": 20,
+            "line_number": 7,
+            "page_number": 500,
+            "text_madani": "بَيْنَهُمْ",
+            "code": "&#xfb8f;",
+            "code_v3": "&#xfb8f;",
+            "char_type": "word",
+            "translation": "diantara mereka"
+          },
+          {
+            "position": 21,
+            "line_number": 7,
+            "page_number": 500,
+            "text_madani": "يَوْمَ",
+            "code": "&#xfb90;",
+            "code_v3": "&#xfb90;",
+            "char_type": "word",
+            "translation": "hari"
+          },
+          {
+            "position": 22,
+            "line_number": 7,
+            "page_number": 500,
+            "text_madani": "الْقِيَامَةِ",
+            "code": "&#xfb91;",
+            "code_v3": "&#xfb91;",
+            "char_type": "word",
+            "translation": "kiamat"
+          },
+          {
+            "position": 23,
+            "line_number": 7,
+            "page_number": 500,
+            "text_madani": "فِيمَا",
+            "code": "&#xfb92;",
+            "code_v3": "&#xfb92;",
+            "char_type": "word",
+            "translation": "tentang apa"
+          },
+          {
+            "position": 24,
+            "line_number": 7,
+            "page_number": 500,
+            "text_madani": "كَانُوا",
+            "code": "&#xfb93;",
+            "code_v3": "&#xfb93;",
+            "char_type": "word",
+            "translation": "adalah mereka"
+          },
+          {
+            "position": 25,
+            "line_number": 7,
+            "page_number": 500,
+            "text_madani": "فِيهِ",
+            "code": "&#xfb94;",
+            "code_v3": "&#xfb94;",
+            "char_type": "word",
+            "translation": "didalamnya"
+          },
+          {
+            "position": 26,
+            "line_number": 7,
+            "page_number": 500,
+            "text_madani": "يَخْتَلِفُونَ",
+            "code": "&#xfb95;",
+            "code_v3": "&#xfb95;",
+            "char_type": "word",
+            "translation": "mereka perselisihkan"
+          },
+          {
+            "position": 27,
+            "line_number": 8,
+            "page_number": 500,
+            "text_madani": null,
+            "code": "&#xfb96;",
+            "code_v3": "&#xa017;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 18,
+        "verse_key": "45:18",
+        "text_madani": "ثُمَّ جَعَلْنَاكَ عَلَىٰ شَرِيعَةٍ مِّنَ الْأَمْرِ فَاتَّبِعْهَا وَلَا تَتَّبِعْ أَهْوَاءَ الَّذِينَ لَا يَعْلَمُونَ",
+        "translation": "Kemudian Kami jadikan engkau (Muhammad) mengikuti syariat (peraturan) dari agama itu, maka ikutilah (syariat itu) dan janganlah engkau ikuti keinginan orang-orang yang tidak mengetahui.",
+        "page_number": 500,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 8,
+            "page_number": 500,
+            "text_madani": "ثُمَّ",
+            "code": "&#xfb97;",
+            "code_v3": "&#xfb97;",
+            "char_type": "word",
+            "translation": "kemudian"
+          },
+          {
+            "position": 2,
+            "line_number": 8,
+            "page_number": 500,
+            "text_madani": "جَعَلْنَاكَ",
+            "code": "&#xfb98;",
+            "code_v3": "&#xfb98;",
+            "char_type": "word",
+            "translation": "Kami jadikan kamu"
+          },
+          {
+            "position": 3,
+            "line_number": 8,
+            "page_number": 500,
+            "text_madani": "عَلَىٰ",
+            "code": "&#xfb99;",
+            "code_v3": "&#xfb99;",
+            "char_type": "word",
+            "translation": "atas"
+          },
+          {
+            "position": 4,
+            "line_number": 8,
+            "page_number": 500,
+            "text_madani": "شَرِيعَةٍ",
+            "code": "&#xfb9a;",
+            "code_v3": "&#xfb9a;",
+            "char_type": "word",
+            "translation": "suatu syari'at"
+          },
+          {
+            "position": 5,
+            "line_number": 8,
+            "page_number": 500,
+            "text_madani": "مِنَ",
+            "code": "&#xfb9b;",
+            "code_v3": "&#xfb9b;",
+            "char_type": "word",
+            "translation": "dari"
+          },
+          {
+            "position": 6,
+            "line_number": 8,
+            "page_number": 500,
+            "text_madani": "الْأَمْرِ",
+            "code": "&#xfb9c;",
+            "code_v3": "&#xfb9c;",
+            "char_type": "word",
+            "translation": "urusan itu"
+          },
+          {
+            "position": 7,
+            "line_number": 8,
+            "page_number": 500,
+            "text_madani": "فَاتَّبِعْهَا",
+            "code": "&#xfb9d;",
+            "code_v3": "&#xfb9d;",
+            "char_type": "word",
+            "translation": "maka ikutilah ia"
+          },
+          {
+            "position": 8,
+            "line_number": 8,
+            "page_number": 500,
+            "text_madani": "وَلَا",
+            "code": "&#xfb9e;",
+            "code_v3": "&#xfb9e;",
+            "char_type": "word",
+            "translation": "dan jangan"
+          },
+          {
+            "position": 9,
+            "line_number": 8,
+            "page_number": 500,
+            "text_madani": "تَتَّبِعْ",
+            "code": "&#xfb9f;",
+            "code_v3": "&#xfb9f;",
+            "char_type": "word",
+            "translation": "kamu mengikuti"
+          },
+          {
+            "position": 10,
+            "line_number": 9,
+            "page_number": 500,
+            "text_madani": "أَهْوَاءَ",
+            "code": "&#xfba0;",
+            "code_v3": "&#xfba0;",
+            "char_type": "word",
+            "translation": "keinginan"
+          },
+          {
+            "position": 11,
+            "line_number": 9,
+            "page_number": 500,
+            "text_madani": "الَّذِينَ",
+            "code": "&#xfba1;",
+            "code_v3": "&#xfba1;",
+            "char_type": "word",
+            "translation": "orang-orang yang"
+          },
+          {
+            "position": 12,
+            "line_number": 9,
+            "page_number": 500,
+            "text_madani": "لَا",
+            "code": "&#xfba2;",
+            "code_v3": "&#xfba2;",
+            "char_type": "word",
+            "translation": "tidak"
+          },
+          {
+            "position": 13,
+            "line_number": 9,
+            "page_number": 500,
+            "text_madani": "يَعْلَمُونَ",
+            "code": "&#xfba3;",
+            "code_v3": "&#xfba3;",
+            "char_type": "word",
+            "translation": "mereka mengetahui"
+          },
+          {
+            "position": 14,
+            "line_number": 9,
+            "page_number": 500,
+            "text_madani": null,
+            "code": "&#xfba4;",
+            "code_v3": "&#xa018;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 19,
+        "verse_key": "45:19",
+        "text_madani": "إِنَّهُمْ لَن يُغْنُوا عَنكَ مِنَ اللَّهِ شَيْئًا ۚ وَإِنَّ الظَّالِمِينَ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۖ وَاللَّهُ وَلِيُّ الْمُتَّقِينَ",
+        "translation": "Sungguh, mereka tidak akan dapat menghindarkan engkau sedikit pun dari (azab) Allah. Dan sungguh, orang-orang yang zhalim itu sebagian menjadi pelindung atas sebagian yang lain, sedangkan Allah pelindung bagi orang-orang yang bertakwa.",
+        "page_number": 500,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 9,
+            "page_number": 500,
+            "text_madani": "إِنَّهُمْ",
+            "code": "&#xfba5;",
+            "code_v3": "&#xfba5;",
+            "char_type": "word",
+            "translation": "sesungguhnya mereka"
+          },
+          {
+            "position": 2,
+            "line_number": 9,
+            "page_number": 500,
+            "text_madani": "لَنْ",
+            "code": "&#xfba6;",
+            "code_v3": "&#xfba6;",
+            "char_type": "word",
+            "translation": "tidak"
+          },
+          {
+            "position": 3,
+            "line_number": 9,
+            "page_number": 500,
+            "text_madani": "يُغْنُوا",
+            "code": "&#xfba7;",
+            "code_v3": "&#xfba7;",
+            "char_type": "word",
+            "translation": "mereka dapat menolak"
+          },
+          {
+            "position": 4,
+            "line_number": 9,
+            "page_number": 500,
+            "text_madani": "عَنْكَ",
+            "code": "&#xfba8;",
+            "code_v3": "&#xfba8;",
+            "char_type": "word",
+            "translation": "dari kamu"
+          },
+          {
+            "position": 5,
+            "line_number": 9,
+            "page_number": 500,
+            "text_madani": "مِنَ",
+            "code": "&#xfba9;",
+            "code_v3": "&#xfba9;",
+            "char_type": "word",
+            "translation": "dari"
+          },
+          {
+            "position": 6,
+            "line_number": 9,
+            "page_number": 500,
+            "text_madani": "اللَّهِ",
+            "code": "&#xfbaa;",
+            "code_v3": "&#xfbaa;",
+            "char_type": "word",
+            "translation": "Allah"
+          },
+          {
+            "position": 7,
+            "line_number": 10,
+            "page_number": 500,
+            "text_madani": "شَيْئًا",
+            "code": "&#xfbab;",
+            "code_v3": "&#xfbab;",
+            "char_type": "word",
+            "translation": "sedikit"
+          },
+          {
+            "position": 8,
+            "line_number": 10,
+            "page_number": 500,
+            "text_madani": null,
+            "code": "&#xfbac;",
+            "code_v3": "&#x6da;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 9,
+            "line_number": 10,
+            "page_number": 500,
+            "text_madani": "وَإِنَّ",
+            "code": "&#xfbad;",
+            "code_v3": "&#xfbad;",
+            "char_type": "word",
+            "translation": "dan sesungguhnya"
+          },
+          {
+            "position": 10,
+            "line_number": 10,
+            "page_number": 500,
+            "text_madani": "الظَّالِمِينَ",
+            "code": "&#xfbae;",
+            "code_v3": "&#xfbae;",
+            "char_type": "word",
+            "translation": "orang-orang ynag zalim"
+          },
+          {
+            "position": 11,
+            "line_number": 10,
+            "page_number": 500,
+            "text_madani": "بَعْضُهُمْ",
+            "code": "&#xfbaf;",
+            "code_v3": "&#xfbaf;",
+            "char_type": "word",
+            "translation": "sebagian mereka"
+          },
+          {
+            "position": 12,
+            "line_number": 10,
+            "page_number": 500,
+            "text_madani": "أَوْلِيَاءُ",
+            "code": "&#xfbb0;",
+            "code_v3": "&#xfbb0;",
+            "char_type": "word",
+            "translation": "penolong/pelindung"
+          },
+          {
+            "position": 13,
+            "line_number": 10,
+            "page_number": 500,
+            "text_madani": "بَعْضٍ",
+            "code": "&#xfbb1;",
+            "code_v3": "&#xfbb1;",
+            "char_type": "word",
+            "translation": "sebagian"
+          },
+          {
+            "position": 14,
+            "line_number": 10,
+            "page_number": 500,
+            "text_madani": null,
+            "code": "&#xfbd3;",
+            "code_v3": "&#x6d6;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 15,
+            "line_number": 10,
+            "page_number": 500,
+            "text_madani": "وَاللَّهُ",
+            "code": "&#xfbd4;",
+            "code_v3": "&#xfbd4;",
+            "char_type": "word",
+            "translation": "dan Allah"
+          },
+          {
+            "position": 16,
+            "line_number": 10,
+            "page_number": 500,
+            "text_madani": "وَلِيُّ",
+            "code": "&#xfbd5;",
+            "code_v3": "&#xfbd5;",
+            "char_type": "word",
+            "translation": "penolong/pelindung"
+          },
+          {
+            "position": 17,
+            "line_number": 10,
+            "page_number": 500,
+            "text_madani": "الْمُتَّقِينَ",
+            "code": "&#xfbd6;",
+            "code_v3": "&#xfbd6;",
+            "char_type": "word",
+            "translation": "orang-orang yang bertakwa"
+          },
+          {
+            "position": 18,
+            "line_number": 11,
+            "page_number": 500,
+            "text_madani": null,
+            "code": "&#xfbd7;",
+            "code_v3": "&#xa019;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 20,
+        "verse_key": "45:20",
+        "text_madani": "هَٰذَا بَصَائِرُ لِلنَّاسِ وَهُدًى وَرَحْمَةٌ لِّقَوْمٍ يُوقِنُونَ",
+        "translation": "(Al-Qur'an) ini adalah pedoman bagi manusia, petunjuk dan rahmat bagi kaum yang meyakini.",
+        "page_number": 500,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 11,
+            "page_number": 500,
+            "text_madani": "هَٰذَا",
+            "code": "&#xfbd8;",
+            "code_v3": "&#xfbd8;",
+            "char_type": "word",
+            "translation": "ini"
+          },
+          {
+            "position": 2,
+            "line_number": 11,
+            "page_number": 500,
+            "text_madani": "بَصَائِرُ",
+            "code": "&#xfbd9;",
+            "code_v3": "&#xfbd9;",
+            "char_type": "word",
+            "translation": "pedoman"
+          },
+          {
+            "position": 3,
+            "line_number": 11,
+            "page_number": 500,
+            "text_madani": "لِلنَّاسِ",
+            "code": "&#xfbda;",
+            "code_v3": "&#xfbda;",
+            "char_type": "word",
+            "translation": "bagi manusia"
+          },
+          {
+            "position": 4,
+            "line_number": 11,
+            "page_number": 500,
+            "text_madani": "وَهُدًى",
+            "code": "&#xfbdb;",
+            "code_v3": "&#xfbdb;",
+            "char_type": "word",
+            "translation": "dan petunjuk"
+          },
+          {
+            "position": 5,
+            "line_number": 11,
+            "page_number": 500,
+            "text_madani": "وَرَحْمَةٌ",
+            "code": "&#xfbdc;",
+            "code_v3": "&#xfbdc;",
+            "char_type": "word",
+            "translation": "dan rahmat"
+          },
+          {
+            "position": 6,
+            "line_number": 11,
+            "page_number": 500,
+            "text_madani": "لِقَوْمٍ",
+            "code": "&#xfbdd;",
+            "code_v3": "&#xfbdd;",
+            "char_type": "word",
+            "translation": "bagi kaum"
+          },
+          {
+            "position": 7,
+            "line_number": 11,
+            "page_number": 500,
+            "text_madani": "يُوقِنُونَ",
+            "code": "&#xfbde;",
+            "code_v3": "&#xfbde;",
+            "char_type": "word",
+            "translation": "mereka meyakini"
+          },
+          {
+            "position": 8,
+            "line_number": 12,
+            "page_number": 500,
+            "text_madani": null,
+            "code": "&#xfbdf;",
+            "code_v3": "&#xa020;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 21,
+        "verse_key": "45:21",
+        "text_madani": "أَمْ حَسِبَ الَّذِينَ اجْتَرَحُوا السَّيِّئَاتِ أَن نَّجْعَلَهُمْ كَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَوَاءً مَّحْيَاهُمْ وَمَمَاتُهُمْ ۚ سَاءَ مَا يَحْكُمُونَ",
+        "translation": "Apakah orang-orang yang melakukan kejahatan itu mengira bahwa Kami akan memperlakukan mereka seperti orang-orang yang beriman dan yang mengerjakan kebajikan, yaitu sama dalam kehidupan dan kematian mere-ka? Alangkah buruknya penilaian mereka itu.",
+        "page_number": 500,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 12,
+            "page_number": 500,
+            "text_madani": "أَمْ",
+            "code": "&#xfbe0;",
+            "code_v3": "&#xfbe0;",
+            "char_type": "word",
+            "translation": "ataukah/apakah"
+          },
+          {
+            "position": 2,
+            "line_number": 12,
+            "page_number": 500,
+            "text_madani": "حَسِبَ",
+            "code": "&#xfbe1;",
+            "code_v3": "&#xfbe1;",
+            "char_type": "word",
+            "translation": "mengira"
+          },
+          {
+            "position": 3,
+            "line_number": 12,
+            "page_number": 500,
+            "text_madani": "الَّذِينَ",
+            "code": "&#xfbe2;",
+            "code_v3": "&#xfbe2;",
+            "char_type": "word",
+            "translation": "orang-orang yang"
+          },
+          {
+            "position": 4,
+            "line_number": 12,
+            "page_number": 500,
+            "text_madani": "اجْتَرَحُوا",
+            "code": "&#xfbe3;",
+            "code_v3": "&#xfbe3;",
+            "char_type": "word",
+            "translation": "mereka berbuat"
+          },
+          {
+            "position": 5,
+            "line_number": 12,
+            "page_number": 500,
+            "text_madani": "السَّيِّئَاتِ",
+            "code": "&#xfbe4;",
+            "code_v3": "&#xfbe4;",
+            "char_type": "word",
+            "translation": "kejahatan"
+          },
+          {
+            "position": 6,
+            "line_number": 12,
+            "page_number": 500,
+            "text_madani": "أَنْ",
+            "code": "&#xfbe5;",
+            "code_v3": "&#xfbe5;",
+            "char_type": "word",
+            "translation": "bahwa"
+          },
+          {
+            "position": 7,
+            "line_number": 12,
+            "page_number": 500,
+            "text_madani": "نَجْعَلَهُمْ",
+            "code": "&#xfbe6;",
+            "code_v3": "&#xfbe6;",
+            "char_type": "word",
+            "translation": "Kami menjadikan mereka"
+          },
+          {
+            "position": 8,
+            "line_number": 12,
+            "page_number": 500,
+            "text_madani": "كَالَّذِينَ",
+            "code": "&#xfbe7;",
+            "code_v3": "&#xfbe7;",
+            "char_type": "word",
+            "translation": "seperti orang-orang yang"
+          },
+          {
+            "position": 9,
+            "line_number": 13,
+            "page_number": 500,
+            "text_madani": "آمَنُوا",
+            "code": "&#xfbe8;",
+            "code_v3": "&#xfbe8;",
+            "char_type": "word",
+            "translation": "beriman"
+          },
+          {
+            "position": 10,
+            "line_number": 13,
+            "page_number": 500,
+            "text_madani": "وَعَمِلُوا",
+            "code": "&#xfbe9;",
+            "code_v3": "&#xfbe9;",
+            "char_type": "word",
+            "translation": "dan berbuat"
+          },
+          {
+            "position": 11,
+            "line_number": 13,
+            "page_number": 500,
+            "text_madani": "الصَّالِحَاتِ",
+            "code": "&#xfbea;",
+            "code_v3": "&#xfbea;",
+            "char_type": "word",
+            "translation": "kebaikan"
+          },
+          {
+            "position": 12,
+            "line_number": 13,
+            "page_number": 500,
+            "text_madani": "سَوَاءً",
+            "code": "&#xfbeb;",
+            "code_v3": "&#xfbeb;",
+            "char_type": "word",
+            "translation": "sama"
+          },
+          {
+            "position": 13,
+            "line_number": 13,
+            "page_number": 500,
+            "text_madani": "مَحْيَاهُمْ",
+            "code": "&#xfbec;",
+            "code_v3": "&#xfbec;",
+            "char_type": "word",
+            "translation": "kehidupan mereka"
+          },
+          {
+            "position": 14,
+            "line_number": 13,
+            "page_number": 500,
+            "text_madani": "وَمَمَاتُهُمْ",
+            "code": "&#xfbed;",
+            "code_v3": "&#xfbed;",
+            "char_type": "word",
+            "translation": "dan kematian mereka"
+          },
+          {
+            "position": 15,
+            "line_number": 13,
+            "page_number": 500,
+            "text_madani": null,
+            "code": "&#xfbee;",
+            "code_v3": "&#x6da;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 16,
+            "line_number": 13,
+            "page_number": 500,
+            "text_madani": "سَاءَ",
+            "code": "&#xfbef;",
+            "code_v3": "&#xfbef;",
+            "char_type": "word",
+            "translation": "amat buruk"
+          },
+          {
+            "position": 17,
+            "line_number": 14,
+            "page_number": 500,
+            "text_madani": "مَا",
+            "code": "&#xfbf0;",
+            "code_v3": "&#xfbf0;",
+            "char_type": "word",
+            "translation": "apa yang"
+          },
+          {
+            "position": 18,
+            "line_number": 14,
+            "page_number": 500,
+            "text_madani": "يَحْكُمُونَ",
+            "code": "&#xfbf1;",
+            "code_v3": "&#xfbf1;",
+            "char_type": "word",
+            "translation": "mereka putuskan"
+          },
+          {
+            "position": 19,
+            "line_number": 14,
+            "page_number": 500,
+            "text_madani": null,
+            "code": "&#xfbf2;",
+            "code_v3": "&#xa021;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 22,
+        "verse_key": "45:22",
+        "text_madani": "وَخَلَقَ اللَّهُ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ وَلِتُجْزَىٰ كُلُّ نَفْسٍ بِمَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+        "translation": "Dan Allah menciptakan langit dan bumi dengan tujuan yang benar dan agar setiap jiwa diberi balasan sesuai dengan apa yang dikerjakannya, dan mereka tidak akan dirugikan.",
+        "page_number": 500,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 14,
+            "page_number": 500,
+            "text_madani": "وَخَلَقَ",
+            "code": "&#xfbf3;",
+            "code_v3": "&#xfbf3;",
+            "char_type": "word",
+            "translation": "dan menciptakan"
+          },
+          {
+            "position": 2,
+            "line_number": 14,
+            "page_number": 500,
+            "text_madani": "اللَّهُ",
+            "code": "&#xfbf4;",
+            "code_v3": "&#xfbf4;",
+            "char_type": "word",
+            "translation": "Allah"
+          },
+          {
+            "position": 3,
+            "line_number": 14,
+            "page_number": 500,
+            "text_madani": "السَّمَاوَاتِ",
+            "code": "&#xfbf5;",
+            "code_v3": "&#xfbf5;",
+            "char_type": "word",
+            "translation": "langit"
+          },
+          {
+            "position": 4,
+            "line_number": 14,
+            "page_number": 500,
+            "text_madani": "وَالْأَرْضَ",
+            "code": "&#xfbf6;",
+            "code_v3": "&#xfbf6;",
+            "char_type": "word",
+            "translation": "dan bumi"
+          },
+          {
+            "position": 5,
+            "line_number": 14,
+            "page_number": 500,
+            "text_madani": "بِالْحَقِّ",
+            "code": "&#xfbf7;",
+            "code_v3": "&#xfbf7;",
+            "char_type": "word",
+            "translation": "dengan benar"
+          },
+          {
+            "position": 6,
+            "line_number": 15,
+            "page_number": 500,
+            "text_madani": "وَلِتُجْزَىٰ",
+            "code": "&#xfbf8;",
+            "code_v3": "&#xfbf8;",
+            "char_type": "word",
+            "translation": "dan untuk diberi balasan"
+          },
+          {
+            "position": 7,
+            "line_number": 15,
+            "page_number": 500,
+            "text_madani": "كُلُّ",
+            "code": "&#xfbf9;",
+            "code_v3": "&#xfbf9;",
+            "char_type": "word",
+            "translation": "tiap-tiap"
+          },
+          {
+            "position": 8,
+            "line_number": 15,
+            "page_number": 500,
+            "text_madani": "نَفْسٍ",
+            "code": "&#xfbfa;",
+            "code_v3": "&#xfbfa;",
+            "char_type": "word",
+            "translation": "jiwa"
+          },
+          {
+            "position": 9,
+            "line_number": 15,
+            "page_number": 500,
+            "text_madani": "بِمَا",
+            "code": "&#xfbfb;",
+            "code_v3": "&#xfbfb;",
+            "char_type": "word",
+            "translation": "dengan apa"
+          },
+          {
+            "position": 10,
+            "line_number": 15,
+            "page_number": 500,
+            "text_madani": "كَسَبَتْ",
+            "code": "&#xfbfc;",
+            "code_v3": "&#xfbfc;",
+            "char_type": "word",
+            "translation": "ia usahakan"
+          },
+          {
+            "position": 11,
+            "line_number": 15,
+            "page_number": 500,
+            "text_madani": "وَهُمْ",
+            "code": "&#xfbfd;",
+            "code_v3": "&#xfbfd;",
+            "char_type": "word",
+            "translation": "dan mereka"
+          },
+          {
+            "position": 12,
+            "line_number": 15,
+            "page_number": 500,
+            "text_madani": "لَا",
+            "code": "&#xfbfe;",
+            "code_v3": "&#xfbfe;",
+            "char_type": "word",
+            "translation": "tidak"
+          },
+          {
+            "position": 13,
+            "line_number": 15,
+            "page_number": 500,
+            "text_madani": "يُظْلَمُونَ",
+            "code": "&#xfbff;",
+            "code_v3": "&#xfbff;",
+            "char_type": "word",
+            "translation": "mereka dianiaya/dirugikan"
+          },
+          {
+            "position": 14,
+            "line_number": 15,
+            "page_number": 500,
+            "text_madani": null,
+            "code": "&#xfc00;",
+            "code_v3": "&#xa022;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 23,
+        "verse_key": "45:23",
+        "text_madani": "أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلَٰهَهُ هَوَاهُ وَأَضَلَّهُ اللَّهُ عَلَىٰ عِلْمٍ وَخَتَمَ عَلَىٰ سَمْعِهِ وَقَلْبِهِ وَجَعَلَ عَلَىٰ بَصَرِهِ غِشَاوَةً فَمَن يَهْدِيهِ مِن بَعْدِ اللَّهِ ۚ أَفَلَا تَذَكَّرُونَ",
+        "translation": "Maka pernahkah kamu melihat orang yang menjadikan hawa nafsunya sebagai tuhannya dan Allah membiarkannya sesat dengan sepengetahuan-Nya, dan Allah telah mengunci pendengaran dan hatinya serta meletakkan tutup atas penglihatannya? Maka siapa yang mampu memberinya petunjuk setelah Allah (membiarkannya sesat?) Mengapa kamu tidak mengambil pelajaran?",
+        "page_number": 501,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 1,
+            "page_number": 501,
+            "text_madani": "أَفَرَأَيْتَ",
+            "code": "&#xfb51;",
+            "code_v3": "&#xfb51;",
+            "char_type": "word",
+            "translation": "adakah kamu melihat"
+          },
+          {
+            "position": 2,
+            "line_number": 1,
+            "page_number": 501,
+            "text_madani": "مَنِ",
+            "code": "&#xfb52;",
+            "code_v3": "&#xfb52;",
+            "char_type": "word",
+            "translation": "orang"
+          },
+          {
+            "position": 3,
+            "line_number": 1,
+            "page_number": 501,
+            "text_madani": "اتَّخَذَ",
+            "code": "&#xfb53;",
+            "code_v3": "&#xfb53;",
+            "char_type": "word",
+            "translation": "ia menjadikan"
+          },
+          {
+            "position": 4,
+            "line_number": 1,
+            "page_number": 501,
+            "text_madani": "إِلَٰهَهُ",
+            "code": "&#xfb54;",
+            "code_v3": "&#xfb54;",
+            "char_type": "word",
+            "translation": "Tuhannya"
+          },
+          {
+            "position": 5,
+            "line_number": 1,
+            "page_number": 501,
+            "text_madani": "هَوَاهُ",
+            "code": "&#xfb55;",
+            "code_v3": "&#xfb55;",
+            "char_type": "word",
+            "translation": "hawa nafsunya"
+          },
+          {
+            "position": 6,
+            "line_number": 1,
+            "page_number": 501,
+            "text_madani": "وَأَضَلَّهُ",
+            "code": "&#xfb56;",
+            "code_v3": "&#xfb56;",
+            "char_type": "word",
+            "translation": "dan membiarkan sesat padanya"
+          },
+          {
+            "position": 7,
+            "line_number": 1,
+            "page_number": 501,
+            "text_madani": "اللَّهُ",
+            "code": "&#xfb57;",
+            "code_v3": "&#xfb57;",
+            "char_type": "word",
+            "translation": "Allah"
+          },
+          {
+            "position": 8,
+            "line_number": 1,
+            "page_number": 501,
+            "text_madani": "عَلَىٰ",
+            "code": "&#xfb58;",
+            "code_v3": "&#xfb58;",
+            "char_type": "word",
+            "translation": "atas"
+          },
+          {
+            "position": 9,
+            "line_number": 1,
+            "page_number": 501,
+            "text_madani": "عِلْمٍ",
+            "code": "&#xfb59;",
+            "code_v3": "&#xfb59;",
+            "char_type": "word",
+            "translation": "pengetahuan"
+          },
+          {
+            "position": 10,
+            "line_number": 1,
+            "page_number": 501,
+            "text_madani": "وَخَتَمَ",
+            "code": "&#xfb5a;",
+            "code_v3": "&#xfb5a;",
+            "char_type": "word",
+            "translation": "dan Dia menutup"
+          },
+          {
+            "position": 11,
+            "line_number": 1,
+            "page_number": 501,
+            "text_madani": "عَلَىٰ",
+            "code": "&#xfb5b;",
+            "code_v3": "&#xfb5b;",
+            "char_type": "word",
+            "translation": "atas"
+          },
+          {
+            "position": 12,
+            "line_number": 1,
+            "page_number": 501,
+            "text_madani": "سَمْعِهِ",
+            "code": "&#xfb5c;",
+            "code_v3": "&#xfb5c;",
+            "char_type": "word",
+            "translation": "pendengarannya"
+          },
+          {
+            "position": 13,
+            "line_number": 2,
+            "page_number": 501,
+            "text_madani": "وَقَلْبِهِ",
+            "code": "&#xfb5d;",
+            "code_v3": "&#xfb5d;",
+            "char_type": "word",
+            "translation": "dan hatinya"
+          },
+          {
+            "position": 14,
+            "line_number": 2,
+            "page_number": 501,
+            "text_madani": "وَجَعَلَ",
+            "code": "&#xfb5e;",
+            "code_v3": "&#xfb5e;",
+            "char_type": "word",
+            "translation": "dan Dia menjadikan"
+          },
+          {
+            "position": 15,
+            "line_number": 2,
+            "page_number": 501,
+            "text_madani": "عَلَىٰ",
+            "code": "&#xfb5f;",
+            "code_v3": "&#xfb5f;",
+            "char_type": "word",
+            "translation": "atas"
+          },
+          {
+            "position": 16,
+            "line_number": 2,
+            "page_number": 501,
+            "text_madani": "بَصَرِهِ",
+            "code": "&#xfb60;",
+            "code_v3": "&#xfb60;",
+            "char_type": "word",
+            "translation": "penglihatannya"
+          },
+          {
+            "position": 17,
+            "line_number": 2,
+            "page_number": 501,
+            "text_madani": "غِشَاوَةً",
+            "code": "&#xfb61;",
+            "code_v3": "&#xfb61;",
+            "char_type": "word",
+            "translation": "tutupan"
+          },
+          {
+            "position": 18,
+            "line_number": 2,
+            "page_number": 501,
+            "text_madani": "فَمَنْ",
+            "code": "&#xfb62;",
+            "code_v3": "&#xfb62;",
+            "char_type": "word",
+            "translation": "maka siapakah"
+          },
+          {
+            "position": 19,
+            "line_number": 2,
+            "page_number": 501,
+            "text_madani": "يَهْدِيهِ",
+            "code": "&#xfb63;",
+            "code_v3": "&#xfb63;",
+            "char_type": "word",
+            "translation": "memberi petunjuk kepadanya"
+          },
+          {
+            "position": 20,
+            "line_number": 2,
+            "page_number": 501,
+            "text_madani": "مِنْ",
+            "code": "&#xfb64;",
+            "code_v3": "&#xfb64;",
+            "char_type": "word",
+            "translation": "dari"
+          },
+          {
+            "position": 21,
+            "line_number": 2,
+            "page_number": 501,
+            "text_madani": "بَعْدِ",
+            "code": "&#xfb65;",
+            "code_v3": "&#xfb65;",
+            "char_type": "word",
+            "translation": "sesudah"
+          },
+          {
+            "position": 22,
+            "line_number": 2,
+            "page_number": 501,
+            "text_madani": "اللَّهِ",
+            "code": "&#xfb66;",
+            "code_v3": "&#xfb66;",
+            "char_type": "word",
+            "translation": "Allah"
+          },
+          {
+            "position": 23,
+            "line_number": 2,
+            "page_number": 501,
+            "text_madani": null,
+            "code": "&#xfb67;",
+            "code_v3": "&#x6da;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 24,
+            "line_number": 2,
+            "page_number": 501,
+            "text_madani": "أَفَلَا",
+            "code": "&#xfb68;",
+            "code_v3": "&#xfb68;",
+            "char_type": "word",
+            "translation": "apakah maka tidak"
+          },
+          {
+            "position": 25,
+            "line_number": 3,
+            "page_number": 501,
+            "text_madani": "تَذَكَّرُونَ",
+            "code": "&#xfb69;",
+            "code_v3": "&#xfb69;",
+            "char_type": "word",
+            "translation": "kamu ingat/mengambil pelajaran"
+          },
+          {
+            "position": 26,
+            "line_number": 3,
+            "page_number": 501,
+            "text_madani": null,
+            "code": "&#xfb6a;",
+            "code_v3": "&#xa023;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 24,
+        "verse_key": "45:24",
+        "text_madani": "وَقَالُوا مَا هِيَ إِلَّا حَيَاتُنَا الدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا يُهْلِكُنَا إِلَّا الدَّهْرُ ۚ وَمَا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ ۖ إِنْ هُمْ إِلَّا يَظُنُّونَ",
+        "translation": "Dan mereka berkata, “Kehidupan ini tidak lain hanyalah kehidupan di dunia saja, kita mati dan kita hidup, dan tidak ada yang membinasakan kita selain masa.” Tetapi mereka tidak mempunyai ilmu tentang itu, mereka hanyalah menduga-duga saja.",
+        "page_number": 501,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 3,
+            "page_number": 501,
+            "text_madani": "وَقَالُوا",
+            "code": "&#xfb6b;",
+            "code_v3": "&#xfb6b;",
+            "char_type": "word",
+            "translation": "dan mereka berkata"
+          },
+          {
+            "position": 2,
+            "line_number": 3,
+            "page_number": 501,
+            "text_madani": "مَا",
+            "code": "&#xfb6c;",
+            "code_v3": "&#xfb6c;",
+            "char_type": "word",
+            "translation": "tidaklah"
+          },
+          {
+            "position": 3,
+            "line_number": 3,
+            "page_number": 501,
+            "text_madani": "هِيَ",
+            "code": "&#xfb6d;",
+            "code_v3": "&#xfb6d;",
+            "char_type": "word",
+            "translation": "ini"
+          },
+          {
+            "position": 4,
+            "line_number": 3,
+            "page_number": 501,
+            "text_madani": "إِلَّا",
+            "code": "&#xfb6e;",
+            "code_v3": "&#xfb6e;",
+            "char_type": "word",
+            "translation": "kecuali"
+          },
+          {
+            "position": 5,
+            "line_number": 3,
+            "page_number": 501,
+            "text_madani": "حَيَاتُنَا",
+            "code": "&#xfb6f;",
+            "code_v3": "&#xfb6f;",
+            "char_type": "word",
+            "translation": "kehidupan kami"
+          },
+          {
+            "position": 6,
+            "line_number": 3,
+            "page_number": 501,
+            "text_madani": "الدُّنْيَا",
+            "code": "&#xfb70;",
+            "code_v3": "&#xfb70;",
+            "char_type": "word",
+            "translation": "dunia"
+          },
+          {
+            "position": 7,
+            "line_number": 3,
+            "page_number": 501,
+            "text_madani": "نَمُوتُ",
+            "code": "&#xfb71;",
+            "code_v3": "&#xfb71;",
+            "char_type": "word",
+            "translation": "kami mati"
+          },
+          {
+            "position": 8,
+            "line_number": 3,
+            "page_number": 501,
+            "text_madani": "وَنَحْيَا",
+            "code": "&#xfb72;",
+            "code_v3": "&#xfb72;",
+            "char_type": "word",
+            "translation": "dan kami hidup"
+          },
+          {
+            "position": 9,
+            "line_number": 3,
+            "page_number": 501,
+            "text_madani": "وَمَا",
+            "code": "&#xfb73;",
+            "code_v3": "&#xfb73;",
+            "char_type": "word",
+            "translation": "dan tidak"
+          },
+          {
+            "position": 10,
+            "line_number": 3,
+            "page_number": 501,
+            "text_madani": "يُهْلِكُنَا",
+            "code": "&#xfb74;",
+            "code_v3": "&#xfb74;",
+            "char_type": "word",
+            "translation": "membinasakan kami"
+          },
+          {
+            "position": 11,
+            "line_number": 4,
+            "page_number": 501,
+            "text_madani": "إِلَّا",
+            "code": "&#xfb75;",
+            "code_v3": "&#xfb75;",
+            "char_type": "word",
+            "translation": "kecuali"
+          },
+          {
+            "position": 12,
+            "line_number": 4,
+            "page_number": 501,
+            "text_madani": "الدَّهْرُ",
+            "code": "&#xfb76;",
+            "code_v3": "&#xfb76;",
+            "char_type": "word",
+            "translation": "masa"
+          },
+          {
+            "position": 13,
+            "line_number": 4,
+            "page_number": 501,
+            "text_madani": null,
+            "code": "&#xfb77;",
+            "code_v3": "&#x6da;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 14,
+            "line_number": 4,
+            "page_number": 501,
+            "text_madani": "وَمَا",
+            "code": "&#xfb78;",
+            "code_v3": "&#xfb78;",
+            "char_type": "word",
+            "translation": "dan tidak"
+          },
+          {
+            "position": 15,
+            "line_number": 4,
+            "page_number": 501,
+            "text_madani": "لَهُمْ",
+            "code": "&#xfb79;",
+            "code_v3": "&#xfb79;",
+            "char_type": "word",
+            "translation": "mereka mempunyai"
+          },
+          {
+            "position": 16,
+            "line_number": 4,
+            "page_number": 501,
+            "text_madani": "بِذَٰلِكَ",
+            "code": "&#xfb7a;",
+            "code_v3": "&#xfb7a;",
+            "char_type": "word",
+            "translation": "tentang itu"
+          },
+          {
+            "position": 17,
+            "line_number": 4,
+            "page_number": 501,
+            "text_madani": "مِنْ",
+            "code": "&#xfb7b;",
+            "code_v3": "&#xfb7b;",
+            "char_type": "word",
+            "translation": "dari"
+          },
+          {
+            "position": 18,
+            "line_number": 4,
+            "page_number": 501,
+            "text_madani": "عِلْمٍ",
+            "code": "&#xfb7c;",
+            "code_v3": "&#xfb7c;",
+            "char_type": "word",
+            "translation": "pengetahuan"
+          },
+          {
+            "position": 19,
+            "line_number": 4,
+            "page_number": 501,
+            "text_madani": null,
+            "code": "&#xfb7d;",
+            "code_v3": "&#x6d6;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 20,
+            "line_number": 4,
+            "page_number": 501,
+            "text_madani": "إِنْ",
+            "code": "&#xfb7e;",
+            "code_v3": "&#xfb7e;",
+            "char_type": "word",
+            "translation": "tidaklah"
+          },
+          {
+            "position": 21,
+            "line_number": 4,
+            "page_number": 501,
+            "text_madani": "هُمْ",
+            "code": "&#xfb7f;",
+            "code_v3": "&#xfb7f;",
+            "char_type": "word",
+            "translation": "mereka"
+          },
+          {
+            "position": 22,
+            "line_number": 4,
+            "page_number": 501,
+            "text_madani": "إِلَّا",
+            "code": "&#xfb80;",
+            "code_v3": "&#xfb80;",
+            "char_type": "word",
+            "translation": "kecuali"
+          },
+          {
+            "position": 23,
+            "line_number": 4,
+            "page_number": 501,
+            "text_madani": "يَظُنُّونَ",
+            "code": "&#xfb81;",
+            "code_v3": "&#xfb81;",
+            "char_type": "word",
+            "translation": "mereka menduga-duga"
+          },
+          {
+            "position": 24,
+            "line_number": 4,
+            "page_number": 501,
+            "text_madani": null,
+            "code": "&#xfb82;",
+            "code_v3": "&#xa024;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 25,
+        "verse_key": "45:25",
+        "text_madani": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ مَّا كَانَ حُجَّتَهُمْ إِلَّا أَن قَالُوا ائْتُوا بِآبَائِنَا إِن كُنتُمْ صَادِقِينَ",
+        "translation": "Dan apabila kepada mereka dibacakan ayat-ayat Kami yang jelas, tidak ada bantahan mereka selain mengatakan, “Hidupkanlah kembali nenek moyang kami, jika kamu orang yang benar.”",
+        "page_number": 501,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 4,
+            "page_number": 501,
+            "text_madani": "وَإِذَا",
+            "code": "&#xfb83;",
+            "code_v3": "&#xfb83;",
+            "char_type": "word",
+            "translation": "dan apabila"
+          },
+          {
+            "position": 2,
+            "line_number": 4,
+            "page_number": 501,
+            "text_madani": "تُتْلَىٰ",
+            "code": "&#xfb84;",
+            "code_v3": "&#xfb84;",
+            "char_type": "word",
+            "translation": "dibacakan"
+          },
+          {
+            "position": 3,
+            "line_number": 5,
+            "page_number": 501,
+            "text_madani": "عَلَيْهِمْ",
+            "code": "&#xfb85;",
+            "code_v3": "&#xfb85;",
+            "char_type": "word",
+            "translation": "atas mereka"
+          },
+          {
+            "position": 4,
+            "line_number": 5,
+            "page_number": 501,
+            "text_madani": "آيَاتُنَا",
+            "code": "&#xfb86;",
+            "code_v3": "&#xfb86;",
+            "char_type": "word",
+            "translation": "ayat-ayat Kami"
+          },
+          {
+            "position": 5,
+            "line_number": 5,
+            "page_number": 501,
+            "text_madani": "بَيِّنَاتٍ",
+            "code": "&#xfb87;",
+            "code_v3": "&#xfb87;",
+            "char_type": "word",
+            "translation": "nyata/jelas"
+          },
+          {
+            "position": 6,
+            "line_number": 5,
+            "page_number": 501,
+            "text_madani": "مَا",
+            "code": "&#xfb88;",
+            "code_v3": "&#xfb88;",
+            "char_type": "word",
+            "translation": "tidak"
+          },
+          {
+            "position": 7,
+            "line_number": 5,
+            "page_number": 501,
+            "text_madani": "كَانَ",
+            "code": "&#xfb89;",
+            "code_v3": "&#xfb89;",
+            "char_type": "word",
+            "translation": "adalah"
+          },
+          {
+            "position": 8,
+            "line_number": 5,
+            "page_number": 501,
+            "text_madani": "حُجَّتَهُمْ",
+            "code": "&#xfb8a;",
+            "code_v3": "&#xfb8a;",
+            "char_type": "word",
+            "translation": "bantahan mereka"
+          },
+          {
+            "position": 9,
+            "line_number": 5,
+            "page_number": 501,
+            "text_madani": "إِلَّا",
+            "code": "&#xfb8b;",
+            "code_v3": "&#xfb8b;",
+            "char_type": "word",
+            "translation": "kecuali"
+          },
+          {
+            "position": 10,
+            "line_number": 5,
+            "page_number": 501,
+            "text_madani": "أَنْ",
+            "code": "&#xfb8c;",
+            "code_v3": "&#xfb8c;",
+            "char_type": "word",
+            "translation": "bahwa"
+          },
+          {
+            "position": 11,
+            "line_number": 5,
+            "page_number": 501,
+            "text_madani": "قَالُوا",
+            "code": "&#xfb8d;",
+            "code_v3": "&#xfb8d;",
+            "char_type": "word",
+            "translation": "mereka mengatakan"
+          },
+          {
+            "position": 12,
+            "line_number": 5,
+            "page_number": 501,
+            "text_madani": "ائْتُوا",
+            "code": "&#xfb8e;",
+            "code_v3": "&#xfb8e;",
+            "char_type": "word",
+            "translation": "datangkanlah"
+          },
+          {
+            "position": 13,
+            "line_number": 5,
+            "page_number": 501,
+            "text_madani": "بِآبَائِنَا",
+            "code": "&#xfb8f;",
+            "code_v3": "&#xfb8f;",
+            "char_type": "word",
+            "translation": "dengan bapak-bapak kami"
+          },
+          {
+            "position": 14,
+            "line_number": 5,
+            "page_number": 501,
+            "text_madani": "إِنْ",
+            "code": "&#xfb90;",
+            "code_v3": "&#xfb90;",
+            "char_type": "word",
+            "translation": "jika"
+          },
+          {
+            "position": 15,
+            "line_number": 6,
+            "page_number": 501,
+            "text_madani": "كُنْتُمْ",
+            "code": "&#xfb91;",
+            "code_v3": "&#xfb91;",
+            "char_type": "word",
+            "translation": "kamu adalah"
+          },
+          {
+            "position": 16,
+            "line_number": 6,
+            "page_number": 501,
+            "text_madani": "صَادِقِينَ",
+            "code": "&#xfb92;",
+            "code_v3": "&#xfb92;",
+            "char_type": "word",
+            "translation": "orang-orang yang benar"
+          },
+          {
+            "position": 17,
+            "line_number": 6,
+            "page_number": 501,
+            "text_madani": null,
+            "code": "&#xfb93;",
+            "code_v3": "&#xa025;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 26,
+        "verse_key": "45:26",
+        "text_madani": "قُلِ اللَّهُ يُحْيِيكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يَجْمَعُكُمْ إِلَىٰ يَوْمِ الْقِيَامَةِ لَا رَيْبَ فِيهِ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+        "translation": "Katakanlah, “Allah yang menghidupkan kemudian mematikan kamu, setelah itu mengumpulkan kamu pada hari Kiamat yang tidak diragukan lagi; tetapi kebanyakan manusia tidak mengetahui.”",
+        "page_number": 501,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 6,
+            "page_number": 501,
+            "text_madani": "قُلِ",
+            "code": "&#xfb94;",
+            "code_v3": "&#xfb94;",
+            "char_type": "word",
+            "translation": "katakanlah"
+          },
+          {
+            "position": 2,
+            "line_number": 6,
+            "page_number": 501,
+            "text_madani": "اللَّهُ",
+            "code": "&#xfb95;",
+            "code_v3": "&#xfb95;",
+            "char_type": "word",
+            "translation": "Allah"
+          },
+          {
+            "position": 3,
+            "line_number": 6,
+            "page_number": 501,
+            "text_madani": "يُحْيِيكُمْ",
+            "code": "&#xfb96;",
+            "code_v3": "&#xfb96;",
+            "char_type": "word",
+            "translation": "Dia menghidupkan kamu"
+          },
+          {
+            "position": 4,
+            "line_number": 6,
+            "page_number": 501,
+            "text_madani": "ثُمَّ",
+            "code": "&#xfb97;",
+            "code_v3": "&#xfb97;",
+            "char_type": "word",
+            "translation": "kemudian"
+          },
+          {
+            "position": 5,
+            "line_number": 6,
+            "page_number": 501,
+            "text_madani": "يُمِيتُكُمْ",
+            "code": "&#xfb98;",
+            "code_v3": "&#xfb98;",
+            "char_type": "word",
+            "translation": "Dia mematikan kamu"
+          },
+          {
+            "position": 6,
+            "line_number": 6,
+            "page_number": 501,
+            "text_madani": "ثُمَّ",
+            "code": "&#xfb99;",
+            "code_v3": "&#xfb99;",
+            "char_type": "word",
+            "translation": "kemudian"
+          },
+          {
+            "position": 7,
+            "line_number": 6,
+            "page_number": 501,
+            "text_madani": "يَجْمَعُكُمْ",
+            "code": "&#xfb9a;",
+            "code_v3": "&#xfb9a;",
+            "char_type": "word",
+            "translation": "Dia mengumpulkan kamu"
+          },
+          {
+            "position": 8,
+            "line_number": 6,
+            "page_number": 501,
+            "text_madani": "إِلَىٰ",
+            "code": "&#xfb9b;",
+            "code_v3": "&#xfb9b;",
+            "char_type": "word",
+            "translation": "pada"
+          },
+          {
+            "position": 9,
+            "line_number": 6,
+            "page_number": 501,
+            "text_madani": "يَوْمِ",
+            "code": "&#xfb9c;",
+            "code_v3": "&#xfb9c;",
+            "char_type": "word",
+            "translation": "hari"
+          },
+          {
+            "position": 10,
+            "line_number": 7,
+            "page_number": 501,
+            "text_madani": "الْقِيَامَةِ",
+            "code": "&#xfb9d;",
+            "code_v3": "&#xfb9d;",
+            "char_type": "word",
+            "translation": "kiamat"
+          },
+          {
+            "position": 11,
+            "line_number": 7,
+            "page_number": 501,
+            "text_madani": "لَا",
+            "code": "&#xfb9e;",
+            "code_v3": "&#xfb9e;",
+            "char_type": "word",
+            "translation": "tidak ada"
+          },
+          {
+            "position": 12,
+            "line_number": 7,
+            "page_number": 501,
+            "text_madani": "رَيْبَ",
+            "code": "&#xfb9f;",
+            "code_v3": "&#xfb9f;",
+            "char_type": "word",
+            "translation": "keraguan"
+          },
+          {
+            "position": 13,
+            "line_number": 7,
+            "page_number": 501,
+            "text_madani": "فِيهِ",
+            "code": "&#xfba0;",
+            "code_v3": "&#xfba0;",
+            "char_type": "word",
+            "translation": "didalamnya"
+          },
+          {
+            "position": 14,
+            "line_number": 7,
+            "page_number": 501,
+            "text_madani": "وَلَٰكِنَّ",
+            "code": "&#xfba1;",
+            "code_v3": "&#xfba1;",
+            "char_type": "word",
+            "translation": "akan tetapi"
+          },
+          {
+            "position": 15,
+            "line_number": 7,
+            "page_number": 501,
+            "text_madani": "أَكْثَرَ",
+            "code": "&#xfba2;",
+            "code_v3": "&#xfba2;",
+            "char_type": "word",
+            "translation": "kebanyakan"
+          },
+          {
+            "position": 16,
+            "line_number": 7,
+            "page_number": 501,
+            "text_madani": "النَّاسِ",
+            "code": "&#xfba3;",
+            "code_v3": "&#xfba3;",
+            "char_type": "word",
+            "translation": "manusia"
+          },
+          {
+            "position": 17,
+            "line_number": 7,
+            "page_number": 501,
+            "text_madani": "لَا",
+            "code": "&#xfba4;",
+            "code_v3": "&#xfba4;",
+            "char_type": "word",
+            "translation": "tidak"
+          },
+          {
+            "position": 18,
+            "line_number": 7,
+            "page_number": 501,
+            "text_madani": "يَعْلَمُونَ",
+            "code": "&#xfba5;",
+            "code_v3": "&#xfba5;",
+            "char_type": "word",
+            "translation": "mereka mengetahui"
+          },
+          {
+            "position": 19,
+            "line_number": 7,
+            "page_number": 501,
+            "text_madani": null,
+            "code": "&#xfba6;",
+            "code_v3": "&#xa026;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 27,
+        "verse_key": "45:27",
+        "text_madani": "وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَيَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍ يَخْسَرُ الْمُبْطِلُونَ",
+        "translation": "Dan milik Allah kerajaan langit dan bumi. Dan pada hari terjadinya Kiamat, akan rugilah pada hari itu orang-orang yang mengerjakan kebatilan (dosa).",
+        "page_number": 501,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 7,
+            "page_number": 501,
+            "text_madani": "وَلِلَّهِ",
+            "code": "&#xfba7;",
+            "code_v3": "&#xfba7;",
+            "char_type": "word",
+            "translation": "dan bagi Allah"
+          },
+          {
+            "position": 2,
+            "line_number": 7,
+            "page_number": 501,
+            "text_madani": "مُلْكُ",
+            "code": "&#xfba8;",
+            "code_v3": "&#xfba8;",
+            "char_type": "word",
+            "translation": "kerajaan"
+          },
+          {
+            "position": 3,
+            "line_number": 8,
+            "page_number": 501,
+            "text_madani": "السَّمَاوَاتِ",
+            "code": "&#xfba9;",
+            "code_v3": "&#xfba9;",
+            "char_type": "word",
+            "translation": "langit"
+          },
+          {
+            "position": 4,
+            "line_number": 8,
+            "page_number": 501,
+            "text_madani": "وَالْأَرْضِ",
+            "code": "&#xfbaa;",
+            "code_v3": "&#xfbaa;",
+            "char_type": "word",
+            "translation": "dan bumi"
+          },
+          {
+            "position": 5,
+            "line_number": 8,
+            "page_number": 501,
+            "text_madani": null,
+            "code": "&#xfbab;",
+            "code_v3": "&#x6da;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 6,
+            "line_number": 8,
+            "page_number": 501,
+            "text_madani": "وَيَوْمَ",
+            "code": "&#xfbac;",
+            "code_v3": "&#xfbac;",
+            "char_type": "word",
+            "translation": "dan hari"
+          },
+          {
+            "position": 7,
+            "line_number": 8,
+            "page_number": 501,
+            "text_madani": "تَقُومُ",
+            "code": "&#xfbad;",
+            "code_v3": "&#xfbad;",
+            "char_type": "word",
+            "translation": "terjadi"
+          },
+          {
+            "position": 8,
+            "line_number": 8,
+            "page_number": 501,
+            "text_madani": "السَّاعَةُ",
+            "code": "&#xfbae;",
+            "code_v3": "&#xfbae;",
+            "char_type": "word",
+            "translation": "kiamat"
+          },
+          {
+            "position": 9,
+            "line_number": 8,
+            "page_number": 501,
+            "text_madani": "يَوْمَئِذٍ",
+            "code": "&#xfbaf;",
+            "code_v3": "&#xfbaf;",
+            "char_type": "word",
+            "translation": "pada hari itu"
+          },
+          {
+            "position": 10,
+            "line_number": 8,
+            "page_number": 501,
+            "text_madani": "يَخْسَرُ",
+            "code": "&#xfbb0;",
+            "code_v3": "&#xfbb0;",
+            "char_type": "word",
+            "translation": "rugilah"
+          },
+          {
+            "position": 11,
+            "line_number": 8,
+            "page_number": 501,
+            "text_madani": "الْمُبْطِلُونَ",
+            "code": "&#xfbb1;",
+            "code_v3": "&#xfbb1;",
+            "char_type": "word",
+            "translation": "orang-orang yang mengerjakan kebathilan"
+          },
+          {
+            "position": 12,
+            "line_number": 9,
+            "page_number": 501,
+            "text_madani": null,
+            "code": "&#xfbd3;",
+            "code_v3": "&#xa027;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 28,
+        "verse_key": "45:28",
+        "text_madani": "وَتَرَىٰ كُلَّ أُمَّةٍ جَاثِيَةً ۚ كُلُّ أُمَّةٍ تُدْعَىٰ إِلَىٰ كِتَابِهَا الْيَوْمَ تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+        "translation": "Dan (pada hari itu) engkau akan melihat setiap umat berlutut. Setiap umat dipanggil untuk (melihat) buku catatan amalnya. Pada hari itu kamu diberi balasan atas apa yang telah kamu kerjakan.",
+        "page_number": 501,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 9,
+            "page_number": 501,
+            "text_madani": "وَتَرَىٰ",
+            "code": "&#xfbd4;",
+            "code_v3": "&#xfbd4;",
+            "char_type": "word",
+            "translation": "dan kamu lihat"
+          },
+          {
+            "position": 2,
+            "line_number": 9,
+            "page_number": 501,
+            "text_madani": "كُلَّ",
+            "code": "&#xfbd5;",
+            "code_v3": "&#xfbd5;",
+            "char_type": "word",
+            "translation": "tiap-tiap"
+          },
+          {
+            "position": 3,
+            "line_number": 9,
+            "page_number": 501,
+            "text_madani": "أُمَّةٍ",
+            "code": "&#xfbd6;",
+            "code_v3": "&#xfbd6;",
+            "char_type": "word",
+            "translation": "ummat"
+          },
+          {
+            "position": 4,
+            "line_number": 9,
+            "page_number": 501,
+            "text_madani": "جَاثِيَةً",
+            "code": "&#xfbd7;",
+            "code_v3": "&#xfbd7;",
+            "char_type": "word",
+            "translation": "berlutut"
+          },
+          {
+            "position": 5,
+            "line_number": 9,
+            "page_number": 501,
+            "text_madani": null,
+            "code": "&#xfbd8;",
+            "code_v3": "&#x6da;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 6,
+            "line_number": 9,
+            "page_number": 501,
+            "text_madani": "كُلُّ",
+            "code": "&#xfbd9;",
+            "code_v3": "&#xfbd9;",
+            "char_type": "word",
+            "translation": "setiap"
+          },
+          {
+            "position": 7,
+            "line_number": 9,
+            "page_number": 501,
+            "text_madani": "أُمَّةٍ",
+            "code": "&#xfbda;",
+            "code_v3": "&#xfbda;",
+            "char_type": "word",
+            "translation": "ummat"
+          },
+          {
+            "position": 8,
+            "line_number": 9,
+            "page_number": 501,
+            "text_madani": "تُدْعَىٰ",
+            "code": "&#xfbdb;",
+            "code_v3": "&#xfbdb;",
+            "char_type": "word",
+            "translation": "dipanggil"
+          },
+          {
+            "position": 9,
+            "line_number": 9,
+            "page_number": 501,
+            "text_madani": "إِلَىٰ",
+            "code": "&#xfbdc;",
+            "code_v3": "&#xfbdc;",
+            "char_type": "word",
+            "translation": "kepada"
+          },
+          {
+            "position": 10,
+            "line_number": 9,
+            "page_number": 501,
+            "text_madani": "كِتَابِهَا",
+            "code": "&#xfbdd;",
+            "code_v3": "&#xfbdd;",
+            "char_type": "word",
+            "translation": "kitabnya/catatannya"
+          },
+          {
+            "position": 11,
+            "line_number": 9,
+            "page_number": 501,
+            "text_madani": "الْيَوْمَ",
+            "code": "&#xfbde;",
+            "code_v3": "&#xfbde;",
+            "char_type": "word",
+            "translation": "pada hari"
+          },
+          {
+            "position": 12,
+            "line_number": 9,
+            "page_number": 501,
+            "text_madani": "تُجْزَوْنَ",
+            "code": "&#xfbdf;",
+            "code_v3": "&#xfbdf;",
+            "char_type": "word",
+            "translation": "kamu diberi balasan"
+          },
+          {
+            "position": 13,
+            "line_number": 9,
+            "page_number": 501,
+            "text_madani": "مَا",
+            "code": "&#xfbe0;",
+            "code_v3": "&#xfbe0;",
+            "char_type": "word",
+            "translation": "apa yang"
+          },
+          {
+            "position": 14,
+            "line_number": 9,
+            "page_number": 501,
+            "text_madani": "كُنْتُمْ",
+            "code": "&#xfbe1;",
+            "code_v3": "&#xfbe1;",
+            "char_type": "word",
+            "translation": "kamu adalah"
+          },
+          {
+            "position": 15,
+            "line_number": 10,
+            "page_number": 501,
+            "text_madani": "تَعْمَلُونَ",
+            "code": "&#xfbe2;",
+            "code_v3": "&#xfbe2;",
+            "char_type": "word",
+            "translation": "kamu kerjakan"
+          },
+          {
+            "position": 16,
+            "line_number": 10,
+            "page_number": 501,
+            "text_madani": null,
+            "code": "&#xfbe3;",
+            "code_v3": "&#xa028;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 29,
+        "verse_key": "45:29",
+        "text_madani": "هَٰذَا كِتَابُنَا يَنطِقُ عَلَيْكُم بِالْحَقِّ ۚ إِنَّا كُنَّا نَسْتَنسِخُ مَا كُنتُمْ تَعْمَلُونَ",
+        "translation": "(Allah berfirman), “Inilah Kitab (catatan) Kami yang menuturkan kepadamu dengan sebenar-benarnya. Sesungguhnya Kami telah menyuruh mencatat apa yang telah kamu kerjakan.”",
+        "page_number": 501,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 10,
+            "page_number": 501,
+            "text_madani": "هَٰذَا",
+            "code": "&#xfbe4;",
+            "code_v3": "&#xfbe4;",
+            "char_type": "word",
+            "translation": "ini"
+          },
+          {
+            "position": 2,
+            "line_number": 10,
+            "page_number": 501,
+            "text_madani": "كِتَابُنَا",
+            "code": "&#xfbe5;",
+            "code_v3": "&#xfbe5;",
+            "char_type": "word",
+            "translation": "kitab/catatan kami"
+          },
+          {
+            "position": 3,
+            "line_number": 10,
+            "page_number": 501,
+            "text_madani": "يَنْطِقُ",
+            "code": "&#xfbe6;",
+            "code_v3": "&#xfbe6;",
+            "char_type": "word",
+            "translation": "ia menuturkan"
+          },
+          {
+            "position": 4,
+            "line_number": 10,
+            "page_number": 501,
+            "text_madani": "عَلَيْكُمْ",
+            "code": "&#xfbe7;",
+            "code_v3": "&#xfbe7;",
+            "char_type": "word",
+            "translation": "terhadapmu"
+          },
+          {
+            "position": 5,
+            "line_number": 10,
+            "page_number": 501,
+            "text_madani": "بِالْحَقِّ",
+            "code": "&#xfbe8;",
+            "code_v3": "&#xfbe8;",
+            "char_type": "word",
+            "translation": "dengan benar"
+          },
+          {
+            "position": 6,
+            "line_number": 10,
+            "page_number": 501,
+            "text_madani": null,
+            "code": "&#xfbe9;",
+            "code_v3": "&#x6da;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 7,
+            "line_number": 10,
+            "page_number": 501,
+            "text_madani": "إِنَّا",
+            "code": "&#xfbea;",
+            "code_v3": "&#xfbea;",
+            "char_type": "word",
+            "translation": "sesungguhnya Kami"
+          },
+          {
+            "position": 8,
+            "line_number": 10,
+            "page_number": 501,
+            "text_madani": "كُنَّا",
+            "code": "&#xfbeb;",
+            "code_v3": "&#xfbeb;",
+            "char_type": "word",
+            "translation": "adalah Kami"
+          },
+          {
+            "position": 9,
+            "line_number": 10,
+            "page_number": 501,
+            "text_madani": "نَسْتَنْسِخُ",
+            "code": "&#xfbec;",
+            "code_v3": "&#xfbec;",
+            "char_type": "word",
+            "translation": "Kami menyuruh mencatat"
+          },
+          {
+            "position": 10,
+            "line_number": 11,
+            "page_number": 501,
+            "text_madani": "مَا",
+            "code": "&#xfbed;",
+            "code_v3": "&#xfbed;",
+            "char_type": "word",
+            "translation": "apa yang"
+          },
+          {
+            "position": 11,
+            "line_number": 11,
+            "page_number": 501,
+            "text_madani": "كُنْتُمْ",
+            "code": "&#xfbee;",
+            "code_v3": "&#xfbee;",
+            "char_type": "word",
+            "translation": "kamu adalah"
+          },
+          {
+            "position": 12,
+            "line_number": 11,
+            "page_number": 501,
+            "text_madani": "تَعْمَلُونَ",
+            "code": "&#xfbef;",
+            "code_v3": "&#xfbef;",
+            "char_type": "word",
+            "translation": "kamu kerjakan"
+          },
+          {
+            "position": 13,
+            "line_number": 11,
+            "page_number": 501,
+            "text_madani": null,
+            "code": "&#xfbf0;",
+            "code_v3": "&#xa029;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 30,
+        "verse_key": "45:30",
+        "text_madani": "فَأَمَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَيُدْخِلُهُمْ رَبُّهُمْ فِي رَحْمَتِهِ ۚ ذَٰلِكَ هُوَ الْفَوْزُ الْمُبِينُ",
+        "translation": "Maka adapun orang-orang yang beriman dan mengerjakan kebajikan, maka Tuhan memasukkan mereka ke dalam rahmat-Nya (surga). Demikian itulah kemenangan yang nyata.",
+        "page_number": 501,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 11,
+            "page_number": 501,
+            "text_madani": "فَأَمَّا",
+            "code": "&#xfbf1;",
+            "code_v3": "&#xfbf1;",
+            "char_type": "word",
+            "translation": "maka adapun"
+          },
+          {
+            "position": 2,
+            "line_number": 11,
+            "page_number": 501,
+            "text_madani": "الَّذِينَ",
+            "code": "&#xfbf2;",
+            "code_v3": "&#xfbf2;",
+            "char_type": "word",
+            "translation": "orang-orang yang"
+          },
+          {
+            "position": 3,
+            "line_number": 11,
+            "page_number": 501,
+            "text_madani": "آمَنُوا",
+            "code": "&#xfbf3;",
+            "code_v3": "&#xfbf3;",
+            "char_type": "word",
+            "translation": "beriman"
+          },
+          {
+            "position": 4,
+            "line_number": 11,
+            "page_number": 501,
+            "text_madani": "وَعَمِلُوا",
+            "code": "&#xfbf4;",
+            "code_v3": "&#xfbf4;",
+            "char_type": "word",
+            "translation": "dan berbuat"
+          },
+          {
+            "position": 5,
+            "line_number": 11,
+            "page_number": 501,
+            "text_madani": "الصَّالِحَاتِ",
+            "code": "&#xfbf5;",
+            "code_v3": "&#xfbf5;",
+            "char_type": "word",
+            "translation": "kebaikan"
+          },
+          {
+            "position": 6,
+            "line_number": 12,
+            "page_number": 501,
+            "text_madani": "فَيُدْخِلُهُمْ",
+            "code": "&#xfbf6;",
+            "code_v3": "&#xfbf6;",
+            "char_type": "word",
+            "translation": "maka memasukkan mereka"
+          },
+          {
+            "position": 7,
+            "line_number": 12,
+            "page_number": 501,
+            "text_madani": "رَبُّهُمْ",
+            "code": "&#xfbf7;",
+            "code_v3": "&#xfbf7;",
+            "char_type": "word",
+            "translation": "Tuhan mereka"
+          },
+          {
+            "position": 8,
+            "line_number": 12,
+            "page_number": 501,
+            "text_madani": "فِي",
+            "code": "&#xfbf8;",
+            "code_v3": "&#xfbf8;",
+            "char_type": "word",
+            "translation": "dalam"
+          },
+          {
+            "position": 9,
+            "line_number": 12,
+            "page_number": 501,
+            "text_madani": "رَحْمَتِهِ",
+            "code": "&#xfbf9;",
+            "code_v3": "&#xfbf9;",
+            "char_type": "word",
+            "translation": "rahmat-Nya"
+          },
+          {
+            "position": 10,
+            "line_number": 12,
+            "page_number": 501,
+            "text_madani": null,
+            "code": "&#xfbfa;",
+            "code_v3": "&#x6da;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 11,
+            "line_number": 12,
+            "page_number": 501,
+            "text_madani": "ذَٰلِكَ",
+            "code": "&#xfbfb;",
+            "code_v3": "&#xfbfb;",
+            "char_type": "word",
+            "translation": "demikian itu"
+          },
+          {
+            "position": 12,
+            "line_number": 12,
+            "page_number": 501,
+            "text_madani": "هُوَ",
+            "code": "&#xfbfc;",
+            "code_v3": "&#xfbfc;",
+            "char_type": "word",
+            "translation": "ia/itu"
+          },
+          {
+            "position": 13,
+            "line_number": 12,
+            "page_number": 501,
+            "text_madani": "الْفَوْزُ",
+            "code": "&#xfbfd;",
+            "code_v3": "&#xfbfd;",
+            "char_type": "word",
+            "translation": "keuntungan"
+          },
+          {
+            "position": 14,
+            "line_number": 12,
+            "page_number": 501,
+            "text_madani": "الْمُبِينُ",
+            "code": "&#xfbfe;",
+            "code_v3": "&#xfbfe;",
+            "char_type": "word",
+            "translation": "nyata"
+          },
+          {
+            "position": 15,
+            "line_number": 12,
+            "page_number": 501,
+            "text_madani": null,
+            "code": "&#xfbff;",
+            "code_v3": "&#xa030;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 31,
+        "verse_key": "45:31",
+        "text_madani": "وَأَمَّا الَّذِينَ كَفَرُوا أَفَلَمْ تَكُنْ آيَاتِي تُتْلَىٰ عَلَيْكُمْ فَاسْتَكْبَرْتُمْ وَكُنتُمْ قَوْمًا مُّجْرِمِينَ",
+        "translation": "Dan adapun (kepada) orang-orang yang kafir (difirmankan), “Bukankah ayat-ayat-Ku telah dibacakan kepadamu tetapi kamu menyombongkan diri dan kamu menjadi orang-orang yang berbuat dosa?”",
+        "page_number": 501,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 12,
+            "page_number": 501,
+            "text_madani": "وَأَمَّا",
+            "code": "&#xfc00;",
+            "code_v3": "&#xfc00;",
+            "char_type": "word",
+            "translation": "dan adapun"
+          },
+          {
+            "position": 2,
+            "line_number": 13,
+            "page_number": 501,
+            "text_madani": "الَّذِينَ",
+            "code": "&#xfc01;",
+            "code_v3": "&#xfc01;",
+            "char_type": "word",
+            "translation": "orang-orang yang"
+          },
+          {
+            "position": 3,
+            "line_number": 13,
+            "page_number": 501,
+            "text_madani": "كَفَرُوا",
+            "code": "&#xfc02;",
+            "code_v3": "&#xfc02;",
+            "char_type": "word",
+            "translation": "kafir"
+          },
+          {
+            "position": 4,
+            "line_number": 13,
+            "page_number": 501,
+            "text_madani": "أَفَلَمْ",
+            "code": "&#xfc03;",
+            "code_v3": "&#xfc03;",
+            "char_type": "word",
+            "translation": "apakah belum/tidak"
+          },
+          {
+            "position": 5,
+            "line_number": 13,
+            "page_number": 501,
+            "text_madani": "تَكُنْ",
+            "code": "&#xfc04;",
+            "code_v3": "&#xfc04;",
+            "char_type": "word",
+            "translation": "adalah"
+          },
+          {
+            "position": 6,
+            "line_number": 13,
+            "page_number": 501,
+            "text_madani": "آيَاتِي",
+            "code": "&#xfc05;",
+            "code_v3": "&#xfc05;",
+            "char_type": "word",
+            "translation": "ayat-ayat-Ku"
+          },
+          {
+            "position": 7,
+            "line_number": 13,
+            "page_number": 501,
+            "text_madani": "تُتْلَىٰ",
+            "code": "&#xfc06;",
+            "code_v3": "&#xfc06;",
+            "char_type": "word",
+            "translation": "dibacakan"
+          },
+          {
+            "position": 8,
+            "line_number": 13,
+            "page_number": 501,
+            "text_madani": "عَلَيْكُمْ",
+            "code": "&#xfc07;",
+            "code_v3": "&#xfc07;",
+            "char_type": "word",
+            "translation": "atas kamu"
+          },
+          {
+            "position": 9,
+            "line_number": 13,
+            "page_number": 501,
+            "text_madani": "فَاسْتَكْبَرْتُمْ",
+            "code": "&#xfc08;",
+            "code_v3": "&#xfc08;",
+            "char_type": "word",
+            "translation": "lalu kamu menyombngkan diri"
+          },
+          {
+            "position": 10,
+            "line_number": 13,
+            "page_number": 501,
+            "text_madani": "وَكُنْتُمْ",
+            "code": "&#xfc09;",
+            "code_v3": "&#xfc09;",
+            "char_type": "word",
+            "translation": "dan adalah kamu"
+          },
+          {
+            "position": 11,
+            "line_number": 13,
+            "page_number": 501,
+            "text_madani": "قَوْمًا",
+            "code": "&#xfc0a;",
+            "code_v3": "&#xfc0a;",
+            "char_type": "word",
+            "translation": "kaum"
+          },
+          {
+            "position": 12,
+            "line_number": 14,
+            "page_number": 501,
+            "text_madani": "مُجْرِمِينَ",
+            "code": "&#xfc0b;",
+            "code_v3": "&#xfc0b;",
+            "char_type": "word",
+            "translation": "orang-orang yang berdosa"
+          },
+          {
+            "position": 13,
+            "line_number": 14,
+            "page_number": 501,
+            "text_madani": null,
+            "code": "&#xfc0c;",
+            "code_v3": "&#xa031;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 32,
+        "verse_key": "45:32",
+        "text_madani": "وَإِذَا قِيلَ إِنَّ وَعْدَ اللَّهِ حَقٌّ وَالسَّاعَةُ لَا رَيْبَ فِيهَا قُلْتُم مَّا نَدْرِي مَا السَّاعَةُ إِن نَّظُنُّ إِلَّا ظَنًّا وَمَا نَحْنُ بِمُسْتَيْقِنِينَ",
+        "translation": "Dan apabila dikatakan (kepadamu), “Sungguh, janji Allah itu benar, dan hari Kiamat itu tidak diragukan adanya,” kamu menjawab, “Kami tidak tahu apakah hari Kiamat itu, kami hanyalah menduga-duga saja, dan kami tidak yakin.”",
+        "page_number": 501,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 14,
+            "page_number": 501,
+            "text_madani": "وَإِذَا",
+            "code": "&#xfc0d;",
+            "code_v3": "&#xfc0d;",
+            "char_type": "word",
+            "translation": "dan apabila"
+          },
+          {
+            "position": 2,
+            "line_number": 14,
+            "page_number": 501,
+            "text_madani": "قِيلَ",
+            "code": "&#xfc0e;",
+            "code_v3": "&#xfc0e;",
+            "char_type": "word",
+            "translation": "dikatakan"
+          },
+          {
+            "position": 3,
+            "line_number": 14,
+            "page_number": 501,
+            "text_madani": "إِنَّ",
+            "code": "&#xfc0f;",
+            "code_v3": "&#xfc0f;",
+            "char_type": "word",
+            "translation": "sesungguhnya"
+          },
+          {
+            "position": 4,
+            "line_number": 14,
+            "page_number": 501,
+            "text_madani": "وَعْدَ",
+            "code": "&#xfc10;",
+            "code_v3": "&#xfc10;",
+            "char_type": "word",
+            "translation": "janji"
+          },
+          {
+            "position": 5,
+            "line_number": 14,
+            "page_number": 501,
+            "text_madani": "اللَّهِ",
+            "code": "&#xfc11;",
+            "code_v3": "&#xfc11;",
+            "char_type": "word",
+            "translation": "Allah"
+          },
+          {
+            "position": 6,
+            "line_number": 14,
+            "page_number": 501,
+            "text_madani": "حَقٌّ",
+            "code": "&#xfc12;",
+            "code_v3": "&#xfc12;",
+            "char_type": "word",
+            "translation": "benar"
+          },
+          {
+            "position": 7,
+            "line_number": 14,
+            "page_number": 501,
+            "text_madani": "وَالسَّاعَةُ",
+            "code": "&#xfc13;",
+            "code_v3": "&#xfc13;",
+            "char_type": "word",
+            "translation": "dan kiamat"
+          },
+          {
+            "position": 8,
+            "line_number": 14,
+            "page_number": 501,
+            "text_madani": "لَا",
+            "code": "&#xfc14;",
+            "code_v3": "&#xfc14;",
+            "char_type": "word",
+            "translation": "tidak ada"
+          },
+          {
+            "position": 9,
+            "line_number": 14,
+            "page_number": 501,
+            "text_madani": "رَيْبَ",
+            "code": "&#xfc15;",
+            "code_v3": "&#xfc15;",
+            "char_type": "word",
+            "translation": "keraguan"
+          },
+          {
+            "position": 10,
+            "line_number": 14,
+            "page_number": 501,
+            "text_madani": "فِيهَا",
+            "code": "&#xfc16;",
+            "code_v3": "&#xfc16;",
+            "char_type": "word",
+            "translation": "didalamnya"
+          },
+          {
+            "position": 11,
+            "line_number": 14,
+            "page_number": 501,
+            "text_madani": "قُلْتُمْ",
+            "code": "&#xfc17;",
+            "code_v3": "&#xfc17;",
+            "char_type": "word",
+            "translation": "kamu mengatakan"
+          },
+          {
+            "position": 12,
+            "line_number": 15,
+            "page_number": 501,
+            "text_madani": "مَا",
+            "code": "&#xfc18;",
+            "code_v3": "&#xfc18;",
+            "char_type": "word",
+            "translation": "tidak"
+          },
+          {
+            "position": 13,
+            "line_number": 15,
+            "page_number": 501,
+            "text_madani": "نَدْرِي",
+            "code": "&#xfc19;",
+            "code_v3": "&#xfc19;",
+            "char_type": "word",
+            "translation": "kami tahu"
+          },
+          {
+            "position": 14,
+            "line_number": 15,
+            "page_number": 501,
+            "text_madani": "مَا",
+            "code": "&#xfc1a;",
+            "code_v3": "&#xfc1a;",
+            "char_type": "word",
+            "translation": "apa"
+          },
+          {
+            "position": 15,
+            "line_number": 15,
+            "page_number": 501,
+            "text_madani": "السَّاعَةُ",
+            "code": "&#xfc1b;",
+            "code_v3": "&#xfc1b;",
+            "char_type": "word",
+            "translation": "kiamat itu"
+          },
+          {
+            "position": 16,
+            "line_number": 15,
+            "page_number": 501,
+            "text_madani": "إِنْ",
+            "code": "&#xfc1c;",
+            "code_v3": "&#xfc1c;",
+            "char_type": "word",
+            "translation": "tidaklah"
+          },
+          {
+            "position": 17,
+            "line_number": 15,
+            "page_number": 501,
+            "text_madani": "نَظُنُّ",
+            "code": "&#xfc1d;",
+            "code_v3": "&#xfc1d;",
+            "char_type": "word",
+            "translation": "kami mengira"
+          },
+          {
+            "position": 18,
+            "line_number": 15,
+            "page_number": 501,
+            "text_madani": "إِلَّا",
+            "code": "&#xfc1e;",
+            "code_v3": "&#xfc1e;",
+            "char_type": "word",
+            "translation": "kecuali"
+          },
+          {
+            "position": 19,
+            "line_number": 15,
+            "page_number": 501,
+            "text_madani": "ظَنًّا",
+            "code": "&#xfc1f;",
+            "code_v3": "&#xfc1f;",
+            "char_type": "word",
+            "translation": "dugaan"
+          },
+          {
+            "position": 20,
+            "line_number": 15,
+            "page_number": 501,
+            "text_madani": "وَمَا",
+            "code": "&#xfc20;",
+            "code_v3": "&#xfc20;",
+            "char_type": "word",
+            "translation": "dan tidaklah"
+          },
+          {
+            "position": 21,
+            "line_number": 15,
+            "page_number": 501,
+            "text_madani": "نَحْنُ",
+            "code": "&#xfc21;",
+            "code_v3": "&#xfc21;",
+            "char_type": "word",
+            "translation": "kami"
+          },
+          {
+            "position": 22,
+            "line_number": 15,
+            "page_number": 501,
+            "text_madani": "بِمُسْتَيْقِنِينَ",
+            "code": "&#xfc22;",
+            "code_v3": "&#xfc22;",
+            "char_type": "word",
+            "translation": "orang-orang yang meyakini"
+          },
+          {
+            "position": 23,
+            "line_number": 15,
+            "page_number": 501,
+            "text_madani": null,
+            "code": "&#xfc23;",
+            "code_v3": "&#xa032;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 33,
+        "verse_key": "45:33",
+        "text_madani": "وَبَدَا لَهُمْ سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+        "translation": "Dan nyatalah bagi mereka keburukan-keburukan yang mereka kerjakan, dan berlakulah (azab) terhadap mereka yang dahulu mereka perolok-olokkan.",
+        "page_number": 502,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 1,
+            "page_number": 502,
+            "text_madani": "وَبَدَا",
+            "code": "&#xfb51;",
+            "code_v3": "&#xfb51;",
+            "char_type": "word",
+            "translation": "dan nyata"
+          },
+          {
+            "position": 2,
+            "line_number": 1,
+            "page_number": 502,
+            "text_madani": "لَهُمْ",
+            "code": "&#xfb52;",
+            "code_v3": "&#xfb52;",
+            "char_type": "word",
+            "translation": "bagi mereka"
+          },
+          {
+            "position": 3,
+            "line_number": 1,
+            "page_number": 502,
+            "text_madani": "سَيِّئَاتُ",
+            "code": "&#xfb53;",
+            "code_v3": "&#xfb53;",
+            "char_type": "word",
+            "translation": "kejelekan-kejelekan"
+          },
+          {
+            "position": 4,
+            "line_number": 1,
+            "page_number": 502,
+            "text_madani": "مَا",
+            "code": "&#xfb54;",
+            "code_v3": "&#xfb54;",
+            "char_type": "word",
+            "translation": "apa yang"
+          },
+          {
+            "position": 5,
+            "line_number": 1,
+            "page_number": 502,
+            "text_madani": "عَمِلُوا",
+            "code": "&#xfb55;",
+            "code_v3": "&#xfb55;",
+            "char_type": "word",
+            "translation": "mereka perbuat"
+          },
+          {
+            "position": 6,
+            "line_number": 1,
+            "page_number": 502,
+            "text_madani": "وَحَاقَ",
+            "code": "&#xfb56;",
+            "code_v3": "&#xfb56;",
+            "char_type": "word",
+            "translation": "dan meliputi"
+          },
+          {
+            "position": 7,
+            "line_number": 1,
+            "page_number": 502,
+            "text_madani": "بِهِمْ",
+            "code": "&#xfb57;",
+            "code_v3": "&#xfb57;",
+            "char_type": "word",
+            "translation": "pada mereka"
+          },
+          {
+            "position": 8,
+            "line_number": 1,
+            "page_number": 502,
+            "text_madani": "مَا",
+            "code": "&#xfb58;",
+            "code_v3": "&#xfb58;",
+            "char_type": "word",
+            "translation": "apa yang"
+          },
+          {
+            "position": 9,
+            "line_number": 1,
+            "page_number": 502,
+            "text_madani": "كَانُوا",
+            "code": "&#xfb59;",
+            "code_v3": "&#xfb59;",
+            "char_type": "word",
+            "translation": "mereka adalah"
+          },
+          {
+            "position": 10,
+            "line_number": 1,
+            "page_number": 502,
+            "text_madani": "بِهِ",
+            "code": "&#xfb5a;",
+            "code_v3": "&#xfb5a;",
+            "char_type": "word",
+            "translation": "dengannya"
+          },
+          {
+            "position": 11,
+            "line_number": 1,
+            "page_number": 502,
+            "text_madani": "يَسْتَهْزِئُونَ",
+            "code": "&#xfb5b;",
+            "code_v3": "&#xfb5b;",
+            "char_type": "word",
+            "translation": "mereka memperolok-olokan"
+          },
+          {
+            "position": 12,
+            "line_number": 1,
+            "page_number": 502,
+            "text_madani": null,
+            "code": "&#xfb5c;",
+            "code_v3": "&#xa033;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 34,
+        "verse_key": "45:34",
+        "text_madani": "وَقِيلَ الْيَوْمَ نَنسَاكُمْ كَمَا نَسِيتُمْ لِقَاءَ يَوْمِكُمْ هَٰذَا وَمَأْوَاكُمُ النَّارُ وَمَا لَكُم مِّن نَّاصِرِينَ",
+        "translation": "Dan kepada mereka dikatakan, “Pada hari ini Kami melupakan kamu sebagaimana kamu telah melupakan pertemuan (dengan) harimu ini; dan tempat kembalimu ialah neraka dan se-kali-kali tidak akan ada penolong bagimu.",
+        "page_number": 502,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 2,
+            "page_number": 502,
+            "text_madani": "وَقِيلَ",
+            "code": "&#xfb5d;",
+            "code_v3": "&#xfb5d;",
+            "char_type": "word",
+            "translation": "dan dikatakan"
+          },
+          {
+            "position": 2,
+            "line_number": 2,
+            "page_number": 502,
+            "text_madani": "الْيَوْمَ",
+            "code": "&#xfb5e;",
+            "code_v3": "&#xfb5e;",
+            "char_type": "word",
+            "translation": "pada hari"
+          },
+          {
+            "position": 3,
+            "line_number": 2,
+            "page_number": 502,
+            "text_madani": "نَنْسَاكُمْ",
+            "code": "&#xfb5f;",
+            "code_v3": "&#xfb5f;",
+            "char_type": "word",
+            "translation": "Kami melupakan"
+          },
+          {
+            "position": 4,
+            "line_number": 2,
+            "page_number": 502,
+            "text_madani": "كَمَا",
+            "code": "&#xfb60;",
+            "code_v3": "&#xfb60;",
+            "char_type": "word",
+            "translation": "sebagaimana"
+          },
+          {
+            "position": 5,
+            "line_number": 2,
+            "page_number": 502,
+            "text_madani": "نَسِيتُمْ",
+            "code": "&#xfb61;",
+            "code_v3": "&#xfb61;",
+            "char_type": "word",
+            "translation": "kamu melupakan"
+          },
+          {
+            "position": 6,
+            "line_number": 2,
+            "page_number": 502,
+            "text_madani": "لِقَاءَ",
+            "code": "&#xfb62;",
+            "code_v3": "&#xfb62;",
+            "char_type": "word",
+            "translation": "perjumpaan"
+          },
+          {
+            "position": 7,
+            "line_number": 2,
+            "page_number": 502,
+            "text_madani": "يَوْمِكُمْ",
+            "code": "&#xfb63;",
+            "code_v3": "&#xfb63;",
+            "char_type": "word",
+            "translation": "harimu"
+          },
+          {
+            "position": 8,
+            "line_number": 2,
+            "page_number": 502,
+            "text_madani": "هَٰذَا",
+            "code": "&#xfb64;",
+            "code_v3": "&#xfb64;",
+            "char_type": "word",
+            "translation": "ini"
+          },
+          {
+            "position": 9,
+            "line_number": 2,
+            "page_number": 502,
+            "text_madani": "وَمَأْوَاكُمُ",
+            "code": "&#xfb65;",
+            "code_v3": "&#xfb65;",
+            "char_type": "word",
+            "translation": "dan tempat tinggalmu"
+          },
+          {
+            "position": 10,
+            "line_number": 2,
+            "page_number": 502,
+            "text_madani": "النَّارُ",
+            "code": "&#xfb66;",
+            "code_v3": "&#xfb66;",
+            "char_type": "word",
+            "translation": "neraka"
+          },
+          {
+            "position": 11,
+            "line_number": 2,
+            "page_number": 502,
+            "text_madani": "وَمَا",
+            "code": "&#xfb67;",
+            "code_v3": "&#xfb67;",
+            "char_type": "word",
+            "translation": "dan tidak ada"
+          },
+          {
+            "position": 12,
+            "line_number": 3,
+            "page_number": 502,
+            "text_madani": "لَكُمْ",
+            "code": "&#xfb68;",
+            "code_v3": "&#xfb68;",
+            "char_type": "word",
+            "translation": "bagimu"
+          },
+          {
+            "position": 13,
+            "line_number": 3,
+            "page_number": 502,
+            "text_madani": "مِنْ",
+            "code": "&#xfb69;",
+            "code_v3": "&#xfb69;",
+            "char_type": "word",
+            "translation": "dari"
+          },
+          {
+            "position": 14,
+            "line_number": 3,
+            "page_number": 502,
+            "text_madani": "نَاصِرِينَ",
+            "code": "&#xfb6a;",
+            "code_v3": "&#xfb6a;",
+            "char_type": "word",
+            "translation": "seorang penolong"
+          },
+          {
+            "position": 15,
+            "line_number": 3,
+            "page_number": 502,
+            "text_madani": null,
+            "code": "&#xfb6b;",
+            "code_v3": "&#xa034;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 35,
+        "verse_key": "45:35",
+        "text_madani": "ذَٰلِكُم بِأَنَّكُمُ اتَّخَذْتُمْ آيَاتِ اللَّهِ هُزُوًا وَغَرَّتْكُمُ الْحَيَاةُ الدُّنْيَا ۚ فَالْيَوْمَ لَا يُخْرَجُونَ مِنْهَا وَلَا هُمْ يُسْتَعْتَبُونَ",
+        "translation": "Yang demikian itu, karena sesungguhnya kamu telah menjadikan ayat-ayat Allah sebagai olok-olokan dan kamu telah ditipu oleh kehidupan dunia.” Maka pada hari ini mereka tidak dikeluarkan dari neraka dan tidak pula mereka diberi kesempatan untuk bertobat.",
+        "page_number": 502,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 3,
+            "page_number": 502,
+            "text_madani": "ذَٰلِكُمْ",
+            "code": "&#xfb6c;",
+            "code_v3": "&#xfb6c;",
+            "char_type": "word",
+            "translation": "demikian tiu"
+          },
+          {
+            "position": 2,
+            "line_number": 3,
+            "page_number": 502,
+            "text_madani": "بِأَنَّكُمُ",
+            "code": "&#xfb6d;",
+            "code_v3": "&#xfb6d;",
+            "char_type": "word",
+            "translation": "karena sesungguhnya kamu"
+          },
+          {
+            "position": 3,
+            "line_number": 3,
+            "page_number": 502,
+            "text_madani": "اتَّخَذْتُمْ",
+            "code": "&#xfb6e;",
+            "code_v3": "&#xfb6e;",
+            "char_type": "word",
+            "translation": "kamu menjadikan"
+          },
+          {
+            "position": 4,
+            "line_number": 3,
+            "page_number": 502,
+            "text_madani": "آيَاتِ",
+            "code": "&#xfb6f;",
+            "code_v3": "&#xfb6f;",
+            "char_type": "word",
+            "translation": "ayat-ayat"
+          },
+          {
+            "position": 5,
+            "line_number": 3,
+            "page_number": 502,
+            "text_madani": "اللَّهِ",
+            "code": "&#xfb70;",
+            "code_v3": "&#xfb70;",
+            "char_type": "word",
+            "translation": "Allah"
+          },
+          {
+            "position": 6,
+            "line_number": 3,
+            "page_number": 502,
+            "text_madani": "هُزُوًا",
+            "code": "&#xfb71;",
+            "code_v3": "&#xfb71;",
+            "char_type": "word",
+            "translation": "olok-olokan"
+          },
+          {
+            "position": 7,
+            "line_number": 3,
+            "page_number": 502,
+            "text_madani": "وَغَرَّتْكُمُ",
+            "code": "&#xfb72;",
+            "code_v3": "&#xfb72;",
+            "char_type": "word",
+            "translation": "dan telah menipu kamu"
+          },
+          {
+            "position": 8,
+            "line_number": 4,
+            "page_number": 502,
+            "text_madani": "الْحَيَاةُ",
+            "code": "&#xfb73;",
+            "code_v3": "&#xfb73;",
+            "char_type": "word",
+            "translation": "kehidupan"
+          },
+          {
+            "position": 9,
+            "line_number": 4,
+            "page_number": 502,
+            "text_madani": "الدُّنْيَا",
+            "code": "&#xfb74;",
+            "code_v3": "&#xfb74;",
+            "char_type": "word",
+            "translation": "dunia"
+          },
+          {
+            "position": 10,
+            "line_number": 4,
+            "page_number": 502,
+            "text_madani": null,
+            "code": "&#xfb75;",
+            "code_v3": "&#x6da;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 11,
+            "line_number": 4,
+            "page_number": 502,
+            "text_madani": "فَالْيَوْمَ",
+            "code": "&#xfb76;",
+            "code_v3": "&#xfb76;",
+            "char_type": "word",
+            "translation": "maka pada hari"
+          },
+          {
+            "position": 12,
+            "line_number": 4,
+            "page_number": 502,
+            "text_madani": "لَا",
+            "code": "&#xfb77;",
+            "code_v3": "&#xfb77;",
+            "char_type": "word",
+            "translation": "tidak"
+          },
+          {
+            "position": 13,
+            "line_number": 4,
+            "page_number": 502,
+            "text_madani": "يُخْرَجُونَ",
+            "code": "&#xfb78;",
+            "code_v3": "&#xfb78;",
+            "char_type": "word",
+            "translation": "mereka dikeluarkan"
+          },
+          {
+            "position": 14,
+            "line_number": 4,
+            "page_number": 502,
+            "text_madani": "مِنْهَا",
+            "code": "&#xfb79;",
+            "code_v3": "&#xfb79;",
+            "char_type": "word",
+            "translation": "darinya(neraka)"
+          },
+          {
+            "position": 15,
+            "line_number": 4,
+            "page_number": 502,
+            "text_madani": "وَلَا",
+            "code": "&#xfb7a;",
+            "code_v3": "&#xfb7a;",
+            "char_type": "word",
+            "translation": "dan tidaklah"
+          },
+          {
+            "position": 16,
+            "line_number": 4,
+            "page_number": 502,
+            "text_madani": "هُمْ",
+            "code": "&#xfb7b;",
+            "code_v3": "&#xfb7b;",
+            "char_type": "word",
+            "translation": "mereka"
+          },
+          {
+            "position": 17,
+            "line_number": 4,
+            "page_number": 502,
+            "text_madani": "يُسْتَعْتَبُونَ",
+            "code": "&#xfb7c;",
+            "code_v3": "&#xfb7c;",
+            "char_type": "word",
+            "translation": "mereka diberi kesempatan bertaubat"
+          },
+          {
+            "position": 18,
+            "line_number": 4,
+            "page_number": 502,
+            "text_madani": null,
+            "code": "&#xfb7d;",
+            "code_v3": "&#xa035;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 36,
+        "verse_key": "45:36",
+        "text_madani": "فَلِلَّهِ الْحَمْدُ رَبِّ السَّمَاوَاتِ وَرَبِّ الْأَرْضِ رَبِّ الْعَالَمِينَ",
+        "translation": "Segala puji hanya bagi Allah, Tuhan (pemilik) langit dan bumi, Tuhan seluruh alam.",
+        "page_number": 502,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 5,
+            "page_number": 502,
+            "text_madani": "فَلِلَّهِ",
+            "code": "&#xfb7e;",
+            "code_v3": "&#xfb7e;",
+            "char_type": "word",
+            "translation": "maka bagi Allah"
+          },
+          {
+            "position": 2,
+            "line_number": 5,
+            "page_number": 502,
+            "text_madani": "الْحَمْدُ",
+            "code": "&#xfb7f;",
+            "code_v3": "&#xfb7f;",
+            "char_type": "word",
+            "translation": "segala puji"
+          },
+          {
+            "position": 3,
+            "line_number": 5,
+            "page_number": 502,
+            "text_madani": "رَبِّ",
+            "code": "&#xfb80;",
+            "code_v3": "&#xfb80;",
+            "char_type": "word",
+            "translation": "Tuhan"
+          },
+          {
+            "position": 4,
+            "line_number": 5,
+            "page_number": 502,
+            "text_madani": "السَّمَاوَاتِ",
+            "code": "&#xfb81;",
+            "code_v3": "&#xfb81;",
+            "char_type": "word",
+            "translation": "langit"
+          },
+          {
+            "position": 5,
+            "line_number": 5,
+            "page_number": 502,
+            "text_madani": "وَرَبِّ",
+            "code": "&#xfb82;",
+            "code_v3": "&#xfb82;",
+            "char_type": "word",
+            "translation": "dan Tuhan"
+          },
+          {
+            "position": 6,
+            "line_number": 5,
+            "page_number": 502,
+            "text_madani": "الْأَرْضِ",
+            "code": "&#xfb83;",
+            "code_v3": "&#xfb83;",
+            "char_type": "word",
+            "translation": "Bumi"
+          },
+          {
+            "position": 7,
+            "line_number": 5,
+            "page_number": 502,
+            "text_madani": "رَبِّ",
+            "code": "&#xfb84;",
+            "code_v3": "&#xfb84;",
+            "char_type": "word",
+            "translation": "Tuhan"
+          },
+          {
+            "position": 8,
+            "line_number": 5,
+            "page_number": 502,
+            "text_madani": "الْعَالَمِينَ",
+            "code": "&#xfb85;",
+            "code_v3": "&#xfb85;",
+            "char_type": "word",
+            "translation": "semesta alam"
+          },
+          {
+            "position": 9,
+            "line_number": 5,
+            "page_number": 502,
+            "text_madani": null,
+            "code": "&#xfb86;",
+            "code_v3": "&#xa036;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 37,
+        "verse_key": "45:37",
+        "text_madani": "وَلَهُ الْكِبْرِيَاءُ فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+        "translation": "Dan hanya bagi-Nya segala keagungan di langit dan di bumi, dan Dialah Yang Mahaperkasa, Mahabijaksana.",
+        "page_number": 502,
+        "juz_number": 25,
+        "hizb_number": 50,
+        "rub_number": 200,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 5,
+            "page_number": 502,
+            "text_madani": "وَلَهُ",
+            "code": "&#xfb87;",
+            "code_v3": "&#xfb87;",
+            "char_type": "word",
+            "translation": "dan bagi-Nya"
+          },
+          {
+            "position": 2,
+            "line_number": 6,
+            "page_number": 502,
+            "text_madani": "الْكِبْرِيَاءُ",
+            "code": "&#xfb88;",
+            "code_v3": "&#xfb88;",
+            "char_type": "word",
+            "translation": "kebesaran"
+          },
+          {
+            "position": 3,
+            "line_number": 6,
+            "page_number": 502,
+            "text_madani": "فِي",
+            "code": "&#xfb89;",
+            "code_v3": "&#xfb89;",
+            "char_type": "word",
+            "translation": "di"
+          },
+          {
+            "position": 4,
+            "line_number": 6,
+            "page_number": 502,
+            "text_madani": "السَّمَاوَاتِ",
+            "code": "&#xfb8a;",
+            "code_v3": "&#xfb8a;",
+            "char_type": "word",
+            "translation": "langit"
+          },
+          {
+            "position": 5,
+            "line_number": 6,
+            "page_number": 502,
+            "text_madani": "وَالْأَرْضِ",
+            "code": "&#xfb8b;",
+            "code_v3": "&#xfb8b;",
+            "char_type": "word",
+            "translation": "dan bumi"
+          },
+          {
+            "position": 6,
+            "line_number": 6,
+            "page_number": 502,
+            "text_madani": null,
+            "code": "&#xfb8c;",
+            "code_v3": "&#x6d6;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 7,
+            "line_number": 6,
+            "page_number": 502,
+            "text_madani": "وَهُوَ",
+            "code": "&#xfb8d;",
+            "code_v3": "&#xfb8d;",
+            "char_type": "word",
+            "translation": "dan Dia"
+          },
+          {
+            "position": 8,
+            "line_number": 6,
+            "page_number": 502,
+            "text_madani": "الْعَزِيزُ",
+            "code": "&#xfb8e;",
+            "code_v3": "&#xfb8e;",
+            "char_type": "word",
+            "translation": "Maha Perkasa"
+          },
+          {
+            "position": 9,
+            "line_number": 6,
+            "page_number": 502,
+            "text_madani": "الْحَكِيمُ",
+            "code": "&#xfb8f;",
+            "code_v3": "&#xfb8f;",
+            "char_type": "word",
+            "translation": "Maha Bijaksana"
+          },
+          {
+            "position": 10,
+            "line_number": 6,
+            "page_number": 502,
+            "text_madani": null,
+            "code": "&#xfb90;",
+            "code_v3": "&#xa037;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      }
+    ]
+  }
+}

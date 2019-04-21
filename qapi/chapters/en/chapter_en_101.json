@@ -1,0 +1,506 @@
+{
+  "chapters": {
+    "chapter_number": 101,
+    "bismillah_pre": true,
+    "revelation_order": 30,
+    "revelation_place": "makkah",
+    "name_arabic": "القارعة",
+    "name_complex": "Al-Qāri`ah",
+    "name_simple": "Al-Qari'ah",
+    "verses_count": 11,
+    "pages": [
+      600,
+      600
+    ],
+    "meaning": {
+      "text": "The Calamity",
+      "en": "The Calamity",
+      "id": "The Calamity"
+    },
+    "verses": [
+      {
+        "verse_number": 1,
+        "verse_key": "101:1",
+        "text_madani": "الْقَارِعَةُ",
+        "translation": "The terrible calamity!",
+        "page_number": 600,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 4,
+            "page_number": 600,
+            "text_madani": "الْقَارِعَةُ",
+            "translation": "The Striking Calamity!"
+          },
+          {
+            "position": 2,
+            "line_number": 4,
+            "page_number": 600,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 2,
+        "verse_key": "101:2",
+        "text_madani": "مَا الْقَارِعَةُ",
+        "translation": "What is the terrible calamity!",
+        "page_number": 600,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 4,
+            "page_number": 600,
+            "text_madani": "مَا",
+            "translation": "What"
+          },
+          {
+            "position": 2,
+            "line_number": 4,
+            "page_number": 600,
+            "text_madani": "الْقَارِعَةُ",
+            "translation": "(is) the Striking Calamity"
+          },
+          {
+            "position": 3,
+            "line_number": 4,
+            "page_number": 600,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 3,
+        "verse_key": "101:3",
+        "text_madani": "وَمَا أَدْرَاكَ مَا الْقَارِعَةُ",
+        "translation": "And what will make you comprehend what the terrible calamity is?",
+        "page_number": 600,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 4,
+            "page_number": 600,
+            "text_madani": "وَمَا",
+            "translation": "And what"
+          },
+          {
+            "position": 2,
+            "line_number": 4,
+            "page_number": 600,
+            "text_madani": "أَدْرَاكَ",
+            "translation": "will make you know"
+          },
+          {
+            "position": 3,
+            "line_number": 4,
+            "page_number": 600,
+            "text_madani": "مَا",
+            "translation": "what"
+          },
+          {
+            "position": 4,
+            "line_number": 4,
+            "page_number": 600,
+            "text_madani": "الْقَارِعَةُ",
+            "translation": "(is) the Striking Calamity"
+          },
+          {
+            "position": 5,
+            "line_number": 5,
+            "page_number": 600,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 4,
+        "verse_key": "101:4",
+        "text_madani": "يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ",
+        "translation": "The day on which men shall be as scattered moths,",
+        "page_number": 600,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 5,
+            "page_number": 600,
+            "text_madani": "يَوْمَ",
+            "translation": "(The) Day"
+          },
+          {
+            "position": 2,
+            "line_number": 5,
+            "page_number": 600,
+            "text_madani": "يَكُونُ",
+            "translation": "will be"
+          },
+          {
+            "position": 3,
+            "line_number": 5,
+            "page_number": 600,
+            "text_madani": "النَّاسُ",
+            "translation": "the mankind"
+          },
+          {
+            "position": 4,
+            "line_number": 5,
+            "page_number": 600,
+            "text_madani": "كَالْفَرَاشِ",
+            "translation": "like moths"
+          },
+          {
+            "position": 5,
+            "line_number": 5,
+            "page_number": 600,
+            "text_madani": "الْمَبْثُوثِ",
+            "translation": "scattered"
+          },
+          {
+            "position": 6,
+            "line_number": 5,
+            "page_number": 600,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 5,
+        "verse_key": "101:5",
+        "text_madani": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ",
+        "translation": "And the mountains shall be as loosened wool.",
+        "page_number": 600,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 6,
+            "page_number": 600,
+            "text_madani": "وَتَكُونُ",
+            "translation": "And will be"
+          },
+          {
+            "position": 2,
+            "line_number": 6,
+            "page_number": 600,
+            "text_madani": "الْجِبَالُ",
+            "translation": "the mountains"
+          },
+          {
+            "position": 3,
+            "line_number": 6,
+            "page_number": 600,
+            "text_madani": "كَالْعِهْنِ",
+            "translation": "like wool"
+          },
+          {
+            "position": 4,
+            "line_number": 6,
+            "page_number": 600,
+            "text_madani": "الْمَنْفُوشِ",
+            "translation": "fluffed up"
+          },
+          {
+            "position": 5,
+            "line_number": 6,
+            "page_number": 600,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 6,
+        "verse_key": "101:6",
+        "text_madani": "فَأَمَّا مَن ثَقُلَتْ مَوَازِينُهُ",
+        "translation": "Then as for him whose measure of good deeds is heavy,",
+        "page_number": 600,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 6,
+            "page_number": 600,
+            "text_madani": "فَأَمَّا",
+            "translation": "Then as for"
+          },
+          {
+            "position": 2,
+            "line_number": 7,
+            "page_number": 600,
+            "text_madani": "مَنْ",
+            "translation": "(him) whose"
+          },
+          {
+            "position": 3,
+            "line_number": 7,
+            "page_number": 600,
+            "text_madani": "ثَقُلَتْ",
+            "translation": "are heavy"
+          },
+          {
+            "position": 4,
+            "line_number": 7,
+            "page_number": 600,
+            "text_madani": "مَوَازِينُهُ",
+            "translation": "his scales"
+          },
+          {
+            "position": 5,
+            "line_number": 7,
+            "page_number": 600,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 7,
+        "verse_key": "101:7",
+        "text_madani": "فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ",
+        "translation": "He shall live a pleasant life.",
+        "page_number": 600,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 7,
+            "page_number": 600,
+            "text_madani": "فَهُوَ",
+            "translation": "Then he"
+          },
+          {
+            "position": 2,
+            "line_number": 7,
+            "page_number": 600,
+            "text_madani": "فِي",
+            "translation": "(will be) in"
+          },
+          {
+            "position": 3,
+            "line_number": 7,
+            "page_number": 600,
+            "text_madani": "عِيشَةٍ",
+            "translation": "a life"
+          },
+          {
+            "position": 4,
+            "line_number": 7,
+            "page_number": 600,
+            "text_madani": "رَاضِيَةٍ",
+            "translation": "pleasant"
+          },
+          {
+            "position": 5,
+            "line_number": 8,
+            "page_number": 600,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 8,
+        "verse_key": "101:8",
+        "text_madani": "وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ",
+        "translation": "And as for him whose measure of good deeds is light,",
+        "page_number": 600,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 8,
+            "page_number": 600,
+            "text_madani": "وَأَمَّا",
+            "translation": "But as for"
+          },
+          {
+            "position": 2,
+            "line_number": 8,
+            "page_number": 600,
+            "text_madani": "مَنْ",
+            "translation": "(him) whose"
+          },
+          {
+            "position": 3,
+            "line_number": 8,
+            "page_number": 600,
+            "text_madani": "خَفَّتْ",
+            "translation": "are light"
+          },
+          {
+            "position": 4,
+            "line_number": 8,
+            "page_number": 600,
+            "text_madani": "مَوَازِينُهُ",
+            "translation": "his scales"
+          },
+          {
+            "position": 5,
+            "line_number": 8,
+            "page_number": 600,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 9,
+        "verse_key": "101:9",
+        "text_madani": "فَأُمُّهُ هَاوِيَةٌ",
+        "translation": "His abode shall be the abyss.",
+        "page_number": 600,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 8,
+            "page_number": 600,
+            "text_madani": "فَأُمُّهُ",
+            "translation": "His abode"
+          },
+          {
+            "position": 2,
+            "line_number": 8,
+            "page_number": 600,
+            "text_madani": "هَاوِيَةٌ",
+            "translation": "(will be the) Pit"
+          },
+          {
+            "position": 3,
+            "line_number": 9,
+            "page_number": 600,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 10,
+        "verse_key": "101:10",
+        "text_madani": "وَمَا أَدْرَاكَ مَا هِيَهْ",
+        "translation": "And what will make you know what it is?",
+        "page_number": 600,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 9,
+            "page_number": 600,
+            "text_madani": "وَمَا",
+            "translation": "And what"
+          },
+          {
+            "position": 2,
+            "line_number": 9,
+            "page_number": 600,
+            "text_madani": "أَدْرَاكَ",
+            "translation": "will make you know"
+          },
+          {
+            "position": 3,
+            "line_number": 9,
+            "page_number": 600,
+            "text_madani": "مَا",
+            "translation": "what"
+          },
+          {
+            "position": 4,
+            "line_number": 9,
+            "page_number": 600,
+            "text_madani": "هِيَهْ",
+            "translation": "it is"
+          },
+          {
+            "position": 5,
+            "line_number": 9,
+            "page_number": 600,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 11,
+        "verse_key": "101:11",
+        "text_madani": "نَارٌ حَامِيَةٌ",
+        "translation": "A burning fire.",
+        "page_number": 600,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 9,
+            "page_number": 600,
+            "text_madani": "نَارٌ",
+            "translation": "A Fire"
+          },
+          {
+            "position": 2,
+            "line_number": 9,
+            "page_number": 600,
+            "text_madani": "حَامِيَةٌ",
+            "translation": "intensely hot"
+          },
+          {
+            "position": 3,
+            "line_number": 9,
+            "page_number": 600,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      }
+    ]
+  }
+}

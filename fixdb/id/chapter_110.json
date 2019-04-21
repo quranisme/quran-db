@@ -1,0 +1,295 @@
+{
+  "chapters": {
+    "chapter_number": 110,
+    "bismillah_pre": true,
+    "revelation_order": 114,
+    "revelation_place": "madinah",
+    "name_arabic": "النصر",
+    "name_complex": "An-Naşr",
+    "name_simple": "An-Nasr",
+    "verses_count": 3,
+    "pages": [
+      603,
+      603
+    ],
+    "meaning": {
+      "text": "The Divine Support",
+      "en": "The Divine Support",
+      "id": "The Divine Support"
+    },
+    "verses": [
+      {
+        "verse_number": 1,
+        "verse_key": "110:1",
+        "text_madani": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+        "translation": "Apabila telah datang pertolongan Allah dan kemenangan,",
+        "page_number": 603,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 8,
+            "page_number": 603,
+            "text_madani": "إِذَا",
+            "code": "&#xfb71;",
+            "code_v3": "&#xfb71;",
+            "char_type": "word",
+            "translation": "dan kemenangan"
+          },
+          {
+            "position": 2,
+            "line_number": 8,
+            "page_number": 603,
+            "text_madani": "جَاءَ",
+            "code": "&#xfb72;",
+            "code_v3": "&#xfb72;",
+            "char_type": "word",
+            "translation": ""
+          },
+          {
+            "position": 3,
+            "line_number": 8,
+            "page_number": 603,
+            "text_madani": "نَصْرُ",
+            "code": "&#xfb73;",
+            "code_v3": "&#xfb73;",
+            "char_type": "word",
+            "translation": ""
+          },
+          {
+            "position": 4,
+            "line_number": 8,
+            "page_number": 603,
+            "text_madani": "اللَّهِ",
+            "code": "&#xfb74;",
+            "code_v3": "&#xfb74;",
+            "char_type": "word",
+            "translation": ""
+          },
+          {
+            "position": 5,
+            "line_number": 8,
+            "page_number": 603,
+            "text_madani": "وَالْفَتْحُ",
+            "code": "&#xfb75;",
+            "code_v3": "&#xfb75;",
+            "char_type": "word",
+            "translation": ""
+          },
+          {
+            "position": 6,
+            "line_number": 8,
+            "page_number": 603,
+            "text_madani": null,
+            "code": "&#xfb76;",
+            "code_v3": "&#xa001;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 2,
+        "verse_key": "110:2",
+        "text_madani": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+        "translation": "dan engkau melihat manusia berbondong-bondong masuk agama Allah,",
+        "page_number": 603,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 8,
+            "page_number": 603,
+            "text_madani": "وَرَأَيْتَ",
+            "code": "&#xfb77;",
+            "code_v3": "&#xfb77;",
+            "char_type": "word",
+            "translation": "dan kamu lihat"
+          },
+          {
+            "position": 2,
+            "line_number": 8,
+            "page_number": 603,
+            "text_madani": "النَّاسَ",
+            "code": "&#xfb78;",
+            "code_v3": "&#xfb78;",
+            "char_type": "word",
+            "translation": "manusia"
+          },
+          {
+            "position": 3,
+            "line_number": 9,
+            "page_number": 603,
+            "text_madani": "يَدْخُلُونَ",
+            "code": "&#xfb79;",
+            "code_v3": "&#xfb79;",
+            "char_type": "word",
+            "translation": "masuk"
+          },
+          {
+            "position": 4,
+            "line_number": 9,
+            "page_number": 603,
+            "text_madani": "فِي",
+            "code": "&#xfb7a;",
+            "code_v3": "&#xfb7a;",
+            "char_type": "word",
+            "translation": "kedalam"
+          },
+          {
+            "position": 5,
+            "line_number": 9,
+            "page_number": 603,
+            "text_madani": "دِينِ",
+            "code": "&#xfb7b;",
+            "code_v3": "&#xfb7b;",
+            "char_type": "word",
+            "translation": "agama"
+          },
+          {
+            "position": 6,
+            "line_number": 9,
+            "page_number": 603,
+            "text_madani": "اللَّهِ",
+            "code": "&#xfb7c;",
+            "code_v3": "&#xfb7c;",
+            "char_type": "word",
+            "translation": "Allah"
+          },
+          {
+            "position": 7,
+            "line_number": 9,
+            "page_number": 603,
+            "text_madani": "أَفْوَاجًا",
+            "code": "&#xfb7d;",
+            "code_v3": "&#xfb7d;",
+            "char_type": "word",
+            "translation": "berbondong-bondong"
+          },
+          {
+            "position": 8,
+            "line_number": 9,
+            "page_number": 603,
+            "text_madani": null,
+            "code": "&#xfb7e;",
+            "code_v3": "&#xa002;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 3,
+        "verse_key": "110:3",
+        "text_madani": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا",
+        "translation": "maka bertasbihlah dengan memuji Tuhanmu dan mohonlah ampunan kepada-Nya. Sungguh, Dia Maha Penerima tobat.",
+        "page_number": 603,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 9,
+            "page_number": 603,
+            "text_madani": "فَسَبِّحْ",
+            "code": "&#xfb7f;",
+            "code_v3": "&#xfb7f;",
+            "char_type": "word",
+            "translation": "maka bertasbihlah"
+          },
+          {
+            "position": 2,
+            "line_number": 9,
+            "page_number": 603,
+            "text_madani": "بِحَمْدِ",
+            "code": "&#xfb80;",
+            "code_v3": "&#xfb80;",
+            "char_type": "word",
+            "translation": "dengan memuji"
+          },
+          {
+            "position": 3,
+            "line_number": 9,
+            "page_number": 603,
+            "text_madani": "رَبِّكَ",
+            "code": "&#xfb81;",
+            "code_v3": "&#xfb81;",
+            "char_type": "word",
+            "translation": "Tuhanmu"
+          },
+          {
+            "position": 4,
+            "line_number": 10,
+            "page_number": 603,
+            "text_madani": "وَاسْتَغْفِرْهُ",
+            "code": "&#xfb82;",
+            "code_v3": "&#xfb82;",
+            "char_type": "word",
+            "translation": "dan mohonlah ampun"
+          },
+          {
+            "position": 5,
+            "line_number": 10,
+            "page_number": 603,
+            "text_madani": null,
+            "code": "&#xfb83;",
+            "code_v3": "&#x6da;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 6,
+            "line_number": 10,
+            "page_number": 603,
+            "text_madani": "إِنَّهُ",
+            "code": "&#xfb84;",
+            "code_v3": "&#xfb84;",
+            "char_type": "word",
+            "translation": "sesungguhnya Dia"
+          },
+          {
+            "position": 7,
+            "line_number": 10,
+            "page_number": 603,
+            "text_madani": "كَانَ",
+            "code": "&#xfb85;",
+            "code_v3": "&#xfb85;",
+            "char_type": "word",
+            "translation": "adalah Dia"
+          },
+          {
+            "position": 8,
+            "line_number": 10,
+            "page_number": 603,
+            "text_madani": "تَوَّابًا",
+            "code": "&#xfb86;",
+            "code_v3": "&#xfb86;",
+            "char_type": "word",
+            "translation": "Maha Penerima Taubat"
+          },
+          {
+            "position": 9,
+            "line_number": 10,
+            "page_number": 603,
+            "text_madani": null,
+            "code": "&#xfb87;",
+            "code_v3": "&#xa003;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      }
+    ]
+  }
+}

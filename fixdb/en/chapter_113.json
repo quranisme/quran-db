@@ -1,0 +1,373 @@
+{
+  "chapters": {
+    "chapter_number": 113,
+    "bismillah_pre": true,
+    "revelation_order": 20,
+    "revelation_place": "makkah",
+    "name_arabic": "الفلق",
+    "name_complex": "Al-Falaq",
+    "name_simple": "Al-Falaq",
+    "verses_count": 5,
+    "pages": [
+      604,
+      604
+    ],
+    "meaning": {
+      "text": "The Daybreak",
+      "en": "The Daybreak",
+      "id": "The Daybreak"
+    },
+    "verses": [
+      {
+        "verse_number": 1,
+        "verse_key": "113:1",
+        "text_madani": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+        "translation": "Say: I seek refuge in the Lord of the dawn,",
+        "page_number": 604,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 7,
+            "page_number": 604,
+            "text_madani": "قُلْ",
+            "code": "&#xfb64;",
+            "code_v3": "&#xfb64;",
+            "char_type": "word",
+            "translation": "Say"
+          },
+          {
+            "position": 2,
+            "line_number": 7,
+            "page_number": 604,
+            "text_madani": "أَعُوذُ",
+            "code": "&#xfb65;",
+            "code_v3": "&#xfb65;",
+            "char_type": "word",
+            "translation": "I seek refuge"
+          },
+          {
+            "position": 3,
+            "line_number": 7,
+            "page_number": 604,
+            "text_madani": "بِرَبِّ",
+            "code": "&#xfb66;",
+            "code_v3": "&#xfb66;",
+            "char_type": "word",
+            "translation": "in (the) Lord"
+          },
+          {
+            "position": 4,
+            "line_number": 7,
+            "page_number": 604,
+            "text_madani": "الْفَلَقِ",
+            "code": "&#xfb67;",
+            "code_v3": "&#xfb67;",
+            "char_type": "word",
+            "translation": "(of) the dawn"
+          },
+          {
+            "position": 5,
+            "line_number": 7,
+            "page_number": 604,
+            "text_madani": null,
+            "code": "&#xfb68;",
+            "code_v3": "&#xa001;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 2,
+        "verse_key": "113:2",
+        "text_madani": "مِن شَرِّ مَا خَلَقَ",
+        "translation": "From the evil of what He has created,",
+        "page_number": 604,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 7,
+            "page_number": 604,
+            "text_madani": "مِنْ",
+            "code": "&#xfb69;",
+            "code_v3": "&#xfb69;",
+            "char_type": "word",
+            "translation": "From"
+          },
+          {
+            "position": 2,
+            "line_number": 7,
+            "page_number": 604,
+            "text_madani": "شَرِّ",
+            "code": "&#xfb6a;",
+            "code_v3": "&#xfb6a;",
+            "char_type": "word",
+            "translation": "(the) evil"
+          },
+          {
+            "position": 3,
+            "line_number": 7,
+            "page_number": 604,
+            "text_madani": "مَا",
+            "code": "&#xfb6b;",
+            "code_v3": "&#xfb6b;",
+            "char_type": "word",
+            "translation": "(of) what"
+          },
+          {
+            "position": 4,
+            "line_number": 7,
+            "page_number": 604,
+            "text_madani": "خَلَقَ",
+            "code": "&#xfb6c;",
+            "code_v3": "&#xfb6c;",
+            "char_type": "word",
+            "translation": "He created"
+          },
+          {
+            "position": 5,
+            "line_number": 7,
+            "page_number": 604,
+            "text_madani": null,
+            "code": "&#xfb6d;",
+            "code_v3": "&#xa002;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 3,
+        "verse_key": "113:3",
+        "text_madani": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+        "translation": "And from the evil of the utterly dark night when it comes,",
+        "page_number": 604,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 7,
+            "page_number": 604,
+            "text_madani": "وَمِنْ",
+            "code": "&#xfb6e;",
+            "code_v3": "&#xfb6e;",
+            "char_type": "word",
+            "translation": "And from"
+          },
+          {
+            "position": 2,
+            "line_number": 8,
+            "page_number": 604,
+            "text_madani": "شَرِّ",
+            "code": "&#xfb6f;",
+            "code_v3": "&#xfb6f;",
+            "char_type": "word",
+            "translation": "(the) evil"
+          },
+          {
+            "position": 3,
+            "line_number": 8,
+            "page_number": 604,
+            "text_madani": "غَاسِقٍ",
+            "code": "&#xfb70;",
+            "code_v3": "&#xfb70;",
+            "char_type": "word",
+            "translation": "(of) darkness"
+          },
+          {
+            "position": 4,
+            "line_number": 8,
+            "page_number": 604,
+            "text_madani": "إِذَا",
+            "code": "&#xfb71;",
+            "code_v3": "&#xfb71;",
+            "char_type": "word",
+            "translation": "when"
+          },
+          {
+            "position": 5,
+            "line_number": 8,
+            "page_number": 604,
+            "text_madani": "وَقَبَ",
+            "code": "&#xfb72;",
+            "code_v3": "&#xfb72;",
+            "char_type": "word",
+            "translation": "it spreads"
+          },
+          {
+            "position": 6,
+            "line_number": 8,
+            "page_number": 604,
+            "text_madani": null,
+            "code": "&#xfb73;",
+            "code_v3": "&#xa003;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 4,
+        "verse_key": "113:4",
+        "text_madani": "وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+        "translation": "And from the evil of those who blow on knots,",
+        "page_number": 604,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 8,
+            "page_number": 604,
+            "text_madani": "وَمِنْ",
+            "code": "&#xfb74;",
+            "code_v3": "&#xfb74;",
+            "char_type": "word",
+            "translation": "And from"
+          },
+          {
+            "position": 2,
+            "line_number": 8,
+            "page_number": 604,
+            "text_madani": "شَرِّ",
+            "code": "&#xfb75;",
+            "code_v3": "&#xfb75;",
+            "char_type": "word",
+            "translation": "(the) evil"
+          },
+          {
+            "position": 3,
+            "line_number": 8,
+            "page_number": 604,
+            "text_madani": "النَّفَّاثَاتِ",
+            "code": "&#xfb76;",
+            "code_v3": "&#xfb76;",
+            "char_type": "word",
+            "translation": "(of) the blowers"
+          },
+          {
+            "position": 4,
+            "line_number": 8,
+            "page_number": 604,
+            "text_madani": "فِي",
+            "code": "&#xfb77;",
+            "code_v3": "&#xfb77;",
+            "char_type": "word",
+            "translation": "in"
+          },
+          {
+            "position": 5,
+            "line_number": 9,
+            "page_number": 604,
+            "text_madani": "الْعُقَدِ",
+            "code": "&#xfb78;",
+            "code_v3": "&#xfb78;",
+            "char_type": "word",
+            "translation": "the knots"
+          },
+          {
+            "position": 6,
+            "line_number": 9,
+            "page_number": 604,
+            "text_madani": null,
+            "code": "&#xfb79;",
+            "code_v3": "&#xa004;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 5,
+        "verse_key": "113:5",
+        "text_madani": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+        "translation": "And from the evil of the envious when he envies",
+        "page_number": 604,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 9,
+            "page_number": 604,
+            "text_madani": "وَمِنْ",
+            "code": "&#xfb7a;",
+            "code_v3": "&#xfb7a;",
+            "char_type": "word",
+            "translation": "And from"
+          },
+          {
+            "position": 2,
+            "line_number": 9,
+            "page_number": 604,
+            "text_madani": "شَرِّ",
+            "code": "&#xfb7b;",
+            "code_v3": "&#xfb7b;",
+            "char_type": "word",
+            "translation": "(the) evil"
+          },
+          {
+            "position": 3,
+            "line_number": 9,
+            "page_number": 604,
+            "text_madani": "حَاسِدٍ",
+            "code": "&#xfb7c;",
+            "code_v3": "&#xfb7c;",
+            "char_type": "word",
+            "translation": "(of) an envier"
+          },
+          {
+            "position": 4,
+            "line_number": 9,
+            "page_number": 604,
+            "text_madani": "إِذَا",
+            "code": "&#xfb7d;",
+            "code_v3": "&#xfb7d;",
+            "char_type": "word",
+            "translation": "when"
+          },
+          {
+            "position": 5,
+            "line_number": 9,
+            "page_number": 604,
+            "text_madani": "حَسَدَ",
+            "code": "&#xfb7e;",
+            "code_v3": "&#xfb7e;",
+            "char_type": "word",
+            "translation": "he envies"
+          },
+          {
+            "position": 6,
+            "line_number": 9,
+            "page_number": 604,
+            "text_madani": null,
+            "code": "&#xfb7f;",
+            "code_v3": "&#xa005;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "chapters": {
+    "chapter_number": 1,
+    "bismillah_pre": false,
+    "revelation_order": 5,
+    "revelation_place": "makkah",
+    "name_arabic": "الفاتحة",
+    "name_complex": "Al-Fātiĥah",
+    "name_simple": "Al-Fatihah",
+    "verses_count": 7,
+    "pages": [
+      1,
+      1
+    ],
+    "meaning": {
+      "text": "The Opening",
+      "en": "The Opening",
+      "id": "The Opening"
+    },
+    "verses": [
+      {
+        "verse_number": 1,
+        "verse_key": "1:1",
+        "text_madani": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "translation": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang",
+        "page_number": 1,
+        "juz_number": 1,
+        "hizb_number": 1,
+        "rub_number": 1,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 2,
+            "page_number": 1,
+            "text_madani": "بِسْمِ",
+            "translation": "dengan nama"
+          },
+          {
+            "position": 2,
+            "line_number": 2,
+            "page_number": 1,
+            "text_madani": "اللَّهِ",
+            "translation": "Allah"
+          },
+          {
+            "position": 3,
+            "line_number": 2,
+            "page_number": 1,
+            "text_madani": "الرَّحْمَٰنِ",
+            "translation": "Maha Pemurah"
+          },
+          {
+            "position": 4,
+            "line_number": 2,
+            "page_number": 1,
+            "text_madani": "الرَّحِيمِ",
+            "translation": "Maha Penyayang"
+          },
+          {
+            "position": 5,
+            "line_number": 2,
+            "page_number": 1,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 2,
+        "verse_key": "1:2",
+        "text_madani": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+        "translation": "Segala puji bagi Allah, Tuhan seluruh alam,",
+        "page_number": 1,
+        "juz_number": 1,
+        "hizb_number": 1,
+        "rub_number": 1,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 3,
+            "page_number": 1,
+            "text_madani": "الْحَمْدُ",
+            "translation": "pujian"
+          },
+          {
+            "position": 2,
+            "line_number": 3,
+            "page_number": 1,
+            "text_madani": "لِلَّهِ",
+            "translation": "bagi Allah"
+          },
+          {
+            "position": 3,
+            "line_number": 3,
+            "page_number": 1,
+            "text_madani": "رَبِّ",
+            "translation": "Tuhan/Pemelihara"
+          },
+          {
+            "position": 4,
+            "line_number": 3,
+            "page_number": 1,
+            "text_madani": "الْعَالَمِينَ",
+            "translation": "alam semesta"
+          },
+          {
+            "position": 5,
+            "line_number": 3,
+            "page_number": 1,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 3,
+        "verse_key": "1:3",
+        "text_madani": "الرَّحْمَٰنِ الرَّحِيمِ",
+        "translation": "Yang Maha Pengasih, Maha Penyayang,",
+        "page_number": 1,
+        "juz_number": 1,
+        "hizb_number": 1,
+        "rub_number": 1,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 4,
+            "page_number": 1,
+            "text_madani": "الرَّحْمَٰنِ",
+            "translation": "Maha Pemurah"
+          },
+          {
+            "position": 2,
+            "line_number": 4,
+            "page_number": 1,
+            "text_madani": "الرَّحِيمِ",
+            "translation": "Maha Penyayang"
+          },
+          {
+            "position": 3,
+            "line_number": 4,
+            "page_number": 1,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 4,
+        "verse_key": "1:4",
+        "text_madani": "مَالِكِ يَوْمِ الدِّينِ",
+        "translation": "Pemilik hari pembalasan.",
+        "page_number": 1,
+        "juz_number": 1,
+        "hizb_number": 1,
+        "rub_number": 1,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 4,
+            "page_number": 1,
+            "text_madani": "مَالِكِ",
+            "translation": "Raja"
+          },
+          {
+            "position": 2,
+            "line_number": 4,
+            "page_number": 1,
+            "text_madani": "يَوْمِ",
+            "translation": "hari"
+          },
+          {
+            "position": 3,
+            "line_number": 4,
+            "page_number": 1,
+            "text_madani": "الدِّينِ",
+            "translation": "pembalasan"
+          },
+          {
+            "position": 4,
+            "line_number": 4,
+            "page_number": 1,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 5,
+        "verse_key": "1:5",
+        "text_madani": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+        "translation": "Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami mohon pertolongan.",
+        "page_number": 1,
+        "juz_number": 1,
+        "hizb_number": 1,
+        "rub_number": 1,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 5,
+            "page_number": 1,
+            "text_madani": "إِيَّاكَ",
+            "translation": "hanya kepadaMu"
+          },
+          {
+            "position": 2,
+            "line_number": 5,
+            "page_number": 1,
+            "text_madani": "نَعْبُدُ",
+            "translation": "kami menyembah"
+          },
+          {
+            "position": 3,
+            "line_number": 5,
+            "page_number": 1,
+            "text_madani": "وَإِيَّاكَ",
+            "translation": "dan hanya kepadaMu"
+          },
+          {
+            "position": 4,
+            "line_number": 5,
+            "page_number": 1,
+            "text_madani": "نَسْتَعِينُ",
+            "translation": "kami mohon pertolongan"
+          },
+          {
+            "position": 5,
+            "line_number": 5,
+            "page_number": 1,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 6,
+        "verse_key": "1:6",
+        "text_madani": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+        "translation": "Tunjukilah kami jalan yang lurus",
+        "page_number": 1,
+        "juz_number": 1,
+        "hizb_number": 1,
+        "rub_number": 1,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 5,
+            "page_number": 1,
+            "text_madani": "اهْدِنَا",
+            "translation": "tunjukkan kami"
+          },
+          {
+            "position": 2,
+            "line_number": 6,
+            "page_number": 1,
+            "text_madani": "الصِّرَاطَ",
+            "translation": "jalan"
+          },
+          {
+            "position": 3,
+            "line_number": 6,
+            "page_number": 1,
+            "text_madani": "الْمُسْتَقِيمَ",
+            "translation": "lurus"
+          },
+          {
+            "position": 4,
+            "line_number": 6,
+            "page_number": 1,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 7,
+        "verse_key": "1:7",
+        "text_madani": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+        "translation": "(yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat.",
+        "page_number": 1,
+        "juz_number": 1,
+        "hizb_number": 1,
+        "rub_number": 1,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 6,
+            "page_number": 1,
+            "text_madani": "صِرَاطَ",
+            "translation": "jalan"
+          },
+          {
+            "position": 2,
+            "line_number": 6,
+            "page_number": 1,
+            "text_madani": "الَّذِينَ",
+            "translation": "orang-orang"
+          },
+          {
+            "position": 3,
+            "line_number": 6,
+            "page_number": 1,
+            "text_madani": "أَنْعَمْتَ",
+            "translation": "diberi nikmat"
+          },
+          {
+            "position": 4,
+            "line_number": 7,
+            "page_number": 1,
+            "text_madani": "عَلَيْهِمْ",
+            "translation": "kepadanya"
+          },
+          {
+            "position": 5,
+            "line_number": 7,
+            "page_number": 1,
+            "text_madani": "غَيْرِ",
+            "translation": "bukan"
+          },
+          {
+            "position": 6,
+            "line_number": 7,
+            "page_number": 1,
+            "text_madani": "الْمَغْضُوبِ",
+            "translation": "orang yang dimurkai"
+          },
+          {
+            "position": 7,
+            "line_number": 7,
+            "page_number": 1,
+            "text_madani": "عَلَيْهِمْ",
+            "translation": "kepadanya"
+          },
+          {
+            "position": 8,
+            "line_number": 8,
+            "page_number": 1,
+            "text_madani": "وَلَا",
+            "translation": "dan tidak"
+          },
+          {
+            "position": 9,
+            "line_number": 8,
+            "page_number": 1,
+            "text_madani": "الضَّالِّينَ",
+            "translation": "orang-orang yang sesat"
+          },
+          {
+            "position": 10,
+            "line_number": 8,
+            "page_number": 1,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      }
+    ]
+  }
+}

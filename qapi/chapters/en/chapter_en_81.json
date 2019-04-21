@@ -1,0 +1,1360 @@
+{
+  "chapters": {
+    "chapter_number": 81,
+    "bismillah_pre": true,
+    "revelation_order": 7,
+    "revelation_place": "makkah",
+    "name_arabic": "التكوير",
+    "name_complex": "At-Takwīr",
+    "name_simple": "At-Takwir",
+    "verses_count": 29,
+    "pages": [
+      586,
+      586
+    ],
+    "meaning": {
+      "text": "The Overthrowing",
+      "en": "The Overthrowing",
+      "id": "The Overthrowing"
+    },
+    "verses": [
+      {
+        "verse_number": 1,
+        "verse_key": "81:1",
+        "text_madani": "إِذَا الشَّمْسُ كُوِّرَتْ",
+        "translation": "When the sun is covered,",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 3,
+            "page_number": 586,
+            "text_madani": "إِذَا",
+            "translation": "When"
+          },
+          {
+            "position": 2,
+            "line_number": 3,
+            "page_number": 586,
+            "text_madani": "الشَّمْسُ",
+            "translation": "the sun"
+          },
+          {
+            "position": 3,
+            "line_number": 3,
+            "page_number": 586,
+            "text_madani": "كُوِّرَتْ",
+            "translation": "is wrapped up"
+          },
+          {
+            "position": 4,
+            "line_number": 3,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 2,
+        "verse_key": "81:2",
+        "text_madani": "وَإِذَا النُّجُومُ انكَدَرَتْ",
+        "translation": "And when the stars darken,",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 3,
+            "page_number": 586,
+            "text_madani": "وَإِذَا",
+            "translation": "And when"
+          },
+          {
+            "position": 2,
+            "line_number": 3,
+            "page_number": 586,
+            "text_madani": "النُّجُومُ",
+            "translation": "the stars"
+          },
+          {
+            "position": 3,
+            "line_number": 3,
+            "page_number": 586,
+            "text_madani": "انْكَدَرَتْ",
+            "translation": "fall losing their luster"
+          },
+          {
+            "position": 4,
+            "line_number": 3,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 3,
+        "verse_key": "81:3",
+        "text_madani": "وَإِذَا الْجِبَالُ سُيِّرَتْ",
+        "translation": "And when the mountains are made to pass away,",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 3,
+            "page_number": 586,
+            "text_madani": "وَإِذَا",
+            "translation": "And when"
+          },
+          {
+            "position": 2,
+            "line_number": 3,
+            "page_number": 586,
+            "text_madani": "الْجِبَالُ",
+            "translation": "the mountains"
+          },
+          {
+            "position": 3,
+            "line_number": 4,
+            "page_number": 586,
+            "text_madani": "سُيِّرَتْ",
+            "translation": "are moved away"
+          },
+          {
+            "position": 4,
+            "line_number": 4,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 4,
+        "verse_key": "81:4",
+        "text_madani": "وَإِذَا الْعِشَارُ عُطِّلَتْ",
+        "translation": "And when the camels are left untended,",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 4,
+            "page_number": 586,
+            "text_madani": "وَإِذَا",
+            "translation": "And when"
+          },
+          {
+            "position": 2,
+            "line_number": 4,
+            "page_number": 586,
+            "text_madani": "الْعِشَارُ",
+            "translation": "the full-term she-camels"
+          },
+          {
+            "position": 3,
+            "line_number": 4,
+            "page_number": 586,
+            "text_madani": "عُطِّلَتْ",
+            "translation": "(are) left untended;"
+          },
+          {
+            "position": 4,
+            "line_number": 4,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 5,
+        "verse_key": "81:5",
+        "text_madani": "وَإِذَا الْوُحُوشُ حُشِرَتْ",
+        "translation": "And when the wild animals are made to go forth,",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 4,
+            "page_number": 586,
+            "text_madani": "وَإِذَا",
+            "translation": "And when"
+          },
+          {
+            "position": 2,
+            "line_number": 4,
+            "page_number": 586,
+            "text_madani": "الْوُحُوشُ",
+            "translation": "the wild beasts"
+          },
+          {
+            "position": 3,
+            "line_number": 4,
+            "page_number": 586,
+            "text_madani": "حُشِرَتْ",
+            "translation": "are gathered"
+          },
+          {
+            "position": 4,
+            "line_number": 5,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 6,
+        "verse_key": "81:6",
+        "text_madani": "وَإِذَا الْبِحَارُ سُجِّرَتْ",
+        "translation": "And when the seas are set on fire,",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 5,
+            "page_number": 586,
+            "text_madani": "وَإِذَا",
+            "translation": "And when"
+          },
+          {
+            "position": 2,
+            "line_number": 5,
+            "page_number": 586,
+            "text_madani": "الْبِحَارُ",
+            "translation": "the seas"
+          },
+          {
+            "position": 3,
+            "line_number": 5,
+            "page_number": 586,
+            "text_madani": "سُجِّرَتْ",
+            "translation": "are made to overflow"
+          },
+          {
+            "position": 4,
+            "line_number": 5,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 7,
+        "verse_key": "81:7",
+        "text_madani": "وَإِذَا النُّفُوسُ زُوِّجَتْ",
+        "translation": "And when souls are united,",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 5,
+            "page_number": 586,
+            "text_madani": "وَإِذَا",
+            "translation": "And when"
+          },
+          {
+            "position": 2,
+            "line_number": 5,
+            "page_number": 586,
+            "text_madani": "النُّفُوسُ",
+            "translation": "the souls"
+          },
+          {
+            "position": 3,
+            "line_number": 5,
+            "page_number": 586,
+            "text_madani": "زُوِّجَتْ",
+            "translation": "are paired"
+          },
+          {
+            "position": 4,
+            "line_number": 5,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 8,
+        "verse_key": "81:8",
+        "text_madani": "وَإِذَا الْمَوْءُودَةُ سُئِلَتْ",
+        "translation": "And when the female infant buried alive is asked",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 5,
+            "page_number": 586,
+            "text_madani": "وَإِذَا",
+            "translation": "And when"
+          },
+          {
+            "position": 2,
+            "line_number": 6,
+            "page_number": 586,
+            "text_madani": "الْمَوْءُودَةُ",
+            "translation": "the female infant buried alive"
+          },
+          {
+            "position": 3,
+            "line_number": 6,
+            "page_number": 586,
+            "text_madani": "سُئِلَتْ",
+            "translation": "is asked"
+          },
+          {
+            "position": 4,
+            "line_number": 6,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 9,
+        "verse_key": "81:9",
+        "text_madani": "بِأَيِّ ذَنبٍ قُتِلَتْ",
+        "translation": "For what sin she was killed,",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 6,
+            "page_number": 586,
+            "text_madani": "بِأَيِّ",
+            "translation": "For what"
+          },
+          {
+            "position": 2,
+            "line_number": 6,
+            "page_number": 586,
+            "text_madani": "ذَنْبٍ",
+            "translation": "sin"
+          },
+          {
+            "position": 3,
+            "line_number": 6,
+            "page_number": 586,
+            "text_madani": "قُتِلَتْ",
+            "translation": "she was killed"
+          },
+          {
+            "position": 4,
+            "line_number": 6,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 10,
+        "verse_key": "81:10",
+        "text_madani": "وَإِذَا الصُّحُفُ نُشِرَتْ",
+        "translation": "And when the books are spread,",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 6,
+            "page_number": 586,
+            "text_madani": "وَإِذَا",
+            "translation": "And when"
+          },
+          {
+            "position": 2,
+            "line_number": 6,
+            "page_number": 586,
+            "text_madani": "الصُّحُفُ",
+            "translation": "the pages"
+          },
+          {
+            "position": 3,
+            "line_number": 6,
+            "page_number": 586,
+            "text_madani": "نُشِرَتْ",
+            "translation": "are laid open"
+          },
+          {
+            "position": 4,
+            "line_number": 7,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 11,
+        "verse_key": "81:11",
+        "text_madani": "وَإِذَا السَّمَاءُ كُشِطَتْ",
+        "translation": "And when the heaven has its covering removed,",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 7,
+            "page_number": 586,
+            "text_madani": "وَإِذَا",
+            "translation": "And when"
+          },
+          {
+            "position": 2,
+            "line_number": 7,
+            "page_number": 586,
+            "text_madani": "السَّمَاءُ",
+            "translation": "the sky"
+          },
+          {
+            "position": 3,
+            "line_number": 7,
+            "page_number": 586,
+            "text_madani": "كُشِطَتْ",
+            "translation": "is stripped away"
+          },
+          {
+            "position": 4,
+            "line_number": 7,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 12,
+        "verse_key": "81:12",
+        "text_madani": "وَإِذَا الْجَحِيمُ سُعِّرَتْ",
+        "translation": "And when the hell is kindled up,",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 7,
+            "page_number": 586,
+            "text_madani": "وَإِذَا",
+            "translation": "And when"
+          },
+          {
+            "position": 2,
+            "line_number": 7,
+            "page_number": 586,
+            "text_madani": "الْجَحِيمُ",
+            "translation": "the Hellfire"
+          },
+          {
+            "position": 3,
+            "line_number": 7,
+            "page_number": 586,
+            "text_madani": "سُعِّرَتْ",
+            "translation": "is set ablaze"
+          },
+          {
+            "position": 4,
+            "line_number": 7,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 13,
+        "verse_key": "81:13",
+        "text_madani": "وَإِذَا الْجَنَّةُ أُزْلِفَتْ",
+        "translation": "And when the garden is brought nigh,",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 7,
+            "page_number": 586,
+            "text_madani": "وَإِذَا",
+            "translation": "And when"
+          },
+          {
+            "position": 2,
+            "line_number": 7,
+            "page_number": 586,
+            "text_madani": "الْجَنَّةُ",
+            "translation": "Paradise"
+          },
+          {
+            "position": 3,
+            "line_number": 8,
+            "page_number": 586,
+            "text_madani": "أُزْلِفَتْ",
+            "translation": "is brought near"
+          },
+          {
+            "position": 4,
+            "line_number": 8,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 14,
+        "verse_key": "81:14",
+        "text_madani": "عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ",
+        "translation": "Every soul shall (then) know what it has prepared.",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 8,
+            "page_number": 586,
+            "text_madani": "عَلِمَتْ",
+            "translation": "Will know"
+          },
+          {
+            "position": 2,
+            "line_number": 8,
+            "page_number": 586,
+            "text_madani": "نَفْسٌ",
+            "translation": "a soul"
+          },
+          {
+            "position": 3,
+            "line_number": 8,
+            "page_number": 586,
+            "text_madani": "مَا",
+            "translation": "what"
+          },
+          {
+            "position": 4,
+            "line_number": 8,
+            "page_number": 586,
+            "text_madani": "أَحْضَرَتْ",
+            "translation": "it has brought"
+          },
+          {
+            "position": 5,
+            "line_number": 8,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 15,
+        "verse_key": "81:15",
+        "text_madani": "فَلَا أُقْسِمُ بِالْخُنَّسِ",
+        "translation": "But nay! I swear by the stars,",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 8,
+            "page_number": 586,
+            "text_madani": "فَلَا",
+            "translation": "But nay!"
+          },
+          {
+            "position": 2,
+            "line_number": 8,
+            "page_number": 586,
+            "text_madani": "أُقْسِمُ",
+            "translation": "I swear"
+          },
+          {
+            "position": 3,
+            "line_number": 8,
+            "page_number": 586,
+            "text_madani": "بِالْخُنَّسِ",
+            "translation": "by the retreating planets"
+          },
+          {
+            "position": 4,
+            "line_number": 8,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 16,
+        "verse_key": "81:16",
+        "text_madani": "الْجَوَارِ الْكُنَّسِ",
+        "translation": "That run their course (and) hide themselves,",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 9,
+            "page_number": 586,
+            "text_madani": "الْجَوَارِ",
+            "translation": "Those that run"
+          },
+          {
+            "position": 2,
+            "line_number": 9,
+            "page_number": 586,
+            "text_madani": "الْكُنَّسِ",
+            "translation": "(and) disappear"
+          },
+          {
+            "position": 3,
+            "line_number": 9,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 17,
+        "verse_key": "81:17",
+        "text_madani": "وَاللَّيْلِ إِذَا عَسْعَسَ",
+        "translation": "And the night when it departs,",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 9,
+            "page_number": 586,
+            "text_madani": "وَاللَّيْلِ",
+            "translation": "And the night"
+          },
+          {
+            "position": 2,
+            "line_number": 9,
+            "page_number": 586,
+            "text_madani": "إِذَا",
+            "translation": "when"
+          },
+          {
+            "position": 3,
+            "line_number": 9,
+            "page_number": 586,
+            "text_madani": "عَسْعَسَ",
+            "translation": "it departs"
+          },
+          {
+            "position": 4,
+            "line_number": 9,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 18,
+        "verse_key": "81:18",
+        "text_madani": "وَالصُّبْحِ إِذَا تَنَفَّسَ",
+        "translation": "And the morning when it brightens,",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 9,
+            "page_number": 586,
+            "text_madani": "وَالصُّبْحِ",
+            "translation": "And the dawn"
+          },
+          {
+            "position": 2,
+            "line_number": 9,
+            "page_number": 586,
+            "text_madani": "إِذَا",
+            "translation": "when"
+          },
+          {
+            "position": 3,
+            "line_number": 9,
+            "page_number": 586,
+            "text_madani": "تَنَفَّسَ",
+            "translation": "it breathes"
+          },
+          {
+            "position": 4,
+            "line_number": 9,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 19,
+        "verse_key": "81:19",
+        "text_madani": "إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+        "translation": "Most surely it is the Word of an honored messenger,",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 10,
+            "page_number": 586,
+            "text_madani": "إِنَّهُ",
+            "translation": "Indeed it"
+          },
+          {
+            "position": 2,
+            "line_number": 10,
+            "page_number": 586,
+            "text_madani": "لَقَوْلُ",
+            "translation": "(is) surely a word"
+          },
+          {
+            "position": 3,
+            "line_number": 10,
+            "page_number": 586,
+            "text_madani": "رَسُولٍ",
+            "translation": "(of) a Messenger"
+          },
+          {
+            "position": 4,
+            "line_number": 10,
+            "page_number": 586,
+            "text_madani": "كَرِيمٍ",
+            "translation": "noble"
+          },
+          {
+            "position": 5,
+            "line_number": 10,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 20,
+        "verse_key": "81:20",
+        "text_madani": "ذِي قُوَّةٍ عِندَ ذِي الْعَرْشِ مَكِينٍ",
+        "translation": "The processor of strength, having an honorable place with the Lord of the Dominion,",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 10,
+            "page_number": 586,
+            "text_madani": "ذِي",
+            "translation": "Possessor of"
+          },
+          {
+            "position": 2,
+            "line_number": 10,
+            "page_number": 586,
+            "text_madani": "قُوَّةٍ",
+            "translation": "power"
+          },
+          {
+            "position": 3,
+            "line_number": 10,
+            "page_number": 586,
+            "text_madani": "عِنْدَ",
+            "translation": "with"
+          },
+          {
+            "position": 4,
+            "line_number": 10,
+            "page_number": 586,
+            "text_madani": "ذِي",
+            "translation": "(the) Owner of"
+          },
+          {
+            "position": 5,
+            "line_number": 10,
+            "page_number": 586,
+            "text_madani": "الْعَرْشِ",
+            "translation": "the Throne"
+          },
+          {
+            "position": 6,
+            "line_number": 10,
+            "page_number": 586,
+            "text_madani": "مَكِينٍ",
+            "translation": "secure"
+          },
+          {
+            "position": 7,
+            "line_number": 10,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 21,
+        "verse_key": "81:21",
+        "text_madani": "مُّطَاعٍ ثَمَّ أَمِينٍ",
+        "translation": "One (to be) obeyed, and faithful in trust.",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 10,
+            "page_number": 586,
+            "text_madani": "مُطَاعٍ",
+            "translation": "One to be obeyed"
+          },
+          {
+            "position": 2,
+            "line_number": 11,
+            "page_number": 586,
+            "text_madani": "ثَمَّ",
+            "translation": "and"
+          },
+          {
+            "position": 3,
+            "line_number": 11,
+            "page_number": 586,
+            "text_madani": "أَمِينٍ",
+            "translation": "trustworthy"
+          },
+          {
+            "position": 4,
+            "line_number": 11,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 22,
+        "verse_key": "81:22",
+        "text_madani": "وَمَا صَاحِبُكُم بِمَجْنُونٍ",
+        "translation": "And your companion is not gone mad.",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 11,
+            "page_number": 586,
+            "text_madani": "وَمَا",
+            "translation": "And not"
+          },
+          {
+            "position": 2,
+            "line_number": 11,
+            "page_number": 586,
+            "text_madani": "صَاحِبُكُمْ",
+            "translation": "(is) your companion"
+          },
+          {
+            "position": 3,
+            "line_number": 11,
+            "page_number": 586,
+            "text_madani": "بِمَجْنُونٍ",
+            "translation": "mad"
+          },
+          {
+            "position": 4,
+            "line_number": 11,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 23,
+        "verse_key": "81:23",
+        "text_madani": "وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ",
+        "translation": "And of a truth he saw himself on the clear horizon.",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 11,
+            "page_number": 586,
+            "text_madani": "وَلَقَدْ",
+            "translation": "And certainly"
+          },
+          {
+            "position": 2,
+            "line_number": 11,
+            "page_number": 586,
+            "text_madani": "رَآهُ",
+            "translation": "he saw him"
+          },
+          {
+            "position": 3,
+            "line_number": 11,
+            "page_number": 586,
+            "text_madani": "بِالْأُفُقِ",
+            "translation": "in the horizon"
+          },
+          {
+            "position": 4,
+            "line_number": 11,
+            "page_number": 586,
+            "text_madani": "الْمُبِينِ",
+            "translation": "the clear"
+          },
+          {
+            "position": 5,
+            "line_number": 12,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 24,
+        "verse_key": "81:24",
+        "text_madani": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ",
+        "translation": "Nor of the unseen is he a tenacious concealer.",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 12,
+            "page_number": 586,
+            "text_madani": "وَمَا",
+            "translation": "And not"
+          },
+          {
+            "position": 2,
+            "line_number": 12,
+            "page_number": 586,
+            "text_madani": "هُوَ",
+            "translation": "he (is)"
+          },
+          {
+            "position": 3,
+            "line_number": 12,
+            "page_number": 586,
+            "text_madani": "عَلَى",
+            "translation": "on"
+          },
+          {
+            "position": 4,
+            "line_number": 12,
+            "page_number": 586,
+            "text_madani": "الْغَيْبِ",
+            "translation": "the unseen"
+          },
+          {
+            "position": 5,
+            "line_number": 12,
+            "page_number": 586,
+            "text_madani": "بِضَنِينٍ",
+            "translation": "a withholder"
+          },
+          {
+            "position": 6,
+            "line_number": 12,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 25,
+        "verse_key": "81:25",
+        "text_madani": "وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَّجِيمٍ",
+        "translation": "Nor is it the word of the cursed Shaitan,",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 12,
+            "page_number": 586,
+            "text_madani": "وَمَا",
+            "translation": "And not"
+          },
+          {
+            "position": 2,
+            "line_number": 12,
+            "page_number": 586,
+            "text_madani": "هُوَ",
+            "translation": "it"
+          },
+          {
+            "position": 3,
+            "line_number": 12,
+            "page_number": 586,
+            "text_madani": "بِقَوْلِ",
+            "translation": "(is the) word"
+          },
+          {
+            "position": 4,
+            "line_number": 12,
+            "page_number": 586,
+            "text_madani": "شَيْطَانٍ",
+            "translation": "(of) Shaitaan"
+          },
+          {
+            "position": 5,
+            "line_number": 12,
+            "page_number": 586,
+            "text_madani": "رَجِيمٍ",
+            "translation": "accursed"
+          },
+          {
+            "position": 6,
+            "line_number": 12,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 26,
+        "verse_key": "81:26",
+        "text_madani": "فَأَيْنَ تَذْهَبُونَ",
+        "translation": "Whither then will you go?",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 13,
+            "page_number": 586,
+            "text_madani": "فَأَيْنَ",
+            "translation": "So where"
+          },
+          {
+            "position": 2,
+            "line_number": 13,
+            "page_number": 586,
+            "text_madani": "تَذْهَبُونَ",
+            "translation": "are you going"
+          },
+          {
+            "position": 3,
+            "line_number": 13,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 27,
+        "verse_key": "81:27",
+        "text_madani": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ",
+        "translation": "It is naught but a reminder for the nations,",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 13,
+            "page_number": 586,
+            "text_madani": "إِنْ",
+            "translation": "Not"
+          },
+          {
+            "position": 2,
+            "line_number": 13,
+            "page_number": 586,
+            "text_madani": "هُوَ",
+            "translation": "it"
+          },
+          {
+            "position": 3,
+            "line_number": 13,
+            "page_number": 586,
+            "text_madani": "إِلَّا",
+            "translation": "(is) except"
+          },
+          {
+            "position": 4,
+            "line_number": 13,
+            "page_number": 586,
+            "text_madani": "ذِكْرٌ",
+            "translation": "a reminder"
+          },
+          {
+            "position": 5,
+            "line_number": 13,
+            "page_number": 586,
+            "text_madani": "لِلْعَالَمِينَ",
+            "translation": "to the worlds"
+          },
+          {
+            "position": 6,
+            "line_number": 13,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 28,
+        "verse_key": "81:28",
+        "text_madani": "لِمَن شَاءَ مِنكُمْ أَن يَسْتَقِيمَ",
+        "translation": "For him among you who pleases to go straight.",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 13,
+            "page_number": 586,
+            "text_madani": "لِمَنْ",
+            "translation": "For whoever"
+          },
+          {
+            "position": 2,
+            "line_number": 13,
+            "page_number": 586,
+            "text_madani": "شَاءَ",
+            "translation": "wills"
+          },
+          {
+            "position": 3,
+            "line_number": 13,
+            "page_number": 586,
+            "text_madani": "مِنْكُمْ",
+            "translation": "among you"
+          },
+          {
+            "position": 4,
+            "line_number": 13,
+            "page_number": 586,
+            "text_madani": "أَنْ",
+            "translation": "to"
+          },
+          {
+            "position": 5,
+            "line_number": 14,
+            "page_number": 586,
+            "text_madani": "يَسْتَقِيمَ",
+            "translation": "take a straight way"
+          },
+          {
+            "position": 6,
+            "line_number": 14,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 29,
+        "verse_key": "81:29",
+        "text_madani": "وَمَا تَشَاءُونَ إِلَّا أَن يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ",
+        "translation": "And you do not please except that Allah please, the Lord of the worlds.",
+        "page_number": 586,
+        "juz_number": 30,
+        "hizb_number": 59,
+        "rub_number": 234,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 14,
+            "page_number": 586,
+            "text_madani": "وَمَا",
+            "translation": "And not"
+          },
+          {
+            "position": 2,
+            "line_number": 14,
+            "page_number": 586,
+            "text_madani": "تَشَاءُونَ",
+            "translation": "you will"
+          },
+          {
+            "position": 3,
+            "line_number": 14,
+            "page_number": 586,
+            "text_madani": "إِلَّا",
+            "translation": "except"
+          },
+          {
+            "position": 4,
+            "line_number": 14,
+            "page_number": 586,
+            "text_madani": "أَنْ",
+            "translation": "that"
+          },
+          {
+            "position": 5,
+            "line_number": 14,
+            "page_number": 586,
+            "text_madani": "يَشَاءَ",
+            "translation": "wills"
+          },
+          {
+            "position": 6,
+            "line_number": 14,
+            "page_number": 586,
+            "text_madani": "اللَّهُ",
+            "translation": "Allah"
+          },
+          {
+            "position": 7,
+            "line_number": 14,
+            "page_number": 586,
+            "text_madani": "رَبُّ",
+            "translation": "Lord"
+          },
+          {
+            "position": 8,
+            "line_number": 14,
+            "page_number": 586,
+            "text_madani": "الْعَالَمِينَ",
+            "translation": "(of) the worlds"
+          },
+          {
+            "position": 9,
+            "line_number": 14,
+            "page_number": 586,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      }
+    ]
+  }
+}

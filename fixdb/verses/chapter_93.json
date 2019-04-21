@@ -1,0 +1,656 @@
+{
+  "chapter_number": 93,
+  "bismillah_pre": true,
+  "revelation_order": 11,
+  "revelation_place": "makkah",
+  "name_arabic": "الضحى",
+  "name_complex": "Ađ-Đuĥaá",
+  "name_simple": "Ad-Duhaa",
+  "verses_count": 11,
+  "pages": [
+    596,
+    596
+  ],
+  "meaning": {
+    "text": "The Morning Hours",
+    "en": "The Morning Hours",
+    "id": "Waktu Dhuha"
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "verse_total_number": 6080,
+      "verse_key": "93:1",
+      "text_madani": "وَالضُّحَىٰ",
+      "translation_en": "I swear by the early hours of the day,",
+      "translation_id": "Demi waktu dhuha (ketika matahari naik sepenggalah),",
+      "page_number": 596,
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_number": 238,
+      "sajdah": null,
+      "sajdah_number": null,
+      "words": [
+        {
+          "position": 1,
+          "line_number": 6,
+          "page_number": 596,
+          "code": "&#xfb72;",
+          "char_type": "word",
+          "translation_en": "By the morning brightness",
+          "translation_id": ""
+        },
+        {
+          "position": 2,
+          "line_number": 6,
+          "page_number": 596,
+          "code": "&#xfb73;",
+          "char_type": "end",
+          "translation_en": null,
+          "translation_id": null
+        }
+      ]
+    },
+    {
+      "verse_number": 2,
+      "verse_total_number": 6081,
+      "verse_key": "93:2",
+      "text_madani": "وَاللَّيْلِ إِذَا سَجَىٰ",
+      "translation_en": "And the night when it covers with darkness.",
+      "translation_id": "dan demi malam apabila telah sunyi,",
+      "page_number": 596,
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_number": 238,
+      "sajdah": null,
+      "sajdah_number": null,
+      "words": [
+        {
+          "position": 1,
+          "line_number": 6,
+          "page_number": 596,
+          "code": "&#xfb74;",
+          "char_type": "word",
+          "translation_en": "And the night",
+          "translation_id": "dan malam"
+        },
+        {
+          "position": 2,
+          "line_number": 6,
+          "page_number": 596,
+          "code": "&#xfb75;",
+          "char_type": "word",
+          "translation_en": "when",
+          "translation_id": "apabila"
+        },
+        {
+          "position": 3,
+          "line_number": 6,
+          "page_number": 596,
+          "code": "&#xfb76;",
+          "char_type": "word",
+          "translation_en": "it covers with darkness",
+          "translation_id": "telah sunyi"
+        },
+        {
+          "position": 4,
+          "line_number": 6,
+          "page_number": 596,
+          "code": "&#xfb77;",
+          "char_type": "end",
+          "translation_en": null,
+          "translation_id": null
+        }
+      ]
+    },
+    {
+      "verse_number": 3,
+      "verse_total_number": 6082,
+      "verse_key": "93:3",
+      "text_madani": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "translation_en": "Your Lord has not forsaken you, nor has He become displeased,",
+      "translation_id": "Tuhanmu tidak meninggalkan engkau (Muhammad) dan tidak (pula) membencimu,",
+      "page_number": 596,
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_number": 238,
+      "sajdah": null,
+      "sajdah_number": null,
+      "words": [
+        {
+          "position": 1,
+          "line_number": 6,
+          "page_number": 596,
+          "code": "&#xfb78;",
+          "char_type": "word",
+          "translation_en": "Not",
+          "translation_id": "tidak"
+        },
+        {
+          "position": 2,
+          "line_number": 6,
+          "page_number": 596,
+          "code": "&#xfb79;",
+          "char_type": "word",
+          "translation_en": "has forsaken you",
+          "translation_id": "meninggalkan kamu"
+        },
+        {
+          "position": 3,
+          "line_number": 6,
+          "page_number": 596,
+          "code": "&#xfb7a;",
+          "char_type": "word",
+          "translation_en": "your Lord",
+          "translation_id": "Tuhanmu"
+        },
+        {
+          "position": 4,
+          "line_number": 6,
+          "page_number": 596,
+          "code": "&#xfb7b;",
+          "char_type": "word",
+          "translation_en": "and not",
+          "translation_id": "dan tidak"
+        },
+        {
+          "position": 5,
+          "line_number": 6,
+          "page_number": 596,
+          "code": "&#xfb7c;",
+          "char_type": "word",
+          "translation_en": "He is displeased",
+          "translation_id": "marah/benci"
+        },
+        {
+          "position": 6,
+          "line_number": 6,
+          "page_number": 596,
+          "code": "&#xfb7d;",
+          "char_type": "end",
+          "translation_en": null,
+          "translation_id": null
+        }
+      ]
+    },
+    {
+      "verse_number": 4,
+      "verse_total_number": 6083,
+      "verse_key": "93:4",
+      "text_madani": "وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَىٰ",
+      "translation_en": "And surely what comes after is better for you than that which has gone before.",
+      "translation_id": "dan sungguh, yang kemudian itu lebih baik bagimu dari yang permulaan.",
+      "page_number": 596,
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_number": 238,
+      "sajdah": null,
+      "sajdah_number": null,
+      "words": [
+        {
+          "position": 1,
+          "line_number": 7,
+          "page_number": 596,
+          "code": "&#xfb7e;",
+          "char_type": "word",
+          "translation_en": "And surely the Hereafter",
+          "translation_id": "dan sungguh kesudahan/akhirat"
+        },
+        {
+          "position": 2,
+          "line_number": 7,
+          "page_number": 596,
+          "code": "&#xfb7f;",
+          "char_type": "word",
+          "translation_en": "(is) better",
+          "translation_id": "lebih baik"
+        },
+        {
+          "position": 3,
+          "line_number": 7,
+          "page_number": 596,
+          "code": "&#xfb80;",
+          "char_type": "word",
+          "translation_en": "for you",
+          "translation_id": "bagimu"
+        },
+        {
+          "position": 4,
+          "line_number": 7,
+          "page_number": 596,
+          "code": "&#xfb81;",
+          "char_type": "word",
+          "translation_en": "than",
+          "translation_id": "dari pada"
+        },
+        {
+          "position": 5,
+          "line_number": 7,
+          "page_number": 596,
+          "code": "&#xfb82;",
+          "char_type": "word",
+          "translation_en": "the first",
+          "translation_id": "permulaan/dunia"
+        },
+        {
+          "position": 6,
+          "line_number": 7,
+          "page_number": 596,
+          "code": "&#xfb83;",
+          "char_type": "end",
+          "translation_en": null,
+          "translation_id": null
+        }
+      ]
+    },
+    {
+      "verse_number": 5,
+      "verse_total_number": 6084,
+      "verse_key": "93:5",
+      "text_madani": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ",
+      "translation_en": "And soon will your Lord give you so that you shall be well pleased.",
+      "translation_id": "Dan sungguh, kelak Tuhanmu pasti memberikan karunia-Nya kepadamu, sehingga engkau menjadi puas.",
+      "page_number": 596,
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_number": 238,
+      "sajdah": null,
+      "sajdah_number": null,
+      "words": [
+        {
+          "position": 1,
+          "line_number": 7,
+          "page_number": 596,
+          "code": "&#xfb84;",
+          "char_type": "word",
+          "translation_en": "And soon",
+          "translation_id": "dan sungguh kelak"
+        },
+        {
+          "position": 2,
+          "line_number": 7,
+          "page_number": 596,
+          "code": "&#xfb85;",
+          "char_type": "word",
+          "translation_en": "will give you",
+          "translation_id": "memberikan kepadamu"
+        },
+        {
+          "position": 3,
+          "line_number": 7,
+          "page_number": 596,
+          "code": "&#xfb86;",
+          "char_type": "word",
+          "translation_en": "your Lord",
+          "translation_id": "Tuhanmu"
+        },
+        {
+          "position": 4,
+          "line_number": 8,
+          "page_number": 596,
+          "code": "&#xfb87;",
+          "char_type": "word",
+          "translation_en": "then you will be satisfied",
+          "translation_id": "maka kamu jadi puas"
+        },
+        {
+          "position": 5,
+          "line_number": 8,
+          "page_number": 596,
+          "code": "&#xfb88;",
+          "char_type": "end",
+          "translation_en": null,
+          "translation_id": null
+        }
+      ]
+    },
+    {
+      "verse_number": 6,
+      "verse_total_number": 6085,
+      "verse_key": "93:6",
+      "text_madani": "أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ",
+      "translation_en": "Did He not find you an orphan and give you shelter?",
+      "translation_id": "Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungi(mu),",
+      "page_number": 596,
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_number": 238,
+      "sajdah": null,
+      "sajdah_number": null,
+      "words": [
+        {
+          "position": 1,
+          "line_number": 8,
+          "page_number": 596,
+          "code": "&#xfb89;",
+          "char_type": "word",
+          "translation_en": "Did not",
+          "translation_id": "apakah tidak/bukanlah"
+        },
+        {
+          "position": 2,
+          "line_number": 8,
+          "page_number": 596,
+          "code": "&#xfb8a;",
+          "char_type": "word",
+          "translation_en": "He find you",
+          "translation_id": "Dia mendapatimu"
+        },
+        {
+          "position": 3,
+          "line_number": 8,
+          "page_number": 596,
+          "code": "&#xfb8b;",
+          "char_type": "word",
+          "translation_en": "an orphan",
+          "translation_id": "seorang yatim"
+        },
+        {
+          "position": 4,
+          "line_number": 8,
+          "page_number": 596,
+          "code": "&#xfb8c;",
+          "char_type": "word",
+          "translation_en": "and give shelter",
+          "translation_id": "lalu Dia melindungi"
+        },
+        {
+          "position": 5,
+          "line_number": 8,
+          "page_number": 596,
+          "code": "&#xfb8d;",
+          "char_type": "end",
+          "translation_en": null,
+          "translation_id": null
+        }
+      ]
+    },
+    {
+      "verse_number": 7,
+      "verse_total_number": 6086,
+      "verse_key": "93:7",
+      "text_madani": "وَوَجَدَكَ ضَالًّا فَهَدَىٰ",
+      "translation_en": "And find you lost (that is, unrecognized by men) and guide (them to you)?",
+      "translation_id": "dan Dia mendapatimu sebagai seorang yang bingung, lalu Dia memberikan petunjuk,",
+      "page_number": 596,
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_number": 238,
+      "sajdah": null,
+      "sajdah_number": null,
+      "words": [
+        {
+          "position": 1,
+          "line_number": 8,
+          "page_number": 596,
+          "code": "&#xfb8e;",
+          "char_type": "word",
+          "translation_en": "And He found you",
+          "translation_id": "dan Dia mendapatimu"
+        },
+        {
+          "position": 2,
+          "line_number": 8,
+          "page_number": 596,
+          "code": "&#xfb8f;",
+          "char_type": "word",
+          "translation_en": "lost",
+          "translation_id": "sesat/bingung"
+        },
+        {
+          "position": 3,
+          "line_number": 9,
+          "page_number": 596,
+          "code": "&#xfb90;",
+          "char_type": "word",
+          "translation_en": "so He guided",
+          "translation_id": "lalu Dia memberi petunjuk"
+        },
+        {
+          "position": 4,
+          "line_number": 9,
+          "page_number": 596,
+          "code": "&#xfb91;",
+          "char_type": "end",
+          "translation_en": null,
+          "translation_id": null
+        }
+      ]
+    },
+    {
+      "verse_number": 8,
+      "verse_total_number": 6087,
+      "verse_key": "93:8",
+      "text_madani": "وَوَجَدَكَ عَائِلًا فَأَغْنَىٰ",
+      "translation_en": "And find you in want and make you to be free from want?",
+      "translation_id": "dan Dia mendapatimu sebagai seorang yang kekurangan, lalu Dia memberikan kecukupan.",
+      "page_number": 596,
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_number": 238,
+      "sajdah": null,
+      "sajdah_number": null,
+      "words": [
+        {
+          "position": 1,
+          "line_number": 9,
+          "page_number": 596,
+          "code": "&#xfb92;",
+          "char_type": "word",
+          "translation_en": "And He found you",
+          "translation_id": "dan Dia mendapatimu"
+        },
+        {
+          "position": 2,
+          "line_number": 9,
+          "page_number": 596,
+          "code": "&#xfb93;",
+          "char_type": "word",
+          "translation_en": "in need",
+          "translation_id": "miskin/kekurangan"
+        },
+        {
+          "position": 3,
+          "line_number": 9,
+          "page_number": 596,
+          "code": "&#xfb94;",
+          "char_type": "word",
+          "translation_en": "so He made self-sufficient",
+          "translation_id": "lalu Dia memberi kecukupan"
+        },
+        {
+          "position": 4,
+          "line_number": 9,
+          "page_number": 596,
+          "code": "&#xfb95;",
+          "char_type": "end",
+          "translation_en": null,
+          "translation_id": null
+        }
+      ]
+    },
+    {
+      "verse_number": 9,
+      "verse_total_number": 6088,
+      "verse_key": "93:9",
+      "text_madani": "فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ",
+      "translation_en": "Therefore, as for the orphan, do not oppress (him).",
+      "translation_id": "Maka terhadap anak yatim janganlah engkau berlaku sewenang-wenang.",
+      "page_number": 596,
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_number": 238,
+      "sajdah": null,
+      "sajdah_number": null,
+      "words": [
+        {
+          "position": 1,
+          "line_number": 9,
+          "page_number": 596,
+          "code": "&#xfb96;",
+          "char_type": "word",
+          "translation_en": "So as for",
+          "translation_id": "maka adapun"
+        },
+        {
+          "position": 2,
+          "line_number": 9,
+          "page_number": 596,
+          "code": "&#xfb97;",
+          "char_type": "word",
+          "translation_en": "the orphan",
+          "translation_id": "anak yatim"
+        },
+        {
+          "position": 3,
+          "line_number": 9,
+          "page_number": 596,
+          "code": "&#xfb98;",
+          "char_type": "word",
+          "translation_en": "then (do) not",
+          "translation_id": "maka jangan"
+        },
+        {
+          "position": 4,
+          "line_number": 9,
+          "page_number": 596,
+          "code": "&#xfb99;",
+          "char_type": "word",
+          "translation_en": "oppress",
+          "translation_id": "kamu paksa/bersikap bengis"
+        },
+        {
+          "position": 5,
+          "line_number": 10,
+          "page_number": 596,
+          "code": "&#xfb9a;",
+          "char_type": "end",
+          "translation_en": null,
+          "translation_id": null
+        }
+      ]
+    },
+    {
+      "verse_number": 10,
+      "verse_total_number": 6089,
+      "verse_key": "93:10",
+      "text_madani": "وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ",
+      "translation_en": "And as for him who asks, do not chide (him),",
+      "translation_id": "Dan terhadap orang yang meminta-minta janganlah engkau menghardik(nya).",
+      "page_number": 596,
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_number": 238,
+      "sajdah": null,
+      "sajdah_number": null,
+      "words": [
+        {
+          "position": 1,
+          "line_number": 10,
+          "page_number": 596,
+          "code": "&#xfb9b;",
+          "char_type": "word",
+          "translation_en": "And as for",
+          "translation_id": "dan adapun"
+        },
+        {
+          "position": 2,
+          "line_number": 10,
+          "page_number": 596,
+          "code": "&#xfb9c;",
+          "char_type": "word",
+          "translation_en": "one who asks",
+          "translation_id": "orang minta-minta"
+        },
+        {
+          "position": 3,
+          "line_number": 10,
+          "page_number": 596,
+          "code": "&#xfb9d;",
+          "char_type": "word",
+          "translation_en": "then (do) not",
+          "translation_id": "maka jangan"
+        },
+        {
+          "position": 4,
+          "line_number": 10,
+          "page_number": 596,
+          "code": "&#xfb9e;",
+          "char_type": "word",
+          "translation_en": "repel",
+          "translation_id": "kamu menghardik"
+        },
+        {
+          "position": 5,
+          "line_number": 10,
+          "page_number": 596,
+          "code": "&#xfb9f;",
+          "char_type": "end",
+          "translation_en": null,
+          "translation_id": null
+        }
+      ]
+    },
+    {
+      "verse_number": 11,
+      "verse_total_number": 6090,
+      "verse_key": "93:11",
+      "text_madani": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "translation_en": "And as for the favor of your Lord, do announce (it).",
+      "translation_id": "Dan terhadap nikmat Tuhanmu hendaklah engkau nyatakan (dengan bersyukur).",
+      "page_number": 596,
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_number": 238,
+      "sajdah": null,
+      "sajdah_number": null,
+      "words": [
+        {
+          "position": 1,
+          "line_number": 10,
+          "page_number": 596,
+          "code": "&#xfba0;",
+          "char_type": "word",
+          "translation_en": "But as for",
+          "translation_id": "dan adapun"
+        },
+        {
+          "position": 2,
+          "line_number": 10,
+          "page_number": 596,
+          "code": "&#xfba1;",
+          "char_type": "word",
+          "translation_en": "(the) Favor",
+          "translation_id": "dengan/terhadap nikmat"
+        },
+        {
+          "position": 3,
+          "line_number": 10,
+          "page_number": 596,
+          "code": "&#xfba2;",
+          "char_type": "word",
+          "translation_en": "(of) your Lord",
+          "translation_id": "Tuhanmu"
+        },
+        {
+          "position": 4,
+          "line_number": 10,
+          "page_number": 596,
+          "code": "&#xfba3;",
+          "char_type": "word",
+          "translation_en": "narrate",
+          "translation_id": "maka hendaklah kamu ceritakan"
+        },
+        {
+          "position": 5,
+          "line_number": 10,
+          "page_number": 596,
+          "code": "&#xfba4;",
+          "char_type": "end",
+          "translation_en": null,
+          "translation_id": null
+        }
+      ]
+    }
+  ]
+}

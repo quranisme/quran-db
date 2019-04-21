@@ -1,0 +1,443 @@
+{
+  "chapters": {
+    "chapter_number": 99,
+    "bismillah_pre": true,
+    "revelation_order": 93,
+    "revelation_place": "madinah",
+    "name_arabic": "الزلزلة",
+    "name_complex": "Az-Zalzalah",
+    "name_simple": "Az-Zalzalah",
+    "verses_count": 8,
+    "pages": [
+      599,
+      599
+    ],
+    "meaning": {
+      "text": "The Earthquake",
+      "en": "The Earthquake",
+      "id": "The Earthquake"
+    },
+    "verses": [
+      {
+        "verse_number": 1,
+        "verse_key": "99:1",
+        "text_madani": "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
+        "translation": "When the earth is shaken with her (violent) shaking,",
+        "page_number": 599,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 239,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 5,
+            "page_number": 599,
+            "text_madani": "إِذَا",
+            "translation": "When"
+          },
+          {
+            "position": 2,
+            "line_number": 5,
+            "page_number": 599,
+            "text_madani": "زُلْزِلَتِ",
+            "translation": "is shaken"
+          },
+          {
+            "position": 3,
+            "line_number": 5,
+            "page_number": 599,
+            "text_madani": "الْأَرْضُ",
+            "translation": "the earth"
+          },
+          {
+            "position": 4,
+            "line_number": 5,
+            "page_number": 599,
+            "text_madani": "زِلْزَالَهَا",
+            "translation": "with its earthquake"
+          },
+          {
+            "position": 5,
+            "line_number": 5,
+            "page_number": 599,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 2,
+        "verse_key": "99:2",
+        "text_madani": "وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا",
+        "translation": "And the earth brings forth her burdens,",
+        "page_number": 599,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 239,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 5,
+            "page_number": 599,
+            "text_madani": "وَأَخْرَجَتِ",
+            "translation": "And brings forth"
+          },
+          {
+            "position": 2,
+            "line_number": 5,
+            "page_number": 599,
+            "text_madani": "الْأَرْضُ",
+            "translation": "the earth"
+          },
+          {
+            "position": 3,
+            "line_number": 5,
+            "page_number": 599,
+            "text_madani": "أَثْقَالَهَا",
+            "translation": "its burdens"
+          },
+          {
+            "position": 4,
+            "line_number": 6,
+            "page_number": 599,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 3,
+        "verse_key": "99:3",
+        "text_madani": "وَقَالَ الْإِنسَانُ مَا لَهَا",
+        "translation": "And man says: What has befallen her?",
+        "page_number": 599,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 239,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 6,
+            "page_number": 599,
+            "text_madani": "وَقَالَ",
+            "translation": "And says"
+          },
+          {
+            "position": 2,
+            "line_number": 6,
+            "page_number": 599,
+            "text_madani": "الْإِنْسَانُ",
+            "translation": "man"
+          },
+          {
+            "position": 3,
+            "line_number": 6,
+            "page_number": 599,
+            "text_madani": "مَا",
+            "translation": "What"
+          },
+          {
+            "position": 4,
+            "line_number": 6,
+            "page_number": 599,
+            "text_madani": "لَهَا",
+            "translation": "(is) with it"
+          },
+          {
+            "position": 5,
+            "line_number": 6,
+            "page_number": 599,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 4,
+        "verse_key": "99:4",
+        "text_madani": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+        "translation": "On that day she shall tell her news,",
+        "page_number": 599,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 239,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 6,
+            "page_number": 599,
+            "text_madani": "يَوْمَئِذٍ",
+            "translation": "That Day"
+          },
+          {
+            "position": 2,
+            "line_number": 6,
+            "page_number": 599,
+            "text_madani": "تُحَدِّثُ",
+            "translation": "it will report"
+          },
+          {
+            "position": 3,
+            "line_number": 6,
+            "page_number": 599,
+            "text_madani": "أَخْبَارَهَا",
+            "translation": "its news"
+          },
+          {
+            "position": 4,
+            "line_number": 6,
+            "page_number": 599,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 5,
+        "verse_key": "99:5",
+        "text_madani": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+        "translation": "Because your Lord had inspired her.",
+        "page_number": 599,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 239,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 7,
+            "page_number": 599,
+            "text_madani": "بِأَنَّ",
+            "translation": "Because"
+          },
+          {
+            "position": 2,
+            "line_number": 7,
+            "page_number": 599,
+            "text_madani": "رَبَّكَ",
+            "translation": "your Lord"
+          },
+          {
+            "position": 3,
+            "line_number": 7,
+            "page_number": 599,
+            "text_madani": "أَوْحَىٰ",
+            "translation": "inspired"
+          },
+          {
+            "position": 4,
+            "line_number": 7,
+            "page_number": 599,
+            "text_madani": "لَهَا",
+            "translation": "[to] it"
+          },
+          {
+            "position": 5,
+            "line_number": 7,
+            "page_number": 599,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 6,
+        "verse_key": "99:6",
+        "text_madani": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِّيُرَوْا أَعْمَالَهُمْ",
+        "translation": "On that day men shall come forth in sundry bodies that they may be shown their works.",
+        "page_number": 599,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 239,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 7,
+            "page_number": 599,
+            "text_madani": "يَوْمَئِذٍ",
+            "translation": "That Day"
+          },
+          {
+            "position": 2,
+            "line_number": 7,
+            "page_number": 599,
+            "text_madani": "يَصْدُرُ",
+            "translation": "will proceed"
+          },
+          {
+            "position": 3,
+            "line_number": 7,
+            "page_number": 599,
+            "text_madani": "النَّاسُ",
+            "translation": "the mankind"
+          },
+          {
+            "position": 4,
+            "line_number": 7,
+            "page_number": 599,
+            "text_madani": "أَشْتَاتًا",
+            "translation": "(in) scattered groups"
+          },
+          {
+            "position": 5,
+            "line_number": 8,
+            "page_number": 599,
+            "text_madani": "لِيُرَوْا",
+            "translation": "to be shown"
+          },
+          {
+            "position": 6,
+            "line_number": 8,
+            "page_number": 599,
+            "text_madani": "أَعْمَالَهُمْ",
+            "translation": "their deeds"
+          },
+          {
+            "position": 7,
+            "line_number": 8,
+            "page_number": 599,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 7,
+        "verse_key": "99:7",
+        "text_madani": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
+        "translation": "So. he who has done an atom's weight of good shall see it",
+        "page_number": 599,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 239,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 8,
+            "page_number": 599,
+            "text_madani": "فَمَنْ",
+            "translation": "So whoever"
+          },
+          {
+            "position": 2,
+            "line_number": 8,
+            "page_number": 599,
+            "text_madani": "يَعْمَلْ",
+            "translation": "does"
+          },
+          {
+            "position": 3,
+            "line_number": 8,
+            "page_number": 599,
+            "text_madani": "مِثْقَالَ",
+            "translation": "(equal to the) weight"
+          },
+          {
+            "position": 4,
+            "line_number": 8,
+            "page_number": 599,
+            "text_madani": "ذَرَّةٍ",
+            "translation": "(of) an atom"
+          },
+          {
+            "position": 5,
+            "line_number": 8,
+            "page_number": 599,
+            "text_madani": "خَيْرًا",
+            "translation": "good"
+          },
+          {
+            "position": 6,
+            "line_number": 9,
+            "page_number": 599,
+            "text_madani": "يَرَهُ",
+            "translation": "will see it"
+          },
+          {
+            "position": 7,
+            "line_number": 9,
+            "page_number": 599,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 8,
+        "verse_key": "99:8",
+        "text_madani": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+        "translation": "And he who has done an atom's weight of evil shall see it.",
+        "page_number": 599,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 239,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 9,
+            "page_number": 599,
+            "text_madani": "وَمَنْ",
+            "translation": "And whoever"
+          },
+          {
+            "position": 2,
+            "line_number": 9,
+            "page_number": 599,
+            "text_madani": "يَعْمَلْ",
+            "translation": "does"
+          },
+          {
+            "position": 3,
+            "line_number": 9,
+            "page_number": 599,
+            "text_madani": "مِثْقَالَ",
+            "translation": "(equal to the) weight"
+          },
+          {
+            "position": 4,
+            "line_number": 9,
+            "page_number": 599,
+            "text_madani": "ذَرَّةٍ",
+            "translation": "(of) an atom"
+          },
+          {
+            "position": 5,
+            "line_number": 9,
+            "page_number": 599,
+            "text_madani": "شَرًّا",
+            "translation": "evil"
+          },
+          {
+            "position": 6,
+            "line_number": 9,
+            "page_number": 599,
+            "text_madani": "يَرَهُ",
+            "translation": "will see it"
+          },
+          {
+            "position": 7,
+            "line_number": 9,
+            "page_number": 599,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      }
+    ]
+  }
+}

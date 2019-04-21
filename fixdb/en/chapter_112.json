@@ -1,0 +1,269 @@
+{
+  "chapters": {
+    "chapter_number": 112,
+    "bismillah_pre": true,
+    "revelation_order": 22,
+    "revelation_place": "makkah",
+    "name_arabic": "الإخلاص",
+    "name_complex": "Al-'Ikhlāş",
+    "name_simple": "Al-Ikhlas",
+    "verses_count": 4,
+    "pages": [
+      604,
+      604
+    ],
+    "meaning": {
+      "text": "The Sincerity",
+      "en": "The Sincerity",
+      "id": "The Sincerity"
+    },
+    "verses": [
+      {
+        "verse_number": 1,
+        "verse_key": "112:1",
+        "text_madani": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+        "translation": "Say: He, Allah, is One.",
+        "page_number": 604,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 3,
+            "page_number": 604,
+            "text_madani": "قُلْ",
+            "code": "&#xfb51;",
+            "code_v3": "&#xfb51;",
+            "char_type": "word",
+            "translation": "Say"
+          },
+          {
+            "position": 2,
+            "line_number": 3,
+            "page_number": 604,
+            "text_madani": "هُوَ",
+            "code": "&#xfb52;",
+            "code_v3": "&#xfb52;",
+            "char_type": "word",
+            "translation": "He"
+          },
+          {
+            "position": 3,
+            "line_number": 3,
+            "page_number": 604,
+            "text_madani": "اللَّهُ",
+            "code": "&#xfb53;",
+            "code_v3": "&#xfb53;",
+            "char_type": "word",
+            "translation": "(is) Allah"
+          },
+          {
+            "position": 4,
+            "line_number": 3,
+            "page_number": 604,
+            "text_madani": "أَحَدٌ",
+            "code": "&#xfb54;",
+            "code_v3": "&#xfb54;",
+            "char_type": "word",
+            "translation": "the One"
+          },
+          {
+            "position": 5,
+            "line_number": 3,
+            "page_number": 604,
+            "text_madani": null,
+            "code": "&#xfb55;",
+            "code_v3": "&#xa001;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 2,
+        "verse_key": "112:2",
+        "text_madani": "اللَّهُ الصَّمَدُ",
+        "translation": "Allah is He on Whom all depend.",
+        "page_number": 604,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 3,
+            "page_number": 604,
+            "text_madani": "اللَّهُ",
+            "code": "&#xfb56;",
+            "code_v3": "&#xfb56;",
+            "char_type": "word",
+            "translation": "Allah"
+          },
+          {
+            "position": 2,
+            "line_number": 3,
+            "page_number": 604,
+            "text_madani": "الصَّمَدُ",
+            "code": "&#xfb57;",
+            "code_v3": "&#xfb57;",
+            "char_type": "word",
+            "translation": "the Eternal, the Absolute"
+          },
+          {
+            "position": 3,
+            "line_number": 3,
+            "page_number": 604,
+            "text_madani": null,
+            "code": "&#xfb58;",
+            "code_v3": "&#xa002;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 3,
+        "verse_key": "112:3",
+        "text_madani": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+        "translation": "He begets not, nor is He begotten.",
+        "page_number": 604,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 3,
+            "page_number": 604,
+            "text_madani": "لَمْ",
+            "code": "&#xfb59;",
+            "code_v3": "&#xfb59;",
+            "char_type": "word",
+            "translation": "Not"
+          },
+          {
+            "position": 2,
+            "line_number": 3,
+            "page_number": 604,
+            "text_madani": "يَلِدْ",
+            "code": "&#xfb5a;",
+            "code_v3": "&#xfb5a;",
+            "char_type": "word",
+            "translation": "He begets"
+          },
+          {
+            "position": 3,
+            "line_number": 4,
+            "page_number": 604,
+            "text_madani": "وَلَمْ",
+            "code": "&#xfb5b;",
+            "code_v3": "&#xfb5b;",
+            "char_type": "word",
+            "translation": "and not"
+          },
+          {
+            "position": 4,
+            "line_number": 4,
+            "page_number": 604,
+            "text_madani": "يُولَدْ",
+            "code": "&#xfb5c;",
+            "code_v3": "&#xfb5c;",
+            "char_type": "word",
+            "translation": "He is begotten"
+          },
+          {
+            "position": 5,
+            "line_number": 4,
+            "page_number": 604,
+            "text_madani": null,
+            "code": "&#xfb5d;",
+            "code_v3": "&#xa003;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 4,
+        "verse_key": "112:4",
+        "text_madani": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+        "translation": "And none is like Him.",
+        "page_number": 604,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 4,
+            "page_number": 604,
+            "text_madani": "وَلَمْ",
+            "code": "&#xfb5e;",
+            "code_v3": "&#xfb5e;",
+            "char_type": "word",
+            "translation": "And not"
+          },
+          {
+            "position": 2,
+            "line_number": 4,
+            "page_number": 604,
+            "text_madani": "يَكُنْ",
+            "code": "&#xfb5f;",
+            "code_v3": "&#xfb5f;",
+            "char_type": "word",
+            "translation": "is"
+          },
+          {
+            "position": 3,
+            "line_number": 4,
+            "page_number": 604,
+            "text_madani": "لَهُ",
+            "code": "&#xfb60;",
+            "code_v3": "&#xfb60;",
+            "char_type": "word",
+            "translation": "for Him"
+          },
+          {
+            "position": 4,
+            "line_number": 4,
+            "page_number": 604,
+            "text_madani": "كُفُوًا",
+            "code": "&#xfb61;",
+            "code_v3": "&#xfb61;",
+            "char_type": "word",
+            "translation": "equivalent"
+          },
+          {
+            "position": 5,
+            "line_number": 4,
+            "page_number": 604,
+            "text_madani": "أَحَدٌ",
+            "code": "&#xfb62;",
+            "code_v3": "&#xfb62;",
+            "char_type": "word",
+            "translation": "any [one]"
+          },
+          {
+            "position": 6,
+            "line_number": 4,
+            "page_number": 604,
+            "text_madani": null,
+            "code": "&#xfb63;",
+            "code_v3": "&#xa004;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      }
+    ]
+  }
+}

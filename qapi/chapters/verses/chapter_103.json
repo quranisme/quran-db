@@ -1,0 +1,205 @@
+{
+  "chapter_number": 103,
+  "bismillah_pre": true,
+  "revelation_order": 13,
+  "revelation_place": "makkah",
+  "name_arabic": "العصر",
+  "name_complex": "Al-`Aşr",
+  "name_simple": "Al-'Asr",
+  "verses_count": 3,
+  "pages": [
+    601,
+    601
+  ],
+  "meaning": {
+    "text": "The Declining Day",
+    "en": "The Declining Day",
+    "id": "Waktu Sore"
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "verse_total_number": 6177,
+      "verse_key": "103:1",
+      "text_madani": "وَالْعَصْرِ",
+      "translation_en": "I swear by the time,",
+      "translation_id": "Demi masa,",
+      "page_number": 601,
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_number": 240,
+      "sajdah": null,
+      "sajdah_number": null,
+      "words": [
+        {
+          "position": 1,
+          "line_number": 3,
+          "page_number": 601,
+          "text_madani": "وَالْعَصْرِ",
+          "translation_en": "By the time",
+          "translation_id": ""
+        },
+        {
+          "position": 2,
+          "line_number": 3,
+          "page_number": 601,
+          "text_madani": null,
+          "translation_en": null,
+          "translation_id": null
+        }
+      ]
+    },
+    {
+      "verse_number": 2,
+      "verse_total_number": 6178,
+      "verse_key": "103:2",
+      "text_madani": "إِنَّ الْإِنسَانَ لَفِي خُسْرٍ",
+      "translation_en": "Most surely man is in loss,",
+      "translation_id": "sungguh, manusia berada dalam kerugian,",
+      "page_number": 601,
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_number": 240,
+      "sajdah": null,
+      "sajdah_number": null,
+      "words": [
+        {
+          "position": 1,
+          "line_number": 3,
+          "page_number": 601,
+          "text_madani": "إِنَّ",
+          "translation_en": "Indeed",
+          "translation_id": "sesungguhnya"
+        },
+        {
+          "position": 2,
+          "line_number": 3,
+          "page_number": 601,
+          "text_madani": "الْإِنْسَانَ",
+          "translation_en": "mankind",
+          "translation_id": "manusia"
+        },
+        {
+          "position": 3,
+          "line_number": 3,
+          "page_number": 601,
+          "text_madani": "لَفِي",
+          "translation_en": "(is) surely in",
+          "translation_id": "benar-benar dalam"
+        },
+        {
+          "position": 4,
+          "line_number": 3,
+          "page_number": 601,
+          "text_madani": "خُسْرٍ",
+          "translation_en": "loss",
+          "translation_id": "kerugian"
+        },
+        {
+          "position": 5,
+          "line_number": 3,
+          "page_number": 601,
+          "text_madani": null,
+          "translation_en": null,
+          "translation_id": null
+        }
+      ]
+    },
+    {
+      "verse_number": 3,
+      "verse_total_number": 6179,
+      "verse_key": "103:3",
+      "text_madani": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+      "translation_en": "Except those who believe and do good, and enjoin on each other truth, and enjoin on each other patience.",
+      "translation_id": "kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran.",
+      "page_number": 601,
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_number": 240,
+      "sajdah": null,
+      "sajdah_number": null,
+      "words": [
+        {
+          "position": 1,
+          "line_number": 3,
+          "page_number": 601,
+          "text_madani": "إِلَّا",
+          "translation_en": "Except",
+          "translation_id": "kecuali"
+        },
+        {
+          "position": 2,
+          "line_number": 3,
+          "page_number": 601,
+          "text_madani": "الَّذِينَ",
+          "translation_en": "those who",
+          "translation_id": "orang-orang yang"
+        },
+        {
+          "position": 3,
+          "line_number": 3,
+          "page_number": 601,
+          "text_madani": "آمَنُوا",
+          "translation_en": "believe",
+          "translation_id": "beriman"
+        },
+        {
+          "position": 4,
+          "line_number": 4,
+          "page_number": 601,
+          "text_madani": "وَعَمِلُوا",
+          "translation_en": "and do",
+          "translation_id": "dan mereka berbuat/beramal"
+        },
+        {
+          "position": 5,
+          "line_number": 4,
+          "page_number": 601,
+          "text_madani": "الصَّالِحَاتِ",
+          "translation_en": "righteous deeds",
+          "translation_id": "kebajikan/sholeh"
+        },
+        {
+          "position": 6,
+          "line_number": 4,
+          "page_number": 601,
+          "text_madani": "وَتَوَاصَوْا",
+          "translation_en": "and enjoin each other",
+          "translation_id": "dan mereka saling berwasiat/menasehati"
+        },
+        {
+          "position": 7,
+          "line_number": 4,
+          "page_number": 601,
+          "text_madani": "بِالْحَقِّ",
+          "translation_en": "to the truth",
+          "translation_id": "dengan kebenaran"
+        },
+        {
+          "position": 8,
+          "line_number": 4,
+          "page_number": 601,
+          "text_madani": "وَتَوَاصَوْا",
+          "translation_en": "and enjoin each other",
+          "translation_id": "dan mereka saling berwasiat/menasehati"
+        },
+        {
+          "position": 9,
+          "line_number": 4,
+          "page_number": 601,
+          "text_madani": "بِالصَّبْرِ",
+          "translation_en": "to [the] patience",
+          "translation_id": "dengan kesabaran"
+        },
+        {
+          "position": 10,
+          "line_number": 4,
+          "page_number": 601,
+          "text_madani": null,
+          "translation_en": null,
+          "translation_id": null
+        }
+      ]
+    }
+  ]
+}

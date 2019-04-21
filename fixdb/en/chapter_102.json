@@ -1,0 +1,495 @@
+{
+  "chapters": {
+    "chapter_number": 102,
+    "bismillah_pre": true,
+    "revelation_order": 16,
+    "revelation_place": "makkah",
+    "name_arabic": "التكاثر",
+    "name_complex": "At-Takāthur",
+    "name_simple": "At-Takathur",
+    "verses_count": 8,
+    "pages": [
+      600,
+      600
+    ],
+    "meaning": {
+      "text": "The Rivalry in world increase",
+      "en": "The Rivalry in world increase",
+      "id": "The Rivalry in world increase"
+    },
+    "verses": [
+      {
+        "verse_number": 1,
+        "verse_key": "102:1",
+        "text_madani": "أَلْهَاكُمُ التَّكَاثُرُ",
+        "translation": "Abundance diverts you,",
+        "page_number": 600,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 12,
+            "page_number": 600,
+            "text_madani": "أَلْهَاكُمُ",
+            "code": "&#xfb8b;",
+            "code_v3": "&#xfb8b;",
+            "char_type": "word",
+            "translation": "Diverts you"
+          },
+          {
+            "position": 2,
+            "line_number": 12,
+            "page_number": 600,
+            "text_madani": "التَّكَاثُرُ",
+            "code": "&#xfb8c;",
+            "code_v3": "&#xfb8c;",
+            "char_type": "word",
+            "translation": "the competition to increase"
+          },
+          {
+            "position": 3,
+            "line_number": 12,
+            "page_number": 600,
+            "text_madani": null,
+            "code": "&#xfb8d;",
+            "code_v3": "&#xa001;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 2,
+        "verse_key": "102:2",
+        "text_madani": "حَتَّىٰ زُرْتُمُ الْمَقَابِرَ",
+        "translation": "Until you come to the graves.",
+        "page_number": 600,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 12,
+            "page_number": 600,
+            "text_madani": "حَتَّىٰ",
+            "code": "&#xfb8e;",
+            "code_v3": "&#xfb8e;",
+            "char_type": "word",
+            "translation": "Until"
+          },
+          {
+            "position": 2,
+            "line_number": 12,
+            "page_number": 600,
+            "text_madani": "زُرْتُمُ",
+            "code": "&#xfb8f;",
+            "code_v3": "&#xfb8f;",
+            "char_type": "word",
+            "translation": "you visit"
+          },
+          {
+            "position": 3,
+            "line_number": 12,
+            "page_number": 600,
+            "text_madani": "الْمَقَابِرَ",
+            "code": "&#xfb90;",
+            "code_v3": "&#xfb90;",
+            "char_type": "word",
+            "translation": "the graves"
+          },
+          {
+            "position": 4,
+            "line_number": 12,
+            "page_number": 600,
+            "text_madani": null,
+            "code": "&#xfb91;",
+            "code_v3": "&#xa002;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 3,
+        "verse_key": "102:3",
+        "text_madani": "كَلَّا سَوْفَ تَعْلَمُونَ",
+        "translation": "Nay! you shall soon know,",
+        "page_number": 600,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 12,
+            "page_number": 600,
+            "text_madani": "كَلَّا",
+            "code": "&#xfb92;",
+            "code_v3": "&#xfb92;",
+            "char_type": "word",
+            "translation": "Nay"
+          },
+          {
+            "position": 2,
+            "line_number": 12,
+            "page_number": 600,
+            "text_madani": "سَوْفَ",
+            "code": "&#xfb93;",
+            "code_v3": "&#xfb93;",
+            "char_type": "word",
+            "translation": "Soon"
+          },
+          {
+            "position": 3,
+            "line_number": 13,
+            "page_number": 600,
+            "text_madani": "تَعْلَمُونَ",
+            "code": "&#xfb94;",
+            "code_v3": "&#xfb94;",
+            "char_type": "word",
+            "translation": "you will know"
+          },
+          {
+            "position": 4,
+            "line_number": 13,
+            "page_number": 600,
+            "text_madani": null,
+            "code": "&#xfb95;",
+            "code_v3": "&#xa003;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 4,
+        "verse_key": "102:4",
+        "text_madani": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+        "translation": "Nay! Nay! you shall soon know.",
+        "page_number": 600,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 13,
+            "page_number": 600,
+            "text_madani": "ثُمَّ",
+            "code": "&#xfb96;",
+            "code_v3": "&#xfb96;",
+            "char_type": "word",
+            "translation": "Then"
+          },
+          {
+            "position": 2,
+            "line_number": 13,
+            "page_number": 600,
+            "text_madani": "كَلَّا",
+            "code": "&#xfb97;",
+            "code_v3": "&#xfb97;",
+            "char_type": "word",
+            "translation": "nay"
+          },
+          {
+            "position": 3,
+            "line_number": 13,
+            "page_number": 600,
+            "text_madani": "سَوْفَ",
+            "code": "&#xfb98;",
+            "code_v3": "&#xfb98;",
+            "char_type": "word",
+            "translation": "Soon"
+          },
+          {
+            "position": 4,
+            "line_number": 13,
+            "page_number": 600,
+            "text_madani": "تَعْلَمُونَ",
+            "code": "&#xfb99;",
+            "code_v3": "&#xfb99;",
+            "char_type": "word",
+            "translation": "you will know"
+          },
+          {
+            "position": 5,
+            "line_number": 13,
+            "page_number": 600,
+            "text_madani": null,
+            "code": "&#xfb9a;",
+            "code_v3": "&#xa004;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 5,
+        "verse_key": "102:5",
+        "text_madani": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ",
+        "translation": "Nay! if you had known with a certain knowledge,",
+        "page_number": 600,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 13,
+            "page_number": 600,
+            "text_madani": "كَلَّا",
+            "code": "&#xfb9b;",
+            "code_v3": "&#xfb9b;",
+            "char_type": "word",
+            "translation": "Nay"
+          },
+          {
+            "position": 2,
+            "line_number": 13,
+            "page_number": 600,
+            "text_madani": "لَوْ",
+            "code": "&#xfb9c;",
+            "code_v3": "&#xfb9c;",
+            "char_type": "word",
+            "translation": "If"
+          },
+          {
+            "position": 3,
+            "line_number": 13,
+            "page_number": 600,
+            "text_madani": "تَعْلَمُونَ",
+            "code": "&#xfb9d;",
+            "code_v3": "&#xfb9d;",
+            "char_type": "word",
+            "translation": "you know"
+          },
+          {
+            "position": 4,
+            "line_number": 14,
+            "page_number": 600,
+            "text_madani": "عِلْمَ",
+            "code": "&#xfb9e;",
+            "code_v3": "&#xfb9e;",
+            "char_type": "word",
+            "translation": "(with) a knowledge"
+          },
+          {
+            "position": 5,
+            "line_number": 14,
+            "page_number": 600,
+            "text_madani": "الْيَقِينِ",
+            "code": "&#xfb9f;",
+            "code_v3": "&#xfb9f;",
+            "char_type": "word",
+            "translation": "(of) certainty"
+          },
+          {
+            "position": 6,
+            "line_number": 14,
+            "page_number": 600,
+            "text_madani": null,
+            "code": "&#xfba0;",
+            "code_v3": "&#xa005;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 6,
+        "verse_key": "102:6",
+        "text_madani": "لَتَرَوُنَّ الْجَحِيمَ",
+        "translation": "You should most certainly have seen the hell;",
+        "page_number": 600,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 14,
+            "page_number": 600,
+            "text_madani": "لَتَرَوُنَّ",
+            "code": "&#xfba1;",
+            "code_v3": "&#xfba1;",
+            "char_type": "word",
+            "translation": "Surely you will see"
+          },
+          {
+            "position": 2,
+            "line_number": 14,
+            "page_number": 600,
+            "text_madani": "الْجَحِيمَ",
+            "code": "&#xfba2;",
+            "code_v3": "&#xfba2;",
+            "char_type": "word",
+            "translation": "the Hellfire"
+          },
+          {
+            "position": 3,
+            "line_number": 14,
+            "page_number": 600,
+            "text_madani": null,
+            "code": "&#xfba3;",
+            "code_v3": "&#xa006;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 7,
+        "verse_key": "102:7",
+        "text_madani": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ",
+        "translation": "Then you shall most certainly see it with the eye of certainty;",
+        "page_number": 600,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 14,
+            "page_number": 600,
+            "text_madani": "ثُمَّ",
+            "code": "&#xfba4;",
+            "code_v3": "&#xfba4;",
+            "char_type": "word",
+            "translation": "Then"
+          },
+          {
+            "position": 2,
+            "line_number": 14,
+            "page_number": 600,
+            "text_madani": "لَتَرَوُنَّهَا",
+            "code": "&#xfba5;",
+            "code_v3": "&#xfba5;",
+            "char_type": "word",
+            "translation": "surely you will see it"
+          },
+          {
+            "position": 3,
+            "line_number": 15,
+            "page_number": 600,
+            "text_madani": "عَيْنَ",
+            "code": "&#xfba6;",
+            "code_v3": "&#xfba6;",
+            "char_type": "word",
+            "translation": "(with the) eye"
+          },
+          {
+            "position": 4,
+            "line_number": 15,
+            "page_number": 600,
+            "text_madani": "الْيَقِينِ",
+            "code": "&#xfba7;",
+            "code_v3": "&#xfba7;",
+            "char_type": "word",
+            "translation": "(of) certainty"
+          },
+          {
+            "position": 5,
+            "line_number": 15,
+            "page_number": 600,
+            "text_madani": null,
+            "code": "&#xfba8;",
+            "code_v3": "&#xa007;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 8,
+        "verse_key": "102:8",
+        "text_madani": "ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ",
+        "translation": "Then on that day you shall most certainly be questioned about the boons.",
+        "page_number": 600,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 240,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 15,
+            "page_number": 600,
+            "text_madani": "ثُمَّ",
+            "code": "&#xfba9;",
+            "code_v3": "&#xfba9;",
+            "char_type": "word",
+            "translation": "Then"
+          },
+          {
+            "position": 2,
+            "line_number": 15,
+            "page_number": 600,
+            "text_madani": "لَتُسْأَلُنَّ",
+            "code": "&#xfbaa;",
+            "code_v3": "&#xfbaa;",
+            "char_type": "word",
+            "translation": "surely you will be asked"
+          },
+          {
+            "position": 3,
+            "line_number": 15,
+            "page_number": 600,
+            "text_madani": "يَوْمَئِذٍ",
+            "code": "&#xfbab;",
+            "code_v3": "&#xfbab;",
+            "char_type": "word",
+            "translation": "that Day"
+          },
+          {
+            "position": 4,
+            "line_number": 15,
+            "page_number": 600,
+            "text_madani": "عَنِ",
+            "code": "&#xfbac;",
+            "code_v3": "&#xfbac;",
+            "char_type": "word",
+            "translation": "about"
+          },
+          {
+            "position": 5,
+            "line_number": 15,
+            "page_number": 600,
+            "text_madani": "النَّعِيمِ",
+            "code": "&#xfbad;",
+            "code_v3": "&#xfbad;",
+            "char_type": "word",
+            "translation": "the pleasures"
+          },
+          {
+            "position": 6,
+            "line_number": 15,
+            "page_number": 600,
+            "text_madani": null,
+            "code": "&#xfbae;",
+            "code_v3": "&#xa008;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      }
+    ]
+  }
+}

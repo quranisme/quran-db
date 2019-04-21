@@ -1,0 +1,534 @@
+{
+  "chapters": {
+    "chapter_number": 93,
+    "bismillah_pre": true,
+    "revelation_order": 11,
+    "revelation_place": "makkah",
+    "name_arabic": "الضحى",
+    "name_complex": "Ađ-Đuĥaá",
+    "name_simple": "Ad-Duhaa",
+    "verses_count": 11,
+    "pages": [
+      596,
+      596
+    ],
+    "meaning": {
+      "text": "The Morning Hours",
+      "en": "The Morning Hours",
+      "id": "The Morning Hours"
+    },
+    "verses": [
+      {
+        "verse_number": 1,
+        "verse_key": "93:1",
+        "text_madani": "وَالضُّحَىٰ",
+        "translation": "Demi waktu dhuha (ketika matahari naik sepenggalah),",
+        "page_number": 596,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 6,
+            "page_number": 596,
+            "text_madani": "وَالضُّحَىٰ",
+            "translation": ""
+          },
+          {
+            "position": 2,
+            "line_number": 6,
+            "page_number": 596,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 2,
+        "verse_key": "93:2",
+        "text_madani": "وَاللَّيْلِ إِذَا سَجَىٰ",
+        "translation": "dan demi malam apabila telah sunyi,",
+        "page_number": 596,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 6,
+            "page_number": 596,
+            "text_madani": "وَاللَّيْلِ",
+            "translation": "dan malam"
+          },
+          {
+            "position": 2,
+            "line_number": 6,
+            "page_number": 596,
+            "text_madani": "إِذَا",
+            "translation": "apabila"
+          },
+          {
+            "position": 3,
+            "line_number": 6,
+            "page_number": 596,
+            "text_madani": "سَجَىٰ",
+            "translation": "telah sunyi"
+          },
+          {
+            "position": 4,
+            "line_number": 6,
+            "page_number": 596,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 3,
+        "verse_key": "93:3",
+        "text_madani": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+        "translation": "Tuhanmu tidak meninggalkan engkau (Muhammad) dan tidak (pula) membencimu,",
+        "page_number": 596,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 6,
+            "page_number": 596,
+            "text_madani": "مَا",
+            "translation": "tidak"
+          },
+          {
+            "position": 2,
+            "line_number": 6,
+            "page_number": 596,
+            "text_madani": "وَدَّعَكَ",
+            "translation": "meninggalkan kamu"
+          },
+          {
+            "position": 3,
+            "line_number": 6,
+            "page_number": 596,
+            "text_madani": "رَبُّكَ",
+            "translation": "Tuhanmu"
+          },
+          {
+            "position": 4,
+            "line_number": 6,
+            "page_number": 596,
+            "text_madani": "وَمَا",
+            "translation": "dan tidak"
+          },
+          {
+            "position": 5,
+            "line_number": 6,
+            "page_number": 596,
+            "text_madani": "قَلَىٰ",
+            "translation": "marah/benci"
+          },
+          {
+            "position": 6,
+            "line_number": 6,
+            "page_number": 596,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 4,
+        "verse_key": "93:4",
+        "text_madani": "وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَىٰ",
+        "translation": "dan sungguh, yang kemudian itu lebih baik bagimu dari yang permulaan.",
+        "page_number": 596,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 7,
+            "page_number": 596,
+            "text_madani": "وَلَلْآخِرَةُ",
+            "translation": "dan sungguh kesudahan/akhirat"
+          },
+          {
+            "position": 2,
+            "line_number": 7,
+            "page_number": 596,
+            "text_madani": "خَيْرٌ",
+            "translation": "lebih baik"
+          },
+          {
+            "position": 3,
+            "line_number": 7,
+            "page_number": 596,
+            "text_madani": "لَكَ",
+            "translation": "bagimu"
+          },
+          {
+            "position": 4,
+            "line_number": 7,
+            "page_number": 596,
+            "text_madani": "مِنَ",
+            "translation": "dari pada"
+          },
+          {
+            "position": 5,
+            "line_number": 7,
+            "page_number": 596,
+            "text_madani": "الْأُولَىٰ",
+            "translation": "permulaan/dunia"
+          },
+          {
+            "position": 6,
+            "line_number": 7,
+            "page_number": 596,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 5,
+        "verse_key": "93:5",
+        "text_madani": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ",
+        "translation": "Dan sungguh, kelak Tuhanmu pasti memberikan karunia-Nya kepadamu, sehingga engkau menjadi puas.",
+        "page_number": 596,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 7,
+            "page_number": 596,
+            "text_madani": "وَلَسَوْفَ",
+            "translation": "dan sungguh kelak"
+          },
+          {
+            "position": 2,
+            "line_number": 7,
+            "page_number": 596,
+            "text_madani": "يُعْطِيكَ",
+            "translation": "memberikan kepadamu"
+          },
+          {
+            "position": 3,
+            "line_number": 7,
+            "page_number": 596,
+            "text_madani": "رَبُّكَ",
+            "translation": "Tuhanmu"
+          },
+          {
+            "position": 4,
+            "line_number": 8,
+            "page_number": 596,
+            "text_madani": "فَتَرْضَىٰ",
+            "translation": "maka kamu jadi puas"
+          },
+          {
+            "position": 5,
+            "line_number": 8,
+            "page_number": 596,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 6,
+        "verse_key": "93:6",
+        "text_madani": "أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ",
+        "translation": "Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungi(mu),",
+        "page_number": 596,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 8,
+            "page_number": 596,
+            "text_madani": "أَلَمْ",
+            "translation": "apakah tidak/bukanlah"
+          },
+          {
+            "position": 2,
+            "line_number": 8,
+            "page_number": 596,
+            "text_madani": "يَجِدْكَ",
+            "translation": "Dia mendapatimu"
+          },
+          {
+            "position": 3,
+            "line_number": 8,
+            "page_number": 596,
+            "text_madani": "يَتِيمًا",
+            "translation": "seorang yatim"
+          },
+          {
+            "position": 4,
+            "line_number": 8,
+            "page_number": 596,
+            "text_madani": "فَآوَىٰ",
+            "translation": "lalu Dia melindungi"
+          },
+          {
+            "position": 5,
+            "line_number": 8,
+            "page_number": 596,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 7,
+        "verse_key": "93:7",
+        "text_madani": "وَوَجَدَكَ ضَالًّا فَهَدَىٰ",
+        "translation": "dan Dia mendapatimu sebagai seorang yang bingung, lalu Dia memberikan petunjuk,",
+        "page_number": 596,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 8,
+            "page_number": 596,
+            "text_madani": "وَوَجَدَكَ",
+            "translation": "dan Dia mendapatimu"
+          },
+          {
+            "position": 2,
+            "line_number": 8,
+            "page_number": 596,
+            "text_madani": "ضَالًّا",
+            "translation": "sesat/bingung"
+          },
+          {
+            "position": 3,
+            "line_number": 9,
+            "page_number": 596,
+            "text_madani": "فَهَدَىٰ",
+            "translation": "lalu Dia memberi petunjuk"
+          },
+          {
+            "position": 4,
+            "line_number": 9,
+            "page_number": 596,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 8,
+        "verse_key": "93:8",
+        "text_madani": "وَوَجَدَكَ عَائِلًا فَأَغْنَىٰ",
+        "translation": "dan Dia mendapatimu sebagai seorang yang kekurangan, lalu Dia memberikan kecukupan.",
+        "page_number": 596,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 9,
+            "page_number": 596,
+            "text_madani": "وَوَجَدَكَ",
+            "translation": "dan Dia mendapatimu"
+          },
+          {
+            "position": 2,
+            "line_number": 9,
+            "page_number": 596,
+            "text_madani": "عَائِلًا",
+            "translation": "miskin/kekurangan"
+          },
+          {
+            "position": 3,
+            "line_number": 9,
+            "page_number": 596,
+            "text_madani": "فَأَغْنَىٰ",
+            "translation": "lalu Dia memberi kecukupan"
+          },
+          {
+            "position": 4,
+            "line_number": 9,
+            "page_number": 596,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 9,
+        "verse_key": "93:9",
+        "text_madani": "فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ",
+        "translation": "Maka terhadap anak yatim janganlah engkau berlaku sewenang-wenang.",
+        "page_number": 596,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 9,
+            "page_number": 596,
+            "text_madani": "فَأَمَّا",
+            "translation": "maka adapun"
+          },
+          {
+            "position": 2,
+            "line_number": 9,
+            "page_number": 596,
+            "text_madani": "الْيَتِيمَ",
+            "translation": "anak yatim"
+          },
+          {
+            "position": 3,
+            "line_number": 9,
+            "page_number": 596,
+            "text_madani": "فَلَا",
+            "translation": "maka jangan"
+          },
+          {
+            "position": 4,
+            "line_number": 9,
+            "page_number": 596,
+            "text_madani": "تَقْهَرْ",
+            "translation": "kamu paksa/bersikap bengis"
+          },
+          {
+            "position": 5,
+            "line_number": 10,
+            "page_number": 596,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 10,
+        "verse_key": "93:10",
+        "text_madani": "وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ",
+        "translation": "Dan terhadap orang yang meminta-minta janganlah engkau menghardik(nya).",
+        "page_number": 596,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 10,
+            "page_number": 596,
+            "text_madani": "وَأَمَّا",
+            "translation": "dan adapun"
+          },
+          {
+            "position": 2,
+            "line_number": 10,
+            "page_number": 596,
+            "text_madani": "السَّائِلَ",
+            "translation": "orang minta-minta"
+          },
+          {
+            "position": 3,
+            "line_number": 10,
+            "page_number": 596,
+            "text_madani": "فَلَا",
+            "translation": "maka jangan"
+          },
+          {
+            "position": 4,
+            "line_number": 10,
+            "page_number": 596,
+            "text_madani": "تَنْهَرْ",
+            "translation": "kamu menghardik"
+          },
+          {
+            "position": 5,
+            "line_number": 10,
+            "page_number": 596,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 11,
+        "verse_key": "93:11",
+        "text_madani": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+        "translation": "Dan terhadap nikmat Tuhanmu hendaklah engkau nyatakan (dengan bersyukur).",
+        "page_number": 596,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 10,
+            "page_number": 596,
+            "text_madani": "وَأَمَّا",
+            "translation": "dan adapun"
+          },
+          {
+            "position": 2,
+            "line_number": 10,
+            "page_number": 596,
+            "text_madani": "بِنِعْمَةِ",
+            "translation": "dengan/terhadap nikmat"
+          },
+          {
+            "position": 3,
+            "line_number": 10,
+            "page_number": 596,
+            "text_madani": "رَبِّكَ",
+            "translation": "Tuhanmu"
+          },
+          {
+            "position": 4,
+            "line_number": 10,
+            "page_number": 596,
+            "text_madani": "فَحَدِّثْ",
+            "translation": "maka hendaklah kamu ceritakan"
+          },
+          {
+            "position": 5,
+            "line_number": 10,
+            "page_number": 596,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      }
+    ]
+  }
+}

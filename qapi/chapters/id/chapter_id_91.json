@@ -1,0 +1,716 @@
+{
+  "chapters": {
+    "chapter_number": 91,
+    "bismillah_pre": true,
+    "revelation_order": 26,
+    "revelation_place": "makkah",
+    "name_arabic": "الشمس",
+    "name_complex": "Ash-Shams",
+    "name_simple": "Ash-Shams",
+    "verses_count": 15,
+    "pages": [
+      595,
+      595
+    ],
+    "meaning": {
+      "text": "The Sun",
+      "en": "The Sun",
+      "id": "The Sun"
+    },
+    "verses": [
+      {
+        "verse_number": 1,
+        "verse_key": "91:1",
+        "text_madani": "وَالشَّمْسِ وَضُحَاهَا",
+        "translation": "Demi matahari dan sinarnya pada pagi hari,",
+        "page_number": 595,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 2,
+            "page_number": 595,
+            "text_madani": "وَالشَّمْسِ",
+            "translation": ""
+          },
+          {
+            "position": 2,
+            "line_number": 2,
+            "page_number": 595,
+            "text_madani": "وَضُحَاهَا",
+            "translation": ""
+          },
+          {
+            "position": 3,
+            "line_number": 2,
+            "page_number": 595,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 2,
+        "verse_key": "91:2",
+        "text_madani": "وَالْقَمَرِ إِذَا تَلَاهَا",
+        "translation": "demi bulan apabila mengiringinya,",
+        "page_number": 595,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 2,
+            "page_number": 595,
+            "text_madani": "وَالْقَمَرِ",
+            "translation": "dan bulan"
+          },
+          {
+            "position": 2,
+            "line_number": 2,
+            "page_number": 595,
+            "text_madani": "إِذَا",
+            "translation": "apabila"
+          },
+          {
+            "position": 3,
+            "line_number": 2,
+            "page_number": 595,
+            "text_madani": "تَلَاهَا",
+            "translation": "mengiringinya"
+          },
+          {
+            "position": 4,
+            "line_number": 2,
+            "page_number": 595,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 3,
+        "verse_key": "91:3",
+        "text_madani": "وَالنَّهَارِ إِذَا جَلَّاهَا",
+        "translation": "demi siang apabila menampakkannya,",
+        "page_number": 595,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 2,
+            "page_number": 595,
+            "text_madani": "وَالنَّهَارِ",
+            "translation": "dan siang"
+          },
+          {
+            "position": 2,
+            "line_number": 2,
+            "page_number": 595,
+            "text_madani": "إِذَا",
+            "translation": "apabila"
+          },
+          {
+            "position": 3,
+            "line_number": 2,
+            "page_number": 595,
+            "text_madani": "جَلَّاهَا",
+            "translation": "menampakkannya"
+          },
+          {
+            "position": 4,
+            "line_number": 2,
+            "page_number": 595,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 4,
+        "verse_key": "91:4",
+        "text_madani": "وَاللَّيْلِ إِذَا يَغْشَاهَا",
+        "translation": "demi malam apabila menutupinya (gelap gulita),",
+        "page_number": 595,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 3,
+            "page_number": 595,
+            "text_madani": "وَاللَّيْلِ",
+            "translation": "dan malam"
+          },
+          {
+            "position": 2,
+            "line_number": 3,
+            "page_number": 595,
+            "text_madani": "إِذَا",
+            "translation": "apabila"
+          },
+          {
+            "position": 3,
+            "line_number": 3,
+            "page_number": 595,
+            "text_madani": "يَغْشَاهَا",
+            "translation": "menutupinya"
+          },
+          {
+            "position": 4,
+            "line_number": 3,
+            "page_number": 595,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 5,
+        "verse_key": "91:5",
+        "text_madani": "وَالسَّمَاءِ وَمَا بَنَاهَا",
+        "translation": "demi langit serta pembinaannya (yang menakjubkan),",
+        "page_number": 595,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 3,
+            "page_number": 595,
+            "text_madani": "وَالسَّمَاءِ",
+            "translation": "dan langit"
+          },
+          {
+            "position": 2,
+            "line_number": 3,
+            "page_number": 595,
+            "text_madani": "وَمَا",
+            "translation": "dan apa"
+          },
+          {
+            "position": 3,
+            "line_number": 3,
+            "page_number": 595,
+            "text_madani": "بَنَاهَا",
+            "translation": "pembinaannya"
+          },
+          {
+            "position": 4,
+            "line_number": 3,
+            "page_number": 595,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 6,
+        "verse_key": "91:6",
+        "text_madani": "وَالْأَرْضِ وَمَا طَحَاهَا",
+        "translation": "demi bumi serta penghamparannya,",
+        "page_number": 595,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 3,
+            "page_number": 595,
+            "text_madani": "وَالْأَرْضِ",
+            "translation": "dan bumi"
+          },
+          {
+            "position": 2,
+            "line_number": 3,
+            "page_number": 595,
+            "text_madani": "وَمَا",
+            "translation": "dan apa"
+          },
+          {
+            "position": 3,
+            "line_number": 3,
+            "page_number": 595,
+            "text_madani": "طَحَاهَا",
+            "translation": "penghamparannya"
+          },
+          {
+            "position": 4,
+            "line_number": 4,
+            "page_number": 595,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 7,
+        "verse_key": "91:7",
+        "text_madani": "وَنَفْسٍ وَمَا سَوَّاهَا",
+        "translation": "demi jiwa serta penyempurnaan (ciptaan)nya,",
+        "page_number": 595,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 4,
+            "page_number": 595,
+            "text_madani": "وَنَفْسٍ",
+            "translation": "dan manusia/jiwa"
+          },
+          {
+            "position": 2,
+            "line_number": 4,
+            "page_number": 595,
+            "text_madani": "وَمَا",
+            "translation": "dan apa"
+          },
+          {
+            "position": 3,
+            "line_number": 4,
+            "page_number": 595,
+            "text_madani": "سَوَّاهَا",
+            "translation": "penyempurnaanya"
+          },
+          {
+            "position": 4,
+            "line_number": 4,
+            "page_number": 595,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 8,
+        "verse_key": "91:8",
+        "text_madani": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا",
+        "translation": "maka Dia mengilhamkan kepadanya (jalan) kejahatan dan ketakwaannya,",
+        "page_number": 595,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 4,
+            "page_number": 595,
+            "text_madani": "فَأَلْهَمَهَا",
+            "translation": "maka Dia mengilhamkan padanya"
+          },
+          {
+            "position": 2,
+            "line_number": 4,
+            "page_number": 595,
+            "text_madani": "فُجُورَهَا",
+            "translation": "kedurhakaanya"
+          },
+          {
+            "position": 3,
+            "line_number": 4,
+            "page_number": 595,
+            "text_madani": "وَتَقْوَاهَا",
+            "translation": "dan ketaqwaannya"
+          },
+          {
+            "position": 4,
+            "line_number": 4,
+            "page_number": 595,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 9,
+        "verse_key": "91:9",
+        "text_madani": "قَدْ أَفْلَحَ مَن زَكَّاهَا",
+        "translation": "sungguh beruntung orang yang menyucikannya (jiwa itu),",
+        "page_number": 595,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 4,
+            "page_number": 595,
+            "text_madani": "قَدْ",
+            "translation": "sesungguhnya"
+          },
+          {
+            "position": 2,
+            "line_number": 5,
+            "page_number": 595,
+            "text_madani": "أَفْلَحَ",
+            "translation": "beruntung"
+          },
+          {
+            "position": 3,
+            "line_number": 5,
+            "page_number": 595,
+            "text_madani": "مَنْ",
+            "translation": "siapa/orang"
+          },
+          {
+            "position": 4,
+            "line_number": 5,
+            "page_number": 595,
+            "text_madani": "زَكَّاهَا",
+            "translation": "mensucikannya"
+          },
+          {
+            "position": 5,
+            "line_number": 5,
+            "page_number": 595,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 10,
+        "verse_key": "91:10",
+        "text_madani": "وَقَدْ خَابَ مَن دَسَّاهَا",
+        "translation": "dan sungguh rugi orang yang mengotorinya.",
+        "page_number": 595,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 5,
+            "page_number": 595,
+            "text_madani": "وَقَدْ",
+            "translation": "dan sesungguhnya"
+          },
+          {
+            "position": 2,
+            "line_number": 5,
+            "page_number": 595,
+            "text_madani": "خَابَ",
+            "translation": "celaka/rugi"
+          },
+          {
+            "position": 3,
+            "line_number": 5,
+            "page_number": 595,
+            "text_madani": "مَنْ",
+            "translation": "orang"
+          },
+          {
+            "position": 4,
+            "line_number": 5,
+            "page_number": 595,
+            "text_madani": "دَسَّاهَا",
+            "translation": "mengotorinya"
+          },
+          {
+            "position": 5,
+            "line_number": 5,
+            "page_number": 595,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 11,
+        "verse_key": "91:11",
+        "text_madani": "كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا",
+        "translation": "(Kaum) Tsamud telah mendustakan (rasulnya) karena mereka melampaui batas (zhalim),",
+        "page_number": 595,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 5,
+            "page_number": 595,
+            "text_madani": "كَذَّبَتْ",
+            "translation": "telah mendustakan"
+          },
+          {
+            "position": 2,
+            "line_number": 5,
+            "page_number": 595,
+            "text_madani": "ثَمُودُ",
+            "translation": "Samud"
+          },
+          {
+            "position": 3,
+            "line_number": 6,
+            "page_number": 595,
+            "text_madani": "بِطَغْوَاهَا",
+            "translation": "dan melampui batas"
+          },
+          {
+            "position": 4,
+            "line_number": 6,
+            "page_number": 595,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 12,
+        "verse_key": "91:12",
+        "text_madani": "إِذِ انبَعَثَ أَشْقَاهَا",
+        "translation": "ketika bangkit orang yang paling celaka di antara mereka,",
+        "page_number": 595,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 6,
+            "page_number": 595,
+            "text_madani": "إِذِ",
+            "translation": "ketika"
+          },
+          {
+            "position": 2,
+            "line_number": 6,
+            "page_number": 595,
+            "text_madani": "انْبَعَثَ",
+            "translation": "bangkit"
+          },
+          {
+            "position": 3,
+            "line_number": 6,
+            "page_number": 595,
+            "text_madani": "أَشْقَاهَا",
+            "translation": "orang yang lebih celaka diantaranya"
+          },
+          {
+            "position": 4,
+            "line_number": 6,
+            "page_number": 595,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 13,
+        "verse_key": "91:13",
+        "text_madani": "فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ وَسُقْيَاهَا",
+        "translation": "lalu Rasul Allah (Shalih) berkata kepada mereka, “(Biarkanlah) unta betina dari Allah ini dengan minumannya.”",
+        "page_number": 595,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 6,
+            "page_number": 595,
+            "text_madani": "فَقَالَ",
+            "translation": "dan berkata"
+          },
+          {
+            "position": 2,
+            "line_number": 6,
+            "page_number": 595,
+            "text_madani": "لَهُمْ",
+            "translation": "kepada mereka"
+          },
+          {
+            "position": 3,
+            "line_number": 6,
+            "page_number": 595,
+            "text_madani": "رَسُولُ",
+            "translation": "rasul"
+          },
+          {
+            "position": 4,
+            "line_number": 6,
+            "page_number": 595,
+            "text_madani": "اللَّهِ",
+            "translation": "Allah"
+          },
+          {
+            "position": 5,
+            "line_number": 7,
+            "page_number": 595,
+            "text_madani": "نَاقَةَ",
+            "translation": "unta betina"
+          },
+          {
+            "position": 6,
+            "line_number": 7,
+            "page_number": 595,
+            "text_madani": "اللَّهِ",
+            "translation": "Allah"
+          },
+          {
+            "position": 7,
+            "line_number": 7,
+            "page_number": 595,
+            "text_madani": "وَسُقْيَاهَا",
+            "translation": "dan minumannya"
+          },
+          {
+            "position": 8,
+            "line_number": 7,
+            "page_number": 595,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 14,
+        "verse_key": "91:14",
+        "text_madani": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنبِهِمْ فَسَوَّاهَا",
+        "translation": "Namun mereka mendustakannya dan menyembelihnya, karena itu Tuhan membinasakan mereka karena dosanya, lalu diratakan-Nya (dengan tanah),",
+        "page_number": 595,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 7,
+            "page_number": 595,
+            "text_madani": "فَكَذَّبُوهُ",
+            "translation": "dan mendustakan"
+          },
+          {
+            "position": 2,
+            "line_number": 7,
+            "page_number": 595,
+            "text_madani": "فَعَقَرُوهَا",
+            "translation": "maka mereka melukai/menyembelih"
+          },
+          {
+            "position": 3,
+            "line_number": 7,
+            "page_number": 595,
+            "text_madani": "فَدَمْدَمَ",
+            "translation": "maka menurunkan azab/membinasakan"
+          },
+          {
+            "position": 4,
+            "line_number": 8,
+            "page_number": 595,
+            "text_madani": "عَلَيْهِمْ",
+            "translation": "atas mereka"
+          },
+          {
+            "position": 5,
+            "line_number": 8,
+            "page_number": 595,
+            "text_madani": "رَبُّهُمْ",
+            "translation": "Tuhan mereka"
+          },
+          {
+            "position": 6,
+            "line_number": 8,
+            "page_number": 595,
+            "text_madani": "بِذَنْبِهِمْ",
+            "translation": "dengan dosa-dosa mereka"
+          },
+          {
+            "position": 7,
+            "line_number": 8,
+            "page_number": 595,
+            "text_madani": "فَسَوَّاهَا",
+            "translation": "dan Dia meratakannya"
+          },
+          {
+            "position": 8,
+            "line_number": 8,
+            "page_number": 595,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 15,
+        "verse_key": "91:15",
+        "text_madani": "وَلَا يَخَافُ عُقْبَاهَا",
+        "translation": "dan Dia tidak takut terhadap akibatnya.",
+        "page_number": 595,
+        "juz_number": 30,
+        "hizb_number": 60,
+        "rub_number": 238,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 8,
+            "page_number": 595,
+            "text_madani": "وَلَا",
+            "translation": "dan tidak"
+          },
+          {
+            "position": 2,
+            "line_number": 8,
+            "page_number": 595,
+            "text_madani": "يَخَافُ",
+            "translation": "takut"
+          },
+          {
+            "position": 3,
+            "line_number": 8,
+            "page_number": 595,
+            "text_madani": "عُقْبَاهَا",
+            "translation": "akibatnya"
+          },
+          {
+            "position": 4,
+            "line_number": 8,
+            "page_number": 595,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      }
+    ]
+  }
+}

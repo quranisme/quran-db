@@ -1,0 +1,5173 @@
+{
+  "chapters": {
+    "chapter_number": 51,
+    "bismillah_pre": true,
+    "revelation_order": 67,
+    "revelation_place": "makkah",
+    "name_arabic": "الذاريات",
+    "name_complex": "Adh-Dhāriyāt",
+    "name_simple": "Adh-Dhariyat",
+    "verses_count": 60,
+    "pages": [
+      520,
+      523
+    ],
+    "meaning": {
+      "text": "The Winnowing Winds",
+      "en": "The Winnowing Winds",
+      "id": "The Winnowing Winds"
+    },
+    "verses": [
+      {
+        "verse_number": 1,
+        "verse_key": "51:1",
+        "text_madani": "وَالذَّارِيَاتِ ذَرْوًا",
+        "translation": "I swear by the wind that scatters far and wide,",
+        "page_number": 520,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 14,
+            "page_number": 520,
+            "text_madani": "وَالذَّارِيَاتِ",
+            "code": "&#xfbe4;",
+            "code_v3": "&#xfbe4;",
+            "char_type": "word",
+            "translation": "By those scattering"
+          },
+          {
+            "position": 2,
+            "line_number": 14,
+            "page_number": 520,
+            "text_madani": "ذَرْوًا",
+            "code": "&#xfbe5;",
+            "code_v3": "&#xfbe5;",
+            "char_type": "word",
+            "translation": "dispersing"
+          },
+          {
+            "position": 3,
+            "line_number": 14,
+            "page_number": 520,
+            "text_madani": null,
+            "code": "&#xfbe6;",
+            "code_v3": "&#xa001;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 2,
+        "verse_key": "51:2",
+        "text_madani": "فَالْحَامِلَاتِ وِقْرًا",
+        "translation": "Then those clouds bearing the load (of minute things in space).",
+        "page_number": 520,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 14,
+            "page_number": 520,
+            "text_madani": "فَالْحَامِلَاتِ",
+            "code": "&#xfbe7;",
+            "code_v3": "&#xfbe7;",
+            "char_type": "word",
+            "translation": "And those carrying"
+          },
+          {
+            "position": 2,
+            "line_number": 14,
+            "page_number": 520,
+            "text_madani": "وِقْرًا",
+            "code": "&#xfbe8;",
+            "code_v3": "&#xfbe8;",
+            "char_type": "word",
+            "translation": "a load"
+          },
+          {
+            "position": 3,
+            "line_number": 14,
+            "page_number": 520,
+            "text_madani": null,
+            "code": "&#xfbe9;",
+            "code_v3": "&#xa002;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 3,
+        "verse_key": "51:3",
+        "text_madani": "فَالْجَارِيَاتِ يُسْرًا",
+        "translation": "Then those (ships) that glide easily,",
+        "page_number": 520,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 14,
+            "page_number": 520,
+            "text_madani": "فَالْجَارِيَاتِ",
+            "code": "&#xfbea;",
+            "code_v3": "&#xfbea;",
+            "char_type": "word",
+            "translation": "And those sailing"
+          },
+          {
+            "position": 2,
+            "line_number": 14,
+            "page_number": 520,
+            "text_madani": "يُسْرًا",
+            "code": "&#xfbeb;",
+            "code_v3": "&#xfbeb;",
+            "char_type": "word",
+            "translation": "(with) ease"
+          },
+          {
+            "position": 3,
+            "line_number": 14,
+            "page_number": 520,
+            "text_madani": null,
+            "code": "&#xfbec;",
+            "code_v3": "&#xa003;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 4,
+        "verse_key": "51:4",
+        "text_madani": "فَالْمُقَسِّمَاتِ أَمْرًا",
+        "translation": "Then those (angels who) distribute blessings by Our command;",
+        "page_number": 520,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 15,
+            "page_number": 520,
+            "text_madani": "فَالْمُقَسِّمَاتِ",
+            "code": "&#xfbed;",
+            "code_v3": "&#xfbed;",
+            "char_type": "word",
+            "translation": "And those distributing"
+          },
+          {
+            "position": 2,
+            "line_number": 15,
+            "page_number": 520,
+            "text_madani": "أَمْرًا",
+            "code": "&#xfbee;",
+            "code_v3": "&#xfbee;",
+            "char_type": "word",
+            "translation": "Command"
+          },
+          {
+            "position": 3,
+            "line_number": 15,
+            "page_number": 520,
+            "text_madani": null,
+            "code": "&#xfbef;",
+            "code_v3": "&#xa004;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 5,
+        "verse_key": "51:5",
+        "text_madani": "إِنَّمَا تُوعَدُونَ لَصَادِقٌ",
+        "translation": "What you are threatened with is most surely true,",
+        "page_number": 520,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 15,
+            "page_number": 520,
+            "text_madani": "إِنَّمَا",
+            "code": "&#xfbf0;",
+            "code_v3": "&#xfbf0;",
+            "char_type": "word",
+            "translation": "Indeed, what"
+          },
+          {
+            "position": 2,
+            "line_number": 15,
+            "page_number": 520,
+            "text_madani": "تُوعَدُونَ",
+            "code": "&#xfbf1;",
+            "code_v3": "&#xfbf1;",
+            "char_type": "word",
+            "translation": "you are promised"
+          },
+          {
+            "position": 3,
+            "line_number": 15,
+            "page_number": 520,
+            "text_madani": "لَصَادِقٌ",
+            "code": "&#xfbf2;",
+            "code_v3": "&#xfbf2;",
+            "char_type": "word",
+            "translation": "(is) surely true"
+          },
+          {
+            "position": 4,
+            "line_number": 15,
+            "page_number": 520,
+            "text_madani": null,
+            "code": "&#xfbf3;",
+            "code_v3": "&#xa005;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 6,
+        "verse_key": "51:6",
+        "text_madani": "وَإِنَّ الدِّينَ لَوَاقِعٌ",
+        "translation": "And the judgment must most surely come about.",
+        "page_number": 520,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 15,
+            "page_number": 520,
+            "text_madani": "وَإِنَّ",
+            "code": "&#xfbf4;",
+            "code_v3": "&#xfbf4;",
+            "char_type": "word",
+            "translation": "And indeed"
+          },
+          {
+            "position": 2,
+            "line_number": 15,
+            "page_number": 520,
+            "text_madani": "الدِّينَ",
+            "code": "&#xfbf5;",
+            "code_v3": "&#xfbf5;",
+            "char_type": "word",
+            "translation": "the Judgment"
+          },
+          {
+            "position": 3,
+            "line_number": 15,
+            "page_number": 520,
+            "text_madani": "لَوَاقِعٌ",
+            "code": "&#xfbf6;",
+            "code_v3": "&#xfbf6;",
+            "char_type": "word",
+            "translation": "(is) surely to occur"
+          },
+          {
+            "position": 4,
+            "line_number": 15,
+            "page_number": 520,
+            "text_madani": null,
+            "code": "&#xfbf7;",
+            "code_v3": "&#xa006;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 7,
+        "verse_key": "51:7",
+        "text_madani": "وَالسَّمَاءِ ذَاتِ الْحُبُكِ",
+        "translation": "I swear by the heaven full of ways.",
+        "page_number": 521,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 1,
+            "page_number": 521,
+            "text_madani": "وَالسَّمَاءِ",
+            "code": "&#xfb51;",
+            "code_v3": "&#xfb51;",
+            "char_type": "word",
+            "translation": "By the heaven"
+          },
+          {
+            "position": 2,
+            "line_number": 1,
+            "page_number": 521,
+            "text_madani": "ذَاتِ",
+            "code": "&#xfb52;",
+            "code_v3": "&#xfb52;",
+            "char_type": "word",
+            "translation": "full of"
+          },
+          {
+            "position": 3,
+            "line_number": 1,
+            "page_number": 521,
+            "text_madani": "الْحُبُكِ",
+            "code": "&#xfb53;",
+            "code_v3": "&#xfb53;",
+            "char_type": "word",
+            "translation": "pathways"
+          },
+          {
+            "position": 4,
+            "line_number": 1,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfb54;",
+            "code_v3": "&#xa007;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 8,
+        "verse_key": "51:8",
+        "text_madani": "إِنَّكُمْ لَفِي قَوْلٍ مُّخْتَلِفٍ",
+        "translation": "Most surely you are at variance with each other in what you say,",
+        "page_number": 521,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 1,
+            "page_number": 521,
+            "text_madani": "إِنَّكُمْ",
+            "code": "&#xfb55;",
+            "code_v3": "&#xfb55;",
+            "char_type": "word",
+            "translation": "Indeed, you"
+          },
+          {
+            "position": 2,
+            "line_number": 1,
+            "page_number": 521,
+            "text_madani": "لَفِي",
+            "code": "&#xfb56;",
+            "code_v3": "&#xfb56;",
+            "char_type": "word",
+            "translation": "(are) surely in"
+          },
+          {
+            "position": 3,
+            "line_number": 1,
+            "page_number": 521,
+            "text_madani": "قَوْلٍ",
+            "code": "&#xfb57;",
+            "code_v3": "&#xfb57;",
+            "char_type": "word",
+            "translation": "a speech"
+          },
+          {
+            "position": 4,
+            "line_number": 1,
+            "page_number": 521,
+            "text_madani": "مُخْتَلِفٍ",
+            "code": "&#xfb58;",
+            "code_v3": "&#xfb58;",
+            "char_type": "word",
+            "translation": "differing"
+          },
+          {
+            "position": 5,
+            "line_number": 1,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfb59;",
+            "code_v3": "&#xa008;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 9,
+        "verse_key": "51:9",
+        "text_madani": "يُؤْفَكُ عَنْهُ مَنْ أُفِكَ",
+        "translation": "He is turned away from it who would be turned away.",
+        "page_number": 521,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 1,
+            "page_number": 521,
+            "text_madani": "يُؤْفَكُ",
+            "code": "&#xfb5a;",
+            "code_v3": "&#xfb5a;",
+            "char_type": "word",
+            "translation": "Deluded away"
+          },
+          {
+            "position": 2,
+            "line_number": 1,
+            "page_number": 521,
+            "text_madani": "عَنْهُ",
+            "code": "&#xfb5b;",
+            "code_v3": "&#xfb5b;",
+            "char_type": "word",
+            "translation": "from it"
+          },
+          {
+            "position": 3,
+            "line_number": 1,
+            "page_number": 521,
+            "text_madani": "مَنْ",
+            "code": "&#xfb5c;",
+            "code_v3": "&#xfb5c;",
+            "char_type": "word",
+            "translation": "(is he) who"
+          },
+          {
+            "position": 4,
+            "line_number": 2,
+            "page_number": 521,
+            "text_madani": "أُفِكَ",
+            "code": "&#xfb5d;",
+            "code_v3": "&#xfb5d;",
+            "char_type": "word",
+            "translation": "is deluded"
+          },
+          {
+            "position": 5,
+            "line_number": 2,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfb5e;",
+            "code_v3": "&#xa009;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 10,
+        "verse_key": "51:10",
+        "text_madani": "قُتِلَ الْخَرَّاصُونَ",
+        "translation": "Cursed be the liars,",
+        "page_number": 521,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 2,
+            "page_number": 521,
+            "text_madani": "قُتِلَ",
+            "code": "&#xfb5f;",
+            "code_v3": "&#xfb5f;",
+            "char_type": "word",
+            "translation": "Cursed be"
+          },
+          {
+            "position": 2,
+            "line_number": 2,
+            "page_number": 521,
+            "text_madani": "الْخَرَّاصُونَ",
+            "code": "&#xfb60;",
+            "code_v3": "&#xfb60;",
+            "char_type": "word",
+            "translation": "the liars"
+          },
+          {
+            "position": 3,
+            "line_number": 2,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfb61;",
+            "code_v3": "&#xa010;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 11,
+        "verse_key": "51:11",
+        "text_madani": "الَّذِينَ هُمْ فِي غَمْرَةٍ سَاهُونَ",
+        "translation": "Who are in a gulf (of ignorance) neglectful;",
+        "page_number": 521,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 2,
+            "page_number": 521,
+            "text_madani": "الَّذِينَ",
+            "code": "&#xfb62;",
+            "code_v3": "&#xfb62;",
+            "char_type": "word",
+            "translation": "Those who"
+          },
+          {
+            "position": 2,
+            "line_number": 2,
+            "page_number": 521,
+            "text_madani": "هُمْ",
+            "code": "&#xfb63;",
+            "code_v3": "&#xfb63;",
+            "char_type": "word",
+            "translation": "[they]"
+          },
+          {
+            "position": 3,
+            "line_number": 2,
+            "page_number": 521,
+            "text_madani": "فِي",
+            "code": "&#xfb64;",
+            "code_v3": "&#xfb64;",
+            "char_type": "word",
+            "translation": "(are) in"
+          },
+          {
+            "position": 4,
+            "line_number": 2,
+            "page_number": 521,
+            "text_madani": "غَمْرَةٍ",
+            "code": "&#xfb65;",
+            "code_v3": "&#xfb65;",
+            "char_type": "word",
+            "translation": "flood"
+          },
+          {
+            "position": 5,
+            "line_number": 2,
+            "page_number": 521,
+            "text_madani": "سَاهُونَ",
+            "code": "&#xfb66;",
+            "code_v3": "&#xfb66;",
+            "char_type": "word",
+            "translation": "(of) heedlessness"
+          },
+          {
+            "position": 6,
+            "line_number": 2,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfb67;",
+            "code_v3": "&#xa011;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 12,
+        "verse_key": "51:12",
+        "text_madani": "يَسْأَلُونَ أَيَّانَ يَوْمُ الدِّينِ",
+        "translation": "They ask: When is the day of judgment?",
+        "page_number": 521,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 3,
+            "page_number": 521,
+            "text_madani": "يَسْأَلُونَ",
+            "code": "&#xfb68;",
+            "code_v3": "&#xfb68;",
+            "char_type": "word",
+            "translation": "They ask"
+          },
+          {
+            "position": 2,
+            "line_number": 3,
+            "page_number": 521,
+            "text_madani": "أَيَّانَ",
+            "code": "&#xfb69;",
+            "code_v3": "&#xfb69;",
+            "char_type": "word",
+            "translation": "When"
+          },
+          {
+            "position": 3,
+            "line_number": 3,
+            "page_number": 521,
+            "text_madani": "يَوْمُ",
+            "code": "&#xfb6a;",
+            "code_v3": "&#xfb6a;",
+            "char_type": "word",
+            "translation": "(is the) Day"
+          },
+          {
+            "position": 4,
+            "line_number": 3,
+            "page_number": 521,
+            "text_madani": "الدِّينِ",
+            "code": "&#xfb6b;",
+            "code_v3": "&#xfb6b;",
+            "char_type": "word",
+            "translation": "(of) Judgment"
+          },
+          {
+            "position": 5,
+            "line_number": 3,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfb6c;",
+            "code_v3": "&#xa012;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 13,
+        "verse_key": "51:13",
+        "text_madani": "يَوْمَ هُمْ عَلَى النَّارِ يُفْتَنُونَ",
+        "translation": "(It is) the day on which they shall be tried at the fire.",
+        "page_number": 521,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 3,
+            "page_number": 521,
+            "text_madani": "يَوْمَ",
+            "code": "&#xfb6d;",
+            "code_v3": "&#xfb6d;",
+            "char_type": "word",
+            "translation": "A Day"
+          },
+          {
+            "position": 2,
+            "line_number": 3,
+            "page_number": 521,
+            "text_madani": "هُمْ",
+            "code": "&#xfb6e;",
+            "code_v3": "&#xfb6e;",
+            "char_type": "word",
+            "translation": "they"
+          },
+          {
+            "position": 3,
+            "line_number": 3,
+            "page_number": 521,
+            "text_madani": "عَلَى",
+            "code": "&#xfb6f;",
+            "code_v3": "&#xfb6f;",
+            "char_type": "word",
+            "translation": "over"
+          },
+          {
+            "position": 4,
+            "line_number": 3,
+            "page_number": 521,
+            "text_madani": "النَّارِ",
+            "code": "&#xfb70;",
+            "code_v3": "&#xfb70;",
+            "char_type": "word",
+            "translation": "the Fire"
+          },
+          {
+            "position": 5,
+            "line_number": 3,
+            "page_number": 521,
+            "text_madani": "يُفْتَنُونَ",
+            "code": "&#xfb71;",
+            "code_v3": "&#xfb71;",
+            "char_type": "word",
+            "translation": "will be tried"
+          },
+          {
+            "position": 6,
+            "line_number": 3,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfb72;",
+            "code_v3": "&#xa013;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 14,
+        "verse_key": "51:14",
+        "text_madani": "ذُوقُوا فِتْنَتَكُمْ هَٰذَا الَّذِي كُنتُم بِهِ تَسْتَعْجِلُونَ",
+        "translation": "Taste your persecution! this is what you would hasten on.",
+        "page_number": 521,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 3,
+            "page_number": 521,
+            "text_madani": "ذُوقُوا",
+            "code": "&#xfb73;",
+            "code_v3": "&#xfb73;",
+            "char_type": "word",
+            "translation": "Taste"
+          },
+          {
+            "position": 2,
+            "line_number": 4,
+            "page_number": 521,
+            "text_madani": "فِتْنَتَكُمْ",
+            "code": "&#xfb74;",
+            "code_v3": "&#xfb74;",
+            "char_type": "word",
+            "translation": "your trial"
+          },
+          {
+            "position": 3,
+            "line_number": 4,
+            "page_number": 521,
+            "text_madani": "هَٰذَا",
+            "code": "&#xfb75;",
+            "code_v3": "&#xfb75;",
+            "char_type": "word",
+            "translation": "This"
+          },
+          {
+            "position": 4,
+            "line_number": 4,
+            "page_number": 521,
+            "text_madani": "الَّذِي",
+            "code": "&#xfb76;",
+            "code_v3": "&#xfb76;",
+            "char_type": "word",
+            "translation": "(is) what"
+          },
+          {
+            "position": 5,
+            "line_number": 4,
+            "page_number": 521,
+            "text_madani": "كُنْتُمْ",
+            "code": "&#xfb77;",
+            "code_v3": "&#xfb77;",
+            "char_type": "word",
+            "translation": "you were"
+          },
+          {
+            "position": 6,
+            "line_number": 4,
+            "page_number": 521,
+            "text_madani": "بِهِ",
+            "code": "&#xfb78;",
+            "code_v3": "&#xfb78;",
+            "char_type": "word",
+            "translation": "for it"
+          },
+          {
+            "position": 7,
+            "line_number": 4,
+            "page_number": 521,
+            "text_madani": "تَسْتَعْجِلُونَ",
+            "code": "&#xfb79;",
+            "code_v3": "&#xfb79;",
+            "char_type": "word",
+            "translation": "seeking to hasten"
+          },
+          {
+            "position": 8,
+            "line_number": 4,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfb7a;",
+            "code_v3": "&#xa014;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 15,
+        "verse_key": "51:15",
+        "text_madani": "إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَعُيُونٍ",
+        "translation": "Surely those who guard (against evil) shall be in gardens and fountains.",
+        "page_number": 521,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 4,
+            "page_number": 521,
+            "text_madani": "إِنَّ",
+            "code": "&#xfb7b;",
+            "code_v3": "&#xfb7b;",
+            "char_type": "word",
+            "translation": "Indeed"
+          },
+          {
+            "position": 2,
+            "line_number": 4,
+            "page_number": 521,
+            "text_madani": "الْمُتَّقِينَ",
+            "code": "&#xfb7c;",
+            "code_v3": "&#xfb7c;",
+            "char_type": "word",
+            "translation": "the righteous"
+          },
+          {
+            "position": 3,
+            "line_number": 4,
+            "page_number": 521,
+            "text_madani": "فِي",
+            "code": "&#xfb7d;",
+            "code_v3": "&#xfb7d;",
+            "char_type": "word",
+            "translation": "(will be) in"
+          },
+          {
+            "position": 4,
+            "line_number": 4,
+            "page_number": 521,
+            "text_madani": "جَنَّاتٍ",
+            "code": "&#xfb7e;",
+            "code_v3": "&#xfb7e;",
+            "char_type": "word",
+            "translation": "Gardens"
+          },
+          {
+            "position": 5,
+            "line_number": 5,
+            "page_number": 521,
+            "text_madani": "وَعُيُونٍ",
+            "code": "&#xfb7f;",
+            "code_v3": "&#xfb7f;",
+            "char_type": "word",
+            "translation": "and springs"
+          },
+          {
+            "position": 6,
+            "line_number": 5,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfb80;",
+            "code_v3": "&#xa015;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 16,
+        "verse_key": "51:16",
+        "text_madani": "آخِذِينَ مَا آتَاهُمْ رَبُّهُمْ ۚ إِنَّهُمْ كَانُوا قَبْلَ ذَٰلِكَ مُحْسِنِينَ",
+        "translation": "Taking what their Lord gives them; surely they were before that, the doers of good.",
+        "page_number": 521,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 5,
+            "page_number": 521,
+            "text_madani": "آخِذِينَ",
+            "code": "&#xfb81;",
+            "code_v3": "&#xfb81;",
+            "char_type": "word",
+            "translation": "Taking"
+          },
+          {
+            "position": 2,
+            "line_number": 5,
+            "page_number": 521,
+            "text_madani": "مَا",
+            "code": "&#xfb82;",
+            "code_v3": "&#xfb82;",
+            "char_type": "word",
+            "translation": "what"
+          },
+          {
+            "position": 3,
+            "line_number": 5,
+            "page_number": 521,
+            "text_madani": "آتَاهُمْ",
+            "code": "&#xfb83;",
+            "code_v3": "&#xfb83;",
+            "char_type": "word",
+            "translation": "their Lord has given them"
+          },
+          {
+            "position": 4,
+            "line_number": 5,
+            "page_number": 521,
+            "text_madani": "رَبُّهُمْ",
+            "code": "&#xfb84;",
+            "code_v3": "&#xfb84;",
+            "char_type": "word",
+            "translation": "their Lord has given them"
+          },
+          {
+            "position": 5,
+            "line_number": 5,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfb85;",
+            "code_v3": "&#x6da;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 6,
+            "line_number": 5,
+            "page_number": 521,
+            "text_madani": "إِنَّهُمْ",
+            "code": "&#xfb86;",
+            "code_v3": "&#xfb86;",
+            "char_type": "word",
+            "translation": "Indeed, they"
+          },
+          {
+            "position": 7,
+            "line_number": 5,
+            "page_number": 521,
+            "text_madani": "كَانُوا",
+            "code": "&#xfb87;",
+            "code_v3": "&#xfb87;",
+            "char_type": "word",
+            "translation": "were"
+          },
+          {
+            "position": 8,
+            "line_number": 5,
+            "page_number": 521,
+            "text_madani": "قَبْلَ",
+            "code": "&#xfb88;",
+            "code_v3": "&#xfb88;",
+            "char_type": "word",
+            "translation": "before"
+          },
+          {
+            "position": 9,
+            "line_number": 5,
+            "page_number": 521,
+            "text_madani": "ذَٰلِكَ",
+            "code": "&#xfb89;",
+            "code_v3": "&#xfb89;",
+            "char_type": "word",
+            "translation": "that"
+          },
+          {
+            "position": 10,
+            "line_number": 5,
+            "page_number": 521,
+            "text_madani": "مُحْسِنِينَ",
+            "code": "&#xfb8a;",
+            "code_v3": "&#xfb8a;",
+            "char_type": "word",
+            "translation": "good-doers"
+          },
+          {
+            "position": 11,
+            "line_number": 6,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfb8b;",
+            "code_v3": "&#xa016;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 17,
+        "verse_key": "51:17",
+        "text_madani": "كَانُوا قَلِيلًا مِّنَ اللَّيْلِ مَا يَهْجَعُونَ",
+        "translation": "They used to sleep but little in the night.",
+        "page_number": 521,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 6,
+            "page_number": 521,
+            "text_madani": "كَانُوا",
+            "code": "&#xfb8c;",
+            "code_v3": "&#xfb8c;",
+            "char_type": "word",
+            "translation": "They used to"
+          },
+          {
+            "position": 2,
+            "line_number": 6,
+            "page_number": 521,
+            "text_madani": "قَلِيلًا",
+            "code": "&#xfb8d;",
+            "code_v3": "&#xfb8d;",
+            "char_type": "word",
+            "translation": "little"
+          },
+          {
+            "position": 3,
+            "line_number": 6,
+            "page_number": 521,
+            "text_madani": "مِنَ",
+            "code": "&#xfb8e;",
+            "code_v3": "&#xfb8e;",
+            "char_type": "word",
+            "translation": "of"
+          },
+          {
+            "position": 4,
+            "line_number": 6,
+            "page_number": 521,
+            "text_madani": "اللَّيْلِ",
+            "code": "&#xfb8f;",
+            "code_v3": "&#xfb8f;",
+            "char_type": "word",
+            "translation": "the night"
+          },
+          {
+            "position": 5,
+            "line_number": 6,
+            "page_number": 521,
+            "text_madani": "مَا",
+            "code": "&#xfb90;",
+            "code_v3": "&#xfb90;",
+            "char_type": "word",
+            "translation": "[what]"
+          },
+          {
+            "position": 6,
+            "line_number": 6,
+            "page_number": 521,
+            "text_madani": "يَهْجَعُونَ",
+            "code": "&#xfb91;",
+            "code_v3": "&#xfb91;",
+            "char_type": "word",
+            "translation": "sleep"
+          },
+          {
+            "position": 7,
+            "line_number": 6,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfb92;",
+            "code_v3": "&#xa017;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 18,
+        "verse_key": "51:18",
+        "text_madani": "وَبِالْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ",
+        "translation": "And in the morning they asked forgiveness.",
+        "page_number": 521,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 6,
+            "page_number": 521,
+            "text_madani": "وَبِالْأَسْحَارِ",
+            "code": "&#xfb93;",
+            "code_v3": "&#xfb93;",
+            "char_type": "word",
+            "translation": "And in the hours before dawn"
+          },
+          {
+            "position": 2,
+            "line_number": 6,
+            "page_number": 521,
+            "text_madani": "هُمْ",
+            "code": "&#xfb94;",
+            "code_v3": "&#xfb94;",
+            "char_type": "word",
+            "translation": "they"
+          },
+          {
+            "position": 3,
+            "line_number": 6,
+            "page_number": 521,
+            "text_madani": "يَسْتَغْفِرُونَ",
+            "code": "&#xfb95;",
+            "code_v3": "&#xfb95;",
+            "char_type": "word",
+            "translation": "would ask forgiveness"
+          },
+          {
+            "position": 4,
+            "line_number": 7,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfb96;",
+            "code_v3": "&#xa018;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 19,
+        "verse_key": "51:19",
+        "text_madani": "وَفِي أَمْوَالِهِمْ حَقٌّ لِّلسَّائِلِ وَالْمَحْرُومِ",
+        "translation": "And in their property was a portion due to him who begs and to him who is denied (good).",
+        "page_number": 521,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 7,
+            "page_number": 521,
+            "text_madani": "وَفِي",
+            "code": "&#xfb97;",
+            "code_v3": "&#xfb97;",
+            "char_type": "word",
+            "translation": "And in"
+          },
+          {
+            "position": 2,
+            "line_number": 7,
+            "page_number": 521,
+            "text_madani": "أَمْوَالِهِمْ",
+            "code": "&#xfb98;",
+            "code_v3": "&#xfb98;",
+            "char_type": "word",
+            "translation": "their wealth"
+          },
+          {
+            "position": 3,
+            "line_number": 7,
+            "page_number": 521,
+            "text_madani": "حَقٌّ",
+            "code": "&#xfb99;",
+            "code_v3": "&#xfb99;",
+            "char_type": "word",
+            "translation": "(was the) right"
+          },
+          {
+            "position": 4,
+            "line_number": 7,
+            "page_number": 521,
+            "text_madani": "لِلسَّائِلِ",
+            "code": "&#xfb9a;",
+            "code_v3": "&#xfb9a;",
+            "char_type": "word",
+            "translation": "(of) those who asked"
+          },
+          {
+            "position": 5,
+            "line_number": 7,
+            "page_number": 521,
+            "text_madani": "وَالْمَحْرُومِ",
+            "code": "&#xfb9b;",
+            "code_v3": "&#xfb9b;",
+            "char_type": "word",
+            "translation": "and the deprived"
+          },
+          {
+            "position": 6,
+            "line_number": 7,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfb9c;",
+            "code_v3": "&#xa019;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 20,
+        "verse_key": "51:20",
+        "text_madani": "وَفِي الْأَرْضِ آيَاتٌ لِّلْمُوقِنِينَ",
+        "translation": "And in the earth there are signs for those who are sure,",
+        "page_number": 521,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 7,
+            "page_number": 521,
+            "text_madani": "وَفِي",
+            "code": "&#xfb9d;",
+            "code_v3": "&#xfb9d;",
+            "char_type": "word",
+            "translation": "And in"
+          },
+          {
+            "position": 2,
+            "line_number": 7,
+            "page_number": 521,
+            "text_madani": "الْأَرْضِ",
+            "code": "&#xfb9e;",
+            "code_v3": "&#xfb9e;",
+            "char_type": "word",
+            "translation": "the earth"
+          },
+          {
+            "position": 3,
+            "line_number": 7,
+            "page_number": 521,
+            "text_madani": "آيَاتٌ",
+            "code": "&#xfb9f;",
+            "code_v3": "&#xfb9f;",
+            "char_type": "word",
+            "translation": "(are) signs"
+          },
+          {
+            "position": 4,
+            "line_number": 8,
+            "page_number": 521,
+            "text_madani": "لِلْمُوقِنِينَ",
+            "code": "&#xfba0;",
+            "code_v3": "&#xfba0;",
+            "char_type": "word",
+            "translation": "for those who are certain"
+          },
+          {
+            "position": 5,
+            "line_number": 8,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfba1;",
+            "code_v3": "&#xa020;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 21,
+        "verse_key": "51:21",
+        "text_madani": "وَفِي أَنفُسِكُمْ ۚ أَفَلَا تُبْصِرُونَ",
+        "translation": "And in your own souls (too); will you not then see?",
+        "page_number": 521,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 8,
+            "page_number": 521,
+            "text_madani": "وَفِي",
+            "code": "&#xfba2;",
+            "code_v3": "&#xfba2;",
+            "char_type": "word",
+            "translation": "And in"
+          },
+          {
+            "position": 2,
+            "line_number": 8,
+            "page_number": 521,
+            "text_madani": "أَنْفُسِكُمْ",
+            "code": "&#xfba3;",
+            "code_v3": "&#xfba3;",
+            "char_type": "word",
+            "translation": "yourselves"
+          },
+          {
+            "position": 3,
+            "line_number": 8,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfba4;",
+            "code_v3": "&#x6da;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 4,
+            "line_number": 8,
+            "page_number": 521,
+            "text_madani": "أَفَلَا",
+            "code": "&#xfba5;",
+            "code_v3": "&#xfba5;",
+            "char_type": "word",
+            "translation": "Then will not"
+          },
+          {
+            "position": 5,
+            "line_number": 8,
+            "page_number": 521,
+            "text_madani": "تُبْصِرُونَ",
+            "code": "&#xfba6;",
+            "code_v3": "&#xfba6;",
+            "char_type": "word",
+            "translation": "you see"
+          },
+          {
+            "position": 6,
+            "line_number": 8,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfba7;",
+            "code_v3": "&#xa021;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 22,
+        "verse_key": "51:22",
+        "text_madani": "وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ",
+        "translation": "And in the heaven is your sustenance and what you are threatened with.",
+        "page_number": 521,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 8,
+            "page_number": 521,
+            "text_madani": "وَفِي",
+            "code": "&#xfba8;",
+            "code_v3": "&#xfba8;",
+            "char_type": "word",
+            "translation": "And in"
+          },
+          {
+            "position": 2,
+            "line_number": 8,
+            "page_number": 521,
+            "text_madani": "السَّمَاءِ",
+            "code": "&#xfba9;",
+            "code_v3": "&#xfba9;",
+            "char_type": "word",
+            "translation": "the heaven"
+          },
+          {
+            "position": 3,
+            "line_number": 8,
+            "page_number": 521,
+            "text_madani": "رِزْقُكُمْ",
+            "code": "&#xfbaa;",
+            "code_v3": "&#xfbaa;",
+            "char_type": "word",
+            "translation": "(is) your provision"
+          },
+          {
+            "position": 4,
+            "line_number": 9,
+            "page_number": 521,
+            "text_madani": "وَمَا",
+            "code": "&#xfbab;",
+            "code_v3": "&#xfbab;",
+            "char_type": "word",
+            "translation": "and what"
+          },
+          {
+            "position": 5,
+            "line_number": 9,
+            "page_number": 521,
+            "text_madani": "تُوعَدُونَ",
+            "code": "&#xfbac;",
+            "code_v3": "&#xfbac;",
+            "char_type": "word",
+            "translation": "you are promised"
+          },
+          {
+            "position": 6,
+            "line_number": 9,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfbad;",
+            "code_v3": "&#xa022;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 23,
+        "verse_key": "51:23",
+        "text_madani": "فَوَرَبِّ السَّمَاءِ وَالْأَرْضِ إِنَّهُ لَحَقٌّ مِّثْلَ مَا أَنَّكُمْ تَنطِقُونَ",
+        "translation": "And by the Lord of the heavens and the earth! it is most surely the truth, just as you do speak.",
+        "page_number": 521,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 9,
+            "page_number": 521,
+            "text_madani": "فَوَرَبِّ",
+            "code": "&#xfbae;",
+            "code_v3": "&#xfbae;",
+            "char_type": "word",
+            "translation": "Then by (the) Lord"
+          },
+          {
+            "position": 2,
+            "line_number": 9,
+            "page_number": 521,
+            "text_madani": "السَّمَاءِ",
+            "code": "&#xfbaf;",
+            "code_v3": "&#xfbaf;",
+            "char_type": "word",
+            "translation": "(of) the heaven"
+          },
+          {
+            "position": 3,
+            "line_number": 9,
+            "page_number": 521,
+            "text_madani": "وَالْأَرْضِ",
+            "code": "&#xfbb0;",
+            "code_v3": "&#xfbb0;",
+            "char_type": "word",
+            "translation": "and the earth"
+          },
+          {
+            "position": 4,
+            "line_number": 9,
+            "page_number": 521,
+            "text_madani": "إِنَّهُ",
+            "code": "&#xfbb1;",
+            "code_v3": "&#xfbb1;",
+            "char_type": "word",
+            "translation": "indeed, it"
+          },
+          {
+            "position": 5,
+            "line_number": 9,
+            "page_number": 521,
+            "text_madani": "لَحَقٌّ",
+            "code": "&#xfbd3;",
+            "code_v3": "&#xfbd3;",
+            "char_type": "word",
+            "translation": "(is) surely (the) truth"
+          },
+          {
+            "position": 6,
+            "line_number": 9,
+            "page_number": 521,
+            "text_madani": "مِثْلَ",
+            "code": "&#xfbd4;",
+            "code_v3": "&#xfbd4;",
+            "char_type": "word",
+            "translation": "(just) as"
+          },
+          {
+            "position": 7,
+            "line_number": 9,
+            "page_number": 521,
+            "text_madani": "مَا",
+            "code": "&#xfbd5;",
+            "code_v3": "&#xfbd5;",
+            "char_type": "word",
+            "translation": "[what]"
+          },
+          {
+            "position": 8,
+            "line_number": 9,
+            "page_number": 521,
+            "text_madani": "أَنَّكُمْ",
+            "code": "&#xfbd6;",
+            "code_v3": "&#xfbd6;",
+            "char_type": "word",
+            "translation": "you"
+          },
+          {
+            "position": 9,
+            "line_number": 10,
+            "page_number": 521,
+            "text_madani": "تَنْطِقُونَ",
+            "code": "&#xfbd7;",
+            "code_v3": "&#xfbd7;",
+            "char_type": "word",
+            "translation": "speak"
+          },
+          {
+            "position": 10,
+            "line_number": 10,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfbd8;",
+            "code_v3": "&#xa023;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 24,
+        "verse_key": "51:24",
+        "text_madani": "هَلْ أَتَاكَ حَدِيثُ ضَيْفِ إِبْرَاهِيمَ الْمُكْرَمِينَ",
+        "translation": "Has there come to you information about the honored guests of Ibrahim?",
+        "page_number": 521,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 10,
+            "page_number": 521,
+            "text_madani": "هَلْ",
+            "code": "&#xfbd9;",
+            "code_v3": "&#xfbd9;",
+            "char_type": "word",
+            "translation": "Has"
+          },
+          {
+            "position": 2,
+            "line_number": 10,
+            "page_number": 521,
+            "text_madani": "أَتَاكَ",
+            "code": "&#xfbda;",
+            "code_v3": "&#xfbda;",
+            "char_type": "word",
+            "translation": "reached you"
+          },
+          {
+            "position": 3,
+            "line_number": 10,
+            "page_number": 521,
+            "text_madani": "حَدِيثُ",
+            "code": "&#xfbdb;",
+            "code_v3": "&#xfbdb;",
+            "char_type": "word",
+            "translation": "(the) narration"
+          },
+          {
+            "position": 4,
+            "line_number": 10,
+            "page_number": 521,
+            "text_madani": "ضَيْفِ",
+            "code": "&#xfbdc;",
+            "code_v3": "&#xfbdc;",
+            "char_type": "word",
+            "translation": "(of the) guests"
+          },
+          {
+            "position": 5,
+            "line_number": 10,
+            "page_number": 521,
+            "text_madani": "إِبْرَاهِيمَ",
+            "code": "&#xfbdd;",
+            "code_v3": "&#xfbdd;",
+            "char_type": "word",
+            "translation": "(of) Ibrahim"
+          },
+          {
+            "position": 6,
+            "line_number": 10,
+            "page_number": 521,
+            "text_madani": "الْمُكْرَمِينَ",
+            "code": "&#xfbde;",
+            "code_v3": "&#xfbde;",
+            "char_type": "word",
+            "translation": "the honored"
+          },
+          {
+            "position": 7,
+            "line_number": 10,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfbdf;",
+            "code_v3": "&#xa024;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 25,
+        "verse_key": "51:25",
+        "text_madani": "إِذْ دَخَلُوا عَلَيْهِ فَقَالُوا سَلَامًا ۖ قَالَ سَلَامٌ قَوْمٌ مُّنكَرُونَ",
+        "translation": "When they entered upon him, they said: Peace. Peace, said he, a strange people.",
+        "page_number": 521,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 11,
+            "page_number": 521,
+            "text_madani": "إِذْ",
+            "code": "&#xfbe0;",
+            "code_v3": "&#xfbe0;",
+            "char_type": "word",
+            "translation": "When"
+          },
+          {
+            "position": 2,
+            "line_number": 11,
+            "page_number": 521,
+            "text_madani": "دَخَلُوا",
+            "code": "&#xfbe1;",
+            "code_v3": "&#xfbe1;",
+            "char_type": "word",
+            "translation": "they entered"
+          },
+          {
+            "position": 3,
+            "line_number": 11,
+            "page_number": 521,
+            "text_madani": "عَلَيْهِ",
+            "code": "&#xfbe2;",
+            "code_v3": "&#xfbe2;",
+            "char_type": "word",
+            "translation": "upon him"
+          },
+          {
+            "position": 4,
+            "line_number": 11,
+            "page_number": 521,
+            "text_madani": "فَقَالُوا",
+            "code": "&#xfbe3;",
+            "code_v3": "&#xfbe3;",
+            "char_type": "word",
+            "translation": "and said"
+          },
+          {
+            "position": 5,
+            "line_number": 11,
+            "page_number": 521,
+            "text_madani": "سَلَامًا",
+            "code": "&#xfbe4;",
+            "code_v3": "&#xfbe4;",
+            "char_type": "word",
+            "translation": "Peace"
+          },
+          {
+            "position": 6,
+            "line_number": 11,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfbe5;",
+            "code_v3": "&#x6d6;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 7,
+            "line_number": 11,
+            "page_number": 521,
+            "text_madani": "قَالَ",
+            "code": "&#xfbe6;",
+            "code_v3": "&#xfbe6;",
+            "char_type": "word",
+            "translation": "He said"
+          },
+          {
+            "position": 8,
+            "line_number": 11,
+            "page_number": 521,
+            "text_madani": "سَلَامٌ",
+            "code": "&#xfbe7;",
+            "code_v3": "&#xfbe7;",
+            "char_type": "word",
+            "translation": "Peace"
+          },
+          {
+            "position": 9,
+            "line_number": 11,
+            "page_number": 521,
+            "text_madani": "قَوْمٌ",
+            "code": "&#xfbe8;",
+            "code_v3": "&#xfbe8;",
+            "char_type": "word",
+            "translation": "a people"
+          },
+          {
+            "position": 10,
+            "line_number": 11,
+            "page_number": 521,
+            "text_madani": "مُنْكَرُونَ",
+            "code": "&#xfbe9;",
+            "code_v3": "&#xfbe9;",
+            "char_type": "word",
+            "translation": "unknown"
+          },
+          {
+            "position": 11,
+            "line_number": 11,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfbea;",
+            "code_v3": "&#xa025;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 26,
+        "verse_key": "51:26",
+        "text_madani": "فَرَاغَ إِلَىٰ أَهْلِهِ فَجَاءَ بِعِجْلٍ سَمِينٍ",
+        "translation": "Then he turned aside to his family secretly and brought a fat (roasted) calf,",
+        "page_number": 521,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 11,
+            "page_number": 521,
+            "text_madani": "فَرَاغَ",
+            "code": "&#xfbeb;",
+            "code_v3": "&#xfbeb;",
+            "char_type": "word",
+            "translation": "Then he went"
+          },
+          {
+            "position": 2,
+            "line_number": 11,
+            "page_number": 521,
+            "text_madani": "إِلَىٰ",
+            "code": "&#xfbec;",
+            "code_v3": "&#xfbec;",
+            "char_type": "word",
+            "translation": "to"
+          },
+          {
+            "position": 3,
+            "line_number": 12,
+            "page_number": 521,
+            "text_madani": "أَهْلِهِ",
+            "code": "&#xfbed;",
+            "code_v3": "&#xfbed;",
+            "char_type": "word",
+            "translation": "his household"
+          },
+          {
+            "position": 4,
+            "line_number": 12,
+            "page_number": 521,
+            "text_madani": "فَجَاءَ",
+            "code": "&#xfbee;",
+            "code_v3": "&#xfbee;",
+            "char_type": "word",
+            "translation": "and came"
+          },
+          {
+            "position": 5,
+            "line_number": 12,
+            "page_number": 521,
+            "text_madani": "بِعِجْلٍ",
+            "code": "&#xfbef;",
+            "code_v3": "&#xfbef;",
+            "char_type": "word",
+            "translation": "with a calf"
+          },
+          {
+            "position": 6,
+            "line_number": 12,
+            "page_number": 521,
+            "text_madani": "سَمِينٍ",
+            "code": "&#xfbf0;",
+            "code_v3": "&#xfbf0;",
+            "char_type": "word",
+            "translation": "fat"
+          },
+          {
+            "position": 7,
+            "line_number": 12,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfbf1;",
+            "code_v3": "&#xa026;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 27,
+        "verse_key": "51:27",
+        "text_madani": "فَقَرَّبَهُ إِلَيْهِمْ قَالَ أَلَا تَأْكُلُونَ",
+        "translation": "So he brought it near them. He said: What! will you not eat?",
+        "page_number": 521,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 12,
+            "page_number": 521,
+            "text_madani": "فَقَرَّبَهُ",
+            "code": "&#xfbf2;",
+            "code_v3": "&#xfbf2;",
+            "char_type": "word",
+            "translation": "And he placed it near"
+          },
+          {
+            "position": 2,
+            "line_number": 12,
+            "page_number": 521,
+            "text_madani": "إِلَيْهِمْ",
+            "code": "&#xfbf3;",
+            "code_v3": "&#xfbf3;",
+            "char_type": "word",
+            "translation": "[to] them"
+          },
+          {
+            "position": 3,
+            "line_number": 12,
+            "page_number": 521,
+            "text_madani": "قَالَ",
+            "code": "&#xfbf4;",
+            "code_v3": "&#xfbf4;",
+            "char_type": "word",
+            "translation": "he said"
+          },
+          {
+            "position": 4,
+            "line_number": 12,
+            "page_number": 521,
+            "text_madani": "أَلَا",
+            "code": "&#xfbf5;",
+            "code_v3": "&#xfbf5;",
+            "char_type": "word",
+            "translation": "Will not"
+          },
+          {
+            "position": 5,
+            "line_number": 12,
+            "page_number": 521,
+            "text_madani": "تَأْكُلُونَ",
+            "code": "&#xfbf6;",
+            "code_v3": "&#xfbf6;",
+            "char_type": "word",
+            "translation": "you eat"
+          },
+          {
+            "position": 6,
+            "line_number": 13,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfbf7;",
+            "code_v3": "&#xa027;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 28,
+        "verse_key": "51:28",
+        "text_madani": "فَأَوْجَسَ مِنْهُمْ خِيفَةً ۖ قَالُوا لَا تَخَفْ ۖ وَبَشَّرُوهُ بِغُلَامٍ عَلِيمٍ",
+        "translation": "So he conceived in his mind a fear on account of them. They said: Fear not. And they gave him the good news of a boy possessing knowledge.",
+        "page_number": 521,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 13,
+            "page_number": 521,
+            "text_madani": "فَأَوْجَسَ",
+            "code": "&#xfbf8;",
+            "code_v3": "&#xfbf8;",
+            "char_type": "word",
+            "translation": "Then he felt"
+          },
+          {
+            "position": 2,
+            "line_number": 13,
+            "page_number": 521,
+            "text_madani": "مِنْهُمْ",
+            "code": "&#xfbf9;",
+            "code_v3": "&#xfbf9;",
+            "char_type": "word",
+            "translation": "from them"
+          },
+          {
+            "position": 3,
+            "line_number": 13,
+            "page_number": 521,
+            "text_madani": "خِيفَةً",
+            "code": "&#xfbfa;",
+            "code_v3": "&#xfbfa;",
+            "char_type": "word",
+            "translation": "a fear"
+          },
+          {
+            "position": 4,
+            "line_number": 13,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfbfb;",
+            "code_v3": "&#x6d6;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 5,
+            "line_number": 13,
+            "page_number": 521,
+            "text_madani": "قَالُوا",
+            "code": "&#xfbfc;",
+            "code_v3": "&#xfbfc;",
+            "char_type": "word",
+            "translation": "They said"
+          },
+          {
+            "position": 6,
+            "line_number": 13,
+            "page_number": 521,
+            "text_madani": "لَا",
+            "code": "&#xfbfd;",
+            "code_v3": "&#xfbfd;",
+            "char_type": "word",
+            "translation": "(Do) not"
+          },
+          {
+            "position": 7,
+            "line_number": 13,
+            "page_number": 521,
+            "text_madani": "تَخَفْ",
+            "code": "&#xfbfe;",
+            "code_v3": "&#xfbfe;",
+            "char_type": "word",
+            "translation": "fear"
+          },
+          {
+            "position": 8,
+            "line_number": 13,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfbff;",
+            "code_v3": "&#x6d6;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 9,
+            "line_number": 13,
+            "page_number": 521,
+            "text_madani": "وَبَشَّرُوهُ",
+            "code": "&#xfc00;",
+            "code_v3": "&#xfc00;",
+            "char_type": "word",
+            "translation": "and they gave him glad tidings"
+          },
+          {
+            "position": 10,
+            "line_number": 13,
+            "page_number": 521,
+            "text_madani": "بِغُلَامٍ",
+            "code": "&#xfc01;",
+            "code_v3": "&#xfc01;",
+            "char_type": "word",
+            "translation": "of a son"
+          },
+          {
+            "position": 11,
+            "line_number": 13,
+            "page_number": 521,
+            "text_madani": "عَلِيمٍ",
+            "code": "&#xfc02;",
+            "code_v3": "&#xfc02;",
+            "char_type": "word",
+            "translation": "learned"
+          },
+          {
+            "position": 12,
+            "line_number": 14,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfc03;",
+            "code_v3": "&#xa028;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 29,
+        "verse_key": "51:29",
+        "text_madani": "فَأَقْبَلَتِ امْرَأَتُهُ فِي صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ",
+        "translation": "Then his wife came up in great grief, and she struck her face and said: An old barren woman!",
+        "page_number": 521,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 14,
+            "page_number": 521,
+            "text_madani": "فَأَقْبَلَتِ",
+            "code": "&#xfc04;",
+            "code_v3": "&#xfc04;",
+            "char_type": "word",
+            "translation": "Then came forward"
+          },
+          {
+            "position": 2,
+            "line_number": 14,
+            "page_number": 521,
+            "text_madani": "امْرَأَتُهُ",
+            "code": "&#xfc05;",
+            "code_v3": "&#xfc05;",
+            "char_type": "word",
+            "translation": "his wife"
+          },
+          {
+            "position": 3,
+            "line_number": 14,
+            "page_number": 521,
+            "text_madani": "فِي",
+            "code": "&#xfc06;",
+            "code_v3": "&#xfc06;",
+            "char_type": "word",
+            "translation": "with"
+          },
+          {
+            "position": 4,
+            "line_number": 14,
+            "page_number": 521,
+            "text_madani": "صَرَّةٍ",
+            "code": "&#xfc07;",
+            "code_v3": "&#xfc07;",
+            "char_type": "word",
+            "translation": "a loud voice"
+          },
+          {
+            "position": 5,
+            "line_number": 14,
+            "page_number": 521,
+            "text_madani": "فَصَكَّتْ",
+            "code": "&#xfc08;",
+            "code_v3": "&#xfc08;",
+            "char_type": "word",
+            "translation": "and struck"
+          },
+          {
+            "position": 6,
+            "line_number": 14,
+            "page_number": 521,
+            "text_madani": "وَجْهَهَا",
+            "code": "&#xfc09;",
+            "code_v3": "&#xfc09;",
+            "char_type": "word",
+            "translation": "her face"
+          },
+          {
+            "position": 7,
+            "line_number": 14,
+            "page_number": 521,
+            "text_madani": "وَقَالَتْ",
+            "code": "&#xfc0a;",
+            "code_v3": "&#xfc0a;",
+            "char_type": "word",
+            "translation": "and she said"
+          },
+          {
+            "position": 8,
+            "line_number": 14,
+            "page_number": 521,
+            "text_madani": "عَجُوزٌ",
+            "code": "&#xfc0b;",
+            "code_v3": "&#xfc0b;",
+            "char_type": "word",
+            "translation": "An old woman"
+          },
+          {
+            "position": 9,
+            "line_number": 14,
+            "page_number": 521,
+            "text_madani": "عَقِيمٌ",
+            "code": "&#xfc0c;",
+            "code_v3": "&#xfc0c;",
+            "char_type": "word",
+            "translation": "barren"
+          },
+          {
+            "position": 10,
+            "line_number": 15,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfc0d;",
+            "code_v3": "&#xa029;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 30,
+        "verse_key": "51:30",
+        "text_madani": "قَالُوا كَذَٰلِكِ قَالَ رَبُّكِ ۖ إِنَّهُ هُوَ الْحَكِيمُ الْعَلِيمُ",
+        "translation": "They said: Thus says your Lord: Surely He is the Wise, the Knowing.",
+        "page_number": 521,
+        "juz_number": 26,
+        "hizb_number": 52,
+        "rub_number": 208,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 15,
+            "page_number": 521,
+            "text_madani": "قَالُوا",
+            "code": "&#xfc0e;",
+            "code_v3": "&#xfc0e;",
+            "char_type": "word",
+            "translation": "They said"
+          },
+          {
+            "position": 2,
+            "line_number": 15,
+            "page_number": 521,
+            "text_madani": "كَذَٰلِكِ",
+            "code": "&#xfc0f;",
+            "code_v3": "&#xfc0f;",
+            "char_type": "word",
+            "translation": "Thus"
+          },
+          {
+            "position": 3,
+            "line_number": 15,
+            "page_number": 521,
+            "text_madani": "قَالَ",
+            "code": "&#xfc10;",
+            "code_v3": "&#xfc10;",
+            "char_type": "word",
+            "translation": "said"
+          },
+          {
+            "position": 4,
+            "line_number": 15,
+            "page_number": 521,
+            "text_madani": "رَبُّكِ",
+            "code": "&#xfc11;",
+            "code_v3": "&#xfc11;",
+            "char_type": "word",
+            "translation": "your Lord"
+          },
+          {
+            "position": 5,
+            "line_number": 15,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfc12;",
+            "code_v3": "&#x6d6;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 6,
+            "line_number": 15,
+            "page_number": 521,
+            "text_madani": "إِنَّهُ",
+            "code": "&#xfc13;",
+            "code_v3": "&#xfc13;",
+            "char_type": "word",
+            "translation": "Indeed, He"
+          },
+          {
+            "position": 7,
+            "line_number": 15,
+            "page_number": 521,
+            "text_madani": "هُوَ",
+            "code": "&#xfc14;",
+            "code_v3": "&#xfc14;",
+            "char_type": "word",
+            "translation": "[He]"
+          },
+          {
+            "position": 8,
+            "line_number": 15,
+            "page_number": 521,
+            "text_madani": "الْحَكِيمُ",
+            "code": "&#xfc15;",
+            "code_v3": "&#xfc15;",
+            "char_type": "word",
+            "translation": "(is) the All-Wise"
+          },
+          {
+            "position": 9,
+            "line_number": 15,
+            "page_number": 521,
+            "text_madani": "الْعَلِيمُ",
+            "code": "&#xfc16;",
+            "code_v3": "&#xfc16;",
+            "char_type": "word",
+            "translation": "the All-Knower"
+          },
+          {
+            "position": 10,
+            "line_number": 15,
+            "page_number": 521,
+            "text_madani": null,
+            "code": "&#xfc17;",
+            "code_v3": "&#xa030;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 31,
+        "verse_key": "51:31",
+        "text_madani": "قَالَ فَمَا خَطْبُكُمْ أَيُّهَا الْمُرْسَلُونَ",
+        "translation": "He said: What is your affair then, O messengers!",
+        "page_number": 522,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 1,
+            "page_number": 522,
+            "text_madani": "۞",
+            "code": "&#xfb51;",
+            "code_v3": "&#x6de;",
+            "char_type": "rub-el-hizb",
+            "translation": null
+          },
+          {
+            "position": 2,
+            "line_number": 1,
+            "page_number": 522,
+            "text_madani": "قَالَ",
+            "code": "&#xfb52;",
+            "code_v3": "&#xfb52;",
+            "char_type": "word",
+            "translation": "He said"
+          },
+          {
+            "position": 3,
+            "line_number": 1,
+            "page_number": 522,
+            "text_madani": "فَمَا",
+            "code": "&#xfb53;",
+            "code_v3": "&#xfb53;",
+            "char_type": "word",
+            "translation": "Then what"
+          },
+          {
+            "position": 4,
+            "line_number": 1,
+            "page_number": 522,
+            "text_madani": "خَطْبُكُمْ",
+            "code": "&#xfb54;",
+            "code_v3": "&#xfb54;",
+            "char_type": "word",
+            "translation": "(is) your mission"
+          },
+          {
+            "position": 5,
+            "line_number": 1,
+            "page_number": 522,
+            "text_madani": "أَيُّهَا",
+            "code": "&#xfb55;",
+            "code_v3": "&#xfb55;",
+            "char_type": "word",
+            "translation": "O messengers"
+          },
+          {
+            "position": 6,
+            "line_number": 1,
+            "page_number": 522,
+            "text_madani": "الْمُرْسَلُونَ",
+            "code": "&#xfb56;",
+            "code_v3": "&#xfb56;",
+            "char_type": "word",
+            "translation": "O messengers"
+          },
+          {
+            "position": 7,
+            "line_number": 1,
+            "page_number": 522,
+            "text_madani": null,
+            "code": "&#xfb57;",
+            "code_v3": "&#xa031;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 32,
+        "verse_key": "51:32",
+        "text_madani": "قَالُوا إِنَّا أُرْسِلْنَا إِلَىٰ قَوْمٍ مُّجْرِمِينَ",
+        "translation": "They said: Surely we are sent to a guilty people,",
+        "page_number": 522,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 1,
+            "page_number": 522,
+            "text_madani": "قَالُوا",
+            "code": "&#xfb58;",
+            "code_v3": "&#xfb58;",
+            "char_type": "word",
+            "translation": "They said"
+          },
+          {
+            "position": 2,
+            "line_number": 1,
+            "page_number": 522,
+            "text_madani": "إِنَّا",
+            "code": "&#xfb59;",
+            "code_v3": "&#xfb59;",
+            "char_type": "word",
+            "translation": "Indeed, we"
+          },
+          {
+            "position": 3,
+            "line_number": 1,
+            "page_number": 522,
+            "text_madani": "أُرْسِلْنَا",
+            "code": "&#xfb5a;",
+            "code_v3": "&#xfb5a;",
+            "char_type": "word",
+            "translation": "[we] have been sent"
+          },
+          {
+            "position": 4,
+            "line_number": 1,
+            "page_number": 522,
+            "text_madani": "إِلَىٰ",
+            "code": "&#xfb5b;",
+            "code_v3": "&#xfb5b;",
+            "char_type": "word",
+            "translation": "to"
+          },
+          {
+            "position": 5,
+            "line_number": 1,
+            "page_number": 522,
+            "text_madani": "قَوْمٍ",
+            "code": "&#xfb5c;",
+            "code_v3": "&#xfb5c;",
+            "char_type": "word",
+            "translation": "a people"
+          },
+          {
+            "position": 6,
+            "line_number": 2,
+            "page_number": 522,
+            "text_madani": "مُجْرِمِينَ",
+            "code": "&#xfb5d;",
+            "code_v3": "&#xfb5d;",
+            "char_type": "word",
+            "translation": "criminal"
+          },
+          {
+            "position": 7,
+            "line_number": 2,
+            "page_number": 522,
+            "text_madani": null,
+            "code": "&#xfb5e;",
+            "code_v3": "&#xa032;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 33,
+        "verse_key": "51:33",
+        "text_madani": "لِنُرْسِلَ عَلَيْهِمْ حِجَارَةً مِّن طِينٍ",
+        "translation": "That we may send down upon them stone of clay,",
+        "page_number": 522,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 2,
+            "page_number": 522,
+            "text_madani": "لِنُرْسِلَ",
+            "code": "&#xfb5f;",
+            "code_v3": "&#xfb5f;",
+            "char_type": "word",
+            "translation": "That we may send down"
+          },
+          {
+            "position": 2,
+            "line_number": 2,
+            "page_number": 522,
+            "text_madani": "عَلَيْهِمْ",
+            "code": "&#xfb60;",
+            "code_v3": "&#xfb60;",
+            "char_type": "word",
+            "translation": "upon them"
+          },
+          {
+            "position": 3,
+            "line_number": 2,
+            "page_number": 522,
+            "text_madani": "حِجَارَةً",
+            "code": "&#xfb61;",
+            "code_v3": "&#xfb61;",
+            "char_type": "word",
+            "translation": "stones"
+          },
+          {
+            "position": 4,
+            "line_number": 2,
+            "page_number": 522,
+            "text_madani": "مِنْ",
+            "code": "&#xfb62;",
+            "code_v3": "&#xfb62;",
+            "char_type": "word",
+            "translation": "of"
+          },
+          {
+            "position": 5,
+            "line_number": 2,
+            "page_number": 522,
+            "text_madani": "طِينٍ",
+            "code": "&#xfb63;",
+            "code_v3": "&#xfb63;",
+            "char_type": "word",
+            "translation": "clay"
+          },
+          {
+            "position": 6,
+            "line_number": 2,
+            "page_number": 522,
+            "text_madani": null,
+            "code": "&#xfb64;",
+            "code_v3": "&#xa033;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 34,
+        "verse_key": "51:34",
+        "text_madani": "مُّسَوَّمَةً عِندَ رَبِّكَ لِلْمُسْرِفِينَ",
+        "translation": "Sent forth from your Lord for the extravagant.",
+        "page_number": 522,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 2,
+            "page_number": 522,
+            "text_madani": "مُسَوَّمَةً",
+            "code": "&#xfb65;",
+            "code_v3": "&#xfb65;",
+            "char_type": "word",
+            "translation": "Marked"
+          },
+          {
+            "position": 2,
+            "line_number": 2,
+            "page_number": 522,
+            "text_madani": "عِنْدَ",
+            "code": "&#xfb66;",
+            "code_v3": "&#xfb66;",
+            "char_type": "word",
+            "translation": "by your Lord"
+          },
+          {
+            "position": 3,
+            "line_number": 2,
+            "page_number": 522,
+            "text_madani": "رَبِّكَ",
+            "code": "&#xfb67;",
+            "code_v3": "&#xfb67;",
+            "char_type": "word",
+            "translation": "by your Lord"
+          },
+          {
+            "position": 4,
+            "line_number": 3,
+            "page_number": 522,
+            "text_madani": "لِلْمُسْرِفِينَ",
+            "code": "&#xfb68;",
+            "code_v3": "&#xfb68;",
+            "char_type": "word",
+            "translation": "for the transgressors"
+          },
+          {
+            "position": 5,
+            "line_number": 3,
+            "page_number": 522,
+            "text_madani": null,
+            "code": "&#xfb69;",
+            "code_v3": "&#xa034;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 35,
+        "verse_key": "51:35",
+        "text_madani": "فَأَخْرَجْنَا مَن كَانَ فِيهَا مِنَ الْمُؤْمِنِينَ",
+        "translation": "Then We brought forth such as were therein of the believers.",
+        "page_number": 522,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 3,
+            "page_number": 522,
+            "text_madani": "فَأَخْرَجْنَا",
+            "code": "&#xfb6a;",
+            "code_v3": "&#xfb6a;",
+            "char_type": "word",
+            "translation": "Then We brought out"
+          },
+          {
+            "position": 2,
+            "line_number": 3,
+            "page_number": 522,
+            "text_madani": "مَنْ",
+            "code": "&#xfb6b;",
+            "code_v3": "&#xfb6b;",
+            "char_type": "word",
+            "translation": "(those) who"
+          },
+          {
+            "position": 3,
+            "line_number": 3,
+            "page_number": 522,
+            "text_madani": "كَانَ",
+            "code": "&#xfb6c;",
+            "code_v3": "&#xfb6c;",
+            "char_type": "word",
+            "translation": "were"
+          },
+          {
+            "position": 4,
+            "line_number": 3,
+            "page_number": 522,
+            "text_madani": "فِيهَا",
+            "code": "&#xfb6d;",
+            "code_v3": "&#xfb6d;",
+            "char_type": "word",
+            "translation": "therein"
+          },
+          {
+            "position": 5,
+            "line_number": 3,
+            "page_number": 522,
+            "text_madani": "مِنَ",
+            "code": "&#xfb6e;",
+            "code_v3": "&#xfb6e;",
+            "char_type": "word",
+            "translation": "of"
+          },
+          {
+            "position": 6,
+            "line_number": 3,
+            "page_number": 522,
+            "text_madani": "الْمُؤْمِنِينَ",
+            "code": "&#xfb6f;",
+            "code_v3": "&#xfb6f;",
+            "char_type": "word",
+            "translation": "the believers"
+          },
+          {
+            "position": 7,
+            "line_number": 3,
+            "page_number": 522,
+            "text_madani": null,
+            "code": "&#xfb70;",
+            "code_v3": "&#xa035;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 36,
+        "verse_key": "51:36",
+        "text_madani": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ الْمُسْلِمِينَ",
+        "translation": "But We did not find therein save a (single) house of those who submitted (the Muslims).",
+        "page_number": 522,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 3,
+            "page_number": 522,
+            "text_madani": "فَمَا",
+            "code": "&#xfb71;",
+            "code_v3": "&#xfb71;",
+            "char_type": "word",
+            "translation": "But not"
+          },
+          {
+            "position": 2,
+            "line_number": 3,
+            "page_number": 522,
+            "text_madani": "وَجَدْنَا",
+            "code": "&#xfb72;",
+            "code_v3": "&#xfb72;",
+            "char_type": "word",
+            "translation": "We found"
+          },
+          {
+            "position": 3,
+            "line_number": 4,
+            "page_number": 522,
+            "text_madani": "فِيهَا",
+            "code": "&#xfb73;",
+            "code_v3": "&#xfb73;",
+            "char_type": "word",
+            "translation": "therein"
+          },
+          {
+            "position": 4,
+            "line_number": 4,
+            "page_number": 522,
+            "text_madani": "غَيْرَ",
+            "code": "&#xfb74;",
+            "code_v3": "&#xfb74;",
+            "char_type": "word",
+            "translation": "other than"
+          },
+          {
+            "position": 5,
+            "line_number": 4,
+            "page_number": 522,
+            "text_madani": "بَيْتٍ",
+            "code": "&#xfb75;",
+            "code_v3": "&#xfb75;",
+            "char_type": "word",
+            "translation": "a house"
+          },
+          {
+            "position": 6,
+            "line_number": 4,
+            "page_number": 522,
+            "text_madani": "مِنَ",
+            "code": "&#xfb76;",
+            "code_v3": "&#xfb76;",
+            "char_type": "word",
+            "translation": "of"
+          },
+          {
+            "position": 7,
+            "line_number": 4,
+            "page_number": 522,
+            "text_madani": "الْمُسْلِمِينَ",
+            "code": "&#xfb77;",
+            "code_v3": "&#xfb77;",
+            "char_type": "word",
+            "translation": "the Muslims"
+          },
+          {
+            "position": 8,
+            "line_number": 4,
+            "page_number": 522,
+            "text_madani": null,
+            "code": "&#xfb78;",
+            "code_v3": "&#xa036;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 37,
+        "verse_key": "51:37",
+        "text_madani": "وَتَرَكْنَا فِيهَا آيَةً لِّلَّذِينَ يَخَافُونَ الْعَذَابَ الْأَلِيمَ",
+        "translation": "And We left therein a sign for those who fear the painful punishment.",
+        "page_number": 522,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 4,
+            "page_number": 522,
+            "text_madani": "وَتَرَكْنَا",
+            "code": "&#xfb79;",
+            "code_v3": "&#xfb79;",
+            "char_type": "word",
+            "translation": "And We left"
+          },
+          {
+            "position": 2,
+            "line_number": 4,
+            "page_number": 522,
+            "text_madani": "فِيهَا",
+            "code": "&#xfb7a;",
+            "code_v3": "&#xfb7a;",
+            "char_type": "word",
+            "translation": "therein"
+          },
+          {
+            "position": 3,
+            "line_number": 4,
+            "page_number": 522,
+            "text_madani": "آيَةً",
+            "code": "&#xfb7b;",
+            "code_v3": "&#xfb7b;",
+            "char_type": "word",
+            "translation": "a Sign"
+          },
+          {
+            "position": 4,
+            "line_number": 4,
+            "page_number": 522,
+            "text_madani": "لِلَّذِينَ",
+            "code": "&#xfb7c;",
+            "code_v3": "&#xfb7c;",
+            "char_type": "word",
+            "translation": "for those who"
+          },
+          {
+            "position": 5,
+            "line_number": 4,
+            "page_number": 522,
+            "text_madani": "يَخَافُونَ",
+            "code": "&#xfb7d;",
+            "code_v3": "&#xfb7d;",
+            "char_type": "word",
+            "translation": "fear"
+          },
+          {
+            "position": 6,
+            "line_number": 5,
+            "page_number": 522,
+            "text_madani": "الْعَذَابَ",
+            "code": "&#xfb7e;",
+            "code_v3": "&#xfb7e;",
+            "char_type": "word",
+            "translation": "the punishment"
+          },
+          {
+            "position": 7,
+            "line_number": 5,
+            "page_number": 522,
+            "text_madani": "الْأَلِيمَ",
+            "code": "&#xfb7f;",
+            "code_v3": "&#xfb7f;",
+            "char_type": "word",
+            "translation": "the painful"
+          },
+          {
+            "position": 8,
+            "line_number": 5,
+            "page_number": 522,
+            "text_madani": null,
+            "code": "&#xfb80;",
+            "code_v3": "&#xa037;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 38,
+        "verse_key": "51:38",
+        "text_madani": "وَفِي مُوسَىٰ إِذْ أَرْسَلْنَاهُ إِلَىٰ فِرْعَوْنَ بِسُلْطَانٍ مُّبِينٍ",
+        "translation": "And in Musa: When We sent him to Firon with clear authority.",
+        "page_number": 522,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 5,
+            "page_number": 522,
+            "text_madani": "وَفِي",
+            "code": "&#xfb81;",
+            "code_v3": "&#xfb81;",
+            "char_type": "word",
+            "translation": "And in"
+          },
+          {
+            "position": 2,
+            "line_number": 5,
+            "page_number": 522,
+            "text_madani": "مُوسَىٰ",
+            "code": "&#xfb82;",
+            "code_v3": "&#xfb82;",
+            "char_type": "word",
+            "translation": "Musa"
+          },
+          {
+            "position": 3,
+            "line_number": 5,
+            "page_number": 522,
+            "text_madani": "إِذْ",
+            "code": "&#xfb83;",
+            "code_v3": "&#xfb83;",
+            "char_type": "word",
+            "translation": "when"
+          },
+          {
+            "position": 4,
+            "line_number": 5,
+            "page_number": 522,
+            "text_madani": "أَرْسَلْنَاهُ",
+            "code": "&#xfb84;",
+            "code_v3": "&#xfb84;",
+            "char_type": "word",
+            "translation": "We sent him"
+          },
+          {
+            "position": 5,
+            "line_number": 5,
+            "page_number": 522,
+            "text_madani": "إِلَىٰ",
+            "code": "&#xfb85;",
+            "code_v3": "&#xfb85;",
+            "char_type": "word",
+            "translation": "to"
+          },
+          {
+            "position": 6,
+            "line_number": 5,
+            "page_number": 522,
+            "text_madani": "فِرْعَوْنَ",
+            "code": "&#xfb86;",
+            "code_v3": "&#xfb86;",
+            "char_type": "word",
+            "translation": "Firaun"
+          },
+          {
+            "position": 7,
+            "line_number": 5,
+            "page_number": 522,
+            "text_madani": "بِسُلْطَانٍ",
+            "code": "&#xfb87;",
+            "code_v3": "&#xfb87;",
+            "char_type": "word",
+            "translation": "with an authority"
+          },
+          {
+            "position": 8,
+            "line_number": 6,
+            "page_number": 522,
+            "text_madani": "مُبِينٍ",
+            "code": "&#xfb88;",
+            "code_v3": "&#xfb88;",
+            "char_type": "word",
+            "translation": "clear"
+          },
+          {
+            "position": 9,
+            "line_number": 6,
+            "page_number": 522,
+            "text_madani": null,
+            "code": "&#xfb89;",
+            "code_v3": "&#xa038;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 39,
+        "verse_key": "51:39",
+        "text_madani": "فَتَوَلَّىٰ بِرُكْنِهِ وَقَالَ سَاحِرٌ أَوْ مَجْنُونٌ",
+        "translation": "But he turned away with his forces and said: A magician or a mad man.",
+        "page_number": 522,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 6,
+            "page_number": 522,
+            "text_madani": "فَتَوَلَّىٰ",
+            "code": "&#xfb8a;",
+            "code_v3": "&#xfb8a;",
+            "char_type": "word",
+            "translation": "But he turned away"
+          },
+          {
+            "position": 2,
+            "line_number": 6,
+            "page_number": 522,
+            "text_madani": "بِرُكْنِهِ",
+            "code": "&#xfb8b;",
+            "code_v3": "&#xfb8b;",
+            "char_type": "word",
+            "translation": "with his supporters"
+          },
+          {
+            "position": 3,
+            "line_number": 6,
+            "page_number": 522,
+            "text_madani": "وَقَالَ",
+            "code": "&#xfb8c;",
+            "code_v3": "&#xfb8c;",
+            "char_type": "word",
+            "translation": "and said"
+          },
+          {
+            "position": 4,
+            "line_number": 6,
+            "page_number": 522,
+            "text_madani": "سَاحِرٌ",
+            "code": "&#xfb8d;",
+            "code_v3": "&#xfb8d;",
+            "char_type": "word",
+            "translation": "A magician"
+          },
+          {
+            "position": 5,
+            "line_number": 6,
+            "page_number": 522,
+            "text_madani": "أَوْ",
+            "code": "&#xfb8e;",
+            "code_v3": "&#xfb8e;",
+            "char_type": "word",
+            "translation": "or"
+          },
+          {
+            "position": 6,
+            "line_number": 6,
+            "page_number": 522,
+            "text_madani": "مَجْنُونٌ",
+            "code": "&#xfb8f;",
+            "code_v3": "&#xfb8f;",
+            "char_type": "word",
+            "translation": "a madman"
+          },
+          {
+            "position": 7,
+            "line_number": 6,
+            "page_number": 522,
+            "text_madani": null,
+            "code": "&#xfb90;",
+            "code_v3": "&#xa039;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 40,
+        "verse_key": "51:40",
+        "text_madani": "فَأَخَذْنَاهُ وَجُنُودَهُ فَنَبَذْنَاهُمْ فِي الْيَمِّ وَهُوَ مُلِيمٌ",
+        "translation": "So We seized him and his hosts and hurled them into the sea and he was blamable.",
+        "page_number": 522,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 6,
+            "page_number": 522,
+            "text_madani": "فَأَخَذْنَاهُ",
+            "code": "&#xfb91;",
+            "code_v3": "&#xfb91;",
+            "char_type": "word",
+            "translation": "So We took him"
+          },
+          {
+            "position": 2,
+            "line_number": 6,
+            "page_number": 522,
+            "text_madani": "وَجُنُودَهُ",
+            "code": "&#xfb92;",
+            "code_v3": "&#xfb92;",
+            "char_type": "word",
+            "translation": "and his hosts"
+          },
+          {
+            "position": 3,
+            "line_number": 7,
+            "page_number": 522,
+            "text_madani": "فَنَبَذْنَاهُمْ",
+            "code": "&#xfb93;",
+            "code_v3": "&#xfb93;",
+            "char_type": "word",
+            "translation": "and threw them"
+          },
+          {
+            "position": 4,
+            "line_number": 7,
+            "page_number": 522,
+            "text_madani": "فِي",
+            "code": "&#xfb94;",
+            "code_v3": "&#xfb94;",
+            "char_type": "word",
+            "translation": "into"
+          },
+          {
+            "position": 5,
+            "line_number": 7,
+            "page_number": 522,
+            "text_madani": "الْيَمِّ",
+            "code": "&#xfb95;",
+            "code_v3": "&#xfb95;",
+            "char_type": "word",
+            "translation": "the sea"
+          },
+          {
+            "position": 6,
+            "line_number": 7,
+            "page_number": 522,
+            "text_madani": "وَهُوَ",
+            "code": "&#xfb96;",
+            "code_v3": "&#xfb96;",
+            "char_type": "word",
+            "translation": "while he"
+          },
+          {
+            "position": 7,
+            "line_number": 7,
+            "page_number": 522,
+            "text_madani": "مُلِيمٌ",
+            "code": "&#xfb97;",
+            "code_v3": "&#xfb97;",
+            "char_type": "word",
+            "translation": "(was) blameworthy"
+          },
+          {
+            "position": 8,
+            "line_number": 7,
+            "page_number": 522,
+            "text_madani": null,
+            "code": "&#xfb98;",
+            "code_v3": "&#xa040;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 41,
+        "verse_key": "51:41",
+        "text_madani": "وَفِي عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ الرِّيحَ الْعَقِيمَ",
+        "translation": "And in Ad: When We sent upon them the destructive wind.",
+        "page_number": 522,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 7,
+            "page_number": 522,
+            "text_madani": "وَفِي",
+            "code": "&#xfb99;",
+            "code_v3": "&#xfb99;",
+            "char_type": "word",
+            "translation": "And in"
+          },
+          {
+            "position": 2,
+            "line_number": 7,
+            "page_number": 522,
+            "text_madani": "عَادٍ",
+            "code": "&#xfb9a;",
+            "code_v3": "&#xfb9a;",
+            "char_type": "word",
+            "translation": "Aad"
+          },
+          {
+            "position": 3,
+            "line_number": 7,
+            "page_number": 522,
+            "text_madani": "إِذْ",
+            "code": "&#xfb9b;",
+            "code_v3": "&#xfb9b;",
+            "char_type": "word",
+            "translation": "when"
+          },
+          {
+            "position": 4,
+            "line_number": 7,
+            "page_number": 522,
+            "text_madani": "أَرْسَلْنَا",
+            "code": "&#xfb9c;",
+            "code_v3": "&#xfb9c;",
+            "char_type": "word",
+            "translation": "We sent"
+          },
+          {
+            "position": 5,
+            "line_number": 7,
+            "page_number": 522,
+            "text_madani": "عَلَيْهِمُ",
+            "code": "&#xfb9d;",
+            "code_v3": "&#xfb9d;",
+            "char_type": "word",
+            "translation": "against them"
+          },
+          {
+            "position": 6,
+            "line_number": 7,
+            "page_number": 522,
+            "text_madani": "الرِّيحَ",
+            "code": "&#xfb9e;",
+            "code_v3": "&#xfb9e;",
+            "char_type": "word",
+            "translation": "the wind"
+          },
+          {
+            "position": 7,
+            "line_number": 8,
+            "page_number": 522,
+            "text_madani": "الْعَقِيمَ",
+            "code": "&#xfb9f;",
+            "code_v3": "&#xfb9f;",
+            "char_type": "word",
+            "translation": "the barren"
+          },
+          {
+            "position": 8,
+            "line_number": 8,
+            "page_number": 522,
+            "text_madani": null,
+            "code": "&#xfba0;",
+            "code_v3": "&#xa041;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 42,
+        "verse_key": "51:42",
+        "text_madani": "مَا تَذَرُ مِن شَيْءٍ أَتَتْ عَلَيْهِ إِلَّا جَعَلَتْهُ كَالرَّمِيمِ",
+        "translation": "It did not leave aught on which it blew, but it made it like ashes.",
+        "page_number": 522,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 8,
+            "page_number": 522,
+            "text_madani": "مَا",
+            "code": "&#xfba1;",
+            "code_v3": "&#xfba1;",
+            "char_type": "word",
+            "translation": "Not"
+          },
+          {
+            "position": 2,
+            "line_number": 8,
+            "page_number": 522,
+            "text_madani": "تَذَرُ",
+            "code": "&#xfba2;",
+            "code_v3": "&#xfba2;",
+            "char_type": "word",
+            "translation": "it left"
+          },
+          {
+            "position": 3,
+            "line_number": 8,
+            "page_number": 522,
+            "text_madani": "مِنْ",
+            "code": "&#xfba3;",
+            "code_v3": "&#xfba3;",
+            "char_type": "word",
+            "translation": "any"
+          },
+          {
+            "position": 4,
+            "line_number": 8,
+            "page_number": 522,
+            "text_madani": "شَيْءٍ",
+            "code": "&#xfba4;",
+            "code_v3": "&#xfba4;",
+            "char_type": "word",
+            "translation": "thing"
+          },
+          {
+            "position": 5,
+            "line_number": 8,
+            "page_number": 522,
+            "text_madani": "أَتَتْ",
+            "code": "&#xfba5;",
+            "code_v3": "&#xfba5;",
+            "char_type": "word",
+            "translation": "it came"
+          },
+          {
+            "position": 6,
+            "line_number": 8,
+            "page_number": 522,
+            "text_madani": "عَلَيْهِ",
+            "code": "&#xfba6;",
+            "code_v3": "&#xfba6;",
+            "char_type": "word",
+            "translation": "upon it"
+          },
+          {
+            "position": 7,
+            "line_number": 8,
+            "page_number": 522,
+            "text_madani": "إِلَّا",
+            "code": "&#xfba7;",
+            "code_v3": "&#xfba7;",
+            "char_type": "word",
+            "translation": "but"
+          },
+          {
+            "position": 8,
+            "line_number": 8,
+            "page_number": 522,
+            "text_madani": "جَعَلَتْهُ",
+            "code": "&#xfba8;",
+            "code_v3": "&#xfba8;",
+            "char_type": "word",
+            "translation": "it made it"
+          },
+          {
+            "position": 9,
+            "line_number": 8,
+            "page_number": 522,
+            "text_madani": "كَالرَّمِيمِ",
+            "code": "&#xfba9;",
+            "code_v3": "&#xfba9;",
+            "char_type": "word",
+            "translation": "like disintegrated ruins"
+          },
+          {
+            "position": 10,
+            "line_number": 8,
+            "page_number": 522,
+            "text_madani": null,
+            "code": "&#xfbaa;",
+            "code_v3": "&#xa042;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 43,
+        "verse_key": "51:43",
+        "text_madani": "وَفِي ثَمُودَ إِذْ قِيلَ لَهُمْ تَمَتَّعُوا حَتَّىٰ حِينٍ",
+        "translation": "And in Samood: When it was said to them: Enjoy yourselves for a while.",
+        "page_number": 522,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 9,
+            "page_number": 522,
+            "text_madani": "وَفِي",
+            "code": "&#xfbab;",
+            "code_v3": "&#xfbab;",
+            "char_type": "word",
+            "translation": "And in"
+          },
+          {
+            "position": 2,
+            "line_number": 9,
+            "page_number": 522,
+            "text_madani": "ثَمُودَ",
+            "code": "&#xfbac;",
+            "code_v3": "&#xfbac;",
+            "char_type": "word",
+            "translation": "Thamud"
+          },
+          {
+            "position": 3,
+            "line_number": 9,
+            "page_number": 522,
+            "text_madani": "إِذْ",
+            "code": "&#xfbad;",
+            "code_v3": "&#xfbad;",
+            "char_type": "word",
+            "translation": "when"
+          },
+          {
+            "position": 4,
+            "line_number": 9,
+            "page_number": 522,
+            "text_madani": "قِيلَ",
+            "code": "&#xfbae;",
+            "code_v3": "&#xfbae;",
+            "char_type": "word",
+            "translation": "was said"
+          },
+          {
+            "position": 5,
+            "line_number": 9,
+            "page_number": 522,
+            "text_madani": "لَهُمْ",
+            "code": "&#xfbaf;",
+            "code_v3": "&#xfbaf;",
+            "char_type": "word",
+            "translation": "to them"
+          },
+          {
+            "position": 6,
+            "line_number": 9,
+            "page_number": 522,
+            "text_madani": "تَمَتَّعُوا",
+            "code": "&#xfbb0;",
+            "code_v3": "&#xfbb0;",
+            "char_type": "word",
+            "translation": "Enjoy (yourselves)"
+          },
+          {
+            "position": 7,
+            "line_number": 9,
+            "page_number": 522,
+            "text_madani": "حَتَّىٰ",
+            "code": "&#xfbb1;",
+            "code_v3": "&#xfbb1;",
+            "char_type": "word",
+            "translation": "for"
+          },
+          {
+            "position": 8,
+            "line_number": 9,
+            "page_number": 522,
+            "text_madani": "حِينٍ",
+            "code": "&#xfbd3;",
+            "code_v3": "&#xfbd3;",
+            "char_type": "word",
+            "translation": "a time"
+          },
+          {
+            "position": 9,
+            "line_number": 9,
+            "page_number": 522,
+            "text_madani": null,
+            "code": "&#xfbd4;",
+            "code_v3": "&#xa043;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 44,
+        "verse_key": "51:44",
+        "text_madani": "فَعَتَوْا عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ الصَّاعِقَةُ وَهُمْ يَنظُرُونَ",
+        "translation": "But they revolted against the commandment of their Lord, so the rumbling overtook them while they saw.",
+        "page_number": 522,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 9,
+            "page_number": 522,
+            "text_madani": "فَعَتَوْا",
+            "code": "&#xfbd5;",
+            "code_v3": "&#xfbd5;",
+            "char_type": "word",
+            "translation": "But they rebelled"
+          },
+          {
+            "position": 2,
+            "line_number": 9,
+            "page_number": 522,
+            "text_madani": "عَنْ",
+            "code": "&#xfbd6;",
+            "code_v3": "&#xfbd6;",
+            "char_type": "word",
+            "translation": "against"
+          },
+          {
+            "position": 3,
+            "line_number": 9,
+            "page_number": 522,
+            "text_madani": "أَمْرِ",
+            "code": "&#xfbd7;",
+            "code_v3": "&#xfbd7;",
+            "char_type": "word",
+            "translation": "(the) Command"
+          },
+          {
+            "position": 4,
+            "line_number": 9,
+            "page_number": 522,
+            "text_madani": "رَبِّهِمْ",
+            "code": "&#xfbd8;",
+            "code_v3": "&#xfbd8;",
+            "char_type": "word",
+            "translation": "(of) their Lord"
+          },
+          {
+            "position": 5,
+            "line_number": 10,
+            "page_number": 522,
+            "text_madani": "فَأَخَذَتْهُمُ",
+            "code": "&#xfbd9;",
+            "code_v3": "&#xfbd9;",
+            "char_type": "word",
+            "translation": "so seized them"
+          },
+          {
+            "position": 6,
+            "line_number": 10,
+            "page_number": 522,
+            "text_madani": "الصَّاعِقَةُ",
+            "code": "&#xfbda;",
+            "code_v3": "&#xfbda;",
+            "char_type": "word",
+            "translation": "the thunderbolt"
+          },
+          {
+            "position": 7,
+            "line_number": 10,
+            "page_number": 522,
+            "text_madani": "وَهُمْ",
+            "code": "&#xfbdb;",
+            "code_v3": "&#xfbdb;",
+            "char_type": "word",
+            "translation": "while they"
+          },
+          {
+            "position": 8,
+            "line_number": 10,
+            "page_number": 522,
+            "text_madani": "يَنْظُرُونَ",
+            "code": "&#xfbdc;",
+            "code_v3": "&#xfbdc;",
+            "char_type": "word",
+            "translation": "were looking"
+          },
+          {
+            "position": 9,
+            "line_number": 10,
+            "page_number": 522,
+            "text_madani": null,
+            "code": "&#xfbdd;",
+            "code_v3": "&#xa044;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 45,
+        "verse_key": "51:45",
+        "text_madani": "فَمَا اسْتَطَاعُوا مِن قِيَامٍ وَمَا كَانُوا مُنتَصِرِينَ",
+        "translation": "So they were not able to rise up, nor could they defend themselves-",
+        "page_number": 522,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 10,
+            "page_number": 522,
+            "text_madani": "فَمَا",
+            "code": "&#xfbde;",
+            "code_v3": "&#xfbde;",
+            "char_type": "word",
+            "translation": "Then not"
+          },
+          {
+            "position": 2,
+            "line_number": 10,
+            "page_number": 522,
+            "text_madani": "اسْتَطَاعُوا",
+            "code": "&#xfbdf;",
+            "code_v3": "&#xfbdf;",
+            "char_type": "word",
+            "translation": "they were able to"
+          },
+          {
+            "position": 3,
+            "line_number": 10,
+            "page_number": 522,
+            "text_madani": "مِنْ",
+            "code": "&#xfbe0;",
+            "code_v3": "&#xfbe0;",
+            "char_type": "word",
+            "translation": "[of]"
+          },
+          {
+            "position": 4,
+            "line_number": 10,
+            "page_number": 522,
+            "text_madani": "قِيَامٍ",
+            "code": "&#xfbe1;",
+            "code_v3": "&#xfbe1;",
+            "char_type": "word",
+            "translation": "stand"
+          },
+          {
+            "position": 5,
+            "line_number": 11,
+            "page_number": 522,
+            "text_madani": "وَمَا",
+            "code": "&#xfbe2;",
+            "code_v3": "&#xfbe2;",
+            "char_type": "word",
+            "translation": "and not"
+          },
+          {
+            "position": 6,
+            "line_number": 11,
+            "page_number": 522,
+            "text_madani": "كَانُوا",
+            "code": "&#xfbe3;",
+            "code_v3": "&#xfbe3;",
+            "char_type": "word",
+            "translation": "they could"
+          },
+          {
+            "position": 7,
+            "line_number": 11,
+            "page_number": 522,
+            "text_madani": "مُنْتَصِرِينَ",
+            "code": "&#xfbe4;",
+            "code_v3": "&#xfbe4;",
+            "char_type": "word",
+            "translation": "help themselves"
+          },
+          {
+            "position": 8,
+            "line_number": 11,
+            "page_number": 522,
+            "text_madani": null,
+            "code": "&#xfbe5;",
+            "code_v3": "&#xa045;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 46,
+        "verse_key": "51:46",
+        "text_madani": "وَقَوْمَ نُوحٍ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا قَوْمًا فَاسِقِينَ",
+        "translation": "And the people of Nuh before, surely they were a transgressing people.",
+        "page_number": 522,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 11,
+            "page_number": 522,
+            "text_madani": "وَقَوْمَ",
+            "code": "&#xfbe6;",
+            "code_v3": "&#xfbe6;",
+            "char_type": "word",
+            "translation": "And (the) people"
+          },
+          {
+            "position": 2,
+            "line_number": 11,
+            "page_number": 522,
+            "text_madani": "نُوحٍ",
+            "code": "&#xfbe7;",
+            "code_v3": "&#xfbe7;",
+            "char_type": "word",
+            "translation": "(of) Nuh"
+          },
+          {
+            "position": 3,
+            "line_number": 11,
+            "page_number": 522,
+            "text_madani": "مِنْ",
+            "code": "&#xfbe8;",
+            "code_v3": "&#xfbe8;",
+            "char_type": "word",
+            "translation": "before"
+          },
+          {
+            "position": 4,
+            "line_number": 11,
+            "page_number": 522,
+            "text_madani": "قَبْلُ",
+            "code": "&#xfbe9;",
+            "code_v3": "&#xfbe9;",
+            "char_type": "word",
+            "translation": "before"
+          },
+          {
+            "position": 5,
+            "line_number": 11,
+            "page_number": 522,
+            "text_madani": null,
+            "code": "&#xfbea;",
+            "code_v3": "&#x6d6;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 6,
+            "line_number": 11,
+            "page_number": 522,
+            "text_madani": "إِنَّهُمْ",
+            "code": "&#xfbeb;",
+            "code_v3": "&#xfbeb;",
+            "char_type": "word",
+            "translation": "indeed, they"
+          },
+          {
+            "position": 7,
+            "line_number": 11,
+            "page_number": 522,
+            "text_madani": "كَانُوا",
+            "code": "&#xfbec;",
+            "code_v3": "&#xfbec;",
+            "char_type": "word",
+            "translation": "were"
+          },
+          {
+            "position": 8,
+            "line_number": 11,
+            "page_number": 522,
+            "text_madani": "قَوْمًا",
+            "code": "&#xfbed;",
+            "code_v3": "&#xfbed;",
+            "char_type": "word",
+            "translation": "a people"
+          },
+          {
+            "position": 9,
+            "line_number": 12,
+            "page_number": 522,
+            "text_madani": "فَاسِقِينَ",
+            "code": "&#xfbee;",
+            "code_v3": "&#xfbee;",
+            "char_type": "word",
+            "translation": "defiantly disobedient"
+          },
+          {
+            "position": 10,
+            "line_number": 12,
+            "page_number": 522,
+            "text_madani": null,
+            "code": "&#xfbef;",
+            "code_v3": "&#xa046;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 47,
+        "verse_key": "51:47",
+        "text_madani": "وَالسَّمَاءَ بَنَيْنَاهَا بِأَيْدٍ وَإِنَّا لَمُوسِعُونَ",
+        "translation": "And the heaven, We raised it high with power, and most surely We are the makers of things ample.",
+        "page_number": 522,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 12,
+            "page_number": 522,
+            "text_madani": "وَالسَّمَاءَ",
+            "code": "&#xfbf0;",
+            "code_v3": "&#xfbf0;",
+            "char_type": "word",
+            "translation": "And the heaven"
+          },
+          {
+            "position": 2,
+            "line_number": 12,
+            "page_number": 522,
+            "text_madani": "بَنَيْنَاهَا",
+            "code": "&#xfbf1;",
+            "code_v3": "&#xfbf1;",
+            "char_type": "word",
+            "translation": "We constructed it"
+          },
+          {
+            "position": 3,
+            "line_number": 12,
+            "page_number": 522,
+            "text_madani": "بِأَيْدٍ",
+            "code": "&#xfbf2;",
+            "code_v3": "&#xfbf2;",
+            "char_type": "word",
+            "translation": "with strength"
+          },
+          {
+            "position": 4,
+            "line_number": 12,
+            "page_number": 522,
+            "text_madani": "وَإِنَّا",
+            "code": "&#xfbf3;",
+            "code_v3": "&#xfbf3;",
+            "char_type": "word",
+            "translation": "and indeed, We"
+          },
+          {
+            "position": 5,
+            "line_number": 12,
+            "page_number": 522,
+            "text_madani": "لَمُوسِعُونَ",
+            "code": "&#xfbf4;",
+            "code_v3": "&#xfbf4;",
+            "char_type": "word",
+            "translation": "(are) surely (its) Expanders"
+          },
+          {
+            "position": 6,
+            "line_number": 12,
+            "page_number": 522,
+            "text_madani": null,
+            "code": "&#xfbf5;",
+            "code_v3": "&#xa047;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 48,
+        "verse_key": "51:48",
+        "text_madani": "وَالْأَرْضَ فَرَشْنَاهَا فَنِعْمَ الْمَاهِدُونَ",
+        "translation": "And the earth, We have made it a wide extent; how well have We then spread (it) out.",
+        "page_number": 522,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 12,
+            "page_number": 522,
+            "text_madani": "وَالْأَرْضَ",
+            "code": "&#xfbf6;",
+            "code_v3": "&#xfbf6;",
+            "char_type": "word",
+            "translation": "And the earth"
+          },
+          {
+            "position": 2,
+            "line_number": 13,
+            "page_number": 522,
+            "text_madani": "فَرَشْنَاهَا",
+            "code": "&#xfbf7;",
+            "code_v3": "&#xfbf7;",
+            "char_type": "word",
+            "translation": "We have spread it"
+          },
+          {
+            "position": 3,
+            "line_number": 13,
+            "page_number": 522,
+            "text_madani": "فَنِعْمَ",
+            "code": "&#xfbf8;",
+            "code_v3": "&#xfbf8;",
+            "char_type": "word",
+            "translation": "how excellent"
+          },
+          {
+            "position": 4,
+            "line_number": 13,
+            "page_number": 522,
+            "text_madani": "الْمَاهِدُونَ",
+            "code": "&#xfbf9;",
+            "code_v3": "&#xfbf9;",
+            "char_type": "word",
+            "translation": "(are) the Spreaders"
+          },
+          {
+            "position": 5,
+            "line_number": 13,
+            "page_number": 522,
+            "text_madani": null,
+            "code": "&#xfbfa;",
+            "code_v3": "&#xa048;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 49,
+        "verse_key": "51:49",
+        "text_madani": "وَمِن كُلِّ شَيْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ",
+        "translation": "And of everything We have created pairs that you may be mindful.",
+        "page_number": 522,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 13,
+            "page_number": 522,
+            "text_madani": "وَمِنْ",
+            "code": "&#xfbfb;",
+            "code_v3": "&#xfbfb;",
+            "char_type": "word",
+            "translation": "And of"
+          },
+          {
+            "position": 2,
+            "line_number": 13,
+            "page_number": 522,
+            "text_madani": "كُلِّ",
+            "code": "&#xfbfc;",
+            "code_v3": "&#xfbfc;",
+            "char_type": "word",
+            "translation": "every"
+          },
+          {
+            "position": 3,
+            "line_number": 13,
+            "page_number": 522,
+            "text_madani": "شَيْءٍ",
+            "code": "&#xfbfd;",
+            "code_v3": "&#xfbfd;",
+            "char_type": "word",
+            "translation": "thing"
+          },
+          {
+            "position": 4,
+            "line_number": 13,
+            "page_number": 522,
+            "text_madani": "خَلَقْنَا",
+            "code": "&#xfbfe;",
+            "code_v3": "&#xfbfe;",
+            "char_type": "word",
+            "translation": "We have created"
+          },
+          {
+            "position": 5,
+            "line_number": 13,
+            "page_number": 522,
+            "text_madani": "زَوْجَيْنِ",
+            "code": "&#xfbff;",
+            "code_v3": "&#xfbff;",
+            "char_type": "word",
+            "translation": "pairs"
+          },
+          {
+            "position": 6,
+            "line_number": 14,
+            "page_number": 522,
+            "text_madani": "لَعَلَّكُمْ",
+            "code": "&#xfc00;",
+            "code_v3": "&#xfc00;",
+            "char_type": "word",
+            "translation": "so that you may"
+          },
+          {
+            "position": 7,
+            "line_number": 14,
+            "page_number": 522,
+            "text_madani": "تَذَكَّرُونَ",
+            "code": "&#xfc01;",
+            "code_v3": "&#xfc01;",
+            "char_type": "word",
+            "translation": "remember"
+          },
+          {
+            "position": 8,
+            "line_number": 14,
+            "page_number": 522,
+            "text_madani": null,
+            "code": "&#xfc02;",
+            "code_v3": "&#xa049;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 50,
+        "verse_key": "51:50",
+        "text_madani": "فَفِرُّوا إِلَى اللَّهِ ۖ إِنِّي لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ",
+        "translation": "Therefore fly to Allah, surely I am a plain warner to you from Him.",
+        "page_number": 522,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 14,
+            "page_number": 522,
+            "text_madani": "فَفِرُّوا",
+            "code": "&#xfc03;",
+            "code_v3": "&#xfc03;",
+            "char_type": "word",
+            "translation": "So flee"
+          },
+          {
+            "position": 2,
+            "line_number": 14,
+            "page_number": 522,
+            "text_madani": "إِلَى",
+            "code": "&#xfc04;",
+            "code_v3": "&#xfc04;",
+            "char_type": "word",
+            "translation": "to"
+          },
+          {
+            "position": 3,
+            "line_number": 14,
+            "page_number": 522,
+            "text_madani": "اللَّهِ",
+            "code": "&#xfc05;",
+            "code_v3": "&#xfc05;",
+            "char_type": "word",
+            "translation": "Allah"
+          },
+          {
+            "position": 4,
+            "line_number": 14,
+            "page_number": 522,
+            "text_madani": null,
+            "code": "&#xfc06;",
+            "code_v3": "&#x6d6;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 5,
+            "line_number": 14,
+            "page_number": 522,
+            "text_madani": "إِنِّي",
+            "code": "&#xfc07;",
+            "code_v3": "&#xfc07;",
+            "char_type": "word",
+            "translation": "indeed, I am"
+          },
+          {
+            "position": 6,
+            "line_number": 14,
+            "page_number": 522,
+            "text_madani": "لَكُمْ",
+            "code": "&#xfc08;",
+            "code_v3": "&#xfc08;",
+            "char_type": "word",
+            "translation": "to you"
+          },
+          {
+            "position": 7,
+            "line_number": 14,
+            "page_number": 522,
+            "text_madani": "مِنْهُ",
+            "code": "&#xfc09;",
+            "code_v3": "&#xfc09;",
+            "char_type": "word",
+            "translation": "from Him"
+          },
+          {
+            "position": 8,
+            "line_number": 14,
+            "page_number": 522,
+            "text_madani": "نَذِيرٌ",
+            "code": "&#xfc0a;",
+            "code_v3": "&#xfc0a;",
+            "char_type": "word",
+            "translation": "a warner"
+          },
+          {
+            "position": 9,
+            "line_number": 14,
+            "page_number": 522,
+            "text_madani": "مُبِينٌ",
+            "code": "&#xfc0b;",
+            "code_v3": "&#xfc0b;",
+            "char_type": "word",
+            "translation": "clear"
+          },
+          {
+            "position": 10,
+            "line_number": 14,
+            "page_number": 522,
+            "text_madani": null,
+            "code": "&#xfc0c;",
+            "code_v3": "&#xa050;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 51,
+        "verse_key": "51:51",
+        "text_madani": "وَلَا تَجْعَلُوا مَعَ اللَّهِ إِلَٰهًا آخَرَ ۖ إِنِّي لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ",
+        "translation": "And do not set up with Allah another god: surely I am a plain warner to you from Him.",
+        "page_number": 522,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 15,
+            "page_number": 522,
+            "text_madani": "وَلَا",
+            "code": "&#xfc0d;",
+            "code_v3": "&#xfc0d;",
+            "char_type": "word",
+            "translation": "And (do) not"
+          },
+          {
+            "position": 2,
+            "line_number": 15,
+            "page_number": 522,
+            "text_madani": "تَجْعَلُوا",
+            "code": "&#xfc0e;",
+            "code_v3": "&#xfc0e;",
+            "char_type": "word",
+            "translation": "make"
+          },
+          {
+            "position": 3,
+            "line_number": 15,
+            "page_number": 522,
+            "text_madani": "مَعَ",
+            "code": "&#xfc0f;",
+            "code_v3": "&#xfc0f;",
+            "char_type": "word",
+            "translation": "with"
+          },
+          {
+            "position": 4,
+            "line_number": 15,
+            "page_number": 522,
+            "text_madani": "اللَّهِ",
+            "code": "&#xfc10;",
+            "code_v3": "&#xfc10;",
+            "char_type": "word",
+            "translation": "Allah"
+          },
+          {
+            "position": 5,
+            "line_number": 15,
+            "page_number": 522,
+            "text_madani": "إِلَٰهًا",
+            "code": "&#xfc11;",
+            "code_v3": "&#xfc11;",
+            "char_type": "word",
+            "translation": "god"
+          },
+          {
+            "position": 6,
+            "line_number": 15,
+            "page_number": 522,
+            "text_madani": "آخَرَ",
+            "code": "&#xfc12;",
+            "code_v3": "&#xfc12;",
+            "char_type": "word",
+            "translation": "another"
+          },
+          {
+            "position": 7,
+            "line_number": 15,
+            "page_number": 522,
+            "text_madani": null,
+            "code": "&#xfc13;",
+            "code_v3": "&#x6d6;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 8,
+            "line_number": 15,
+            "page_number": 522,
+            "text_madani": "إِنِّي",
+            "code": "&#xfc14;",
+            "code_v3": "&#xfc14;",
+            "char_type": "word",
+            "translation": "Indeed, I am"
+          },
+          {
+            "position": 9,
+            "line_number": 15,
+            "page_number": 522,
+            "text_madani": "لَكُمْ",
+            "code": "&#xfc15;",
+            "code_v3": "&#xfc15;",
+            "char_type": "word",
+            "translation": "to you"
+          },
+          {
+            "position": 10,
+            "line_number": 15,
+            "page_number": 522,
+            "text_madani": "مِنْهُ",
+            "code": "&#xfc16;",
+            "code_v3": "&#xfc16;",
+            "char_type": "word",
+            "translation": "from Him"
+          },
+          {
+            "position": 11,
+            "line_number": 15,
+            "page_number": 522,
+            "text_madani": "نَذِيرٌ",
+            "code": "&#xfc17;",
+            "code_v3": "&#xfc17;",
+            "char_type": "word",
+            "translation": "a warner"
+          },
+          {
+            "position": 12,
+            "line_number": 15,
+            "page_number": 522,
+            "text_madani": "مُبِينٌ",
+            "code": "&#xfc18;",
+            "code_v3": "&#xfc18;",
+            "char_type": "word",
+            "translation": "clear"
+          },
+          {
+            "position": 13,
+            "line_number": 15,
+            "page_number": 522,
+            "text_madani": null,
+            "code": "&#xfc19;",
+            "code_v3": "&#xa051;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 52,
+        "verse_key": "51:52",
+        "text_madani": "كَذَٰلِكَ مَا أَتَى الَّذِينَ مِن قَبْلِهِم مِّن رَّسُولٍ إِلَّا قَالُوا سَاحِرٌ أَوْ مَجْنُونٌ",
+        "translation": "Thus there did not come to those before them a messenger but they said: A magician or a mad man.",
+        "page_number": 523,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 1,
+            "page_number": 523,
+            "text_madani": "كَذَٰلِكَ",
+            "code": "&#xfb51;",
+            "code_v3": "&#xfb51;",
+            "char_type": "word",
+            "translation": "Likewise"
+          },
+          {
+            "position": 2,
+            "line_number": 1,
+            "page_number": 523,
+            "text_madani": "مَا",
+            "code": "&#xfb52;",
+            "code_v3": "&#xfb52;",
+            "char_type": "word",
+            "translation": "not"
+          },
+          {
+            "position": 3,
+            "line_number": 1,
+            "page_number": 523,
+            "text_madani": "أَتَى",
+            "code": "&#xfb53;",
+            "code_v3": "&#xfb53;",
+            "char_type": "word",
+            "translation": "came"
+          },
+          {
+            "position": 4,
+            "line_number": 1,
+            "page_number": 523,
+            "text_madani": "الَّذِينَ",
+            "code": "&#xfb54;",
+            "code_v3": "&#xfb54;",
+            "char_type": "word",
+            "translation": "(to) those"
+          },
+          {
+            "position": 5,
+            "line_number": 1,
+            "page_number": 523,
+            "text_madani": "مِنْ",
+            "code": "&#xfb55;",
+            "code_v3": "&#xfb55;",
+            "char_type": "word",
+            "translation": "before them"
+          },
+          {
+            "position": 6,
+            "line_number": 1,
+            "page_number": 523,
+            "text_madani": "قَبْلِهِمْ",
+            "code": "&#xfb56;",
+            "code_v3": "&#xfb56;",
+            "char_type": "word",
+            "translation": "before them"
+          },
+          {
+            "position": 7,
+            "line_number": 1,
+            "page_number": 523,
+            "text_madani": "مِنْ",
+            "code": "&#xfb57;",
+            "code_v3": "&#xfb57;",
+            "char_type": "word",
+            "translation": "any"
+          },
+          {
+            "position": 8,
+            "line_number": 1,
+            "page_number": 523,
+            "text_madani": "رَسُولٍ",
+            "code": "&#xfb58;",
+            "code_v3": "&#xfb58;",
+            "char_type": "word",
+            "translation": "Messenger"
+          },
+          {
+            "position": 9,
+            "line_number": 1,
+            "page_number": 523,
+            "text_madani": "إِلَّا",
+            "code": "&#xfb59;",
+            "code_v3": "&#xfb59;",
+            "char_type": "word",
+            "translation": "but"
+          },
+          {
+            "position": 10,
+            "line_number": 1,
+            "page_number": 523,
+            "text_madani": "قَالُوا",
+            "code": "&#xfb5a;",
+            "code_v3": "&#xfb5a;",
+            "char_type": "word",
+            "translation": "they said"
+          },
+          {
+            "position": 11,
+            "line_number": 1,
+            "page_number": 523,
+            "text_madani": "سَاحِرٌ",
+            "code": "&#xfb5b;",
+            "code_v3": "&#xfb5b;",
+            "char_type": "word",
+            "translation": "A magician"
+          },
+          {
+            "position": 12,
+            "line_number": 1,
+            "page_number": 523,
+            "text_madani": "أَوْ",
+            "code": "&#xfb5c;",
+            "code_v3": "&#xfb5c;",
+            "char_type": "word",
+            "translation": "or"
+          },
+          {
+            "position": 13,
+            "line_number": 1,
+            "page_number": 523,
+            "text_madani": "مَجْنُونٌ",
+            "code": "&#xfb5d;",
+            "code_v3": "&#xfb5d;",
+            "char_type": "word",
+            "translation": "a madman"
+          },
+          {
+            "position": 14,
+            "line_number": 2,
+            "page_number": 523,
+            "text_madani": null,
+            "code": "&#xfb5e;",
+            "code_v3": "&#xa052;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 53,
+        "verse_key": "51:53",
+        "text_madani": "أَتَوَاصَوْا بِهِ ۚ بَلْ هُمْ قَوْمٌ طَاغُونَ",
+        "translation": "Have they charged each other with this? Nay! they are an inordinate people.",
+        "page_number": 523,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 2,
+            "page_number": 523,
+            "text_madani": "أَتَوَاصَوْا",
+            "code": "&#xfb5f;",
+            "code_v3": "&#xfb5f;",
+            "char_type": "word",
+            "translation": "Have they transmitted it to them"
+          },
+          {
+            "position": 2,
+            "line_number": 2,
+            "page_number": 523,
+            "text_madani": "بِهِ",
+            "code": "&#xfb60;",
+            "code_v3": "&#xfb60;",
+            "char_type": "word",
+            "translation": "Have they transmitted it to them"
+          },
+          {
+            "position": 3,
+            "line_number": 2,
+            "page_number": 523,
+            "text_madani": null,
+            "code": "&#xfb61;",
+            "code_v3": "&#x6da;",
+            "char_type": "pause",
+            "translation": null
+          },
+          {
+            "position": 4,
+            "line_number": 2,
+            "page_number": 523,
+            "text_madani": "بَلْ",
+            "code": "&#xfb62;",
+            "code_v3": "&#xfb62;",
+            "char_type": "word",
+            "translation": "Nay"
+          },
+          {
+            "position": 5,
+            "line_number": 2,
+            "page_number": 523,
+            "text_madani": "هُمْ",
+            "code": "&#xfb63;",
+            "code_v3": "&#xfb63;",
+            "char_type": "word",
+            "translation": "they"
+          },
+          {
+            "position": 6,
+            "line_number": 2,
+            "page_number": 523,
+            "text_madani": "قَوْمٌ",
+            "code": "&#xfb64;",
+            "code_v3": "&#xfb64;",
+            "char_type": "word",
+            "translation": "(are) a people"
+          },
+          {
+            "position": 7,
+            "line_number": 2,
+            "page_number": 523,
+            "text_madani": "طَاغُونَ",
+            "code": "&#xfb65;",
+            "code_v3": "&#xfb65;",
+            "char_type": "word",
+            "translation": "transgressing"
+          },
+          {
+            "position": 8,
+            "line_number": 2,
+            "page_number": 523,
+            "text_madani": null,
+            "code": "&#xfb66;",
+            "code_v3": "&#xa053;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 54,
+        "verse_key": "51:54",
+        "text_madani": "فَتَوَلَّ عَنْهُمْ فَمَا أَنتَ بِمَلُومٍ",
+        "translation": "Then turn your back upon them for you are not to blame;",
+        "page_number": 523,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 2,
+            "page_number": 523,
+            "text_madani": "فَتَوَلَّ",
+            "code": "&#xfb67;",
+            "code_v3": "&#xfb67;",
+            "char_type": "word",
+            "translation": "So turn away"
+          },
+          {
+            "position": 2,
+            "line_number": 2,
+            "page_number": 523,
+            "text_madani": "عَنْهُمْ",
+            "code": "&#xfb68;",
+            "code_v3": "&#xfb68;",
+            "char_type": "word",
+            "translation": "from them"
+          },
+          {
+            "position": 3,
+            "line_number": 2,
+            "page_number": 523,
+            "text_madani": "فَمَا",
+            "code": "&#xfb69;",
+            "code_v3": "&#xfb69;",
+            "char_type": "word",
+            "translation": "for not"
+          },
+          {
+            "position": 4,
+            "line_number": 2,
+            "page_number": 523,
+            "text_madani": "أَنْتَ",
+            "code": "&#xfb6a;",
+            "code_v3": "&#xfb6a;",
+            "char_type": "word",
+            "translation": "you"
+          },
+          {
+            "position": 5,
+            "line_number": 3,
+            "page_number": 523,
+            "text_madani": "بِمَلُومٍ",
+            "code": "&#xfb6b;",
+            "code_v3": "&#xfb6b;",
+            "char_type": "word",
+            "translation": "(are) to be blamed"
+          },
+          {
+            "position": 6,
+            "line_number": 3,
+            "page_number": 523,
+            "text_madani": null,
+            "code": "&#xfb6c;",
+            "code_v3": "&#xa054;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 55,
+        "verse_key": "51:55",
+        "text_madani": "وَذَكِّرْ فَإِنَّ الذِّكْرَىٰ تَنفَعُ الْمُؤْمِنِينَ",
+        "translation": "And continue to remind, for surely the reminder profits the believers.",
+        "page_number": 523,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 3,
+            "page_number": 523,
+            "text_madani": "وَذَكِّرْ",
+            "code": "&#xfb6d;",
+            "code_v3": "&#xfb6d;",
+            "char_type": "word",
+            "translation": "And remind"
+          },
+          {
+            "position": 2,
+            "line_number": 3,
+            "page_number": 523,
+            "text_madani": "فَإِنَّ",
+            "code": "&#xfb6e;",
+            "code_v3": "&#xfb6e;",
+            "char_type": "word",
+            "translation": "for indeed"
+          },
+          {
+            "position": 3,
+            "line_number": 3,
+            "page_number": 523,
+            "text_madani": "الذِّكْرَىٰ",
+            "code": "&#xfb6f;",
+            "code_v3": "&#xfb6f;",
+            "char_type": "word",
+            "translation": "the reminder"
+          },
+          {
+            "position": 4,
+            "line_number": 3,
+            "page_number": 523,
+            "text_madani": "تَنْفَعُ",
+            "code": "&#xfb70;",
+            "code_v3": "&#xfb70;",
+            "char_type": "word",
+            "translation": "benefits"
+          },
+          {
+            "position": 5,
+            "line_number": 3,
+            "page_number": 523,
+            "text_madani": "الْمُؤْمِنِينَ",
+            "code": "&#xfb71;",
+            "code_v3": "&#xfb71;",
+            "char_type": "word",
+            "translation": "the believers"
+          },
+          {
+            "position": 6,
+            "line_number": 3,
+            "page_number": 523,
+            "text_madani": null,
+            "code": "&#xfb72;",
+            "code_v3": "&#xa055;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 56,
+        "verse_key": "51:56",
+        "text_madani": "وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ",
+        "translation": "And I have not created the jinn and the men except that they should serve Me.",
+        "page_number": 523,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 3,
+            "page_number": 523,
+            "text_madani": "وَمَا",
+            "code": "&#xfb73;",
+            "code_v3": "&#xfb73;",
+            "char_type": "word",
+            "translation": "And not"
+          },
+          {
+            "position": 2,
+            "line_number": 4,
+            "page_number": 523,
+            "text_madani": "خَلَقْتُ",
+            "code": "&#xfb74;",
+            "code_v3": "&#xfb74;",
+            "char_type": "word",
+            "translation": "I have created"
+          },
+          {
+            "position": 3,
+            "line_number": 4,
+            "page_number": 523,
+            "text_madani": "الْجِنَّ",
+            "code": "&#xfb75;",
+            "code_v3": "&#xfb75;",
+            "char_type": "word",
+            "translation": "the jinn"
+          },
+          {
+            "position": 4,
+            "line_number": 4,
+            "page_number": 523,
+            "text_madani": "وَالْإِنْسَ",
+            "code": "&#xfb76;",
+            "code_v3": "&#xfb76;",
+            "char_type": "word",
+            "translation": "and the mankind"
+          },
+          {
+            "position": 5,
+            "line_number": 4,
+            "page_number": 523,
+            "text_madani": "إِلَّا",
+            "code": "&#xfb77;",
+            "code_v3": "&#xfb77;",
+            "char_type": "word",
+            "translation": "except"
+          },
+          {
+            "position": 6,
+            "line_number": 4,
+            "page_number": 523,
+            "text_madani": "لِيَعْبُدُونِ",
+            "code": "&#xfb78;",
+            "code_v3": "&#xfb78;",
+            "char_type": "word",
+            "translation": "that they worship Me"
+          },
+          {
+            "position": 7,
+            "line_number": 4,
+            "page_number": 523,
+            "text_madani": null,
+            "code": "&#xfb79;",
+            "code_v3": "&#xa056;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 57,
+        "verse_key": "51:57",
+        "text_madani": "مَا أُرِيدُ مِنْهُم مِّن رِّزْقٍ وَمَا أُرِيدُ أَن يُطْعِمُونِ",
+        "translation": "I do not desire from them any sustenance and I do not desire that they should feed Me.",
+        "page_number": 523,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 4,
+            "page_number": 523,
+            "text_madani": "مَا",
+            "code": "&#xfb7a;",
+            "code_v3": "&#xfb7a;",
+            "char_type": "word",
+            "translation": "Not"
+          },
+          {
+            "position": 2,
+            "line_number": 4,
+            "page_number": 523,
+            "text_madani": "أُرِيدُ",
+            "code": "&#xfb7b;",
+            "code_v3": "&#xfb7b;",
+            "char_type": "word",
+            "translation": "I want"
+          },
+          {
+            "position": 3,
+            "line_number": 4,
+            "page_number": 523,
+            "text_madani": "مِنْهُمْ",
+            "code": "&#xfb7c;",
+            "code_v3": "&#xfb7c;",
+            "char_type": "word",
+            "translation": "from them"
+          },
+          {
+            "position": 4,
+            "line_number": 4,
+            "page_number": 523,
+            "text_madani": "مِنْ",
+            "code": "&#xfb7d;",
+            "code_v3": "&#xfb7d;",
+            "char_type": "word",
+            "translation": "any"
+          },
+          {
+            "position": 5,
+            "line_number": 4,
+            "page_number": 523,
+            "text_madani": "رِزْقٍ",
+            "code": "&#xfb7e;",
+            "code_v3": "&#xfb7e;",
+            "char_type": "word",
+            "translation": "provision"
+          },
+          {
+            "position": 6,
+            "line_number": 5,
+            "page_number": 523,
+            "text_madani": "وَمَا",
+            "code": "&#xfb7f;",
+            "code_v3": "&#xfb7f;",
+            "char_type": "word",
+            "translation": "and not"
+          },
+          {
+            "position": 7,
+            "line_number": 5,
+            "page_number": 523,
+            "text_madani": "أُرِيدُ",
+            "code": "&#xfb80;",
+            "code_v3": "&#xfb80;",
+            "char_type": "word",
+            "translation": "I want"
+          },
+          {
+            "position": 8,
+            "line_number": 5,
+            "page_number": 523,
+            "text_madani": "أَنْ",
+            "code": "&#xfb81;",
+            "code_v3": "&#xfb81;",
+            "char_type": "word",
+            "translation": "that"
+          },
+          {
+            "position": 9,
+            "line_number": 5,
+            "page_number": 523,
+            "text_madani": "يُطْعِمُونِ",
+            "code": "&#xfb82;",
+            "code_v3": "&#xfb82;",
+            "char_type": "word",
+            "translation": "they (should) feed Me"
+          },
+          {
+            "position": 10,
+            "line_number": 5,
+            "page_number": 523,
+            "text_madani": null,
+            "code": "&#xfb83;",
+            "code_v3": "&#xa057;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 58,
+        "verse_key": "51:58",
+        "text_madani": "إِنَّ اللَّهَ هُوَ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينُ",
+        "translation": "Surely Allah is the Bestower of sustenance, the Lord of Power, the Strong.",
+        "page_number": 523,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 5,
+            "page_number": 523,
+            "text_madani": "إِنَّ",
+            "code": "&#xfb84;",
+            "code_v3": "&#xfb84;",
+            "char_type": "word",
+            "translation": "Indeed"
+          },
+          {
+            "position": 2,
+            "line_number": 5,
+            "page_number": 523,
+            "text_madani": "اللَّهَ",
+            "code": "&#xfb85;",
+            "code_v3": "&#xfb85;",
+            "char_type": "word",
+            "translation": "Allah"
+          },
+          {
+            "position": 3,
+            "line_number": 5,
+            "page_number": 523,
+            "text_madani": "هُوَ",
+            "code": "&#xfb86;",
+            "code_v3": "&#xfb86;",
+            "char_type": "word",
+            "translation": "He"
+          },
+          {
+            "position": 4,
+            "line_number": 5,
+            "page_number": 523,
+            "text_madani": "الرَّزَّاقُ",
+            "code": "&#xfb87;",
+            "code_v3": "&#xfb87;",
+            "char_type": "word",
+            "translation": "(is) the All-Provider"
+          },
+          {
+            "position": 5,
+            "line_number": 5,
+            "page_number": 523,
+            "text_madani": "ذُو",
+            "code": "&#xfb88;",
+            "code_v3": "&#xfb88;",
+            "char_type": "word",
+            "translation": "Possessor"
+          },
+          {
+            "position": 6,
+            "line_number": 5,
+            "page_number": 523,
+            "text_madani": "الْقُوَّةِ",
+            "code": "&#xfb89;",
+            "code_v3": "&#xfb89;",
+            "char_type": "word",
+            "translation": "(of) Power"
+          },
+          {
+            "position": 7,
+            "line_number": 5,
+            "page_number": 523,
+            "text_madani": "الْمَتِينُ",
+            "code": "&#xfb8a;",
+            "code_v3": "&#xfb8a;",
+            "char_type": "word",
+            "translation": "the Strong"
+          },
+          {
+            "position": 8,
+            "line_number": 6,
+            "page_number": 523,
+            "text_madani": null,
+            "code": "&#xfb8b;",
+            "code_v3": "&#xa058;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 59,
+        "verse_key": "51:59",
+        "text_madani": "فَإِنَّ لِلَّذِينَ ظَلَمُوا ذَنُوبًا مِّثْلَ ذَنُوبِ أَصْحَابِهِمْ فَلَا يَسْتَعْجِلُونِ",
+        "translation": "So surely those who are unjust shall have a portion like the portion of their companions, therefore let them not ask Me to hasten on.",
+        "page_number": 523,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 6,
+            "page_number": 523,
+            "text_madani": "فَإِنَّ",
+            "code": "&#xfb8c;",
+            "code_v3": "&#xfb8c;",
+            "char_type": "word",
+            "translation": "So indeed"
+          },
+          {
+            "position": 2,
+            "line_number": 6,
+            "page_number": 523,
+            "text_madani": "لِلَّذِينَ",
+            "code": "&#xfb8d;",
+            "code_v3": "&#xfb8d;",
+            "char_type": "word",
+            "translation": "for those who"
+          },
+          {
+            "position": 3,
+            "line_number": 6,
+            "page_number": 523,
+            "text_madani": "ظَلَمُوا",
+            "code": "&#xfb8e;",
+            "code_v3": "&#xfb8e;",
+            "char_type": "word",
+            "translation": "do wrong"
+          },
+          {
+            "position": 4,
+            "line_number": 6,
+            "page_number": 523,
+            "text_madani": "ذَنُوبًا",
+            "code": "&#xfb8f;",
+            "code_v3": "&#xfb8f;",
+            "char_type": "word",
+            "translation": "(is) a portion"
+          },
+          {
+            "position": 5,
+            "line_number": 6,
+            "page_number": 523,
+            "text_madani": "مِثْلَ",
+            "code": "&#xfb90;",
+            "code_v3": "&#xfb90;",
+            "char_type": "word",
+            "translation": "like"
+          },
+          {
+            "position": 6,
+            "line_number": 6,
+            "page_number": 523,
+            "text_madani": "ذَنُوبِ",
+            "code": "&#xfb91;",
+            "code_v3": "&#xfb91;",
+            "char_type": "word",
+            "translation": "(the) portion"
+          },
+          {
+            "position": 7,
+            "line_number": 6,
+            "page_number": 523,
+            "text_madani": "أَصْحَابِهِمْ",
+            "code": "&#xfb92;",
+            "code_v3": "&#xfb92;",
+            "char_type": "word",
+            "translation": "(of) their companions"
+          },
+          {
+            "position": 8,
+            "line_number": 6,
+            "page_number": 523,
+            "text_madani": "فَلَا",
+            "code": "&#xfb93;",
+            "code_v3": "&#xfb93;",
+            "char_type": "word",
+            "translation": "so let them not ask Me to hasten"
+          },
+          {
+            "position": 9,
+            "line_number": 6,
+            "page_number": 523,
+            "text_madani": "يَسْتَعْجِلُونِ",
+            "code": "&#xfb94;",
+            "code_v3": "&#xfb94;",
+            "char_type": "word",
+            "translation": "so let them not ask Me to hasten"
+          },
+          {
+            "position": 10,
+            "line_number": 7,
+            "page_number": 523,
+            "text_madani": null,
+            "code": "&#xfb95;",
+            "code_v3": "&#xa059;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 60,
+        "verse_key": "51:60",
+        "text_madani": "فَوَيْلٌ لِّلَّذِينَ كَفَرُوا مِن يَوْمِهِمُ الَّذِي يُوعَدُونَ",
+        "translation": "Therefore woe to those who disbelieve because of their day which they are threatened with.",
+        "page_number": 523,
+        "juz_number": 27,
+        "hizb_number": 53,
+        "rub_number": 209,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 7,
+            "page_number": 523,
+            "text_madani": "فَوَيْلٌ",
+            "code": "&#xfb96;",
+            "code_v3": "&#xfb96;",
+            "char_type": "word",
+            "translation": "Then woe"
+          },
+          {
+            "position": 2,
+            "line_number": 7,
+            "page_number": 523,
+            "text_madani": "لِلَّذِينَ",
+            "code": "&#xfb97;",
+            "code_v3": "&#xfb97;",
+            "char_type": "word",
+            "translation": "to those who"
+          },
+          {
+            "position": 3,
+            "line_number": 7,
+            "page_number": 523,
+            "text_madani": "كَفَرُوا",
+            "code": "&#xfb98;",
+            "code_v3": "&#xfb98;",
+            "char_type": "word",
+            "translation": "disbelieve"
+          },
+          {
+            "position": 4,
+            "line_number": 7,
+            "page_number": 523,
+            "text_madani": "مِنْ",
+            "code": "&#xfb99;",
+            "code_v3": "&#xfb99;",
+            "char_type": "word",
+            "translation": "from"
+          },
+          {
+            "position": 5,
+            "line_number": 7,
+            "page_number": 523,
+            "text_madani": "يَوْمِهِمُ",
+            "code": "&#xfb9a;",
+            "code_v3": "&#xfb9a;",
+            "char_type": "word",
+            "translation": "their Day"
+          },
+          {
+            "position": 6,
+            "line_number": 7,
+            "page_number": 523,
+            "text_madani": "الَّذِي",
+            "code": "&#xfb9b;",
+            "code_v3": "&#xfb9b;",
+            "char_type": "word",
+            "translation": "which"
+          },
+          {
+            "position": 7,
+            "line_number": 7,
+            "page_number": 523,
+            "text_madani": "يُوعَدُونَ",
+            "code": "&#xfb9c;",
+            "code_v3": "&#xfb9c;",
+            "char_type": "word",
+            "translation": "they are promised"
+          },
+          {
+            "position": 8,
+            "line_number": 7,
+            "page_number": 523,
+            "text_madani": null,
+            "code": "&#xfb9d;",
+            "code_v3": "&#xa060;",
+            "char_type": "end",
+            "translation": null
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "chapters": {
+    "chapter_number": 1,
+    "bismillah_pre": false,
+    "revelation_order": 5,
+    "revelation_place": "makkah",
+    "name_arabic": "الفاتحة",
+    "name_complex": "Al-Fātiĥah",
+    "name_simple": "Al-Fatihah",
+    "verses_count": 7,
+    "pages": [
+      1,
+      1
+    ],
+    "meaning": {
+      "text": "The Opening",
+      "en": "The Opening",
+      "id": "The Opening"
+    },
+    "verses": [
+      {
+        "verse_number": 1,
+        "verse_key": "1:1",
+        "text_madani": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "translation": "In the name of Allah, the Beneficent, the Merciful.",
+        "page_number": 1,
+        "juz_number": 1,
+        "hizb_number": 1,
+        "rub_number": 1,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 2,
+            "page_number": 1,
+            "text_madani": "بِسْمِ",
+            "translation": "In (the) name"
+          },
+          {
+            "position": 2,
+            "line_number": 2,
+            "page_number": 1,
+            "text_madani": "اللَّهِ",
+            "translation": "(of) Allah"
+          },
+          {
+            "position": 3,
+            "line_number": 2,
+            "page_number": 1,
+            "text_madani": "الرَّحْمَٰنِ",
+            "translation": "the Most Gracious"
+          },
+          {
+            "position": 4,
+            "line_number": 2,
+            "page_number": 1,
+            "text_madani": "الرَّحِيمِ",
+            "translation": "the Most Merciful"
+          },
+          {
+            "position": 5,
+            "line_number": 2,
+            "page_number": 1,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 2,
+        "verse_key": "1:2",
+        "text_madani": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+        "translation": "All praise is due to Allah, the Lord of the Worlds.",
+        "page_number": 1,
+        "juz_number": 1,
+        "hizb_number": 1,
+        "rub_number": 1,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 3,
+            "page_number": 1,
+            "text_madani": "الْحَمْدُ",
+            "translation": "All praises and thanks"
+          },
+          {
+            "position": 2,
+            "line_number": 3,
+            "page_number": 1,
+            "text_madani": "لِلَّهِ",
+            "translation": "(be) to Allah"
+          },
+          {
+            "position": 3,
+            "line_number": 3,
+            "page_number": 1,
+            "text_madani": "رَبِّ",
+            "translation": "(the) Lord"
+          },
+          {
+            "position": 4,
+            "line_number": 3,
+            "page_number": 1,
+            "text_madani": "الْعَالَمِينَ",
+            "translation": "(of all) the worlds"
+          },
+          {
+            "position": 5,
+            "line_number": 3,
+            "page_number": 1,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 3,
+        "verse_key": "1:3",
+        "text_madani": "الرَّحْمَٰنِ الرَّحِيمِ",
+        "translation": "The Beneficent, the Merciful.",
+        "page_number": 1,
+        "juz_number": 1,
+        "hizb_number": 1,
+        "rub_number": 1,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 4,
+            "page_number": 1,
+            "text_madani": "الرَّحْمَٰنِ",
+            "translation": "The Most Gracious"
+          },
+          {
+            "position": 2,
+            "line_number": 4,
+            "page_number": 1,
+            "text_madani": "الرَّحِيمِ",
+            "translation": "the Most Merciful"
+          },
+          {
+            "position": 3,
+            "line_number": 4,
+            "page_number": 1,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 4,
+        "verse_key": "1:4",
+        "text_madani": "مَالِكِ يَوْمِ الدِّينِ",
+        "translation": "Master of the Day of Judgment.",
+        "page_number": 1,
+        "juz_number": 1,
+        "hizb_number": 1,
+        "rub_number": 1,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 4,
+            "page_number": 1,
+            "text_madani": "مَالِكِ",
+            "translation": "Master"
+          },
+          {
+            "position": 2,
+            "line_number": 4,
+            "page_number": 1,
+            "text_madani": "يَوْمِ",
+            "translation": "(of the) Day"
+          },
+          {
+            "position": 3,
+            "line_number": 4,
+            "page_number": 1,
+            "text_madani": "الدِّينِ",
+            "translation": "(of) [the] Judgment"
+          },
+          {
+            "position": 4,
+            "line_number": 4,
+            "page_number": 1,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 5,
+        "verse_key": "1:5",
+        "text_madani": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+        "translation": "Thee do we serve and Thee do we beseech for help.",
+        "page_number": 1,
+        "juz_number": 1,
+        "hizb_number": 1,
+        "rub_number": 1,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 5,
+            "page_number": 1,
+            "text_madani": "إِيَّاكَ",
+            "translation": "You Alone"
+          },
+          {
+            "position": 2,
+            "line_number": 5,
+            "page_number": 1,
+            "text_madani": "نَعْبُدُ",
+            "translation": "we worship"
+          },
+          {
+            "position": 3,
+            "line_number": 5,
+            "page_number": 1,
+            "text_madani": "وَإِيَّاكَ",
+            "translation": "and You Alone"
+          },
+          {
+            "position": 4,
+            "line_number": 5,
+            "page_number": 1,
+            "text_madani": "نَسْتَعِينُ",
+            "translation": "we ask for help"
+          },
+          {
+            "position": 5,
+            "line_number": 5,
+            "page_number": 1,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 6,
+        "verse_key": "1:6",
+        "text_madani": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+        "translation": "Keep us on the right path.",
+        "page_number": 1,
+        "juz_number": 1,
+        "hizb_number": 1,
+        "rub_number": 1,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 5,
+            "page_number": 1,
+            "text_madani": "اهْدِنَا",
+            "translation": "Guide us"
+          },
+          {
+            "position": 2,
+            "line_number": 6,
+            "page_number": 1,
+            "text_madani": "الصِّرَاطَ",
+            "translation": "(to) the path"
+          },
+          {
+            "position": 3,
+            "line_number": 6,
+            "page_number": 1,
+            "text_madani": "الْمُسْتَقِيمَ",
+            "translation": "the straight"
+          },
+          {
+            "position": 4,
+            "line_number": 6,
+            "page_number": 1,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      },
+      {
+        "verse_number": 7,
+        "verse_key": "1:7",
+        "text_madani": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+        "translation": "The path of those upon whom Thou hast bestowed favors. Not (the path) of those upon whom Thy wrath is brought down, nor of those who go astray.",
+        "page_number": 1,
+        "juz_number": 1,
+        "hizb_number": 1,
+        "rub_number": 1,
+        "sajdah": null,
+        "sajdah_number": null,
+        "words": [
+          {
+            "position": 1,
+            "line_number": 6,
+            "page_number": 1,
+            "text_madani": "صِرَاطَ",
+            "translation": "(The) path"
+          },
+          {
+            "position": 2,
+            "line_number": 6,
+            "page_number": 1,
+            "text_madani": "الَّذِينَ",
+            "translation": "(of) those"
+          },
+          {
+            "position": 3,
+            "line_number": 6,
+            "page_number": 1,
+            "text_madani": "أَنْعَمْتَ",
+            "translation": "You have bestowed (Your) Favors"
+          },
+          {
+            "position": 4,
+            "line_number": 7,
+            "page_number": 1,
+            "text_madani": "عَلَيْهِمْ",
+            "translation": "on them"
+          },
+          {
+            "position": 5,
+            "line_number": 7,
+            "page_number": 1,
+            "text_madani": "غَيْرِ",
+            "translation": "not (of)"
+          },
+          {
+            "position": 6,
+            "line_number": 7,
+            "page_number": 1,
+            "text_madani": "الْمَغْضُوبِ",
+            "translation": "those who earned (Your) wrath"
+          },
+          {
+            "position": 7,
+            "line_number": 7,
+            "page_number": 1,
+            "text_madani": "عَلَيْهِمْ",
+            "translation": "on themselves"
+          },
+          {
+            "position": 8,
+            "line_number": 8,
+            "page_number": 1,
+            "text_madani": "وَلَا",
+            "translation": "and not"
+          },
+          {
+            "position": 9,
+            "line_number": 8,
+            "page_number": 1,
+            "text_madani": "الضَّالِّينَ",
+            "translation": "(of) those who go astray"
+          },
+          {
+            "position": 10,
+            "line_number": 8,
+            "page_number": 1,
+            "text_madani": null,
+            "translation": null
+          }
+        ]
+      }
+    ]
+  }
+}
