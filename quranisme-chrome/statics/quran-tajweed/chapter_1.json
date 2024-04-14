@@ -1,0 +1,51 @@
+{
+  "chapters": {
+    "chapter_number": 1,
+    "bismillah_pre": false,
+    "revelation_order": 5,
+    "revelation_place": "makkah",
+    "name_arabic": "الفاتحة",
+    "name_complex": "Al-Fātiĥah",
+    "name_simple": "Al-Fatihah",
+    "verses_count": 7,
+    "pages": [
+      1,
+      1
+    ],
+    "meaning": {
+      "text": "The Opening",
+      "en": "The Opening",
+      "id": "Pembukaan"
+    },
+    "verses": [
+      {
+        "verse_number": 1,
+        "text_tajweed": "بِسْمِ [h:1[ٱ]للَّهِ [h:2[ٱ][l[ل]رَّحْمَ[n[ـٰ]نِ [h:3[ٱ][l[ل]رَّح[p[ِي]مِ"
+      },
+      {
+        "verse_number": 2,
+        "text_tajweed": "ٱلْحَمْدُ لِلَّهِ رَبِّ [h:4[ٱ]لْعَ[n[ـٰ]لَم[p[ِي]نَ"
+      },
+      {
+        "verse_number": 3,
+        "text_tajweed": "ٱ[l[ل]رَّحْمَ[n[ـٰ]نِ [h:3[ٱ][l[ل]رَّح[p[ِي]مِ"
+      },
+      {
+        "verse_number": 4,
+        "text_tajweed": "مَ[n[ـٰ]لِكِ يَوْمِ [h:5[ٱ][l[ل]دّ[p[ِي]نِ"
+      },
+      {
+        "verse_number": 5,
+        "text_tajweed": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَع[p[ِي]نُ"
+      },
+      {
+        "verse_number": 6,
+        "text_tajweed": "ٱهْدِنَا [h:6[ٱ][l[ل]صِّر[n[َٲ]طَ [h:7[ٱ]لْمُسْتَق[p[ِي]مَ"
+      },
+      {
+        "verse_number": 7,
+        "text_tajweed": "صِر[n[َٲ]طَ [h:8[ٱ]لَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ [h:9[ٱ]لْمَغْضُوبِ عَلَيْهِمْ وَلَا [h:10[ٱ][l[ل]ضّ[m[َا]ٓلّ[p[ِي]نَ"
+      }
+    ]
+  }
+}

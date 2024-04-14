@@ -1,0 +1,62 @@
+{
+  "chapter_number": 1,
+  "name_simple": "Al-Fatihah",
+  "name_meaning": {
+    "text": "The Opening",
+    "en": "The Opening",
+    "id": "Pembukaan"
+  },
+  "verses_count": 7,
+  "hasanah": 1430,
+  "verses": [
+    {
+      "text_madani": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "text_tajweed": "بِسْمِ [h:1[ٱ]للَّهِ [h:2[ٱ][l[ل]رَّحْمَ[n[ـٰ]نِ [h:3[ٱ][l[ل]رَّح[p[ِي]مِ",
+      "translation_en": "In the name of Allah, the Beneficent, the Merciful.",
+      "translation_id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang",
+      "hasanah_per_verse": 190
+    },
+    {
+      "text_madani": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "text_tajweed": "ٱلْحَمْدُ لِلَّهِ رَبِّ [h:4[ٱ]لْعَ[n[ـٰ]لَم[p[ِي]نَ",
+      "translation_en": "All praise is due to Allah, the Lord of the Worlds.",
+      "translation_id": "Segala puji bagi Allah, Tuhan seluruh alam,",
+      "hasanah_per_verse": 180
+    },
+    {
+      "text_madani": "الرَّحْمَٰنِ الرَّحِيمِ",
+      "text_tajweed": "ٱ[l[ل]رَّحْمَ[n[ـٰ]نِ [h:3[ٱ][l[ل]رَّح[p[ِي]مِ",
+      "translation_en": "The Beneficent, the Merciful.",
+      "translation_id": "Yang Maha Pengasih, Maha Penyayang,",
+      "hasanah_per_verse": 120
+    },
+    {
+      "text_madani": "مَالِكِ يَوْمِ الدِّينِ",
+      "text_tajweed": "مَ[n[ـٰ]لِكِ يَوْمِ [h:5[ٱ][l[ل]دّ[p[ِي]نِ",
+      "translation_en": "Master of the Day of Judgment.",
+      "translation_id": "Pemilik hari pembalasan.",
+      "hasanah_per_verse": 120
+    },
+    {
+      "text_madani": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+      "text_tajweed": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَع[p[ِي]نُ",
+      "translation_en": "Thee do we serve and Thee do we beseech for help.",
+      "translation_id": "Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami mohon pertolongan.",
+      "hasanah_per_verse": 190
+    },
+    {
+      "text_madani": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+      "text_tajweed": "ٱهْدِنَا [h:6[ٱ][l[ل]صِّر[n[َٲ]طَ [h:7[ٱ]لْمُسْتَق[p[ِي]مَ",
+      "translation_en": "Keep us on the right path.",
+      "translation_id": "Tunjukilah kami jalan yang lurus",
+      "hasanah_per_verse": 190
+    },
+    {
+      "text_madani": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+      "text_tajweed": "صِر[n[َٲ]طَ [h:8[ٱ]لَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ [h:9[ٱ]لْمَغْضُوبِ عَلَيْهِمْ وَلَا [h:10[ٱ][l[ل]ضّ[m[َا]ٓلّ[p[ِي]نَ",
+      "translation_en": "The path of those upon whom Thou hast bestowed favors. Not (the path) of those upon whom Thy wrath is brought down, nor of those who go astray.",
+      "translation_id": "(yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat.",
+      "hasanah_per_verse": 440
+    }
+  ]
+}

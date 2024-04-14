@@ -1,0 +1,472 @@
+{
+  "radios": [
+    {
+      "name": "-പൊതു റേഡിയോ-",
+      "radio_url": "http://live.mp3quran.net:8006/;"
+    },
+    {
+      "name": "-ഭക്തി നിർഭരമായ പാരായണം-",
+      "radio_url": "http://live.mp3quran.net:9992/;"
+    },
+    {
+      "name": "-സൂറ അൽ-ബഖറ - അനേകം പാരായകർ-",
+      "radio_url": "http://live.mp3quran.net:9722/;"
+    },
+    {
+      "name": "EID's TAKBEER",
+      "radio_url": "http://live.mp3quran.net:9728/;"
+    },
+    {
+      "name": "Hitham Aljadani",
+      "radio_url": "http://live.mp3quran.net:9714/;"
+    },
+    {
+      "name": "Nasser Almajed",
+      "radio_url": "http://live.mp3quran.net:9712/;"
+    },
+    {
+      "name": "അക് റം അല് അല്ലാഖീ",
+      "radio_url": "http://live.mp3quran.net:9918/;"
+    },
+    {
+      "name": "അദ്ദൌകാലീ മുഹമ്മദ് ആലം",
+      "radio_url": "http://live.mp3quran.net:9916/;"
+    },
+    {
+      "name": "അബൂബക്കര് അഷാതിരീ ",
+      "radio_url": "http://live.mp3quran.net:9966/;"
+    },
+    {
+      "name": "അബ്ദു റഷീദ് സൂഫി",
+      "radio_url": "http://live.mp3quran.net:9864/;"
+    },
+    {
+      "name": "അബ്ദു റഷീദ് സൂഫി",
+      "radio_url": "http://live.mp3quran.net:9866/;"
+    },
+    {
+      "name": "അബ്ദു റഹ് മാന് അസുദേസ്",
+      "radio_url": "http://live.mp3quran.net:9988/;"
+    },
+    {
+      "name": "അബ്ദു റഹ്‌മാൻ അൽ മാജിദ്",
+      "radio_url": "http://live.mp3quran.net:9726/;"
+    },
+    {
+      "name": "അബ്ദുല് അസീസ് അല് അഹ്മദ്",
+      "radio_url": "http://live.mp3quran.net:9862/;"
+    },
+    {
+      "name": "അബ്ദുല് ബാരി അല്സുബൈതീ",
+      "radio_url": "http://live.mp3quran.net:9870/;"
+    },
+    {
+      "name": "അബ്ദുല് ബാരി മുഹമ്മദ്",
+      "radio_url": "http://live.mp3quran.net:9868/;"
+    },
+    {
+      "name": "അബ്ദുല് ബാസിത്ത് അബ്ദു സമദ്",
+      "radio_url": "http://live.mp3quran.net:9956/;"
+    },
+    {
+      "name": "അബ്ദുല് ബാസിത്ത് അബ്ദു സമദ്",
+      "radio_url": "http://live.mp3quran.net:9980/;"
+    },
+    {
+      "name": "അബ്ദുല് ബാസിത്ത് അബ്ദു സമദ്",
+      "radio_url": "http://live.mp3quran.net:9974/;"
+    },
+    {
+      "name": "അബ്ദുല് മുഹ്സിന് അല് ഒബേകാന്",
+      "radio_url": "http://live.mp3quran.net:9854/;"
+    },
+    {
+      "name": "അബ്ദുല് മുഹ്സിന് അല് കാസിം",
+      "radio_url": "http://live.mp3quran.net:9852/;"
+    },
+    {
+      "name": "അബ്ദുല് മുഹ്സിന് അല് ഹാരിസി",
+      "radio_url": "http://live.mp3quran.net:9856/;"
+    },
+    {
+      "name": "അബ്ദുല് വദൂദ് ഹനീഫ്",
+      "radio_url": "http://live.mp3quran.net:9848/;"
+    },
+    {
+      "name": "അബ്ദുല് ഹാദി അഹ്മദ് കനാകരി",
+      "radio_url": "http://live.mp3quran.net:9850/;"
+    },
+    {
+      "name": "അബ്ദുല്ല അല് കന്ദറീ",
+      "radio_url": "http://live.mp3quran.net:9860/;"
+    },
+    {
+      "name": "അബ്ദുല്ല അല് ഖയ്യാത്ത്",
+      "radio_url": "http://live.mp3quran.net:9948/;"
+    },
+    {
+      "name": "അബ്ദുല്ല അല് ബസ്ഫര്",
+      "radio_url": "http://live.mp3quran.net:9954/;"
+    },
+    {
+      "name": "അബ്ദുല്ല അല് മത് റൂദ്",
+      "radio_url": "http://live.mp3quran.net:9858/;"
+    },
+    {
+      "name": "അബ്ദുല്ല അവദ് അല് ജുഹനി",
+      "radio_url": "http://live.mp3quran.net:9944/;"
+    },
+    {
+      "name": "അലി അല് ഹനീഫീ",
+      "radio_url": "http://live.mp3quran.net:9846/;"
+    },
+    {
+      "name": "അലി ജാബിര്",
+      "radio_url": "http://live.mp3quran.net:9964/;"
+    },
+    {
+      "name": "അലി ബ്നു അബ്ദു റഹ്മാന് അല് ഹനീഫീ",
+      "radio_url": "http://live.mp3quran.net:9844/;"
+    },
+    {
+      "name": "അലി ഹജ്ജാജ് അസുവൈസി",
+      "radio_url": "http://live.mp3quran.net:9842/;"
+    },
+    {
+      "name": "അല് ഉയൂന് അല് കൂഷീ",
+      "radio_url": "http://live.mp3quran.net:9912/;"
+    },
+    {
+      "name": "അല് ഖാരീ യാസീന്",
+      "radio_url": "http://live.mp3quran.net:9908/;"
+    },
+    {
+      "name": "അസ്സീന് മുഹമ്മദ് അഹ് മദ്",
+      "radio_url": "http://live.mp3quran.net:9914/;"
+    },
+    {
+      "name": "അഹ് മദ് അലി അല് അജമി",
+      "radio_url": "http://live.mp3quran.net:8008/;"
+    },
+    {
+      "name": "അഹ് മദ് നുഐനിഅ്",
+      "radio_url": "http://live.mp3quran.net:9904/;"
+    },
+    {
+      "name": "അഹ് മദ് സ്വാബിര്",
+      "radio_url": "http://live.mp3quran.net:9922/;"
+    },
+    {
+      "name": "അഹ്മദ് അല് ഹുവാഷി",
+      "radio_url": "http://live.mp3quran.net:9928/;"
+    },
+    {
+      "name": "അഹ്മദ് ആമിര്",
+      "radio_url": "http://live.mp3quran.net:9920/;"
+    },
+    {
+      "name": "അഹ്മദ് ഖുളര് അത്വറാബല്സീ",
+      "radio_url": "http://live.mp3quran.net:9924/;"
+    },
+    {
+      "name": "അഹ്മദ് ത്വറാബല്സീ",
+      "radio_url": "http://live.mp3quran.net:9926/;"
+    },
+    {
+      "name": "അൽ ഫതാവാ റേഡിയോ",
+      "radio_url": "http://live.mp3quran.net:8014/;"
+    },
+    {
+      "name": "ആദില് കല്ബാനി",
+      "radio_url": "http://live.mp3quran.net:9874/;"
+    },
+    {
+      "name": "ആദില് റയ്യാന്",
+      "radio_url": "http://live.mp3quran.net:9872/;"
+    },
+    {
+      "name": "ഇബ്റാഹീം അദ്ദൌസരീ",
+      "radio_url": "http://live.mp3quran.net:9902/;"
+    },
+    {
+      "name": "ഇബ്റാഹീം അബ്കര്",
+      "radio_url": "http://live.mp3quran.net:9968/;"
+    },
+    {
+      "name": "ഇബ്റാഹീം അല് അഖ്ളര്",
+      "radio_url": "http://live.mp3quran.net:9946/;"
+    },
+    {
+      "name": "ഇമാദ് സുഹൈര് ഹാഫിള്",
+      "radio_url": "http://live.mp3quran.net:9840/;"
+    },
+    {
+      "name": "ഉമര് അല് ഖസാബിരീ",
+      "radio_url": "http://live.mp3quran.net:9838/;"
+    },
+    {
+      "name": "ഖലീഫത്തുല് ത്വുനൈഈ",
+      "radio_url": "http://live.mp3quran.net:9892/;"
+    },
+    {
+      "name": "ഖാലിദ് അബ്ദുല് കാഫി",
+      "radio_url": "http://live.mp3quran.net:9894/;"
+    },
+    {
+      "name": "ഖാലിദ് അല് ഖഹ്ത്വാനി",
+      "radio_url": "http://live.mp3quran.net:9970/;"
+    },
+    {
+      "name": "ഖാലിദ് അല് ജലീല്",
+      "radio_url": "http://live.mp3quran.net:9708/;"
+    },
+    {
+      "name": "ഖാലിദ് അല് മുഹന്ന",
+      "radio_url": "http://live.mp3quran.net:9896/;"
+    },
+    {
+      "name": "ജംആന് അല് ഉസൈമീ",
+      "radio_url": "http://live.mp3quran.net:9950/;"
+    },
+    {
+      "name": "ജമാല് ഷാകിര് അബ്ദുള്ളാ",
+      "radio_url": "http://live.mp3quran.net:9900/;"
+    },
+    {
+      "name": "തൌഫീഖ് അസ്സ്വാഇഅ് ",
+      "radio_url": "http://live.mp3quran.net:9906/;"
+    },
+    {
+      "name": "ത്വാരിഖ് അബ്ദുല് ഗനി ദഊബ്",
+      "radio_url": "http://live.mp3quran.net:9876/;"
+    },
+    {
+      "name": "നബീല് റിഫാഈ",
+      "radio_url": "http://live.mp3quran.net:9784/;"
+    },
+    {
+      "name": "നിഹമ ഹസ്സാന്",
+      "radio_url": "http://live.mp3quran.net:9782/;"
+    },
+    {
+      "name": "ഫാതിഹ് മുഹമ്മദ് സുബൈര്",
+      "radio_url": "http://live.mp3quran.net:9910/;"
+    },
+    {
+      "name": "ഫാരിസ് ഉബാദ്",
+      "radio_url": "http://live.mp3quran.net:9972/;"
+    },
+    {
+      "name": "മഷാരീ അഫാസി",
+      "radio_url": "http://live.mp3quran.net:8010/;"
+    },
+    {
+      "name": "മഹമൂദ് അലീ ബന്ന",
+      "radio_url": "http://live.mp3quran.net:9810/;"
+    },
+    {
+      "name": "മഹമൂദ് അലീ ബന്ന",
+      "radio_url": "http://live.mp3quran.net:9808/;"
+    },
+    {
+      "name": "മഹമൂദ് ഖലീല് അല് ഹസ്വ് രീ",
+      "radio_url": "http://live.mp3quran.net:9804/;"
+    },
+    {
+      "name": "മഹമൂദ് ഖലീല് അല് ഹസ്വ് രീ",
+      "radio_url": "http://live.mp3quran.net:9958/;"
+    },
+    {
+      "name": "മഹമൂദ് ഖലീല് അല് ഹസ്വ് രീ",
+      "radio_url": "http://live.mp3quran.net:9806/;"
+    },
+    {
+      "name": "മഹമൂദ് റിഫാഈ",
+      "radio_url": "http://live.mp3quran.net:9818/;"
+    },
+    {
+      "name": "മഹമൂദ് ശൈമീ",
+      "radio_url": "http://live.mp3quran.net:9812/;"
+    },
+    {
+      "name": "മാഹിര് മുഐഖിലി",
+      "radio_url": "http://live.mp3quran.net:8002/;"
+    },
+    {
+      "name": "മാഹിര് ഷഖാശീരീ",
+      "radio_url": "http://live.mp3quran.net:9836/;"
+    },
+    {
+      "name": "മിഫ്താഹ് അല് സ്വല്ത്വനീ",
+      "radio_url": "http://live.mp3quran.net:9792/;"
+    },
+    {
+      "name": "മിഫ്താഹ് അല് സ്വല്ത്വനീ",
+      "radio_url": "http://live.mp3quran.net:9794/;"
+    },
+    {
+      "name": "മിഫ്താഹ് അല് സ്വല്ത്വനീ",
+      "radio_url": "http://live.mp3quran.net:9790/;"
+    },
+    {
+      "name": "മിഫ്താഹ് അല് സ്വല്ത്വനീ",
+      "radio_url": "http://live.mp3quran.net:9788/;"
+    },
+    {
+      "name": "മുഈള് അല് ഹരിസീ",
+      "radio_url": "http://live.mp3quran.net:9802/;"
+    },
+    {
+      "name": "മുസ്തഫ ഇസ്മാഈല്",
+      "radio_url": "http://live.mp3quran.net:9800/;"
+    },
+    {
+      "name": "മുസ്തഫ റഗദ് അല് ഗാവീ",
+      "radio_url": "http://live.mp3quran.net:9796/;"
+    },
+    {
+      "name": "മുസ്തഫ ലാഹനീ",
+      "radio_url": "http://live.mp3quran.net:9798/;"
+    },
+    {
+      "name": "മുഹമമദ് അബ്ദുല് കരീം",
+      "radio_url": "http://live.mp3quran.net:9824/;"
+    },
+    {
+      "name": "മുഹമമദ് അബ്ദുല് കരീം",
+      "radio_url": "http://live.mp3quran.net:9822/;"
+    },
+    {
+      "name": "മുഹമ്മദ് അബദുല് ഹകീം സഈദ് അല് അബ്ദുല്ല",
+      "radio_url": "http://live.mp3quran.net:9816/;"
+    },
+    {
+      "name": "മുഹമ്മദ് അബദുല് ഹകീം സഈദ് അല് അബ്ദുല്ല",
+      "radio_url": "http://live.mp3quran.net:9814/;"
+    },
+    {
+      "name": "മുഹമ്മദ് അയ്യൂബ്",
+      "radio_url": "http://live.mp3quran.net:9960/;"
+    },
+    {
+      "name": "മുഹമ്മദ് അല് ഹൈദാന്",
+      "radio_url": "http://live.mp3quran.net:9832/;"
+    },
+    {
+      "name": "മുഹമ്മദ് ഉസ്മാന്ഖാന്",
+      "radio_url": "http://live.mp3quran.net:9820/;"
+    },
+    {
+      "name": "മുഹമ്മദ് ജിബ്രീല് ",
+      "radio_url": "http://live.mp3quran.net:9962/;"
+    },
+    {
+      "name": "മുഹമ്മദ് ത്വബ്ലാവീ",
+      "radio_url": "http://live.mp3quran.net:9834/;"
+    },
+    {
+      "name": "മുഹമ്മദ് റഷാദ് ഷരീഫ്",
+      "radio_url": "http://live.mp3quran.net:9830/;"
+    },
+    {
+      "name": "മുഹമ്മദ് സിദ്ദീഖ് അല് മിന്ഷാവീ",
+      "radio_url": "http://live.mp3quran.net:9978/;"
+    },
+    {
+      "name": "മുഹമ്മദ് സിദ്ദീഖ് അല് മിന്ഷാവീ",
+      "radio_url": "http://live.mp3quran.net:9826/;"
+    },
+    {
+      "name": "മുഹമ്മദ് സ്വാലിഹ് ആലം ഷാ",
+      "radio_url": "http://live.mp3quran.net:9828/;"
+    },
+    {
+      "name": "മൂസാ അല് ഖത്താമി",
+      "radio_url": "http://live.mp3quran.net:9994/;"
+    },
+    {
+      "name": "മൂസാ ബിലാല്",
+      "radio_url": "http://live.mp3quran.net:9786/;"
+    },
+    {
+      "name": "യഹ് യാ ഹവ്വ",
+      "radio_url": "http://live.mp3quran.net:9772/;"
+    },
+    {
+      "name": "യാസര് ഖുറഷീ",
+      "radio_url": "http://live.mp3quran.net:9776/;"
+    },
+    {
+      "name": "യാസര് ദൌസരീ",
+      "radio_url": "http://live.mp3quran.net:9984/;"
+    },
+    {
+      "name": "യാസര് മസ്റൂഈ",
+      "radio_url": "http://live.mp3quran.net:9774/;"
+    },
+    {
+      "name": "യൂസുഫ് ബ്ന് നൂഹ് അഹ്മദ്",
+      "radio_url": "http://live.mp3quran.net:9768/;"
+    },
+    {
+      "name": "യൂസുഫ് ഷുവൈഈ",
+      "radio_url": "http://live.mp3quran.net:9770/;"
+    },
+    {
+      "name": "റുഖിയ ശറഇയ്യ റേഡിയോ",
+      "radio_url": "http://live.mp3quran.net:9936/;"
+    },
+    {
+      "name": "വലീദ് അന്നാഇഹീ",
+      "radio_url": "http://live.mp3quran.net:9778/;"
+    },
+    {
+      "name": "ഷീര്സാദ് അബ്ദു റഹ്മാന് ത്വാഹിര്",
+      "radio_url": "http://live.mp3quran.net:9884/;"
+    },
+    {
+      "name": "സഅദ് അല് ഗാംദീ",
+      "radio_url": "http://live.mp3quran.net:8004/;"
+    },
+    {
+      "name": "സഊദ് ശുറൈം",
+      "radio_url": "http://live.mp3quran.net:9986/;"
+    },
+    {
+      "name": "സകീ ദഗസ്താനി",
+      "radio_url": "http://live.mp3quran.net:9890/;"
+    },
+    {
+      "name": "സയ്യിദ് റമദാന്",
+      "radio_url": "http://live.mp3quran.net:9886/;"
+    },
+    {
+      "name": "സഹല് യാസീന്",
+      "radio_url": "http://live.mp3quran.net:9888/;"
+    },
+    {
+      "name": "സ്വലാഹ് അല് ബുദൈര്",
+      "radio_url": "http://live.mp3quran.net:9882/;"
+    },
+    {
+      "name": "സ്വലാഹ് അല് ഹാഷിം ",
+      "radio_url": "http://live.mp3quran.net:9880/;"
+    },
+    {
+      "name": "സ്വലാഹ് ഖാത്വിര്",
+      "radio_url": "http://live.mp3quran.net:9878/;"
+    },
+    {
+      "name": "സ്വാബിര് അബ്ദുല് ഹകം",
+      "radio_url": "http://live.mp3quran.net:9952/;"
+    },
+    {
+      "name": "ഹനീ റിഫാഈ",
+      "radio_url": "http://live.mp3quran.net:9780/;"
+    },
+    {
+      "name": "ഹാതിം ഫരീദ് അല് വാഇറ്",
+      "radio_url": "http://live.mp3quran.net:9898/;"
+    }
+  ]
+}

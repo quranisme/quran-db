@@ -1,0 +1,1346 @@
+[
+    {
+      "image": {
+        "id": 287,
+        "created_at": "2023-06-14T09:17:20.565Z",
+        "updated_at": "2023-06-14T09:17:20.791Z",
+        "folder": "uploads/images/yasser-al-dosari",
+        "original_url": "https://api2.quran-pro.com/images/yasser-al-dosari/yasser-al-dosari.png?version=1686734240565",
+        "optimized_url": "https://api2.quran-pro.com/images/yasser-al-dosari/yasser-al-dosari-optimized.webp?version=1686734240565",
+        "medium_url": "https://api2.quran-pro.com/images/yasser-al-dosari/yasser-al-dosari-medium.webp?version=1686734240565",
+        "small_url": "https://api2.quran-pro.com/images/yasser-al-dosari/yasser-al-dosari-small.webp?version=1686734240565"
+      },
+      "slug": "yasser-al-dosari",
+      "title_en": "Yasser Al-Dosari",
+      "title_ar": "ياسر الدوسري‎",
+      "order": 1
+    },
+    {
+      "image": {
+        "id": 322,
+        "created_at": "2023-06-14T10:11:40.276Z",
+        "updated_at": "2023-06-14T10:11:40.442Z",
+        "folder": "uploads/images/abdul-rahman-al-soudais",
+        "original_url": "https://api2.quran-pro.com/images/abdul-rahman-al-soudais/abdul-rahman-al-soudais.png?version=1686737500276",
+        "optimized_url": "https://api2.quran-pro.com/images/abdul-rahman-al-soudais/abdul-rahman-al-soudais-optimized.webp?version=1686737500276",
+        "medium_url": "https://api2.quran-pro.com/images/abdul-rahman-al-soudais/abdul-rahman-al-soudais-medium.webp?version=1686737500276",
+        "small_url": "https://api2.quran-pro.com/images/abdul-rahman-al-soudais/abdul-rahman-al-soudais-small.webp?version=1686737500276"
+      },
+      "slug": "abdul-rahman-al-soudais",
+      "title_en": "Abdul Rahman Al Soudais",
+      "title_ar": "عبد الرحمن السديس",
+      "order": 2
+    },
+    {
+      "image": {
+        "id": 405,
+        "created_at": "2023-06-14T10:24:02.860Z",
+        "updated_at": "2023-06-14T10:24:03.007Z",
+        "folder": "uploads/images/mishary-rashid-alafasy",
+        "original_url": "https://api2.quran-pro.com/images/mishary-rashid-alafasy/mishary-rashid-alafasy.png?version=1686738242860",
+        "optimized_url": "https://api2.quran-pro.com/images/mishary-rashid-alafasy/mishary-rashid-alafasy-optimized.webp?version=1686738242860",
+        "medium_url": "https://api2.quran-pro.com/images/mishary-rashid-alafasy/mishary-rashid-alafasy-medium.webp?version=1686738242860",
+        "small_url": "https://api2.quran-pro.com/images/mishary-rashid-alafasy/mishary-rashid-alafasy-small.webp?version=1686738242860"
+      },
+      "slug": "mishary-rashid-alafasy",
+      "title_en": "Mishary Rashid Alafasy",
+      "title_ar": "مشاري بن راشدالعفاسي",
+      "order": 3
+    },
+    {
+      "image": {
+        "id": 314,
+        "created_at": "2023-06-14T10:10:54.809Z",
+        "updated_at": "2023-06-14T10:10:54.943Z",
+        "folder": "uploads/images/abdullah-al-johany",
+        "original_url": "https://api2.quran-pro.com/images/abdullah-al-johany/abdullah-al-johany.png?version=1686737454809",
+        "optimized_url": "https://api2.quran-pro.com/images/abdullah-al-johany/abdullah-al-johany-optimized.webp?version=1686737454809",
+        "medium_url": "https://api2.quran-pro.com/images/abdullah-al-johany/abdullah-al-johany-medium.webp?version=1686737454809",
+        "small_url": "https://api2.quran-pro.com/images/abdullah-al-johany/abdullah-al-johany-small.webp?version=1686737454809"
+      },
+      "slug": "abdullah-al-johany",
+      "title_en": "Abdullah Al-Johany",
+      "title_ar": "عبد الله بن عواد الجهني",
+      "order": 4
+    },
+    {
+      "image": {
+        "id": 398,
+        "created_at": "2023-06-14T10:23:10.628Z",
+        "updated_at": "2023-06-14T10:23:10.808Z",
+        "folder": "uploads/images/maher-al-mueaqly",
+        "original_url": "https://api2.quran-pro.com/images/maher-al-mueaqly/maher-al-mueaqly.png?version=1686738190628",
+        "optimized_url": "https://api2.quran-pro.com/images/maher-al-mueaqly/maher-al-mueaqly-optimized.webp?version=1686738190628",
+        "medium_url": "https://api2.quran-pro.com/images/maher-al-mueaqly/maher-al-mueaqly-medium.webp?version=1686738190628",
+        "small_url": "https://api2.quran-pro.com/images/maher-al-mueaqly/maher-al-mueaqly-small.webp?version=1686738190628"
+      },
+      "slug": "maher-al-mueaqly",
+      "title_en": "Maher Al Mueaqly",
+      "title_ar": "ماهر المعيقلي",
+      "order": 5
+    },
+    {
+      "image": {
+        "id": 446,
+        "created_at": "2023-06-14T10:41:07.004Z",
+        "updated_at": "2023-06-14T10:41:07.151Z",
+        "folder": "uploads/images/saad-el-ghamidi",
+        "original_url": "https://api2.quran-pro.com/images/saad-el-ghamidi/saad-el-ghamidi.png?version=1686739267004",
+        "optimized_url": "https://api2.quran-pro.com/images/saad-el-ghamidi/saad-el-ghamidi-optimized.webp?version=1686739267004",
+        "medium_url": "https://api2.quran-pro.com/images/saad-el-ghamidi/saad-el-ghamidi-medium.webp?version=1686739267004",
+        "small_url": "https://api2.quran-pro.com/images/saad-el-ghamidi/saad-el-ghamidi-small.webp?version=1686739267004"
+      },
+      "slug": "saad-el-ghamidi",
+      "title_en": "Saad El Ghamidi",
+      "title_ar": "سعد الغامدي",
+      "order": 6
+    },
+    {
+      "image": {
+        "id": 383,
+        "created_at": "2023-06-14T10:20:50.008Z",
+        "updated_at": "2023-06-14T10:20:50.205Z",
+        "folder": "uploads/images/idris-abkar",
+        "original_url": "https://api2.quran-pro.com/images/idris-abkar/idris-abkar.png?version=1686738050008",
+        "optimized_url": "https://api2.quran-pro.com/images/idris-abkar/idris-abkar-optimized.webp?version=1686738050008",
+        "medium_url": "https://api2.quran-pro.com/images/idris-abkar/idris-abkar-medium.webp?version=1686738050008",
+        "small_url": "https://api2.quran-pro.com/images/idris-abkar/idris-abkar-small.webp?version=1686738050008"
+      },
+      "slug": "idris-abkar",
+      "title_en": "Idris Abkar",
+      "title_ar": "إدريس أبكر",
+      "order": 7
+    },
+    {
+      "image": {
+        "id": 370,
+        "created_at": "2023-06-14T10:19:02.967Z",
+        "updated_at": "2023-06-14T10:19:03.153Z",
+        "folder": "uploads/images/fatih-seferagic",
+        "original_url": "https://api2.quran-pro.com/images/fatih-seferagic/fatih-seferagic.png?version=1686737942967",
+        "optimized_url": "https://api2.quran-pro.com/images/fatih-seferagic/fatih-seferagic-optimized.webp?version=1686737942967",
+        "medium_url": "https://api2.quran-pro.com/images/fatih-seferagic/fatih-seferagic-medium.webp?version=1686737942967",
+        "small_url": "https://api2.quran-pro.com/images/fatih-seferagic/fatih-seferagic-small.webp?version=1686737942967"
+      },
+      "slug": "fatih-seferagic",
+      "title_en": "Fatih Seferagic",
+      "title_ar": "فاتح سفيرافيك",
+      "order": 7
+    },
+    {
+      "image": {
+        "id": 458,
+        "created_at": "2023-06-14T10:42:17.471Z",
+        "updated_at": "2023-06-14T10:42:17.669Z",
+        "folder": "uploads/images/saud-al-shuraim",
+        "original_url": "https://api2.quran-pro.com/images/saud-al-shuraim/saud-al-shuraim.png?version=1686739337471",
+        "optimized_url": "https://api2.quran-pro.com/images/saud-al-shuraim/saud-al-shuraim-optimized.webp?version=1686739337471",
+        "medium_url": "https://api2.quran-pro.com/images/saud-al-shuraim/saud-al-shuraim-medium.webp?version=1686739337471",
+        "small_url": "https://api2.quran-pro.com/images/saud-al-shuraim/saud-al-shuraim-small.webp?version=1686739337471"
+      },
+      "slug": "saud-al-shuraim",
+      "title_en": "Saud Al Shuraim",
+      "title_ar": "سعود بن الشريم",
+      "order": 8
+    },
+    {
+      "image": {
+        "id": 390,
+        "created_at": "2023-06-14T10:21:37.641Z",
+        "updated_at": "2023-06-14T10:21:37.845Z",
+        "folder": "uploads/images/khaled-al-qahtani",
+        "original_url": "https://api2.quran-pro.com/images/khaled-al-qahtani/khaled-al-qahtani.png?version=1686738097641",
+        "optimized_url": "https://api2.quran-pro.com/images/khaled-al-qahtani/khaled-al-qahtani-optimized.webp?version=1686738097641",
+        "medium_url": "https://api2.quran-pro.com/images/khaled-al-qahtani/khaled-al-qahtani-medium.webp?version=1686738097641",
+        "small_url": "https://api2.quran-pro.com/images/khaled-al-qahtani/khaled-al-qahtani-small.webp?version=1686738097641"
+      },
+      "slug": "khaled-al-qahtani",
+      "title_en": "Khaled Al-Qahtani",
+      "title_ar": "خالد القحطاني",
+      "order": 8
+    },
+    {
+      "image": {
+        "id": 362,
+        "created_at": "2023-06-14T10:17:21.213Z",
+        "updated_at": "2023-06-14T10:17:21.547Z",
+        "folder": "uploads/images/fahad-wasel-almutairi",
+        "original_url": "https://api2.quran-pro.com/images/fahad-wasel-almutairi/fahad-wasel-almutairi.jpeg?version=1686737841213",
+        "optimized_url": "https://api2.quran-pro.com/images/fahad-wasel-almutairi/fahad-wasel-almutairi-optimized.webp?version=1686737841213",
+        "medium_url": "https://api2.quran-pro.com/images/fahad-wasel-almutairi/fahad-wasel-almutairi-medium.webp?version=1686737841213",
+        "small_url": "https://api2.quran-pro.com/images/fahad-wasel-almutairi/fahad-wasel-almutairi-small.webp?version=1686737841213"
+      },
+      "slug": "fahad-wasel-almutairi",
+      "title_en": "Fahad Wasel Almutairi",
+      "title_ar": "فهد واصل المطيري",
+      "order": 8
+    },
+    {
+      "image": {
+        "id": 455,
+        "created_at": "2023-06-14T10:41:57.927Z",
+        "updated_at": "2023-06-14T10:41:58.111Z",
+        "folder": "uploads/images/salman-al-utaybi",
+        "original_url": "https://api2.quran-pro.com/images/salman-al-utaybi/salman-al-utaybi.png?version=1686739317927",
+        "optimized_url": "https://api2.quran-pro.com/images/salman-al-utaybi/salman-al-utaybi-optimized.webp?version=1686739317927",
+        "medium_url": "https://api2.quran-pro.com/images/salman-al-utaybi/salman-al-utaybi-medium.webp?version=1686739317927",
+        "small_url": "https://api2.quran-pro.com/images/salman-al-utaybi/salman-al-utaybi-small.webp?version=1686739317927"
+      },
+      "slug": "salman-al-utaybi",
+      "title_en": "Salman Al Utaybi",
+      "title_ar": "سلمانالعتيبي",
+      "order": 9
+    },
+    {
+      "image": {
+        "id": 424,
+        "created_at": "2023-06-14T10:26:24.150Z",
+        "updated_at": "2023-06-14T10:26:24.509Z",
+        "folder": "uploads/images/mukhtar-al-haaj",
+        "original_url": "https://api2.quran-pro.com/images/mukhtar-al-haaj/mukhtar-al-haaj.jpeg?version=1686738384150",
+        "optimized_url": "https://api2.quran-pro.com/images/mukhtar-al-haaj/mukhtar-al-haaj-optimized.webp?version=1686738384150",
+        "medium_url": "https://api2.quran-pro.com/images/mukhtar-al-haaj/mukhtar-al-haaj-medium.webp?version=1686738384150",
+        "small_url": "https://api2.quran-pro.com/images/mukhtar-al-haaj/mukhtar-al-haaj-small.webp?version=1686738384150"
+      },
+      "slug": "mukhtar-al-haaj",
+      "title_en": "Mukhtar Al Haaj",
+      "title_ar": "مختار الحاج",
+      "order": 10
+    },
+    {
+      "image": {
+        "id": 337,
+        "created_at": "2023-06-14T10:13:56.576Z",
+        "updated_at": "2023-06-14T10:13:58.850Z",
+        "folder": "uploads/images/ahmad-al-nufais",
+        "original_url": "https://api2.quran-pro.com/images/ahmad-al-nufais/ahmad-al-nufais.jpeg?version=1686737636576",
+        "optimized_url": "https://api2.quran-pro.com/images/ahmad-al-nufais/ahmad-al-nufais-optimized.webp?version=1686737636576",
+        "medium_url": "https://api2.quran-pro.com/images/ahmad-al-nufais/ahmad-al-nufais-medium.webp?version=1686737636576",
+        "small_url": "https://api2.quran-pro.com/images/ahmad-al-nufais/ahmad-al-nufais-small.webp?version=1686737636576"
+      },
+      "slug": "ahmad-al-nufais",
+      "title_en": "Ahmad Al Nufais",
+      "title_ar": "أحمد النفيس",
+      "order": 10
+    },
+    {
+      "image": {
+        "id": 417,
+        "created_at": "2023-06-14T10:25:22.958Z",
+        "updated_at": "2023-06-14T10:25:23.346Z",
+        "folder": "uploads/images/mohammed-al-naqeeb",
+        "original_url": "https://api2.quran-pro.com/images/mohammed-al-naqeeb/mohammed-al-naqeeb.jpeg?version=1686738322958",
+        "optimized_url": "https://api2.quran-pro.com/images/mohammed-al-naqeeb/mohammed-al-naqeeb-optimized.webp?version=1686738322958",
+        "medium_url": "https://api2.quran-pro.com/images/mohammed-al-naqeeb/mohammed-al-naqeeb-medium.webp?version=1686738322958",
+        "small_url": "https://api2.quran-pro.com/images/mohammed-al-naqeeb/mohammed-al-naqeeb-small.webp?version=1686738322958"
+      },
+      "slug": "mohammed-al-naqeeb",
+      "title_en": "Mohammed Al Naqeeb",
+      "title_ar": "محمد النقيب",
+      "order": 11
+    },
+    {
+      "image": {
+        "id": 379,
+        "created_at": "2023-06-14T10:20:12.100Z",
+        "updated_at": "2023-06-14T10:20:12.361Z",
+        "folder": "uploads/images/hazza-al-balushi",
+        "original_url": "https://api2.quran-pro.com/images/hazza-al-balushi/hazza-al-balushi.png?version=1686738012100",
+        "optimized_url": "https://api2.quran-pro.com/images/hazza-al-balushi/hazza-al-balushi-optimized.webp?version=1686738012100",
+        "medium_url": "https://api2.quran-pro.com/images/hazza-al-balushi/hazza-al-balushi-medium.webp?version=1686738012100",
+        "small_url": "https://api2.quran-pro.com/images/hazza-al-balushi/hazza-al-balushi-small.webp?version=1686738012100"
+      },
+      "slug": "hazza-al-balushi",
+      "title_en": "Hazza Al Balushi",
+      "title_ar": "هزاع البلوشي",
+      "order": 11
+    },
+    {
+      "image": {
+        "id": 429,
+        "created_at": "2023-06-14T10:27:42.587Z",
+        "updated_at": "2023-06-14T10:27:43.188Z",
+        "folder": "uploads/images/noreen-mohamed-siddiq",
+        "original_url": "https://api2.quran-pro.com/images/noreen-mohamed-siddiq/noreen-mohamed-siddiq.jpeg?version=1686738462587",
+        "optimized_url": "https://api2.quran-pro.com/images/noreen-mohamed-siddiq/noreen-mohamed-siddiq-optimized.webp?version=1686738462587",
+        "medium_url": "https://api2.quran-pro.com/images/noreen-mohamed-siddiq/noreen-mohamed-siddiq-medium.webp?version=1686738462587",
+        "small_url": "https://api2.quran-pro.com/images/noreen-mohamed-siddiq/noreen-mohamed-siddiq-small.webp?version=1686738462587"
+      },
+      "slug": "noreen-mohamed-siddiq",
+      "title_en": "Noreen Mohamed Siddiq",
+      "title_ar": "نورين محمد صديق",
+      "order": 12
+    },
+    {
+      "image": {
+        "id": 410,
+        "created_at": "2023-06-14T10:24:31.064Z",
+        "updated_at": "2023-06-14T10:24:32.250Z",
+        "folder": "uploads/images/mohammad-ayyub-asif",
+        "original_url": "https://api2.quran-pro.com/images/mohammad-ayyub-asif/mohammad-ayyub-asif.jpeg?version=1686738271064",
+        "optimized_url": "https://api2.quran-pro.com/images/mohammad-ayyub-asif/mohammad-ayyub-asif-optimized.webp?version=1686738271064",
+        "medium_url": "https://api2.quran-pro.com/images/mohammad-ayyub-asif/mohammad-ayyub-asif-medium.webp?version=1686738271064",
+        "small_url": "https://api2.quran-pro.com/images/mohammad-ayyub-asif/mohammad-ayyub-asif-small.webp?version=1686738271064"
+      },
+      "slug": "mohammad-ayyub-asif",
+      "title_en": "Mohammad Ayyub Asif",
+      "title_ar": "محمد أيوب عاصف",
+      "order": 12
+    },
+    {
+      "image": {
+        "id": 313,
+        "created_at": "2023-06-14T10:10:48.803Z",
+        "updated_at": "2023-06-14T10:10:48.948Z",
+        "folder": "uploads/images/abdul-hakeem-al-marawi-al-hafiz",
+        "original_url": "https://api2.quran-pro.com/images/abdul-hakeem-al-marawi-al-hafiz/abdul-hakeem-al-marawi-al-hafiz.png?version=1686737448803",
+        "optimized_url": "https://api2.quran-pro.com/images/abdul-hakeem-al-marawi-al-hafiz/abdul-hakeem-al-marawi-al-hafiz-optimized.webp?version=1686737448803",
+        "medium_url": "https://api2.quran-pro.com/images/abdul-hakeem-al-marawi-al-hafiz/abdul-hakeem-al-marawi-al-hafiz-medium.webp?version=1686737448803",
+        "small_url": "https://api2.quran-pro.com/images/abdul-hakeem-al-marawi-al-hafiz/abdul-hakeem-al-marawi-al-hafiz-small.webp?version=1686737448803"
+      },
+      "slug": "abdul-hakeem-al-marawi-al-hafiz",
+      "title_en": "Abdul Hakeem Al-Marawi Al-Hafiz",
+      "title_ar": "عبد الحكيم الحافظ المراوي",
+      "order": 12
+    },
+    {
+      "image": {
+        "id": 425,
+        "created_at": "2023-06-14T10:27:03.887Z",
+        "updated_at": "2023-06-14T10:27:04.078Z",
+        "folder": "uploads/images/nabil-al-rifay",
+        "original_url": "https://api2.quran-pro.com/images/nabil-al-rifay/nabil-al-rifay.png?version=1686738423887",
+        "optimized_url": "https://api2.quran-pro.com/images/nabil-al-rifay/nabil-al-rifay-optimized.webp?version=1686738423887",
+        "medium_url": "https://api2.quran-pro.com/images/nabil-al-rifay/nabil-al-rifay-medium.webp?version=1686738423887",
+        "small_url": "https://api2.quran-pro.com/images/nabil-al-rifay/nabil-al-rifay-small.webp?version=1686738423887"
+      },
+      "slug": "nabil-al-rifay",
+      "title_en": "Nabil Al Rifay",
+      "title_ar": "نبيلالرفاعي",
+      "order": 13
+    },
+    {
+      "image": {
+        "id": 386,
+        "created_at": "2023-06-14T10:21:06.932Z",
+        "updated_at": "2023-06-14T10:21:07.583Z",
+        "folder": "uploads/images/islam-sobhi",
+        "original_url": "https://api2.quran-pro.com/images/islam-sobhi/islam-sobhi.png?version=1686738066932",
+        "optimized_url": "https://api2.quran-pro.com/images/islam-sobhi/islam-sobhi-optimized.webp?version=1686738066932",
+        "medium_url": "https://api2.quran-pro.com/images/islam-sobhi/islam-sobhi-medium.webp?version=1686738066932",
+        "small_url": "https://api2.quran-pro.com/images/islam-sobhi/islam-sobhi-small.webp?version=1686738066932"
+      },
+      "slug": "islam-sobhi",
+      "title_en": "Islam Sobhi",
+      "title_ar": "إسلام صبحي",
+      "order": 14
+    },
+    {
+      "image": {
+        "id": 308,
+        "created_at": "2023-06-14T10:09:11.423Z",
+        "updated_at": "2023-06-14T10:09:11.607Z",
+        "folder": "uploads/images/abdul-bari-ath-thobaity",
+        "original_url": "https://api2.quran-pro.com/images/abdul-bari-ath-thobaity/abdul-bari-ath-thobaity.png?version=1686737351423",
+        "optimized_url": "https://api2.quran-pro.com/images/abdul-bari-ath-thobaity/abdul-bari-ath-thobaity-optimized.webp?version=1686737351423",
+        "medium_url": "https://api2.quran-pro.com/images/abdul-bari-ath-thobaity/abdul-bari-ath-thobaity-medium.webp?version=1686737351423",
+        "small_url": "https://api2.quran-pro.com/images/abdul-bari-ath-thobaity/abdul-bari-ath-thobaity-small.webp?version=1686737351423"
+      },
+      "slug": "abdul-bari-ath-thobaity",
+      "title_en": "Abdul Bari Ath Thobaity",
+      "title_ar": "عبدالبارئ الثبيتي",
+      "order": 14
+    },
+    {
+      "image": {
+        "id": 329,
+        "created_at": "2023-06-14T10:12:30.847Z",
+        "updated_at": "2023-06-14T10:12:30.993Z",
+        "folder": "uploads/images/abu-bakr-al-shatri",
+        "original_url": "https://api2.quran-pro.com/images/abu-bakr-al-shatri/abu-bakr-al-shatri.png?version=1686737550847",
+        "optimized_url": "https://api2.quran-pro.com/images/abu-bakr-al-shatri/abu-bakr-al-shatri-optimized.webp?version=1686737550847",
+        "medium_url": "https://api2.quran-pro.com/images/abu-bakr-al-shatri/abu-bakr-al-shatri-medium.webp?version=1686737550847",
+        "small_url": "https://api2.quran-pro.com/images/abu-bakr-al-shatri/abu-bakr-al-shatri-small.webp?version=1686737550847"
+      },
+      "slug": "abu-bakr-al-shatri",
+      "title_en": "Abu Bakr Al Shatri",
+      "title_ar": "أبو بكر الشاطري",
+      "order": 15
+    },
+    {
+      "image": {
+        "id": 317,
+        "created_at": "2023-06-14T10:11:11.900Z",
+        "updated_at": "2023-06-14T10:11:12.389Z",
+        "folder": "uploads/images/abdullah-al-khalaf",
+        "original_url": "https://api2.quran-pro.com/images/abdullah-al-khalaf/abdullah-al-khalaf.jpeg?version=1686737471900",
+        "optimized_url": "https://api2.quran-pro.com/images/abdullah-al-khalaf/abdullah-al-khalaf-optimized.webp?version=1686737471900",
+        "medium_url": "https://api2.quran-pro.com/images/abdullah-al-khalaf/abdullah-al-khalaf-medium.webp?version=1686737471900",
+        "small_url": "https://api2.quran-pro.com/images/abdullah-al-khalaf/abdullah-al-khalaf-small.webp?version=1686737471900"
+      },
+      "slug": "abdullah-al-khalaf",
+      "title_en": "Abdullah Al-Khalaf",
+      "title_ar": "عبد الله الخلف",
+      "order": 16
+    },
+    {
+      "image": {
+        "id": 334,
+        "created_at": "2023-06-14T10:13:42.001Z",
+        "updated_at": "2023-06-14T10:13:42.161Z",
+        "folder": "uploads/images/ahmad-al-ajmy",
+        "original_url": "https://api2.quran-pro.com/images/ahmad-al-ajmy/ahmad-al-ajmy.png?version=1686737622001",
+        "optimized_url": "https://api2.quran-pro.com/images/ahmad-al-ajmy/ahmad-al-ajmy-optimized.webp?version=1686737622001",
+        "medium_url": "https://api2.quran-pro.com/images/ahmad-al-ajmy/ahmad-al-ajmy-medium.webp?version=1686737622001",
+        "small_url": "https://api2.quran-pro.com/images/ahmad-al-ajmy/ahmad-al-ajmy-small.webp?version=1686737622001"
+      },
+      "slug": "ahmad-al-ajmy",
+      "title_en": "Ahmad Al-Ajmy",
+      "title_ar": "أحمد بن علي العجمي",
+      "order": 16
+    },
+    {
+      "image": {
+        "id": 428,
+        "created_at": "2023-06-14T10:27:35.015Z",
+        "updated_at": "2023-06-14T10:27:35.151Z",
+        "folder": "uploads/images/nasser-al-qatami",
+        "original_url": "https://api2.quran-pro.com/images/nasser-al-qatami/nasser-al-qatami.png?version=1686738455015",
+        "optimized_url": "https://api2.quran-pro.com/images/nasser-al-qatami/nasser-al-qatami-optimized.webp?version=1686738455015",
+        "medium_url": "https://api2.quran-pro.com/images/nasser-al-qatami/nasser-al-qatami-medium.webp?version=1686738455015",
+        "small_url": "https://api2.quran-pro.com/images/nasser-al-qatami/nasser-al-qatami-small.webp?version=1686738455015"
+      },
+      "slug": "nasser-al-qatami",
+      "title_en": "Nasser Al Qatami",
+      "title_ar": "ناصر القطامي",
+      "order": 17
+    },
+    {
+      "image": {
+        "id": 451,
+        "created_at": "2023-06-14T10:41:36.132Z",
+        "updated_at": "2023-06-14T10:41:36.348Z",
+        "folder": "uploads/images/salah-alhashim",
+        "original_url": "https://api2.quran-pro.com/images/salah-alhashim/salah-alhashim.png?version=1686739296132",
+        "optimized_url": "https://api2.quran-pro.com/images/salah-alhashim/salah-alhashim-optimized.webp?version=1686739296132",
+        "medium_url": "https://api2.quran-pro.com/images/salah-alhashim/salah-alhashim-medium.webp?version=1686739296132",
+        "small_url": "https://api2.quran-pro.com/images/salah-alhashim/salah-alhashim-small.webp?version=1686739296132"
+      },
+      "slug": "salah-alhashim",
+      "title_en": "Salah Alhashim",
+      "title_ar": "صلاح الهاشم",
+      "order": 19
+    },
+    {
+      "image": {
+        "id": 421,
+        "created_at": "2023-06-14T10:26:00.318Z",
+        "updated_at": "2023-06-14T10:26:00.816Z",
+        "folder": "uploads/images/muhammad-al-mehysni",
+        "original_url": "https://api2.quran-pro.com/images/muhammad-al-mehysni/muhammad-al-mehysni.jpeg?version=1686738360318",
+        "optimized_url": "https://api2.quran-pro.com/images/muhammad-al-mehysni/muhammad-al-mehysni-optimized.webp?version=1686738360318",
+        "medium_url": "https://api2.quran-pro.com/images/muhammad-al-mehysni/muhammad-al-mehysni-medium.webp?version=1686738360318",
+        "small_url": "https://api2.quran-pro.com/images/muhammad-al-mehysni/muhammad-al-mehysni-small.webp?version=1686738360318"
+      },
+      "slug": "muhammad-al-mehysni",
+      "title_en": "Muhammad al-Mehysni",
+      "title_ar": "محمد المحيسني",
+      "order": 20
+    },
+    {
+      "image": {
+        "id": 450,
+        "created_at": "2023-06-14T10:41:27.982Z",
+        "updated_at": "2023-06-14T10:41:28.157Z",
+        "folder": "uploads/images/salah-albudair",
+        "original_url": "https://api2.quran-pro.com/images/salah-albudair/salah-albudair.png?version=1686739287982",
+        "optimized_url": "https://api2.quran-pro.com/images/salah-albudair/salah-albudair-optimized.webp?version=1686739287982",
+        "medium_url": "https://api2.quran-pro.com/images/salah-albudair/salah-albudair-medium.webp?version=1686739287982",
+        "small_url": "https://api2.quran-pro.com/images/salah-albudair/salah-albudair-small.webp?version=1686739287982"
+      },
+      "slug": "salah-albudair",
+      "title_en": "Salah Albudair",
+      "title_ar": "صلاح البدير",
+      "order": 20
+    },
+    {
+      "image": {
+        "id": 461,
+        "created_at": "2023-06-14T10:42:49.463Z",
+        "updated_at": "2023-06-14T10:42:49.600Z",
+        "folder": "uploads/images/tawfik-as-sayegh",
+        "original_url": "https://api2.quran-pro.com/images/tawfik-as-sayegh/tawfik-as-sayegh.png?version=1686739369463",
+        "optimized_url": "https://api2.quran-pro.com/images/tawfik-as-sayegh/tawfik-as-sayegh-optimized.webp?version=1686739369463",
+        "medium_url": "https://api2.quran-pro.com/images/tawfik-as-sayegh/tawfik-as-sayegh-medium.webp?version=1686739369463",
+        "small_url": "https://api2.quran-pro.com/images/tawfik-as-sayegh/tawfik-as-sayegh-small.webp?version=1686739369463"
+      },
+      "slug": "tawfik-as-sayegh",
+      "title_en": "Tawfik As Sayegh",
+      "title_ar": "توفيقالصايغ",
+      "order": 21
+    },
+    {
+      "image": {
+        "id": 351,
+        "created_at": "2023-06-14T10:16:08.846Z",
+        "updated_at": "2023-06-14T10:16:08.946Z",
+        "folder": "uploads/images/badr-bin-mohammed-al-turki",
+        "original_url": "https://api2.quran-pro.com/images/badr-bin-mohammed-al-turki/badr-bin-mohammed-al-turki.png?version=1686737768846",
+        "optimized_url": "https://api2.quran-pro.com/images/badr-bin-mohammed-al-turki/badr-bin-mohammed-al-turki-optimized.webp?version=1686737768846",
+        "medium_url": "https://api2.quran-pro.com/images/badr-bin-mohammed-al-turki/badr-bin-mohammed-al-turki-medium.webp?version=1686737768846",
+        "small_url": "https://api2.quran-pro.com/images/badr-bin-mohammed-al-turki/badr-bin-mohammed-al-turki-small.webp?version=1686737768846"
+      },
+      "slug": "badr-bin-mohammed-al-turki",
+      "title_en": "Badr bin Mohammed Al-Turki",
+      "title_ar": "بدر بن محمد التركي",
+      "order": 22
+    },
+    {
+      "image": {
+        "id": 399,
+        "created_at": "2023-06-14T10:23:19.060Z",
+        "updated_at": "2023-06-14T10:23:19.270Z",
+        "folder": "uploads/images/mahmoud-khalil-al-hussary",
+        "original_url": "https://api2.quran-pro.com/images/mahmoud-khalil-al-hussary/mahmoud-khalil-al-hussary.png?version=1686738199060",
+        "optimized_url": "https://api2.quran-pro.com/images/mahmoud-khalil-al-hussary/mahmoud-khalil-al-hussary-optimized.webp?version=1686738199060",
+        "medium_url": "https://api2.quran-pro.com/images/mahmoud-khalil-al-hussary/mahmoud-khalil-al-hussary-medium.webp?version=1686738199060",
+        "small_url": "https://api2.quran-pro.com/images/mahmoud-khalil-al-hussary/mahmoud-khalil-al-hussary-small.webp?version=1686738199060"
+      },
+      "slug": "mahmoud-khalil-al-hussary",
+      "title_en": "Mahmoud Khalil Al-Hussary",
+      "title_ar": "محمود خليل الحصري",
+      "order": 22
+    },
+    {
+      "image": {
+        "id": 432,
+        "created_at": "2023-06-14T10:28:00.410Z",
+        "updated_at": "2023-06-14T10:28:00.569Z",
+        "folder": "uploads/images/omar-al-darweez",
+        "original_url": "https://api2.quran-pro.com/images/omar-al-darweez/omar-al-darweez.png?version=1686738480410",
+        "optimized_url": "https://api2.quran-pro.com/images/omar-al-darweez/omar-al-darweez-optimized.webp?version=1686738480410",
+        "medium_url": "https://api2.quran-pro.com/images/omar-al-darweez/omar-al-darweez-medium.webp?version=1686738480410",
+        "small_url": "https://api2.quran-pro.com/images/omar-al-darweez/omar-al-darweez-small.webp?version=1686738480410"
+      },
+      "slug": "omar-al-darweez",
+      "title_en": "Omar Al Darweez",
+      "title_ar": "عمر الدريويز",
+      "order": 23
+    },
+    {
+      "image": {
+        "id": 418,
+        "created_at": "2023-06-14T10:25:31.799Z",
+        "updated_at": "2023-06-14T10:25:31.999Z",
+        "folder": "uploads/images/mohammed-jibreel",
+        "original_url": "https://api2.quran-pro.com/images/mohammed-jibreel/mohammed-jibreel.png?version=1686738331799",
+        "optimized_url": "https://api2.quran-pro.com/images/mohammed-jibreel/mohammed-jibreel-optimized.webp?version=1686738331799",
+        "medium_url": "https://api2.quran-pro.com/images/mohammed-jibreel/mohammed-jibreel-medium.webp?version=1686738331799",
+        "small_url": "https://api2.quran-pro.com/images/mohammed-jibreel/mohammed-jibreel-small.webp?version=1686738331799"
+      },
+      "slug": "mohammed-jibreel",
+      "title_en": "Mohammed Jibreel",
+      "title_ar": "محمد جبريل",
+      "order": 23
+    },
+    {
+      "image": {
+        "id": 402,
+        "created_at": "2023-06-14T10:23:43.609Z",
+        "updated_at": "2023-06-14T10:23:43.945Z",
+        "folder": "uploads/images/mansour-al-salimi",
+        "original_url": "https://api2.quran-pro.com/images/mansour-al-salimi/mansour-al-salimi.jpeg?version=1686738223609",
+        "optimized_url": "https://api2.quran-pro.com/images/mansour-al-salimi/mansour-al-salimi-optimized.webp?version=1686738223609",
+        "medium_url": "https://api2.quran-pro.com/images/mansour-al-salimi/mansour-al-salimi-medium.webp?version=1686738223609",
+        "small_url": "https://api2.quran-pro.com/images/mansour-al-salimi/mansour-al-salimi-small.webp?version=1686738223609"
+      },
+      "slug": "mansour-al-salimi",
+      "title_en": "Mansour Al Salimi",
+      "title_ar": "منصور السالمي",
+      "order": 24
+    },
+    {
+      "image": {
+        "id": 447,
+        "created_at": "2023-06-14T10:41:13.289Z",
+        "updated_at": "2023-06-14T10:41:13.444Z",
+        "folder": "uploads/images/sahl-yassin",
+        "original_url": "https://api2.quran-pro.com/images/sahl-yassin/sahl-yassin.png?version=1686739273289",
+        "optimized_url": "https://api2.quran-pro.com/images/sahl-yassin/sahl-yassin-optimized.webp?version=1686739273289",
+        "medium_url": "https://api2.quran-pro.com/images/sahl-yassin/sahl-yassin-medium.webp?version=1686739273289",
+        "small_url": "https://api2.quran-pro.com/images/sahl-yassin/sahl-yassin-small.webp?version=1686739273289"
+      },
+      "slug": "sahl-yassin",
+      "title_en": "Sahl Yassin",
+      "title_ar": "سهلياسين",
+      "order": 24
+    },
+    {
+      "image": {
+        "id": 454,
+        "created_at": "2023-06-14T10:41:52.076Z",
+        "updated_at": "2023-06-14T10:41:52.254Z",
+        "folder": "uploads/images/salah-bukhatir",
+        "original_url": "https://api2.quran-pro.com/images/salah-bukhatir/salah-bukhatir.png?version=1686739312076",
+        "optimized_url": "https://api2.quran-pro.com/images/salah-bukhatir/salah-bukhatir-optimized.webp?version=1686739312076",
+        "medium_url": "https://api2.quran-pro.com/images/salah-bukhatir/salah-bukhatir-medium.webp?version=1686739312076",
+        "small_url": "https://api2.quran-pro.com/images/salah-bukhatir/salah-bukhatir-small.webp?version=1686739312076"
+      },
+      "slug": "salah-bukhatir",
+      "title_en": "Salah Bukhatir",
+      "title_ar": "صلاح بو خاطر",
+      "order": 25
+    },
+    {
+      "image": {
+        "id": 382,
+        "created_at": "2023-06-14T10:20:33.609Z",
+        "updated_at": "2023-06-14T10:20:33.766Z",
+        "folder": "uploads/images/ibrahim-al-jibreen",
+        "original_url": "https://api2.quran-pro.com/images/ibrahim-al-jibreen/ibrahim-al-jibreen.png?version=1686738033609",
+        "optimized_url": "https://api2.quran-pro.com/images/ibrahim-al-jibreen/ibrahim-al-jibreen-optimized.webp?version=1686738033609",
+        "medium_url": "https://api2.quran-pro.com/images/ibrahim-al-jibreen/ibrahim-al-jibreen-medium.webp?version=1686738033609",
+        "small_url": "https://api2.quran-pro.com/images/ibrahim-al-jibreen/ibrahim-al-jibreen-small.webp?version=1686738033609"
+      },
+      "slug": "ibrahim-al-jibreen",
+      "title_en": "Ibrahim Al-Jibreen",
+      "title_ar": "ابراهيم الجبرين",
+      "order": 26
+    },
+    {
+      "image": {
+        "id": 436,
+        "created_at": "2023-06-14T10:35:32.689Z",
+        "updated_at": "2023-06-14T10:35:32.898Z",
+        "folder": "uploads/images/omar-aswat",
+        "original_url": "https://api2.quran-pro.com/images/omar-aswat/omar-aswat.png?version=1686738932689",
+        "optimized_url": "https://api2.quran-pro.com/images/omar-aswat/omar-aswat-optimized.webp?version=1686738932689",
+        "medium_url": "https://api2.quran-pro.com/images/omar-aswat/omar-aswat-medium.webp?version=1686738932689",
+        "small_url": "https://api2.quran-pro.com/images/omar-aswat/omar-aswat-small.webp?version=1686738932689"
+      },
+      "slug": "omar-aswat",
+      "title_en": "Omar Aswat",
+      "title_ar": "عمر أصوات",
+      "order": 26
+    },
+    {
+      "image": {
+        "id": 310,
+        "created_at": "2023-06-14T10:10:29.178Z",
+        "updated_at": "2023-06-14T10:10:29.396Z",
+        "folder": "uploads/images/abdul-baset-abdel-samad",
+        "original_url": "https://api2.quran-pro.com/images/abdul-baset-abdel-samad/abdul-baset-abdel-samad.png?version=1686737429178",
+        "optimized_url": "https://api2.quran-pro.com/images/abdul-baset-abdel-samad/abdul-baset-abdel-samad-optimized.webp?version=1686737429178",
+        "medium_url": "https://api2.quran-pro.com/images/abdul-baset-abdel-samad/abdul-baset-abdel-samad-medium.webp?version=1686737429178",
+        "small_url": "https://api2.quran-pro.com/images/abdul-baset-abdel-samad/abdul-baset-abdel-samad-small.webp?version=1686737429178"
+      },
+      "slug": "abdul-baset-abdel-samad",
+      "title_en": "Abdul Baset Abdel-Samad",
+      "title_ar": "عبدالباسط عبد الصمد",
+      "order": 27
+    },
+    {
+      "image": {
+        "id": 345,
+        "created_at": "2023-06-14T10:15:14.687Z",
+        "updated_at": "2023-06-14T10:15:14.844Z",
+        "folder": "uploads/images/ali-jaber",
+        "original_url": "https://api2.quran-pro.com/images/ali-jaber/ali-jaber.png?version=1686737714687",
+        "optimized_url": "https://api2.quran-pro.com/images/ali-jaber/ali-jaber-optimized.webp?version=1686737714687",
+        "medium_url": "https://api2.quran-pro.com/images/ali-jaber/ali-jaber-medium.webp?version=1686737714687",
+        "small_url": "https://api2.quran-pro.com/images/ali-jaber/ali-jaber-small.webp?version=1686737714687"
+      },
+      "slug": "ali-jaber",
+      "title_en": "Ali Jaber",
+      "title_ar": "علي جابر",
+      "order": 28
+    },
+    {
+      "image": {
+        "id": 330,
+        "created_at": "2023-06-14T10:12:37.623Z",
+        "updated_at": "2023-06-14T10:12:37.777Z",
+        "folder": "uploads/images/adel-al-kalbani",
+        "original_url": "https://api2.quran-pro.com/images/adel-al-kalbani/adel-al-kalbani.png?version=1686737557623",
+        "optimized_url": "https://api2.quran-pro.com/images/adel-al-kalbani/adel-al-kalbani-optimized.webp?version=1686737557623",
+        "medium_url": "https://api2.quran-pro.com/images/adel-al-kalbani/adel-al-kalbani-medium.webp?version=1686737557623",
+        "small_url": "https://api2.quran-pro.com/images/adel-al-kalbani/adel-al-kalbani-small.webp?version=1686737557623"
+      },
+      "slug": "adel-al-kalbani",
+      "title_en": "Adel Al Kalbani",
+      "title_ar": "عادل الكلباني",
+      "order": 29
+    },
+    {
+      "image": {
+        "id": 303,
+        "created_at": "2023-06-14T09:49:21.812Z",
+        "updated_at": "2023-06-14T09:49:21.962Z",
+        "folder": "uploads/images/abdel-aziz-al-ahmed",
+        "original_url": "https://api2.quran-pro.com/images/abdel-aziz-al-ahmed/abdel-aziz-al-ahmed.png?version=1686736161812",
+        "optimized_url": "https://api2.quran-pro.com/images/abdel-aziz-al-ahmed/abdel-aziz-al-ahmed-optimized.webp?version=1686736161812",
+        "medium_url": "https://api2.quran-pro.com/images/abdel-aziz-al-ahmed/abdel-aziz-al-ahmed-medium.webp?version=1686736161812",
+        "small_url": "https://api2.quran-pro.com/images/abdel-aziz-al-ahmed/abdel-aziz-al-ahmed-small.webp?version=1686736161812"
+      },
+      "slug": "abdel-aziz-al-ahmed",
+      "title_en": "Abdel Aziz Al Ahmed",
+      "title_ar": "عبدالعزيز الأحمد",
+      "order": 30
+    },
+    {
+      "image": {
+        "id": 443,
+        "created_at": "2023-06-14T10:40:44.278Z",
+        "updated_at": "2023-06-14T10:40:44.584Z",
+        "folder": "uploads/images/raad-mohammad-al-kurdi",
+        "original_url": "https://api2.quran-pro.com/images/raad-mohammad-al-kurdi/raad-mohammad-al-kurdi.png?version=1686739244278",
+        "optimized_url": "https://api2.quran-pro.com/images/raad-mohammad-al-kurdi/raad-mohammad-al-kurdi-optimized.webp?version=1686739244278",
+        "medium_url": "https://api2.quran-pro.com/images/raad-mohammad-al-kurdi/raad-mohammad-al-kurdi-medium.webp?version=1686739244278",
+        "small_url": "https://api2.quran-pro.com/images/raad-mohammad-al-kurdi/raad-mohammad-al-kurdi-small.webp?version=1686739244278"
+      },
+      "slug": "raad-mohammad-al-kurdi",
+      "title_en": "Raad Mohammad al Kurdi",
+      "title_ar": "رعـد مـحـمد الكــوردي",
+      "order": 30
+    },
+    {
+      "image": {
+        "id": 333,
+        "created_at": "2023-06-14T10:13:24.936Z",
+        "updated_at": "2023-06-14T10:13:25.141Z",
+        "folder": "uploads/images/adel-rayane",
+        "original_url": "https://api2.quran-pro.com/images/adel-rayane/adel-rayane.png?version=1686737604936",
+        "optimized_url": "https://api2.quran-pro.com/images/adel-rayane/adel-rayane-optimized.webp?version=1686737604936",
+        "medium_url": "https://api2.quran-pro.com/images/adel-rayane/adel-rayane-medium.webp?version=1686737604936",
+        "small_url": "https://api2.quran-pro.com/images/adel-rayane/adel-rayane-small.webp?version=1686737604936"
+      },
+      "slug": "adel-rayane",
+      "title_en": "Adel Rayane",
+      "title_ar": "عادل ريان",
+      "order": 31
+    },
+    {
+      "image": {
+        "id": 342,
+        "created_at": "2023-06-14T10:14:35.954Z",
+        "updated_at": "2023-06-14T10:14:36.117Z",
+        "folder": "uploads/images/ali-alhodaifi",
+        "original_url": "https://api2.quran-pro.com/images/ali-alhodaifi/ali-alhodaifi.png?version=1686737675954",
+        "optimized_url": "https://api2.quran-pro.com/images/ali-alhodaifi/ali-alhodaifi-optimized.webp?version=1686737675954",
+        "medium_url": "https://api2.quran-pro.com/images/ali-alhodaifi/ali-alhodaifi-medium.webp?version=1686737675954",
+        "small_url": "https://api2.quran-pro.com/images/ali-alhodaifi/ali-alhodaifi-small.webp?version=1686737675954"
+      },
+      "slug": "ali-alhodaifi",
+      "title_en": "Ali Alhodaifi",
+      "title_ar": "علي الحذيفي",
+      "order": 32
+    },
+    {
+      "image": {
+        "id": 394,
+        "created_at": "2023-06-14T10:22:10.773Z",
+        "updated_at": "2023-06-14T10:22:10.902Z",
+        "folder": "uploads/images/khalifa-al-tunaiji",
+        "original_url": "https://api2.quran-pro.com/images/khalifa-al-tunaiji/khalifa-al-tunaiji.png?version=1686738130773",
+        "optimized_url": "https://api2.quran-pro.com/images/khalifa-al-tunaiji/khalifa-al-tunaiji-optimized.webp?version=1686738130773",
+        "medium_url": "https://api2.quran-pro.com/images/khalifa-al-tunaiji/khalifa-al-tunaiji-medium.webp?version=1686738130773",
+        "small_url": "https://api2.quran-pro.com/images/khalifa-al-tunaiji/khalifa-al-tunaiji-small.webp?version=1686738130773"
+      },
+      "slug": "khalifa-al-tunaiji",
+      "title_en": "Khalifa al Tunaiji",
+      "title_ar": "خليفةالطنيجي",
+      "order": 33
+    },
+    {
+      "image": {
+        "id": 358,
+        "created_at": "2023-06-14T10:17:02.167Z",
+        "updated_at": "2023-06-14T10:17:02.319Z",
+        "folder": "uploads/images/emad-al-mansary",
+        "original_url": "https://api2.quran-pro.com/images/emad-al-mansary/emad-al-mansary.png?version=1686737822167",
+        "optimized_url": "https://api2.quran-pro.com/images/emad-al-mansary/emad-al-mansary-optimized.webp?version=1686737822167",
+        "medium_url": "https://api2.quran-pro.com/images/emad-al-mansary/emad-al-mansary-medium.webp?version=1686737822167",
+        "small_url": "https://api2.quran-pro.com/images/emad-al-mansary/emad-al-mansary-small.webp?version=1686737822167"
+      },
+      "slug": "emad-al-mansary",
+      "title_en": "Emad Al Mansary",
+      "title_ar": "عماد المنصري",
+      "order": 34
+    },
+    {
+      "image": {
+        "id": 395,
+        "created_at": "2023-06-14T10:22:25.927Z",
+        "updated_at": "2023-06-14T10:22:26.121Z",
+        "folder": "uploads/images/laayoun-el-kouchi",
+        "original_url": "https://api2.quran-pro.com/images/laayoun-el-kouchi/laayoun-el-kouchi.png?version=1686738145927",
+        "optimized_url": "https://api2.quran-pro.com/images/laayoun-el-kouchi/laayoun-el-kouchi-optimized.webp?version=1686738145927",
+        "medium_url": "https://api2.quran-pro.com/images/laayoun-el-kouchi/laayoun-el-kouchi-medium.webp?version=1686738145927",
+        "small_url": "https://api2.quran-pro.com/images/laayoun-el-kouchi/laayoun-el-kouchi-small.webp?version=1686738145927"
+      },
+      "slug": "laayoun-el-kouchi",
+      "title_en": "Laayoun El Kouchi",
+      "title_ar": "العيون الكوشي",
+      "order": 35
+    },
+    {
+      "image": {
+        "id": 414,
+        "created_at": "2023-06-14T10:25:03.338Z",
+        "updated_at": "2023-06-14T10:25:03.665Z",
+        "folder": "uploads/images/mohammed-al-minshawi-hafs-an-assem",
+        "original_url": "https://api2.quran-pro.com/images/mohammed-al-minshawi-hafs-an-assem/mohammed-al-minshawi-hafs-an-assem.jpeg?version=1686738303338",
+        "optimized_url": "https://api2.quran-pro.com/images/mohammed-al-minshawi-hafs-an-assem/mohammed-al-minshawi-hafs-an-assem-optimized.webp?version=1686738303338",
+        "medium_url": "https://api2.quran-pro.com/images/mohammed-al-minshawi-hafs-an-assem/mohammed-al-minshawi-hafs-an-assem-medium.webp?version=1686738303338",
+        "small_url": "https://api2.quran-pro.com/images/mohammed-al-minshawi-hafs-an-assem/mohammed-al-minshawi-hafs-an-assem-small.webp?version=1686738303338"
+      },
+      "slug": "mohammed-al-minshawi-hafs-an-assem",
+      "title_en": "Mohammed Al-Minshawi Hafs A'n Assem",
+      "title_ar": "مُحَـمّـد صِـدّيْـق المِـنـشَـاوي حفص عن عاصم",
+      "order": 36
+    },
+    {
+      "image": {
+        "id": 413,
+        "created_at": "2023-06-14T10:24:55.939Z",
+        "updated_at": "2023-06-14T10:24:56.131Z",
+        "folder": "uploads/images/mohammed-al-lohaidan",
+        "original_url": "https://api2.quran-pro.com/images/mohammed-al-lohaidan/mohammed-al-lohaidan.png?version=1686738295939",
+        "optimized_url": "https://api2.quran-pro.com/images/mohammed-al-lohaidan/mohammed-al-lohaidan-optimized.webp?version=1686738295939",
+        "medium_url": "https://api2.quran-pro.com/images/mohammed-al-lohaidan/mohammed-al-lohaidan-medium.webp?version=1686738295939",
+        "small_url": "https://api2.quran-pro.com/images/mohammed-al-lohaidan/mohammed-al-lohaidan-small.webp?version=1686738295939"
+      },
+      "slug": "mohammed-al-lohaidan",
+      "title_en": "Mohammed Al-Lohaidan",
+      "title_ar": "محمداللحيدان",
+      "order": 36
+    },
+    {
+      "image": {
+        "id": 409,
+        "created_at": "2023-06-14T10:24:24.774Z",
+        "updated_at": "2023-06-14T10:24:24.955Z",
+        "folder": "uploads/images/mohamed-seddik-el-menchaoui",
+        "original_url": "https://api2.quran-pro.com/images/mohamed-seddik-el-menchaoui/mohamed-seddik-el-menchaoui.png?version=1686738264774",
+        "optimized_url": "https://api2.quran-pro.com/images/mohamed-seddik-el-menchaoui/mohamed-seddik-el-menchaoui-optimized.webp?version=1686738264774",
+        "medium_url": "https://api2.quran-pro.com/images/mohamed-seddik-el-menchaoui/mohamed-seddik-el-menchaoui-medium.webp?version=1686738264774",
+        "small_url": "https://api2.quran-pro.com/images/mohamed-seddik-el-menchaoui/mohamed-seddik-el-menchaoui-small.webp?version=1686738264774"
+      },
+      "slug": "mohamed-seddik-el-menchaoui",
+      "title_en": "Mohamed Seddik El Menchaoui",
+      "title_ar": "محمد صديق المنشاوي",
+      "order": 37
+    },
+    {
+      "image": {
+        "id": 433,
+        "created_at": "2023-06-14T10:28:12.756Z",
+        "updated_at": "2023-06-14T10:28:12.932Z",
+        "folder": "uploads/images/omar-al-kazabri",
+        "original_url": "https://api2.quran-pro.com/images/omar-al-kazabri/omar-al-kazabri.png?version=1686738492756",
+        "optimized_url": "https://api2.quran-pro.com/images/omar-al-kazabri/omar-al-kazabri-optimized.webp?version=1686738492756",
+        "medium_url": "https://api2.quran-pro.com/images/omar-al-kazabri/omar-al-kazabri-medium.webp?version=1686738492756",
+        "small_url": "https://api2.quran-pro.com/images/omar-al-kazabri/omar-al-kazabri-small.webp?version=1686738492756"
+      },
+      "slug": "omar-al-kazabri",
+      "title_en": "Omar Al Kazabri",
+      "title_ar": "عمر القزابري",
+      "order": 38
+    },
+    {
+      "image": {
+        "id": 366,
+        "created_at": "2023-06-14T10:17:48.373Z",
+        "updated_at": "2023-06-14T10:17:48.546Z",
+        "folder": "uploads/images/fares-abbad",
+        "original_url": "https://api2.quran-pro.com/images/fares-abbad/fares-abbad.png?version=1686737868373",
+        "optimized_url": "https://api2.quran-pro.com/images/fares-abbad/fares-abbad-optimized.webp?version=1686737868373",
+        "medium_url": "https://api2.quran-pro.com/images/fares-abbad/fares-abbad-medium.webp?version=1686737868373",
+        "small_url": "https://api2.quran-pro.com/images/fares-abbad/fares-abbad-small.webp?version=1686737868373"
+      },
+      "slug": "fares-abbad",
+      "title_en": "Fares Abbad",
+      "title_ar": "فارس عباد",
+      "order": 39
+    },
+    {
+      "image": {
+        "id": 341,
+        "created_at": "2023-06-14T10:14:31.063Z",
+        "updated_at": "2023-06-14T10:14:31.335Z",
+        "folder": "uploads/images/ahmed-ragab",
+        "original_url": "https://api2.quran-pro.com/images/ahmed-ragab/ahmed-ragab.jpeg?version=1686737671063",
+        "optimized_url": "https://api2.quran-pro.com/images/ahmed-ragab/ahmed-ragab-optimized.webp?version=1686737671063",
+        "medium_url": "https://api2.quran-pro.com/images/ahmed-ragab/ahmed-ragab-medium.webp?version=1686737671063",
+        "small_url": "https://api2.quran-pro.com/images/ahmed-ragab/ahmed-ragab-small.webp?version=1686737671063"
+      },
+      "slug": "ahmed-ragab",
+      "title_en": "Ahmed Ragab",
+      "title_ar": "أحمد رجب",
+      "order": 40
+    },
+    {
+      "image": {
+        "id": 354,
+        "created_at": "2023-06-14T10:16:24.305Z",
+        "updated_at": "2023-06-14T10:16:24.564Z",
+        "folder": "uploads/images/bandar-baleela",
+        "original_url": "https://api2.quran-pro.com/images/bandar-baleela/bandar-baleela.png?version=1686737784305",
+        "optimized_url": "https://api2.quran-pro.com/images/bandar-baleela/bandar-baleela-optimized.webp?version=1686737784305",
+        "medium_url": "https://api2.quran-pro.com/images/bandar-baleela/bandar-baleela-medium.webp?version=1686737784305",
+        "small_url": "https://api2.quran-pro.com/images/bandar-baleela/bandar-baleela-small.webp?version=1686737784305"
+      },
+      "slug": "bandar-baleela",
+      "title_en": "Bandar Baleela",
+      "title_ar": "بندر بليلة",
+      "order": 40
+    },
+    {
+      "image": {
+        "id": 375,
+        "created_at": "2023-06-14T10:19:37.667Z",
+        "updated_at": "2023-06-14T10:19:37.864Z",
+        "folder": "uploads/images/haitham-al-dakhin",
+        "original_url": "https://api2.quran-pro.com/images/haitham-al-dakhin/haitham-al-dakhin.png?version=1686737977667",
+        "optimized_url": "https://api2.quran-pro.com/images/haitham-al-dakhin/haitham-al-dakhin-optimized.webp?version=1686737977667",
+        "medium_url": "https://api2.quran-pro.com/images/haitham-al-dakhin/haitham-al-dakhin-medium.webp?version=1686737977667",
+        "small_url": "https://api2.quran-pro.com/images/haitham-al-dakhin/haitham-al-dakhin-small.webp?version=1686737977667"
+      },
+      "slug": "haitham-al-dakhin",
+      "title_en": "Haitham Al Dakhin",
+      "title_ar": "هيثم الدخين",
+      "order": 40
+    },
+    {
+      "image": {
+        "id": 338,
+        "created_at": "2023-06-14T10:14:04.724Z",
+        "updated_at": "2023-06-14T10:14:04.947Z",
+        "folder": "uploads/images/ahmed-al-lahdan",
+        "original_url": "https://api2.quran-pro.com/images/ahmed-al-lahdan/ahmed-al-lahdan.png?version=1686737644724",
+        "optimized_url": "https://api2.quran-pro.com/images/ahmed-al-lahdan/ahmed-al-lahdan-optimized.webp?version=1686737644724",
+        "medium_url": "https://api2.quran-pro.com/images/ahmed-al-lahdan/ahmed-al-lahdan-medium.webp?version=1686737644724",
+        "small_url": "https://api2.quran-pro.com/images/ahmed-al-lahdan/ahmed-al-lahdan-small.webp?version=1686737644724"
+      },
+      "slug": "ahmed-al-lahdan",
+      "title_en": "Ahmed Al Lahdan",
+      "title_ar": "أحمد اللحدان",
+      "order": 41
+    },
+    {
+      "image": {
+        "id": 391,
+        "created_at": "2023-06-14T10:21:50.246Z",
+        "updated_at": "2023-06-14T10:21:50.424Z",
+        "folder": "uploads/images/khalid-al-jalil",
+        "original_url": "https://api2.quran-pro.com/images/khalid-al-jalil/khalid-al-jalil.png?version=1686738110246",
+        "optimized_url": "https://api2.quran-pro.com/images/khalid-al-jalil/khalid-al-jalil-optimized.webp?version=1686738110246",
+        "medium_url": "https://api2.quran-pro.com/images/khalid-al-jalil/khalid-al-jalil-medium.webp?version=1686738110246",
+        "small_url": "https://api2.quran-pro.com/images/khalid-al-jalil/khalid-al-jalil-small.webp?version=1686738110246"
+      },
+      "slug": "khalid-al-jalil",
+      "title_en": "Khalid Al Jalil",
+      "title_ar": "خالدجليل",
+      "order": 42
+    },
+    {
+      "image": {
+        "id": 437,
+        "created_at": "2023-06-14T10:35:43.460Z",
+        "updated_at": "2023-06-14T10:35:43.684Z",
+        "folder": "uploads/images/omar-hisham-al-arabi",
+        "original_url": "https://api2.quran-pro.com/images/omar-hisham-al-arabi/omar-hisham-al-arabi.png?version=1686738943460",
+        "optimized_url": "https://api2.quran-pro.com/images/omar-hisham-al-arabi/omar-hisham-al-arabi-optimized.webp?version=1686738943460",
+        "medium_url": "https://api2.quran-pro.com/images/omar-hisham-al-arabi/omar-hisham-al-arabi-medium.webp?version=1686738943460",
+        "small_url": "https://api2.quran-pro.com/images/omar-hisham-al-arabi/omar-hisham-al-arabi-small.webp?version=1686738943460"
+      },
+      "slug": "omar-hisham-al-arabi",
+      "title_en": "Omar Hisham Al Arabi",
+      "title_ar": "عمر هشام العربي",
+      "order": 42
+    },
+    {
+      "image": {
+        "id": 325,
+        "created_at": "2023-06-14T10:11:55.663Z",
+        "updated_at": "2023-06-14T10:11:55.850Z",
+        "folder": "uploads/images/abdulwadood-haneef",
+        "original_url": "https://api2.quran-pro.com/images/abdulwadood-haneef/abdulwadood-haneef.png?version=1686737515663",
+        "optimized_url": "https://api2.quran-pro.com/images/abdulwadood-haneef/abdulwadood-haneef-optimized.webp?version=1686737515663",
+        "medium_url": "https://api2.quran-pro.com/images/abdulwadood-haneef/abdulwadood-haneef-medium.webp?version=1686737515663",
+        "small_url": "https://api2.quran-pro.com/images/abdulwadood-haneef/abdulwadood-haneef-small.webp?version=1686737515663"
+      },
+      "slug": "abdulwadood-haneef",
+      "title_en": "Abdulwadood Haneef",
+      "title_ar": "عبد الودود حنيف",
+      "order": 43
+    },
+    {
+      "image": {
+        "id": 374,
+        "created_at": "2023-06-14T10:19:27.493Z",
+        "updated_at": "2023-06-14T10:19:27.638Z",
+        "folder": "uploads/images/fouad-al-khamiri",
+        "original_url": "https://api2.quran-pro.com/images/fouad-al-khamiri/fouad-al-khamiri.png?version=1686737967493",
+        "optimized_url": "https://api2.quran-pro.com/images/fouad-al-khamiri/fouad-al-khamiri-optimized.webp?version=1686737967493",
+        "medium_url": "https://api2.quran-pro.com/images/fouad-al-khamiri/fouad-al-khamiri-medium.webp?version=1686737967493",
+        "small_url": "https://api2.quran-pro.com/images/fouad-al-khamiri/fouad-al-khamiri-small.webp?version=1686737967493"
+      },
+      "slug": "fouad-al-khamiri",
+      "title_en": "Fouad Al Khamiri",
+      "title_ar": "فؤاد الخامري",
+      "order": 43
+    },
+    {
+      "image": {
+        "id": 378,
+        "created_at": "2023-06-14T10:19:57.907Z",
+        "updated_at": "2023-06-14T10:19:58.079Z",
+        "folder": "uploads/images/hani-ar-rifai",
+        "original_url": "https://api2.quran-pro.com/images/hani-ar-rifai/hani-ar-rifai.png?version=1686737997907",
+        "optimized_url": "https://api2.quran-pro.com/images/hani-ar-rifai/hani-ar-rifai-optimized.webp?version=1686737997907",
+        "medium_url": "https://api2.quran-pro.com/images/hani-ar-rifai/hani-ar-rifai-medium.webp?version=1686737997907",
+        "small_url": "https://api2.quran-pro.com/images/hani-ar-rifai/hani-ar-rifai-small.webp?version=1686737997907"
+      },
+      "slug": "hani-ar-rifai",
+      "title_en": "Hani Ar Rifai",
+      "title_ar": "هاني الرفاعي",
+      "order": 44
+    },
+    {
+      "image": {
+        "id": 468,
+        "created_at": "2023-06-14T10:43:53.748Z",
+        "updated_at": "2023-06-14T10:43:53.898Z",
+        "folder": "uploads/images/yasser-al-faylakawi",
+        "original_url": "https://api2.quran-pro.com/images/yasser-al-faylakawi/yasser-al-faylakawi.png?version=1686739433748",
+        "optimized_url": "https://api2.quran-pro.com/images/yasser-al-faylakawi/yasser-al-faylakawi-optimized.webp?version=1686739433748",
+        "medium_url": "https://api2.quran-pro.com/images/yasser-al-faylakawi/yasser-al-faylakawi-medium.webp?version=1686739433748",
+        "small_url": "https://api2.quran-pro.com/images/yasser-al-faylakawi/yasser-al-faylakawi-small.webp?version=1686739433748"
+      },
+      "slug": "yasser-al-faylakawi",
+      "title_en": "Yasser Al-Faylakawi",
+      "title_ar": "ياسرالفيلكاوي",
+      "order": 45
+    },
+    {
+      "image": {
+        "id": 467,
+        "created_at": "2023-06-14T10:43:39.817Z",
+        "updated_at": "2023-06-14T10:43:40.010Z",
+        "folder": "uploads/images/yassen-al-jazairi",
+        "original_url": "https://api2.quran-pro.com/images/yassen-al-jazairi/yassen-al-jazairi.png?version=1686739419817",
+        "optimized_url": "https://api2.quran-pro.com/images/yassen-al-jazairi/yassen-al-jazairi-optimized.webp?version=1686739419817",
+        "medium_url": "https://api2.quran-pro.com/images/yassen-al-jazairi/yassen-al-jazairi-medium.webp?version=1686739419817",
+        "small_url": "https://api2.quran-pro.com/images/yassen-al-jazairi/yassen-al-jazairi-small.webp?version=1686739419817"
+      },
+      "slug": "yassen-al-jazairi",
+      "title_en": "Yassen Al Jazairi",
+      "title_ar": "ياسين الجزائري",
+      "order": 46
+    },
+    {
+      "image": {
+        "id": 371,
+        "created_at": "2023-06-14T10:19:10.077Z",
+        "updated_at": "2023-06-14T10:19:10.366Z",
+        "folder": "uploads/images/feysal-mohamad",
+        "original_url": "https://api2.quran-pro.com/images/feysal-mohamad/feysal-mohamad.png?version=1686737950077",
+        "optimized_url": "https://api2.quran-pro.com/images/feysal-mohamad/feysal-mohamad-optimized.webp?version=1686737950077",
+        "medium_url": "https://api2.quran-pro.com/images/feysal-mohamad/feysal-mohamad-medium.webp?version=1686737950077",
+        "small_url": "https://api2.quran-pro.com/images/feysal-mohamad/feysal-mohamad-small.webp?version=1686737950077"
+      },
+      "slug": "feysal-mohamad",
+      "title_en": "Feysal Mohamad",
+      "title_ar": "فيصل محمد",
+      "order": 47
+    },
+    {
+      "image": {
+        "id": 406,
+        "created_at": "2023-06-14T10:24:10.658Z",
+        "updated_at": "2023-06-14T10:24:10.850Z",
+        "folder": "uploads/images/mohamed-ayoub",
+        "original_url": "https://api2.quran-pro.com/images/mohamed-ayoub/mohamed-ayoub.png?version=1686738250658",
+        "optimized_url": "https://api2.quran-pro.com/images/mohamed-ayoub/mohamed-ayoub-optimized.webp?version=1686738250658",
+        "medium_url": "https://api2.quran-pro.com/images/mohamed-ayoub/mohamed-ayoub-medium.webp?version=1686738250658",
+        "small_url": "https://api2.quran-pro.com/images/mohamed-ayoub/mohamed-ayoub-small.webp?version=1686738250658"
+      },
+      "slug": "mohamed-ayoub",
+      "title_en": "Mohamed Ayoub",
+      "title_ar": "محمدأيوب",
+      "order": 48
+    },
+    {
+      "image": {
+        "id": 321,
+        "created_at": "2023-06-14T10:11:34.649Z",
+        "updated_at": "2023-06-14T10:11:34.815Z",
+        "folder": "uploads/images/abdullah-matrood",
+        "original_url": "https://api2.quran-pro.com/images/abdullah-matrood/abdullah-matrood.png?version=1686737494649",
+        "optimized_url": "https://api2.quran-pro.com/images/abdullah-matrood/abdullah-matrood-optimized.webp?version=1686737494649",
+        "medium_url": "https://api2.quran-pro.com/images/abdullah-matrood/abdullah-matrood-medium.webp?version=1686737494649",
+        "small_url": "https://api2.quran-pro.com/images/abdullah-matrood/abdullah-matrood-small.webp?version=1686737494649"
+      },
+      "slug": "abdullah-matrood",
+      "title_en": "Abdullah Matrood",
+      "title_ar": "عبد الله مطرود",
+      "order": 49
+    },
+    {
+      "image": {
+        "id": 387,
+        "created_at": "2023-06-14T10:21:19.818Z",
+        "updated_at": "2023-06-14T10:21:20.097Z",
+        "folder": "uploads/images/jibril-wahab",
+        "original_url": "https://api2.quran-pro.com/images/jibril-wahab/jibril-wahab.png?version=1686738079818",
+        "optimized_url": "https://api2.quran-pro.com/images/jibril-wahab/jibril-wahab-optimized.webp?version=1686738079818",
+        "medium_url": "https://api2.quran-pro.com/images/jibril-wahab/jibril-wahab-medium.webp?version=1686738079818",
+        "small_url": "https://api2.quran-pro.com/images/jibril-wahab/jibril-wahab-small.webp?version=1686738079818"
+      },
+      "slug": "jibril-wahab",
+      "title_en": "Jibril Wahab",
+      "title_ar": "جبريل وهاب",
+      "order": 50
+    },
+    {
+      "image": {
+        "id": 326,
+        "created_at": "2023-06-14T10:12:18.876Z",
+        "updated_at": "2023-06-14T10:12:19.086Z",
+        "folder": "uploads/images/abdul-wahab-tahir-latif",
+        "original_url": "https://api2.quran-pro.com/images/abdul-wahab-tahir-latif/abdul-wahab-tahir-latif.png?version=1686737538876",
+        "optimized_url": "https://api2.quran-pro.com/images/abdul-wahab-tahir-latif/abdul-wahab-tahir-latif-optimized.webp?version=1686737538876",
+        "medium_url": "https://api2.quran-pro.com/images/abdul-wahab-tahir-latif/abdul-wahab-tahir-latif-medium.webp?version=1686737538876",
+        "small_url": "https://api2.quran-pro.com/images/abdul-wahab-tahir-latif/abdul-wahab-tahir-latif-small.webp?version=1686737538876"
+      },
+      "slug": "abdul-wahab-tahir-latif",
+      "title_en": "Abdul Wahab Tahir Latif",
+      "title_ar": "عبدالوهاب طاهر لطيف",
+      "order": 51
+    },
+    {
+      "image": {
+        "id": 307,
+        "created_at": "2023-06-14T10:09:02.694Z",
+        "updated_at": "2023-06-14T10:09:02.962Z",
+        "folder": "uploads/images/abdulaziz-az-zahrani",
+        "original_url": "https://api2.quran-pro.com/images/abdulaziz-az-zahrani/abdulaziz-az-zahrani.png?version=1686737342694",
+        "optimized_url": "https://api2.quran-pro.com/images/abdulaziz-az-zahrani/abdulaziz-az-zahrani-optimized.webp?version=1686737342694",
+        "medium_url": "https://api2.quran-pro.com/images/abdulaziz-az-zahrani/abdulaziz-az-zahrani-medium.webp?version=1686737342694",
+        "small_url": "https://api2.quran-pro.com/images/abdulaziz-az-zahrani/abdulaziz-az-zahrani-small.webp?version=1686737342694"
+      },
+      "slug": "abdulaziz-az-zahrani",
+      "title_en": "Abdulaziz Az-Zahrani",
+      "title_ar": "عبدالعزيز الزهراني",
+      "order": 52
+    },
+    {
+      "image": {
+        "id": 304,
+        "created_at": "2023-06-14T09:58:42.084Z",
+        "updated_at": "2023-06-14T09:58:42.299Z",
+        "folder": "uploads/images/abderahmane-eloosi",
+        "original_url": "https://api2.quran-pro.com/images/abderahmane-eloosi/abderahmane-eloosi.png?version=1686736722084",
+        "optimized_url": "https://api2.quran-pro.com/images/abderahmane-eloosi/abderahmane-eloosi-optimized.webp?version=1686736722084",
+        "medium_url": "https://api2.quran-pro.com/images/abderahmane-eloosi/abderahmane-eloosi-medium.webp?version=1686736722084",
+        "small_url": "https://api2.quran-pro.com/images/abderahmane-eloosi/abderahmane-eloosi-small.webp?version=1686736722084"
+      },
+      "slug": "abderahmane-eloosi",
+      "title_en": "Abderahmane Eloosi",
+      "title_ar": "عبد الرحمن العوسي",
+      "order": 53
+    },
+    {
+      "image": {
+        "id": 318,
+        "created_at": "2023-06-14T10:11:18.528Z",
+        "updated_at": "2023-06-14T10:11:18.668Z",
+        "folder": "uploads/images/abdullah-ibn-ali-basfar",
+        "original_url": "https://api2.quran-pro.com/images/abdullah-ibn-ali-basfar/abdullah-ibn-ali-basfar.png?version=1686737478528",
+        "optimized_url": "https://api2.quran-pro.com/images/abdullah-ibn-ali-basfar/abdullah-ibn-ali-basfar-optimized.webp?version=1686737478528",
+        "medium_url": "https://api2.quran-pro.com/images/abdullah-ibn-ali-basfar/abdullah-ibn-ali-basfar-medium.webp?version=1686737478528",
+        "small_url": "https://api2.quran-pro.com/images/abdullah-ibn-ali-basfar/abdullah-ibn-ali-basfar-small.webp?version=1686737478528"
+      },
+      "slug": "abdullah-ibn-ali-basfar",
+      "title_en": "Abdullah Ibn Ali Basfar",
+      "title_ar": "عبد الله بن علي بصفر",
+      "order": 54
+    },
+    {
+      "image": {
+        "id": 361,
+        "created_at": "2023-06-14T10:17:16.571Z",
+        "updated_at": "2023-06-14T10:17:16.728Z",
+        "folder": "uploads/images/fahad-aziz-niazi",
+        "original_url": "https://api2.quran-pro.com/images/fahad-aziz-niazi/fahad-aziz-niazi.png?version=1686737836571",
+        "optimized_url": "https://api2.quran-pro.com/images/fahad-aziz-niazi/fahad-aziz-niazi-optimized.webp?version=1686737836571",
+        "medium_url": "https://api2.quran-pro.com/images/fahad-aziz-niazi/fahad-aziz-niazi-medium.webp?version=1686737836571",
+        "small_url": "https://api2.quran-pro.com/images/fahad-aziz-niazi/fahad-aziz-niazi-small.webp?version=1686737836571"
+      },
+      "slug": "fahad-aziz-niazi",
+      "title_en": "Fahad Aziz Niazi",
+      "title_ar": "فهد عزيز نيازي",
+      "order": 56
+    },
+    {
+      "image": {
+        "id": 365,
+        "created_at": "2023-06-14T10:17:42.049Z",
+        "updated_at": "2023-06-14T10:17:42.181Z",
+        "folder": "uploads/images/fahd-al-kundury",
+        "original_url": "https://api2.quran-pro.com/images/fahd-al-kundury/fahd-al-kundury.png?version=1686737862049",
+        "optimized_url": "https://api2.quran-pro.com/images/fahd-al-kundury/fahd-al-kundury-optimized.webp?version=1686737862049",
+        "medium_url": "https://api2.quran-pro.com/images/fahd-al-kundury/fahd-al-kundury-medium.webp?version=1686737862049",
+        "small_url": "https://api2.quran-pro.com/images/fahd-al-kundury/fahd-al-kundury-small.webp?version=1686737862049"
+      },
+      "slug": "fahd-al-kundury",
+      "title_en": "Fahd al Kundury",
+      "title_ar": "فهد الكندري",
+      "order": 57
+    },
+    {
+      "image": {
+        "id": 346,
+        "created_at": "2023-06-14T10:15:19.901Z",
+        "updated_at": "2023-06-14T10:15:20.029Z",
+        "folder": "uploads/images/anas-bourak",
+        "original_url": "https://api2.quran-pro.com/images/anas-bourak/anas-bourak.png?version=1686737719901",
+        "optimized_url": "https://api2.quran-pro.com/images/anas-bourak/anas-bourak-optimized.webp?version=1686737719901",
+        "medium_url": "https://api2.quran-pro.com/images/anas-bourak/anas-bourak-medium.webp?version=1686737719901",
+        "small_url": "https://api2.quran-pro.com/images/anas-bourak/anas-bourak-small.webp?version=1686737719901"
+      },
+      "slug": "anas-bourak",
+      "title_en": "Anas Bourak",
+      "title_ar": "أنس براق",
+      "order": 58
+    },
+    {
+      "image": {
+        "id": 464,
+        "created_at": "2023-06-14T10:43:16.924Z",
+        "updated_at": "2023-06-14T10:43:17.117Z",
+        "folder": "uploads/images/wadi-al-yamani",
+        "original_url": "https://api2.quran-pro.com/images/wadi-al-yamani/wadi-al-yamani.png?version=1686739396924",
+        "optimized_url": "https://api2.quran-pro.com/images/wadi-al-yamani/wadi-al-yamani-optimized.webp?version=1686739396924",
+        "medium_url": "https://api2.quran-pro.com/images/wadi-al-yamani/wadi-al-yamani-medium.webp?version=1686739396924",
+        "small_url": "https://api2.quran-pro.com/images/wadi-al-yamani/wadi-al-yamani-small.webp?version=1686739396924"
+      },
+      "slug": "wadi-al-yamani",
+      "title_en": "Wadi Al Yamani",
+      "title_ar": "وادي اليماني",
+      "order": 59
+    },
+    {
+      "image": {
+        "id": 459,
+        "created_at": "2023-06-14T10:42:31.863Z",
+        "updated_at": "2023-06-14T10:42:32.141Z",
+        "folder": "uploads/images/taraweeh-2016",
+        "original_url": "https://api2.quran-pro.com/images/taraweeh-2016/taraweeh-2016.png?version=1686739351863",
+        "optimized_url": "https://api2.quran-pro.com/images/taraweeh-2016/taraweeh-2016-optimized.webp?version=1686739351863",
+        "medium_url": "https://api2.quran-pro.com/images/taraweeh-2016/taraweeh-2016-medium.webp?version=1686739351863",
+        "small_url": "https://api2.quran-pro.com/images/taraweeh-2016/taraweeh-2016-small.webp?version=1686739351863"
+      },
+      "slug": "taraweeh-2016",
+      "title_en": "Taraweeh 2016",
+      "title_ar": "تراويح 1437",
+      "order": 60
+    },
+    {
+      "image": {
+        "id": 460,
+        "created_at": "2023-06-14T10:42:40.190Z",
+        "updated_at": "2023-06-14T10:42:40.424Z",
+        "folder": "uploads/images/taraweeh-2017",
+        "original_url": "https://api2.quran-pro.com/images/taraweeh-2017/taraweeh-2017.png?version=1686739360190",
+        "optimized_url": "https://api2.quran-pro.com/images/taraweeh-2017/taraweeh-2017-optimized.webp?version=1686739360190",
+        "medium_url": "https://api2.quran-pro.com/images/taraweeh-2017/taraweeh-2017-medium.webp?version=1686739360190",
+        "small_url": "https://api2.quran-pro.com/images/taraweeh-2017/taraweeh-2017-small.webp?version=1686739360190"
+      },
+      "slug": "taraweeh-2017",
+      "title_en": "Taraweeh 2017",
+      "title_ar": "تراويح 1438",
+      "order": 61
+    },
+    {
+      "image": {
+        "id": 401,
+        "created_at": "2023-06-14T10:23:30.471Z",
+        "updated_at": "2023-06-14T10:23:30.943Z",
+        "folder": "uploads/images/makkah-taraweeh-1443-2022",
+        "original_url": "https://api2.quran-pro.com/images/makkah-taraweeh-1443-2022/makkah-taraweeh-1443-2022.jpeg?version=1686738210471",
+        "optimized_url": "https://api2.quran-pro.com/images/makkah-taraweeh-1443-2022/makkah-taraweeh-1443-2022-optimized.webp?version=1686738210471",
+        "medium_url": "https://api2.quran-pro.com/images/makkah-taraweeh-1443-2022/makkah-taraweeh-1443-2022-medium.webp?version=1686738210471",
+        "small_url": "https://api2.quran-pro.com/images/makkah-taraweeh-1443-2022/makkah-taraweeh-1443-2022-small.webp?version=1686738210471"
+      },
+      "slug": "makkah-taraweeh-1443-2022",
+      "title_en": "Makkah Taraweeh 1443-2022",
+      "title_ar": "صلاة التراويح الحرم المكي 1443-2022",
+      "order": 62
+    },
+    {
+      "image": {
+        "id": 349,
+        "created_at": "2023-06-14T10:15:38.862Z",
+        "updated_at": "2023-06-14T10:15:39.018Z",
+        "folder": "uploads/images/arabicenglish",
+        "original_url": "https://api2.quran-pro.com/images/arabicenglish/arabicenglish.png?version=1686737738862",
+        "optimized_url": "https://api2.quran-pro.com/images/arabicenglish/arabicenglish-optimized.webp?version=1686737738862",
+        "medium_url": "https://api2.quran-pro.com/images/arabicenglish/arabicenglish-medium.webp?version=1686737738862",
+        "small_url": "https://api2.quran-pro.com/images/arabicenglish/arabicenglish-small.webp?version=1686737738862"
+      },
+      "slug": "arabicenglish",
+      "title_en": "Arabic/English",
+      "title_ar": "العربية/الإنجليزية",
+      "order": 63
+    },
+    {
+      "image": {
+        "id": 348,
+        "created_at": "2023-06-14T10:15:32.712Z",
+        "updated_at": "2023-06-14T10:15:32.857Z",
+        "folder": "uploads/images/arabefrancais",
+        "original_url": "https://api2.quran-pro.com/images/arabefrancais/arabefrancais.png?version=1686737732712",
+        "optimized_url": "https://api2.quran-pro.com/images/arabefrancais/arabefrancais-optimized.webp?version=1686737732712",
+        "medium_url": "https://api2.quran-pro.com/images/arabefrancais/arabefrancais-medium.webp?version=1686737732712",
+        "small_url": "https://api2.quran-pro.com/images/arabefrancais/arabefrancais-small.webp?version=1686737732712"
+      },
+      "slug": "arabefrancais",
+      "title_en": "Arabe/Français",
+      "title_ar": "العربية/الفرنسية",
+      "order": 63
+    },
+    {
+      "image": {
+        "id": 350,
+        "created_at": "2023-06-14T10:15:47.871Z",
+        "updated_at": "2023-06-14T10:15:47.992Z",
+        "folder": "uploads/images/arabicurdu",
+        "original_url": "https://api2.quran-pro.com/images/arabicurdu/arabicurdu.png?version=1686737747871",
+        "optimized_url": "https://api2.quran-pro.com/images/arabicurdu/arabicurdu-optimized.webp?version=1686737747871",
+        "medium_url": "https://api2.quran-pro.com/images/arabicurdu/arabicurdu-medium.webp?version=1686737747871",
+        "small_url": "https://api2.quran-pro.com/images/arabicurdu/arabicurdu-small.webp?version=1686737747871"
+      },
+      "slug": "arabicurdu",
+      "title_en": "Arabic/Urdu",
+      "title_ar": "العربية/الأردية",
+      "order": 64
+    },
+    {
+      "image": {
+        "id": 355,
+        "created_at": "2023-06-14T10:16:28.731Z",
+        "updated_at": "2023-06-14T10:16:29.246Z",
+        "folder": "uploads/images/calm-and-serenity",
+        "original_url": "https://api2.quran-pro.com/images/calm-and-serenity/calm-and-serenity.jpeg?version=1686737788731",
+        "optimized_url": "https://api2.quran-pro.com/images/calm-and-serenity/calm-and-serenity-optimized.webp?version=1686737788731",
+        "medium_url": "https://api2.quran-pro.com/images/calm-and-serenity/calm-and-serenity-medium.webp?version=1686737788731",
+        "small_url": "https://api2.quran-pro.com/images/calm-and-serenity/calm-and-serenity-small.webp?version=1686737788731"
+      },
+      "slug": "calm-and-serenity",
+      "title_en": "Calm and Serenity",
+      "title_ar": "الهدوء والسكينة",
+      "order": 70
+    }
+  ]

@@ -1,0 +1,472 @@
+{
+  "radios": [
+    {
+      "name": "ئابدۇراھمان ئەلماجىد",
+      "radio_url": "http://live.mp3quran.net:9726/;"
+    },
+    {
+      "name": "ئابدۇراھمان سۇدەيس",
+      "radio_url": "http://live.mp3quran.net:9988/;"
+    },
+    {
+      "name": "ئابدۇرەشىد سۇفى",
+      "radio_url": "http://live.mp3quran.net:9864/;"
+    },
+    {
+      "name": "ئابدۇرەشىد سۇفى",
+      "radio_url": "http://live.mp3quran.net:9866/;"
+    },
+    {
+      "name": "ئابدۇلئەزىز ئەھمەد",
+      "radio_url": "http://live.mp3quran.net:9862/;"
+    },
+    {
+      "name": "ئابدۇلبارى سۇبەيتى",
+      "radio_url": "http://live.mp3quran.net:9870/;"
+    },
+    {
+      "name": "ئابدۇلبارى مۇھەممەد",
+      "radio_url": "http://live.mp3quran.net:9868/;"
+    },
+    {
+      "name": "ئابدۇلباسىت ئابدۇسسەمەد",
+      "radio_url": "http://live.mp3quran.net:9974/;"
+    },
+    {
+      "name": "ئابدۇلباسىت ئابدۇسسەمەد",
+      "radio_url": "http://live.mp3quran.net:9956/;"
+    },
+    {
+      "name": "ئابدۇلباسىت ئابدۇسسەمەد",
+      "radio_url": "http://live.mp3quran.net:9980/;"
+    },
+    {
+      "name": "ئابدۇللاھ ئەۋۋاد ئەلجۇھەنىي",
+      "radio_url": "http://live.mp3quran.net:9944/;"
+    },
+    {
+      "name": "ئابدۇللاھ بەسپەر",
+      "radio_url": "http://live.mp3quran.net:9954/;"
+    },
+    {
+      "name": "ئابدۇللاھ خەييات",
+      "radio_url": "http://live.mp3quran.net:9948/;"
+    },
+    {
+      "name": "ئابدۇللاھ كەندەرى",
+      "radio_url": "http://live.mp3quran.net:9860/;"
+    },
+    {
+      "name": "ئابدۇللاھ مەترۇد",
+      "radio_url": "http://live.mp3quran.net:9858/;"
+    },
+    {
+      "name": "ئابدۇلمۇھسىن ئەلقاسىم",
+      "radio_url": "http://live.mp3quran.net:9852/;"
+    },
+    {
+      "name": "ئابدۇلمۇھسىن ئەلھارىسىي",
+      "radio_url": "http://live.mp3quran.net:9856/;"
+    },
+    {
+      "name": "ئابدۇلمۇھسىن ئەلۇبەيكان",
+      "radio_url": "http://live.mp3quran.net:9854/;"
+    },
+    {
+      "name": "ئابدۇلھادى ئەھمەد كەناكىرى",
+      "radio_url": "http://live.mp3quran.net:9850/;"
+    },
+    {
+      "name": "ئابدۇلۋەدۇد ھەنىپ",
+      "radio_url": "http://live.mp3quran.net:9848/;"
+    },
+    {
+      "name": "ئادىل ئەلكەلبانى",
+      "radio_url": "http://live.mp3quran.net:9874/;"
+    },
+    {
+      "name": "ئادىل رەييان",
+      "radio_url": "http://live.mp3quran.net:9872/;"
+    },
+    {
+      "name": "ئەبۇ بەكرى شاتىرى",
+      "radio_url": "http://live.mp3quran.net:9966/;"
+    },
+    {
+      "name": "ئەكرەم ئەلئەلاقمى",
+      "radio_url": "http://live.mp3quran.net:9918/;"
+    },
+    {
+      "name": "ئەلئۇيۇن كەۋشىي",
+      "radio_url": "http://live.mp3quran.net:9912/;"
+    },
+    {
+      "name": "ئەلفاتىھ ئەل زۇبەير",
+      "radio_url": "http://live.mp3quran.net:9910/;"
+    },
+    {
+      "name": "ئەلقارى ياسىن",
+      "radio_url": "http://live.mp3quran.net:9908/;"
+    },
+    {
+      "name": "ئەلى ئەلھۇزەيفى",
+      "radio_url": "http://live.mp3quran.net:9846/;"
+    },
+    {
+      "name": "ئەلى ئىبنى ئابدۇراھمان ئەلھۇزەيفى",
+      "radio_url": "http://live.mp3quran.net:9844/;"
+    },
+    {
+      "name": "ئەلى جابىر",
+      "radio_url": "http://live.mp3quran.net:9964/;"
+    },
+    {
+      "name": "ئەلى ھۇججاج سۇۋەيسىي",
+      "radio_url": "http://live.mp3quran.net:9842/;"
+    },
+    {
+      "name": "ئەھمەد ئامىر",
+      "radio_url": "http://live.mp3quran.net:9920/;"
+    },
+    {
+      "name": "ئەھمەد ئەلھەۋاشى",
+      "radio_url": "http://live.mp3quran.net:9928/;"
+    },
+    {
+      "name": "ئەھمەد ئىبنى ئەلى ئەجەمىي",
+      "radio_url": "http://live.mp3quran.net:8008/;"
+    },
+    {
+      "name": "ئەھمەد تەرابلىسى",
+      "radio_url": "http://live.mp3quran.net:9926/;"
+    },
+    {
+      "name": "ئەھمەد خىزىر تارابلىسى",
+      "radio_url": "http://live.mp3quran.net:9924/;"
+    },
+    {
+      "name": "ئەھمەد سابىر",
+      "radio_url": "http://live.mp3quran.net:9922/;"
+    },
+    {
+      "name": "ئەھمەد نۇئەينەئ",
+      "radio_url": "http://live.mp3quran.net:9904/;"
+    },
+    {
+      "name": "ئۆمەر قەزابرى",
+      "radio_url": "http://live.mp3quran.net:9838/;"
+    },
+    {
+      "name": "ئىبراھىم ئەلئەخدەر",
+      "radio_url": "http://live.mp3quran.net:9946/;"
+    },
+    {
+      "name": "ئىبراھىم ئەلدەۋسىرى",
+      "radio_url": "http://live.mp3quran.net:9902/;"
+    },
+    {
+      "name": "ئىدرىس ئەبكەر",
+      "radio_url": "http://live.mp3quran.net:9968/;"
+    },
+    {
+      "name": "ئىماد زۇھەير ھاپىز",
+      "radio_url": "http://live.mp3quran.net:9840/;"
+    },
+    {
+      "name": "بىر نەچچە قارىلارنىڭ سۈرە بەقەرە قىرائىتى",
+      "radio_url": "http://live.mp3quran.net:9722/;"
+    },
+    {
+      "name": "پارس ئۇبباد",
+      "radio_url": "http://live.mp3quran.net:9972/;"
+    },
+    {
+      "name": "پەتىۋا تاراتقۇسى",
+      "radio_url": "http://live.mp3quran.net:8014/;"
+    },
+    {
+      "name": "تارىق دەئۇب",
+      "radio_url": "http://live.mp3quran.net:9876/;"
+    },
+    {
+      "name": "تكبيرات العيد",
+      "radio_url": "http://live.mp3quran.net:9728/;"
+    },
+    {
+      "name": "تەۋپىق سايىغ",
+      "radio_url": "http://live.mp3quran.net:9906/;"
+    },
+    {
+      "name": "جامال شاكىر ئابدۇللاھ",
+      "radio_url": "http://live.mp3quran.net:9900/;"
+    },
+    {
+      "name": "جەمئان ئەلئۇسسەيمى",
+      "radio_url": "http://live.mp3quran.net:9950/;"
+    },
+    {
+      "name": "خالىد ئابدۇلكافى",
+      "radio_url": "http://live.mp3quran.net:9894/;"
+    },
+    {
+      "name": "خالىد ئەلمۇھەننا",
+      "radio_url": "http://live.mp3quran.net:9896/;"
+    },
+    {
+      "name": "خالىد جەلىل",
+      "radio_url": "http://live.mp3quran.net:9708/;"
+    },
+    {
+      "name": "خالىد قەھتانى",
+      "radio_url": "http://live.mp3quran.net:9970/;"
+    },
+    {
+      "name": "خەلىپە تەنىيجى",
+      "radio_url": "http://live.mp3quran.net:9892/;"
+    },
+    {
+      "name": "دەۋكالى مۇھەممەد ئالىم",
+      "radio_url": "http://live.mp3quran.net:9916/;"
+    },
+    {
+      "name": "رۇقىيە شەرئى تاراتقۇسى",
+      "radio_url": "http://live.mp3quran.net:9936/;"
+    },
+    {
+      "name": "زەكى داغىستانى",
+      "radio_url": "http://live.mp3quran.net:9890/;"
+    },
+    {
+      "name": "زەيىن مۇھەممەد ئەھمەد",
+      "radio_url": "http://live.mp3quran.net:9914/;"
+    },
+    {
+      "name": "سابىر ئابدۇلھەكىم",
+      "radio_url": "http://live.mp3quran.net:9952/;"
+    },
+    {
+      "name": "سەئد ئەلغامىدى",
+      "radio_url": "http://live.mp3quran.net:8004/;"
+    },
+    {
+      "name": "سەلاھ ئەبۇخاتىر",
+      "radio_url": "http://live.mp3quran.net:9878/;"
+    },
+    {
+      "name": "سەلاھ ئەلبۇدەير",
+      "radio_url": "http://live.mp3quran.net:9882/;"
+    },
+    {
+      "name": "سەلاھ ئەلھاشىم",
+      "radio_url": "http://live.mp3quran.net:9880/;"
+    },
+    {
+      "name": "سەھل ياسىن",
+      "radio_url": "http://live.mp3quran.net:9888/;"
+    },
+    {
+      "name": "سەييىد رەمەزان",
+      "radio_url": "http://live.mp3quran.net:9886/;"
+    },
+    {
+      "name": "شەئۇد شۇرەيم",
+      "radio_url": "http://live.mp3quran.net:9986/;"
+    },
+    {
+      "name": "شىرزاد ئابدۇراھمان تاھىر",
+      "radio_url": "http://live.mp3quran.net:9884/;"
+    },
+    {
+      "name": "ماھىر شەخاشىيرۇ",
+      "radio_url": "http://live.mp3quran.net:9836/;"
+    },
+    {
+      "name": "ماھىر مۇئەيقىلى",
+      "radio_url": "http://live.mp3quran.net:8002/;"
+    },
+    {
+      "name": "مەركىزى تاراتقۇ",
+      "radio_url": "http://live.mp3quran.net:8006/;"
+    },
+    {
+      "name": "مەشارىي ئەپپاسى",
+      "radio_url": "http://live.mp3quran.net:8010/;"
+    },
+    {
+      "name": "مەھمۇد ئەلى ئەلبەننا",
+      "radio_url": "http://live.mp3quran.net:9808/;"
+    },
+    {
+      "name": "مەھمۇد ئەلى ئەلبەننا",
+      "radio_url": "http://live.mp3quran.net:9810/;"
+    },
+    {
+      "name": "مەھمۇد خەلىل ئەلھىسرى",
+      "radio_url": "http://live.mp3quran.net:9806/;"
+    },
+    {
+      "name": "مەھمۇد خەلىل ئەلھىسرى",
+      "radio_url": "http://live.mp3quran.net:9804/;"
+    },
+    {
+      "name": "مەھمۇد خەلىل ئەلھىسرى",
+      "radio_url": "http://live.mp3quran.net:9958/;"
+    },
+    {
+      "name": "مەھمۇد رەپائىي",
+      "radio_url": "http://live.mp3quran.net:9818/;"
+    },
+    {
+      "name": "مەھمۇد شەيمى",
+      "radio_url": "http://live.mp3quran.net:9812/;"
+    },
+    {
+      "name": "مۇئەييىد ئەلھارىسى",
+      "radio_url": "http://live.mp3quran.net:9802/;"
+    },
+    {
+      "name": "مۇسا بىلال",
+      "radio_url": "http://live.mp3quran.net:9786/;"
+    },
+    {
+      "name": "مۇستەپا ئىسمائىل",
+      "radio_url": "http://live.mp3quran.net:9800/;"
+    },
+    {
+      "name": "مۇستەپا رەئد ئەلئەزاۋىي",
+      "radio_url": "http://live.mp3quran.net:9796/;"
+    },
+    {
+      "name": "مۇستەپا لاھۇنىي",
+      "radio_url": "http://live.mp3quran.net:9798/;"
+    },
+    {
+      "name": "مۇڭلۇق قىرا.ەت",
+      "radio_url": "http://live.mp3quran.net:9992/;"
+    },
+    {
+      "name": "مۇھەممەد ئابدۇلكەرىم",
+      "radio_url": "http://live.mp3quran.net:9824/;"
+    },
+    {
+      "name": "مۇھەممەد ئابدۇلكەرىم",
+      "radio_url": "http://live.mp3quran.net:9822/;"
+    },
+    {
+      "name": "مۇھەممەد ئابدۇلھەكىم سەئىد ئابدۇللاھ",
+      "radio_url": "http://live.mp3quran.net:9816/;"
+    },
+    {
+      "name": "مۇھەممەد ئابدۇلھەكىم سەئىد ئابدۇللاھ",
+      "radio_url": "http://live.mp3quran.net:9814/;"
+    },
+    {
+      "name": "مۇھەممەد ئەللۇھەيدان",
+      "radio_url": "http://live.mp3quran.net:9832/;"
+    },
+    {
+      "name": "مۇھەممەد ئەييۇب",
+      "radio_url": "http://live.mp3quran.net:9960/;"
+    },
+    {
+      "name": "مۇھەممەد ئۆسمان خان (ھىندىستاندىن)",
+      "radio_url": "http://live.mp3quran.net:9820/;"
+    },
+    {
+      "name": "مۇھەممەد تەبلاۋىي",
+      "radio_url": "http://live.mp3quran.net:9834/;"
+    },
+    {
+      "name": "مۇھەممەد جىبرىل",
+      "radio_url": "http://live.mp3quran.net:9962/;"
+    },
+    {
+      "name": "مۇھەممەد رەشاد شەرىپ",
+      "radio_url": "http://live.mp3quran.net:9830/;"
+    },
+    {
+      "name": "مۇھەممەد سالىھ ئالىم شاھ",
+      "radio_url": "http://live.mp3quran.net:9828/;"
+    },
+    {
+      "name": "مۇھەممەد سىددىق مەنشاۋىي",
+      "radio_url": "http://live.mp3quran.net:9978/;"
+    },
+    {
+      "name": "مۇھەممەد سىددىق مەنشاۋىي",
+      "radio_url": "http://live.mp3quran.net:9826/;"
+    },
+    {
+      "name": "مىفتاھ سەلتەنىي",
+      "radio_url": "http://live.mp3quran.net:9788/;"
+    },
+    {
+      "name": "مىفتاھ سەلتەنىي",
+      "radio_url": "http://live.mp3quran.net:9792/;"
+    },
+    {
+      "name": "مىفتاھ سەلتەنىي",
+      "radio_url": "http://live.mp3quran.net:9794/;"
+    },
+    {
+      "name": "مىفتاھ سەلتەنىي",
+      "radio_url": "http://live.mp3quran.net:9790/;"
+    },
+    {
+      "name": "ناسىر ئەلفەتامىي",
+      "radio_url": "http://live.mp3quran.net:9994/;"
+    },
+    {
+      "name": "ناصر الماجد",
+      "radio_url": "http://live.mp3quran.net:9712/;"
+    },
+    {
+      "name": "نەبىل رەپائىي",
+      "radio_url": "http://live.mp3quran.net:9784/;"
+    },
+    {
+      "name": "نېئمەتۇل ئەلھەسسان",
+      "radio_url": "http://live.mp3quran.net:9782/;"
+    },
+    {
+      "name": "هيثم جدعانى",
+      "radio_url": "http://live.mp3quran.net:9714/;"
+    },
+    {
+      "name": "ھاتەم فەرىد ئەلۋائىر",
+      "radio_url": "http://live.mp3quran.net:9898/;"
+    },
+    {
+      "name": "ھانى رەپائى",
+      "radio_url": "http://live.mp3quran.net:9780/;"
+    },
+    {
+      "name": "ۋەلىد نائىھىي",
+      "radio_url": "http://live.mp3quran.net:9778/;"
+    },
+    {
+      "name": "ياسىر ئەلدەۋسىرى",
+      "radio_url": "http://live.mp3quran.net:9984/;"
+    },
+    {
+      "name": "ياسىر ئەلقۇرەيشى",
+      "radio_url": "http://live.mp3quran.net:9776/;"
+    },
+    {
+      "name": "ياسىر ئەلمەزرۇئى",
+      "radio_url": "http://live.mp3quran.net:9774/;"
+    },
+    {
+      "name": "يەھيا ھەۋا",
+      "radio_url": "http://live.mp3quran.net:9772/;"
+    },
+    {
+      "name": "يۇسۇپ ئەلشۇۋەيئى",
+      "radio_url": "http://live.mp3quran.net:9770/;"
+    },
+    {
+      "name": "يۇسۇپ ئىبنى نۇھ ئەھمەد",
+      "radio_url": "http://live.mp3quran.net:9768/;"
+    }
+  ]
+}

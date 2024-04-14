@@ -1,0 +1,472 @@
+{
+  "radios": [
+    {
+      "name": "--Glavni Radio--",
+      "radio_url": "http://live.mp3quran.net:8006/;"
+    },
+    {
+      "name": "--Prelijepa Učenja--",
+      "radio_url": "http://live.mp3quran.net:9992/;"
+    },
+    {
+      "name": "-Fetve Radio-",
+      "radio_url": "http://live.mp3quran.net:8014/;"
+    },
+    {
+      "name": "-Rukja Radio-",
+      "radio_url": "http://live.mp3quran.net:9936/;"
+    },
+    {
+      "name": "-Sura Al-Bakarah od nekoliko karija (učača)-",
+      "radio_url": "http://live.mp3quran.net:9722/;"
+    },
+    {
+      "name": "Abdulaziz El-Ahmed",
+      "radio_url": "http://live.mp3quran.net:9862/;"
+    },
+    {
+      "name": "Abdulbari Es-Subejti",
+      "radio_url": "http://live.mp3quran.net:9870/;"
+    },
+    {
+      "name": "Abdulbari Muhammed",
+      "radio_url": "http://live.mp3quran.net:9868/;"
+    },
+    {
+      "name": "Abdulbasit Abdussamed",
+      "radio_url": "http://live.mp3quran.net:9956/;"
+    },
+    {
+      "name": "Abdulbasit Abdussamed",
+      "radio_url": "http://live.mp3quran.net:9980/;"
+    },
+    {
+      "name": "Abdulbasit Abdussamed",
+      "radio_url": "http://live.mp3quran.net:9974/;"
+    },
+    {
+      "name": "Abdulhadi Ahmed Kenakri",
+      "radio_url": "http://live.mp3quran.net:9850/;"
+    },
+    {
+      "name": "Abdullah Avad El-Džuheni",
+      "radio_url": "http://live.mp3quran.net:9944/;"
+    },
+    {
+      "name": "Abdullah Basfer",
+      "radio_url": "http://live.mp3quran.net:9954/;"
+    },
+    {
+      "name": "Abdullah El-Kenderi",
+      "radio_url": "http://live.mp3quran.net:9860/;"
+    },
+    {
+      "name": "Abdullah El-Matrud",
+      "radio_url": "http://live.mp3quran.net:9858/;"
+    },
+    {
+      "name": "Abdullah Hajjat",
+      "radio_url": "http://live.mp3quran.net:9948/;"
+    },
+    {
+      "name": "Abdulmuhsin El-'Ubejkan",
+      "radio_url": "http://live.mp3quran.net:9854/;"
+    },
+    {
+      "name": "Abdulmuhsin El-Harisi",
+      "radio_url": "http://live.mp3quran.net:9856/;"
+    },
+    {
+      "name": "Abdulmuhsin El-Kasim",
+      "radio_url": "http://live.mp3quran.net:9852/;"
+    },
+    {
+      "name": "Abdulvedud Hanif",
+      "radio_url": "http://live.mp3quran.net:9848/;"
+    },
+    {
+      "name": "Abdur-Rahman Al-Madžid",
+      "radio_url": "http://live.mp3quran.net:9726/;"
+    },
+    {
+      "name": "Abdurrahman Es-Sudejs",
+      "radio_url": "http://live.mp3quran.net:9988/;"
+    },
+    {
+      "name": "Abdurrešid Sufi",
+      "radio_url": "http://live.mp3quran.net:9864/;"
+    },
+    {
+      "name": "Abdurrešid Sufi",
+      "radio_url": "http://live.mp3quran.net:9866/;"
+    },
+    {
+      "name": "Adil El-Kelbani",
+      "radio_url": "http://live.mp3quran.net:9874/;"
+    },
+    {
+      "name": "Adil Rejjan",
+      "radio_url": "http://live.mp3quran.net:9872/;"
+    },
+    {
+      "name": "Ahmed Amir",
+      "radio_url": "http://live.mp3quran.net:9920/;"
+    },
+    {
+      "name": "Ahmed b. Ali El-Dzemi",
+      "radio_url": "http://live.mp3quran.net:8008/;"
+    },
+    {
+      "name": "Ahmed El-Havaši",
+      "radio_url": "http://live.mp3quran.net:9928/;"
+    },
+    {
+      "name": "Ahmed Et-Tarablusi",
+      "radio_url": "http://live.mp3quran.net:9926/;"
+    },
+    {
+      "name": "Ahmed Hadir Et-Tarablusi",
+      "radio_url": "http://live.mp3quran.net:9924/;"
+    },
+    {
+      "name": "Ahmed Nu'ajn'i",
+      "radio_url": "http://live.mp3quran.net:9904/;"
+    },
+    {
+      "name": "Ahmed Sabir",
+      "radio_url": "http://live.mp3quran.net:9922/;"
+    },
+    {
+      "name": "Akram Alalaqmi",
+      "radio_url": "http://live.mp3quran.net:9918/;"
+    },
+    {
+      "name": "Ali b. Abdurrahman El-Huzejfi",
+      "radio_url": "http://live.mp3quran.net:9844/;"
+    },
+    {
+      "name": "Ali Džabir",
+      "radio_url": "http://live.mp3quran.net:9964/;"
+    },
+    {
+      "name": "Ali El-Huzejfi",
+      "radio_url": "http://live.mp3quran.net:9846/;"
+    },
+    {
+      "name": "Ali Haždžadž Es-Suvejsi",
+      "radio_url": "http://live.mp3quran.net:9842/;"
+    },
+    {
+      "name": "Džem'an El-'Usajmi",
+      "radio_url": "http://live.mp3quran.net:9950/;"
+    },
+    {
+      "name": "Džemal Šakr Abdullah",
+      "radio_url": "http://live.mp3quran.net:9900/;"
+    },
+    {
+      "name": "Ed-Dukali Muhammed El-Alim",
+      "radio_url": "http://live.mp3quran.net:9916/;"
+    },
+    {
+      "name": "EID's TAKBEER",
+      "radio_url": "http://live.mp3quran.net:9728/;"
+    },
+    {
+      "name": "El-Fatih Muhammed Ez-Zubejr",
+      "radio_url": "http://live.mp3quran.net:9910/;"
+    },
+    {
+      "name": "El-Kari Jasin",
+      "radio_url": "http://live.mp3quran.net:9908/;"
+    },
+    {
+      "name": "El-Ujun El-Kuši",
+      "radio_url": "http://live.mp3quran.net:9912/;"
+    },
+    {
+      "name": "Ez-Zejn Muhammed Ahmed",
+      "radio_url": "http://live.mp3quran.net:9914/;"
+    },
+    {
+      "name": "Faris Abbad",
+      "radio_url": "http://live.mp3quran.net:9972/;"
+    },
+    {
+      "name": "Halid Abdulkafi",
+      "radio_url": "http://live.mp3quran.net:9894/;"
+    },
+    {
+      "name": "Halid El-Halil",
+      "radio_url": "http://live.mp3quran.net:9708/;"
+    },
+    {
+      "name": "Halid El-Kahtani",
+      "radio_url": "http://live.mp3quran.net:9970/;"
+    },
+    {
+      "name": "Halid El-Muhenna",
+      "radio_url": "http://live.mp3quran.net:9896/;"
+    },
+    {
+      "name": "Halife Et-Tanidži",
+      "radio_url": "http://live.mp3quran.net:9892/;"
+    },
+    {
+      "name": "Hani Er-Rifa'i",
+      "radio_url": "http://live.mp3quran.net:9780/;"
+    },
+    {
+      "name": "Hatem Ferid El-Vair",
+      "radio_url": "http://live.mp3quran.net:9898/;"
+    },
+    {
+      "name": "Hitham Aljadani",
+      "radio_url": "http://live.mp3quran.net:9714/;"
+    },
+    {
+      "name": "Ibrahim Ed-Doseri",
+      "radio_url": "http://live.mp3quran.net:9902/;"
+    },
+    {
+      "name": "Ibrahim El-Ahdar",
+      "radio_url": "http://live.mp3quran.net:9946/;"
+    },
+    {
+      "name": "Idris Ebker",
+      "radio_url": "http://live.mp3quran.net:9968/;"
+    },
+    {
+      "name": "ik Abdul-Ganijj De'ub",
+      "radio_url": "http://live.mp3quran.net:9876/;"
+    },
+    {
+      "name": "Imad Zehir Hafiz",
+      "radio_url": "http://live.mp3quran.net:9840/;"
+    },
+    {
+      "name": "Jahja Havva",
+      "radio_url": "http://live.mp3quran.net:9772/;"
+    },
+    {
+      "name": "Jasir Ed-Doseri",
+      "radio_url": "http://live.mp3quran.net:9984/;"
+    },
+    {
+      "name": "Jasir El-Kureši",
+      "radio_url": "http://live.mp3quran.net:9776/;"
+    },
+    {
+      "name": "Jasir El-Mezru'i",
+      "radio_url": "http://live.mp3quran.net:9774/;"
+    },
+    {
+      "name": "Jusuf b. Nuh Ahmed",
+      "radio_url": "http://live.mp3quran.net:9768/;"
+    },
+    {
+      "name": "Jusuf Eš-Šu'ajbi",
+      "radio_url": "http://live.mp3quran.net:9770/;"
+    },
+    {
+      "name": "Mahir El-Mu'ajkili",
+      "radio_url": "http://live.mp3quran.net:8002/;"
+    },
+    {
+      "name": "Mahir Šehaširu",
+      "radio_url": "http://live.mp3quran.net:9836/;"
+    },
+    {
+      "name": "Mahmud Ali El-Benna",
+      "radio_url": "http://live.mp3quran.net:9810/;"
+    },
+    {
+      "name": "Mahmud Ali El-Benna",
+      "radio_url": "http://live.mp3quran.net:9808/;"
+    },
+    {
+      "name": "Mahmud Er-Rifa'i",
+      "radio_url": "http://live.mp3quran.net:9818/;"
+    },
+    {
+      "name": "Mahmud Eš-Šejmi",
+      "radio_url": "http://live.mp3quran.net:9812/;"
+    },
+    {
+      "name": "Mahmud Halil El-Husari",
+      "radio_url": "http://live.mp3quran.net:9804/;"
+    },
+    {
+      "name": "Mahmud Halil El-Husari",
+      "radio_url": "http://live.mp3quran.net:9958/;"
+    },
+    {
+      "name": "Mahmud Halil El-Husari",
+      "radio_url": "http://live.mp3quran.net:9806/;"
+    },
+    {
+      "name": "Mešari El-Afasi",
+      "radio_url": "http://live.mp3quran.net:8010/;"
+    },
+    {
+      "name": "Miftaf Es-Sultani",
+      "radio_url": "http://live.mp3quran.net:9792/;"
+    },
+    {
+      "name": "Miftaf Es-Sultani",
+      "radio_url": "http://live.mp3quran.net:9794/;"
+    },
+    {
+      "name": "Miftaf Es-Sultani",
+      "radio_url": "http://live.mp3quran.net:9790/;"
+    },
+    {
+      "name": "Miftaf Es-Sultani",
+      "radio_url": "http://live.mp3quran.net:9788/;"
+    },
+    {
+      "name": "Mu'ajd El-Harisi",
+      "radio_url": "http://live.mp3quran.net:9802/;"
+    },
+    {
+      "name": "Muhammed Abdulhakim Se'id El-Abdullah",
+      "radio_url": "http://live.mp3quran.net:9816/;"
+    },
+    {
+      "name": "Muhammed Abdulhakim Se'id El-Abdullah",
+      "radio_url": "http://live.mp3quran.net:9814/;"
+    },
+    {
+      "name": "Muhammed Abdulkerim",
+      "radio_url": "http://live.mp3quran.net:9824/;"
+    },
+    {
+      "name": "Muhammed Abdulkerim",
+      "radio_url": "http://live.mp3quran.net:9822/;"
+    },
+    {
+      "name": "Muhammed Džibril",
+      "radio_url": "http://live.mp3quran.net:9962/;"
+    },
+    {
+      "name": "Muhammed Ejjub",
+      "radio_url": "http://live.mp3quran.net:9960/;"
+    },
+    {
+      "name": "Muhammed El-Luhejdan",
+      "radio_url": "http://live.mp3quran.net:9832/;"
+    },
+    {
+      "name": "Muhammed Et-Tablavi",
+      "radio_url": "http://live.mp3quran.net:9834/;"
+    },
+    {
+      "name": "Muhammed Osman Han - Indija",
+      "radio_url": "http://live.mp3quran.net:9820/;"
+    },
+    {
+      "name": "Muhammed Rešad Eš-Šerif",
+      "radio_url": "http://live.mp3quran.net:9830/;"
+    },
+    {
+      "name": "Muhammed Salih Alim Šah",
+      "radio_url": "http://live.mp3quran.net:9828/;"
+    },
+    {
+      "name": "Muhammed Siddid El-Menšavi",
+      "radio_url": "http://live.mp3quran.net:9978/;"
+    },
+    {
+      "name": "Muhammed Siddid El-Menšavi",
+      "radio_url": "http://live.mp3quran.net:9826/;"
+    },
+    {
+      "name": "Musa Bilal",
+      "radio_url": "http://live.mp3quran.net:9786/;"
+    },
+    {
+      "name": "Mustafa El-Lahuni",
+      "radio_url": "http://live.mp3quran.net:9798/;"
+    },
+    {
+      "name": "Mustafa Isma'il",
+      "radio_url": "http://live.mp3quran.net:9800/;"
+    },
+    {
+      "name": "Mustafa R'ad El-'Azavi",
+      "radio_url": "http://live.mp3quran.net:9796/;"
+    },
+    {
+      "name": "Nasir El-Kitami",
+      "radio_url": "http://live.mp3quran.net:9994/;"
+    },
+    {
+      "name": "Nasser Almajed",
+      "radio_url": "http://live.mp3quran.net:9712/;"
+    },
+    {
+      "name": "Nebil Er-Rifa'i",
+      "radio_url": "http://live.mp3quran.net:9784/;"
+    },
+    {
+      "name": "Nimet El-Hassan",
+      "radio_url": "http://live.mp3quran.net:9782/;"
+    },
+    {
+      "name": "Omer El-Kazabri",
+      "radio_url": "http://live.mp3quran.net:9838/;"
+    },
+    {
+      "name": "S'ad El-Gamidi",
+      "radio_url": "http://live.mp3quran.net:8004/;"
+    },
+    {
+      "name": "Sabir Abdulhakem",
+      "radio_url": "http://live.mp3quran.net:9952/;"
+    },
+    {
+      "name": "Salah Bu Hatir",
+      "radio_url": "http://live.mp3quran.net:9878/;"
+    },
+    {
+      "name": "Salah El-Budajr",
+      "radio_url": "http://live.mp3quran.net:9882/;"
+    },
+    {
+      "name": "Salah El-Hašim",
+      "radio_url": "http://live.mp3quran.net:9880/;"
+    },
+    {
+      "name": "Sehl Jasin",
+      "radio_url": "http://live.mp3quran.net:9888/;"
+    },
+    {
+      "name": "Sejjid Ramadan",
+      "radio_url": "http://live.mp3quran.net:9886/;"
+    },
+    {
+      "name": "Shaik Ebu-Bekr Eš-Šatiri",
+      "radio_url": "http://live.mp3quran.net:9966/;"
+    },
+    {
+      "name": "Širzad Abdurrahman Tahir",
+      "radio_url": "http://live.mp3quran.net:9884/;"
+    },
+    {
+      "name": "Su'ud Eš-Šurejm",
+      "radio_url": "http://live.mp3quran.net:9986/;"
+    },
+    {
+      "name": "Tevfik Es-Sajig",
+      "radio_url": "http://live.mp3quran.net:9906/;"
+    },
+    {
+      "name": "Velid En-Naihi",
+      "radio_url": "http://live.mp3quran.net:9778/;"
+    },
+    {
+      "name": "Zekki Ed-Dagestani",
+      "radio_url": "http://live.mp3quran.net:9890/;"
+    }
+  ]
+}

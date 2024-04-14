@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45f7bee2-fb0a-482c-9818-bbdd844ac27a" name="Default Changelist" comment="" />
+    <list default="true" id="45f7bee2-fb0a-482c-9818-bbdd844ac27a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/composerJson.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quranisme-chrome/chapterCombiner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quranisme-chrome/countJuzVerses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quranisme-chrome/generateJuz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quranisme-chrome/hasanahChapters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quranisme-chrome/hasanahCounter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quranisme-chrome/mutator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quranisme-chrome/mutator.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quranisme-chrome/playerfmScrapper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quranisme-chrome/populateApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quranisme-chrome/radioJsonJoiner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quranisme-chrome/radioScrapper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quranisme-chrome/requirement/chapter_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quranisme-chrome/requirement/radioLanguage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quranisme-chrome/statics/json/adihidayat.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quranisme-chrome/statics/json/albayanradio.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quranisme-chrome/tajweedFetcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quranisme-chrome/types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/surah_1.json" beforeDir="false" afterPath="$PROJECT_DIR$/db/surah_1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juz/juz_1.json" beforeDir="false" afterPath="$PROJECT_DIR$/juz/juz_1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qapi/chapters/chapters.js" beforeDir="false" afterPath="$PROJECT_DIR$/qapi/chapters/chapters.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="FileColors">
     <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
@@ -14,65 +49,33 @@
     <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/local/chapter_1.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/sqlMorpher.js" />
-      </list>
-    </option>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-2" />
-    <option name="y" value="-22" />
-    <option name="width" value="1924" />
-    <option name="height" value="1104" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="quran-db" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quran-db" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="quran-db" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quran-db" type="462c0819:PsiDirectoryNode" />
-              <item name="local" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1Q8IRVcd1eENMzprpALx3G6MHrc" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../qtest" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/quranisme-chrome/statics/quran" />
+      <recent name="$PROJECT_DIR$/quranisme-chrome" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/quranisme-chrome/requirement" />
+      <recent name="$PROJECT_DIR$/quranisme-chrome" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -97,79 +100,59 @@
       <option name="presentableId" value="Default" />
       <updated>1553202146952</updated>
       <workItem from="1553202149936" duration="5535000" />
+      <workItem from="1567146409943" duration="4172000" />
+      <workItem from="1567190954157" duration="1156000" />
+      <workItem from="1567290976525" duration="2241000" />
+      <workItem from="1567295563279" duration="29000" />
+      <workItem from="1568500964051" duration="31604000" />
+      <workItem from="1568666014965" duration="1317000" />
+      <workItem from="1568667513994" duration="4969000" />
+      <workItem from="1568674446396" duration="4938000" />
+      <workItem from="1568680251545" duration="8250000" />
+      <workItem from="1568745644847" duration="50000" />
+      <workItem from="1568994311132" duration="7933000" />
+      <workItem from="1569527533623" duration="5486000" />
+      <workItem from="1569618255771" duration="55000" />
+      <workItem from="1569863547826" duration="22935000" />
+      <workItem from="1569936976079" duration="28693000" />
+      <workItem from="1570255269002" duration="4264000" />
+      <workItem from="1570315568635" duration="95000" />
+      <workItem from="1570319083015" duration="5796000" />
+      <workItem from="1570387679326" duration="3367000" />
+      <workItem from="1570413485864" duration="8286000" />
+      <workItem from="1571103701639" duration="1439000" />
+      <workItem from="1571329252279" duration="5349000" />
+      <workItem from="1572021619622" duration="642000" />
+      <workItem from="1578933653276" duration="691000" />
+      <workItem from="1578976128230" duration="1079000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5535000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-2" y="-22" width="1924" height="1104" extended-state="0" />
-    <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="DB Browser" />
-      <window_info id="UI Designer" />
-      <window_info id="Project Explorer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="npm" side_tool="true" />
-      <window_info id="Job Explorer" />
-      <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="DB Execution Console" />
-      <window_info anchor="bottom" id="Quokka" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="IDEtalk Messages" />
-      <window_info anchor="bottom" id="Statistic" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Console" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="IDEtalk" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Redis Servers" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="PlantUML" />
-      <window_info anchor="right" id="Copy/Paste" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sqlMorpher.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="670">
-          <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/chapter_1.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/quranisme-chrome/generateJuz.js</url>
+          <line>495</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

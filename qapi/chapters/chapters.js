@@ -1,4 +1,4 @@
-export default {
+module.exports = {
   "chapters": [
     {
       "chapter_number": 1,

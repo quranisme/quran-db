@@ -1,0 +1,172 @@
+const rp = require('request-promise');
+const r = require('request');
+const cheerio = require('cheerio');
+const url = 'https://radio.salingsapa.com/oemarmita';
+const pages = (id) => `https://radio.salingsapa.com/oemarmita/audio/${ id }`;
+const _ = require('lodash');
+const jsonfile = require('jsonfile');
+const fs = require('fs');
+const axios = require('axios');
+// Settings
+const ustad = 'syeikhahmad'
+const options = {
+  USTAD_IDENTIFIER: ustad,
+  JSON: true, // will default to ES6 export default
+  ES6: true // will default to ES6 export default
+}
+
+// Save to file
+let idd = 0
+const wroteNew = (filename, response) => {
+  console.log('====================== BEGIN WROTE', idd += 1)
+  let data = response;
+  fs.writeFileSync(`./${filename}`, `${data}`);
+}
+
+// Generate next Page
+const linkGenerator = async () => {
+  let links = []
+  let url = await getHtml(`https://radio.salingsapa.com/${options.USTAD_IDENTIFIER}`)
+  let count = $('div > div > div.profile-item > span', url)[0].children[0].data
+  // console.log(r(url));
+  for (let i = 1; i <= Math.round(parseInt(count)/10); i++) {
+    links.push(`https://radio.salingsapa.com/${options.USTAD_IDENTIFIER}/audio/${ i }`);
+  }
+  // for (let i = 1; i <= 2; i++) {
+  //   links.push(`https://radio.salingsapa.com/${options.USTAD_IDENTIFIER}/audio/${ i }`);
+  // }
+  return links
+};
+
+
+// Get Current page HTML
+const getHtml = async (linkToScrap) => {
+  return await rp(linkToScrap)
+}
+
+const splitShit = (raw) => {
+  const regex = /\/.*\/([^/]*)/gm;
+  const str = raw;
+  let m;
+  let arr = [];
+
+  while ((m = regex.exec(str)) !== null) {
+    // This is necessary to avoid infinite loops with zero-width matches
+    if (m.index === regex.lastIndex) {
+      regex.lastIndex++;
+    }
+    // The result can be accessed through the `m`-variable.
+    m.forEach((match, groupIndex) => {
+      if(groupIndex === 1) {
+        arr.push(match)
+      }
+      console.log(`Found match, group ${groupIndex}: ${match}`);
+    });
+  }
+  return arr;
+}
+
+let arr = "/icons/gatsby.svg,/icons/scaleway.svg,/icons/roku.svg,/icons/adobeaftereffects.svg,/icons/bitrise.svg,/icons/kaios.svg,/icons/elixir.svg,/icons/tor.svg,/icons/microsoftonenote.svg,/icons/applepodcasts.svg,/icons/icomoon.svg,/icons/bit.svg,/icons/aiqfome.svg,/icons/spinrilla.svg,/icons/adobepremiere.svg,/icons/justgiving.svg,/icons/gog-dot-com.svg,/icons/slack.svg,/icons/woo.svg,/icons/woocommerce.svg,/icons/lyft.svg,/icons/adobexd.svg,/icons/player-dot-me.svg,/icons/apacheant.svg,/icons/graphql.svg,/icons/itunes.svg,/icons/sass.svg,/icons/ideal.svg,/icons/t-mobile.svg,/icons/prestashop.svg,/icons/aurelia.svg,/icons/bbciplayer.svg,/icons/adobeindesign.svg,/icons/accusoft.svg,/icons/codecov.svg,/icons/disroot.svg,/icons/azureartifacts.svg,/icons/dribbble.svg,/icons/hugo.svg,/icons/gitter.svg,/icons/storybook.svg,/icons/styled-components.svg,/icons/processwire.svg,/icons/lg.svg,/icons/asciidoctor.svg,/icons/man.svg,/icons/raspberrypi.svg,/icons/songkick.svg,/icons/zigbee.svg,/icons/foursquare.svg,/icons/invision.svg,/icons/bugatti.svg,/icons/a-frame.svg,/icons/polymerproject.svg,/icons/fiat.svg,/icons/nissan.svg,/icons/chupachups.svg,/icons/strongswan.svg,/icons/apacheecharts.svg,/icons/commonworkflowlanguage.svg,/icons/audi.svg,/icons/affinitypublisher.svg,/icons/angular.svg,/icons/slides.svg,/icons/apacheflink.svg,/icons/openstack.svg,/icons/codefactor.svg,/icons/csswizardry.svg,/icons/broadcom.svg,/icons/instagram.svg,/icons/alfaromeo.svg,/icons/debian.svg,/icons/apachemaven.svg,/icons/adblockplus.svg,/icons/themighty.svg,/icons/askfm.svg,/icons/hitachi.svg,/icons/meetup.svg,/icons/justeat.svg,/icons/vivino.svg,/icons/stadia.svg,/icons/steinberg.svg,/icons/beatsbydre.svg,/icons/autotask.svg,/icons/fujifilm.svg,/icons/vulkan.svg,/icons/playerfm.svg,/icons/honda.svg,/icons/pocket.svg,/icons/pinterest.svg,/icons/jest.svg,/icons/sinaweibo.svg,/icons/mastercard.svg,/icons/twilio.svg,/icons/gnusocial.svg,/icons/hypothesis.svg,/icons/bosch.svg,/icons/opera.svg,/icons/mendeley.svg,/icons/macys.svg,/icons/mitsubishi.svg,/icons/nintendoswitch.svg,/icons/yamahamotorcorporation.svg,/icons/toyota.svg,/icons/vauxhall.svg,/icons/livestream.svg,/icons/redbubble.svg,/icons/prosieben.svg,/icons/ifood.svg,/icons/veritas.svg,/icons/quantopian.svg,/icons/radiopublic.svg,/icons/apache.svg,/icons/nintendo3ds.svg,/icons/mega.svg,/icons/microstrategy.svg,/icons/hellyhansen.svg,/icons/mojang.svg,/icons/suzuki.svg,/icons/netflix.svg,/icons/tencentqq.svg,/icons/pi-hole.svg,/icons/airbnb.svg,/icons/sonarlint.svg,/icons/cakephp.svg,/icons/verizon.svg,/icons/trendmicro.svg,/icons/cdprojekt.svg,/icons/angularjs.svg,/icons/toggl.svg,/icons/ebay.svg,/icons/serverfault.svg,/icons/amd.svg,/icons/authy.svg,/icons/bitdefender.svg,/icons/kyocera.svg,/icons/squareenix.svg,/icons/trakt.svg,/icons/fastly.svg,/icons/wireguard.svg,/icons/microsoftaccess.svg,/icons/reactrouter.svg,/icons/sonarsource.svg,/icons/turkishairlines.svg,/icons/gulp.svg,/icons/adblock.svg,/icons/adobe.svg,/icons/dtube.svg,/icons/fujitsu.svg,/icons/huawei.svg,/icons/microgenetics.svg,/icons/theregister.svg,/icons/toshiba.svg,/icons/yandex.svg,/icons/youtube.svg,/icons/youtubegaming.svg,/icons/youtubestudio.svg,/icons/youtubetv.svg,/icons/convertio.svg,/icons/tinder.svg,/icons/rhinoceros.svg,/icons/ublockorigin.svg,/icons/node-red.svg,/icons/archiveofourown.svg,/icons/weasyl.svg,/icons/webgl.svg,/icons/arxiv.svg,/icons/jinja.svg,/icons/mcafee.svg,/icons/npm.svg,/icons/filezilla.svg,/icons/khronosgroup.svg,/icons/humblebundle.svg,/icons/fite.svg,/icons/cnn.svg,/icons/jabber.svg,/icons/jekyll.svg,/icons/rails.svg,/icons/tesla.svg,/icons/yelp.svg,/icons/meteor.svg,/icons/adobecreativecloud.svg,/icons/keras.svg,/icons/asciinema.svg,/icons/ferrari.svg,/icons/flipboard.svg,/icons/trainerroad.svg,/icons/zeromq.svg,/icons/udemy.svg,/icons/vodafone.svg,/icons/ko-fi.svg,/icons/vivaldi.svg,/icons/manageiq.svg,/icons/ansible.svg,/icons/redhat.svg,/icons/redhatopenshift.svg,/icons/itch-dot-io.svg,/icons/oracle.svg,/icons/epel.svg,/icons/gnu.svg,/icons/freebsd.svg,/icons/porsche.svg,/icons/microsoftsqlserver.svg,/icons/hurriyetemlak.svg,/icons/ferrarin-dot-v-dot.svg,/icons/openssl.svg,/icons/codewars.svg,/icons/quora.svg,/icons/ruby.svg,/icons/scala.svg,/icons/last-dot-fm.svg,/icons/pocketcasts.svg,/icons/valve.svg,/icons/laravel.svg,/icons/plurk.svg,/icons/lastpass.svg,/icons/lenovo.svg,/icons/saucelabs.svg,/icons/serverless.svg,/icons/makerbot.svg,/icons/redis.svg,/icons/ted.svg,/icons/rollup-dot-js.svg,/icons/fortinet.svg,/icons/todoist.svg,/icons/wolfram.svg,/icons/wolframlanguage.svg,/icons/wolframmathematica.svg,/icons/reverbnation.svg,/icons/jsdelivr.svg,/icons/sparkfun.svg,/icons/buzzfeed.svg,/icons/reason.svg,/icons/jenkins.svg,/icons/gmail.svg,/icons/craftcms.svg,/icons/lumen.svg,/icons/issuu.svg,/icons/patreon.svg,/icons/everplaces.svg,/icons/addthis.svg,/icons/ember-dot-js.svg,/icons/rubygems.svg,/icons/adobeacrobatreader.svg,/icons/sentry.svg,/icons/eventbrite.svg,/icons/git.svg,/icons/stencyl.svg,/icons/pytorch.svg,/icons/codeigniter.svg,/icons/apachesolr.svg,/icons/bower.svg,/icons/soundcloud.svg,/icons/hubspot.svg,/icons/bandlab.svg,/icons/prometheus.svg,/icons/coronarenderer.svg,/icons/quip.svg,/icons/lighthouse.svg,/icons/brave.svg,/icons/microsoftpowerpoint.svg,/icons/producthunt.svg,/icons/duckduckgo.svg,/icons/html5.svg,/icons/wprocket.svg,/icons/highly.svg,/icons/svelte.svg,/icons/houdini.svg,/icons/blogger.svg,/icons/postcss.svg,/icons/smashingmagazine.svg,/icons/figma.svg,/icons/postman.svg,/icons/googlecardboard.svg,/icons/maas.svg,/icons/ubuntu.svg,/icons/auth0.svg,/icons/pluralsight.svg,/icons/quest.svg,/icons/reddit.svg,/icons/microsoftoffice.svg,/icons/poly.svg,/icons/kentico.svg,/icons/castbox.svg,/icons/swift.svg,/icons/zapier.svg,/icons/mozillafirefox.svg,/icons/ycombinator.svg,/icons/teradata.svg,/icons/cpanel.svg,/icons/apachespark.svg,/icons/klout.svg,/icons/magento.svg,/icons/bitly.svg,/icons/origin.svg,/icons/sparkpost.svg,/icons/sogou.svg,/icons/strava.svg,/icons/bmcsoftware.svg,/icons/faceit.svg,/icons/etsy.svg,/icons/coronaengine.svg,/icons/antena3.svg,/icons/buymeacoffee.svg,/icons/sonarcloud.svg,/icons/devrant.svg,/icons/discover.svg,/icons/jupyter.svg,/icons/blender.svg,/icons/xiaomi.svg,/icons/draugiem-dot-lv.svg,/icons/easyjet.svg,/icons/monero.svg,/icons/qemu.svg,/icons/rabbitmq.svg,/icons/sonicwall.svg,/icons/sourceforge.svg,/icons/tableau.svg,/icons/ocaml.svg,/icons/peertube.svg,/icons/crunchyroll.svg,/icons/odnoklassniki.svg,/icons/pjsip.svg,/icons/xampp.svg,/icons/elsevier.svg,/icons/zalando.svg,/icons/mix.svg,/icons/openid.svg,/icons/tensorflow.svg,/icons/twoo.svg,/icons/stackoverflow.svg,/icons/composer.svg,/icons/x-dot-org.svg,/icons/grafana.svg,/icons/fandango.svg,/icons/mocha.svg,/icons/openvpn.svg,/icons/cloudflare.svg,/icons/zdf.svg,/icons/carthrottle.svg,/icons/viadeo.svg,/icons/pleroma.svg,/icons/overcast.svg,/icons/adobeillustrator.svg,/icons/hive.svg,/icons/nintendonetwork.svg,/icons/proxmox.svg,/icons/haxe.svg,/icons/slickpic.svg,/icons/goodreads.svg,/icons/apacherocketmq.svg,/icons/googleanalytics.svg,/icons/openaccess.svg,/icons/micro-dot-blog.svg,/icons/typo3.svg,/icons/vlcmediaplayer.svg,/icons/boost.svg,/icons/wattpad.svg,/icons/d3-dot-js.svg,/icons/qiwi.svg,/icons/gatling.svg,/icons/creativecommons.svg,/icons/bitcoin.svg,/icons/swarm.svg,/icons/audible.svg,/icons/chef.svg,/icons/gitlab.svg,/icons/amazon.svg,/icons/sublimetext.svg,/icons/abbrobotstudio.svg,/icons/deezer.svg,/icons/svg.svg,/icons/xdadevelopers.svg,/icons/leetcode.svg,/icons/sourceengine.svg,/icons/pre-commit.svg,/icons/loop.svg,/icons/furaffinity.svg,/icons/audiomack.svg,/icons/grunt.svg,/icons/rss.svg,/icons/puppet.svg,/icons/monogram.svg,/icons/prettier.svg,/icons/fidoalliance.svg,/icons/plex.svg,/icons/fnac.svg,/icons/timescale.svg,/icons/symantec.svg,/icons/goldenline.svg,/icons/googlekeep.svg,/icons/sketch.svg,/icons/untappd.svg,/icons/googlestreetview.svg,/icons/monkeytie.svg,/icons/firebase.svg,/icons/renault.svg,/icons/tele5.svg,/icons/jet.svg,/icons/linux.svg,/icons/docusign.svg,/icons/pagseguro.svg,/icons/minds.svg,/icons/imdb.svg,/icons/openbsd.svg,/icons/launchpad.svg,/icons/mcdonalds.svg,/icons/allocine.svg,/icons/pokemon.svg,/icons/sprint.svg,/icons/liberapay.svg,/icons/spreaker.svg,/icons/qzone.svg,/icons/tapas.svg,/icons/qwiklabs.svg,/icons/shell.svg,/icons/babel.svg,/icons/pantheon.svg,/icons/labview.svg,/icons/mailchimp.svg,/icons/nim.svg,/icons/javascript.svg,/icons/opel.svg,/icons/sahibinden.svg,/icons/pingdom.svg,/icons/snapchat.svg,/icons/eslgaming.svg,/icons/genius.svg,/icons/dazn.svg,/icons/orcid.svg,/icons/beatport.svg,/icons/hellofresh.svg,/icons/icq.svg,/icons/platzi.svg,/icons/greensock.svg,/icons/nvidia.svg,/icons/kik.svg,/icons/wechat.svg,/icons/envato.svg,/icons/sencha.svg,/icons/zendframework.svg,/icons/adobetypekit.svg,/icons/zerply.svg,/icons/gitea.svg,/icons/opensuse.svg,/icons/linuxmint.svg,/icons/ubereats.svg,/icons/openapiinitiative.svg,/icons/swagger.svg,/icons/groupon.svg,/icons/trulia.svg,/icons/qiita.svg,/icons/duolingo.svg,/icons/spring.svg,/icons/qgis.svg,/icons/civicrm.svg,/icons/sensu.svg,/icons/shopify.svg,/icons/smugmug.svg,/icons/houzz.svg,/icons/gumtree.svg,/icons/keepassxc.svg,/icons/empirekred.svg,/icons/seagate.svg,/icons/nodemon.svg,/icons/gnubash.svg,/icons/upwork.svg,/icons/wemo.svg,/icons/untangle.svg,/icons/parse-dot-ly.svg,/icons/skoda.svg,/icons/neovim.svg,/icons/adobedreamweaver.svg,/icons/wheniwork.svg,/icons/anaconda.svg,/icons/instacart.svg,/icons/openstreetmap.svg,/icons/libreoffice.svg,/icons/paloaltosoftware.svg,/icons/overleaf.svg,/icons/eventstore.svg,/icons/emby.svg,/icons/dlna.svg,/icons/opensourceinitiative.svg,/icons/csharp.svg,/icons/freecodecamp.svg,/icons/xbox.svg,/icons/node-dot-js.svg,/icons/mongodb.svg,/icons/hulu.svg,/icons/line.svg,/icons/microbit.svg,/icons/basecamp.svg,/icons/minetest.svg,/icons/photocrowd.svg,/icons/emlakjet.svg,/icons/nginx.svg,/icons/adguard.svg,/icons/celery.svg,/icons/feedly.svg,/icons/letterboxd.svg,/icons/threema.svg,/icons/postwoman.svg,/icons/evernote.svg,/icons/douban.svg,/icons/manjaro.svg,/icons/treehouse.svg,/icons/veeam.svg,/icons/glassdoor.svg,/icons/vim.svg,/icons/sellfy.svg,/icons/lmms.svg,/icons/deviantart.svg,/icons/cashapp.svg,/icons/hackerrank.svg,/icons/whatsapp.svg,/icons/spotify.svg,/icons/nextdoor.svg,/icons/pixabay.svg,/icons/microsoftexcel.svg,/icons/esea.svg,/icons/picarto-dot-tv.svg,/icons/graphcool.svg,/icons/android.svg,/icons/androidstudio.svg,/icons/linewebtoon.svg,/icons/homify.svg,/icons/snapcraft.svg,/icons/speakerdeck.svg,/icons/koding.svg,/icons/gauges.svg,/icons/xrp.svg,/icons/googlesheets.svg,/icons/imgur.svg,/icons/googlehangouts.svg,/icons/fiverr.svg,/icons/vue-dot-js.svg,/icons/linode.svg,/icons/formstack.svg,/icons/geocaching.svg,/icons/castro.svg,/icons/kickstarter.svg,/icons/themoviedatabase.svg,/icons/greenkeeper.svg,/icons/moo.svg,/icons/semaphoreci.svg,/icons/tripadvisor.svg,/icons/transportforlondon.svg,/icons/trustpilot.svg,/icons/skyliner.svg,/icons/vine.svg,/icons/nuxt-dot-js.svg,/icons/aircall.svg,/icons/khanacademy.svg,/icons/steemit.svg,/icons/pexels.svg,/icons/adobeaudition.svg,/icons/zulip.svg,/icons/kaspersky.svg,/icons/about-dot-me.svg,/icons/bulma.svg,/icons/bing.svg,/icons/googlehangoutschat.svg,/icons/magisk.svg,/icons/saltstack.svg,/icons/clyp.svg,/icons/gitkraken.svg,/icons/netlify.svg,/icons/researchgate.svg,/icons/tailwindcss.svg,/icons/deliveroo.svg,/icons/egnyte.svg,/icons/here.svg,/icons/slashdot.svg,/icons/pingup.svg,/icons/bandsintown.svg,/icons/xing.svg,/icons/latex.svg,/icons/siemens.svg,/icons/fandom.svg,/icons/adobelightroomcc.svg,/icons/lineageos.svg,/icons/icon.svg,/icons/umbraco.svg,/icons/canva.svg,/icons/travisci.svg,/icons/gumroad.svg,/icons/arduino.svg,/icons/fitbit.svg,/icons/skillshare.svg,/icons/exercism.svg,/icons/runkeeper.svg,/icons/apacheairflow.svg,/icons/ipfs.svg,/icons/wpengine.svg,/icons/pluscodes.svg,/icons/hackhands.svg,/icons/angularuniversal.svg,/icons/zendesk.svg,/icons/electron.svg,/icons/aerlingus.svg,/icons/spinnaker.svg,/icons/dashlane.svg,/icons/gradle.svg,/icons/probot.svg,/icons/cloudbees.svg,/icons/proto-dot-io.svg,/icons/jenkinsx.svg,/icons/go.svg,/icons/appveyor.svg,/icons/brandfolder.svg,/icons/amazonalexa.svg,/icons/mariadb.svg,/icons/bandcamp.svg,/icons/datacamp.svg,/icons/minutemailer.svg,/icons/udacity.svg,/icons/zorin.svg,/icons/react.svg,/icons/java.svg,/icons/adobephonegap.svg,/icons/tencentweibo.svg,/icons/rtlzwei.svg,/icons/adobephotoshop.svg,/icons/haveibeenpwned.svg,/icons/beats.svg,/icons/elastic.svg,/icons/elasticcloud.svg,/icons/elasticsearch.svg,/icons/elasticstack.svg,/icons/kibana.svg,/icons/logstash.svg,/icons/x-pack.svg,/icons/sat-dot-1.svg,/icons/cassandra.svg,/icons/periscope.svg,/icons/ulule.svg,/icons/at-and-t.svg,/icons/kodi.svg,/icons/co-op.svg,/icons/vimeo.svg,/icons/xero.svg,/icons/livejournal.svg,/icons/qualtrics.svg,/icons/sourcegraph.svg,/icons/f-secure.svg,/icons/smartthings.svg,/icons/airtable.svg,/icons/groovy.svg,/icons/octave.svg,/icons/dunked.svg,/icons/hatenabookmark.svg,/icons/bathasu.svg,/icons/expertsexchange.svg,/icons/skype.svg,/icons/skypeforbusiness.svg,/icons/kaggle.svg,/icons/fossilscm.svg,/icons/sitepoint.svg,/icons/neo4j.svg,/icons/cisco.svg,/icons/klm.svg,/icons/cevo.svg,/icons/salesforce.svg,/icons/write-dot-as.svg,/icons/wish.svg,/icons/artstation.svg,/icons/compropago.svg,/icons/floatplane.svg,/icons/messenger.svg,/icons/svgo.svg,/icons/ghost.svg,/icons/habr.svg,/icons/helm.svg,/icons/mathworks.svg,/icons/yarn.svg,/icons/ripple.svg,/icons/hp.svg,/icons/plesk.svg,/icons/topcoder.svg,/icons/webcomponents-dot-org.svg,/icons/gitpod.svg,/icons/hockeyapp.svg,/icons/alipay.svg,/icons/googlecast.svg,/icons/battle-dot-net.svg,/icons/roundcube.svg,/icons/evry.svg,/icons/vbulletin.svg,/icons/wordpress.svg,/icons/gravatar.svg,/icons/dell.svg,/icons/kotlin.svg,/icons/virb.svg,/icons/telegram.svg,/icons/superuser.svg,/icons/aventrix.svg,/icons/homeassistant.svg,/icons/clockify.svg,/icons/alpinelinux.svg,/icons/dependabot.svg,/icons/wikimediacommons.svg,/icons/linkedin.svg,/icons/iobroker.svg,/icons/reactos.svg,/icons/archlinux.svg,/icons/sega.svg,/icons/sap.svg,/icons/gnuprivacyguard.svg,/icons/xsplit.svg,/icons/teespring.svg,/icons/500px.svg,/icons/influxdb.svg,/icons/webpack.svg,/icons/freelancer.svg,/icons/osmc.svg,/icons/opengl.svg,/icons/cloudsmith.svg,/icons/garmin.svg,/icons/acm.svg,/icons/nextcloud.svg,/icons/crunchbase.svg,/icons/elm.svg,/icons/microsoftazure.svg,/icons/linuxfoundation.svg,/icons/logmein.svg,/icons/iconjar.svg,/icons/hackster.svg,/icons/staffbase.svg,/icons/repl-dot-it.svg,/icons/pastebin.svg,/icons/spdx.svg,/icons/trello.svg,/icons/fluentd.svg,/icons/adobelightroomclassic.svg,/icons/apacheopenoffice.svg,/icons/material-ui.svg,/icons/stripe.svg,/icons/brand-dot-ai.svg,/icons/curl.svg,/icons/dassaultsystemes.svg,/icons/bitwarden.svg,/icons/sonarqube.svg,/icons/drupal.svg,/icons/codeforces.svg,/icons/hexo.svg,/icons/dash.svg,/icons/1001tracklists.svg,/icons/twitter.svg,/icons/zingat.svg,/icons/symphony.svg,/icons/coveralls.svg,/icons/iata.svg,/icons/spacex.svg,/icons/freedesktop-dot-org.svg,/icons/keycdn.svg,/icons/scribd.svg,/icons/venmo.svg,/icons/dart.svg,/icons/typescript.svg,/icons/visualstudiocode.svg,/icons/storify.svg,/icons/concourse.svg,/icons/xamarin.svg,/icons/plangrid.svg,/icons/teamviewer.svg,/icons/mediafire.svg,/icons/appstore.svg,/icons/1password.svg,/icons/stackbit.svg,/icons/shopware.svg,/icons/chartmogul.svg,/icons/codecademy.svg,/icons/jquery.svg,/icons/css3.svg,/icons/bmw.svg,/icons/webmoney.svg,/icons/cesium.svg,/icons/mattermost.svg,/icons/krita.svg,/icons/readthedocs.svg,/icons/volvo.svg,/icons/nuget.svg,/icons/cplusplus.svg,/icons/semanticweb.svg,/icons/w3c.svg,/icons/gov-dot-uk.svg,/icons/godotengine.svg,/icons/first.svg,/icons/teamspeak.svg,/icons/intel.svg,/icons/chase.svg,/icons/microsoftexchange.svg,/icons/microsoftonedrive.svg,/icons/microsoftoutlook.svg,/icons/microsoftsharepoint.svg,/icons/azuredevops.svg,/icons/castorama.svg,/icons/microsoftedge.svg,/icons/windows.svg,/icons/octopusdeploy.svg,/icons/mail-dot-ru.svg,/icons/buffer.svg,/icons/docker.svg,/icons/materialdesignicons.svg,/icons/stackshare.svg,/icons/dynatrace.svg,/icons/elementary.svg,/icons/paypal.svg,/icons/mysql.svg,/icons/cmake.svg,/icons/pypi.svg,/icons/bancontact.svg,/icons/flutter.svg,/icons/iconify.svg,/icons/musescore.svg,/icons/coderwall.svg,/icons/renren.svg,/icons/ifixit.svg,/icons/internetexplorer.svg,/icons/signal.svg,/icons/uikit.svg,/icons/shazam.svg,/icons/disqus.svg,/icons/keybase.svg,/icons/pivotaltracker.svg,/icons/postgresql.svg,/icons/python.svg,/icons/furrynetwork.svg,/icons/joomla.svg,/icons/affinitydesigner.svg,/icons/yammer.svg,/icons/lubuntu.svg,/icons/mastodon.svg,/icons/riot.svg,/icons/intercom.svg,/icons/fontawesome.svg,/icons/steem.svg,/icons/jsfiddle.svg,/icons/zhihu.svg,/icons/apachepulsar.svg,/icons/opslevel.svg,/icons/actigraph.svg,/icons/letsencrypt.svg,/icons/ibeacon.svg,/icons/americanexpress.svg,/icons/rstudio.svg,/icons/netapp.svg,/icons/alliedmodders.svg,/icons/protocols-dot-io.svg,/icons/bluetooth.svg,/icons/laravelhorizon.svg,/icons/digitalocean.svg,/icons/pr-dot-co.svg,/icons/delicious.svg,/icons/gnuicecat.svg,/icons/ovh.svg,/icons/c.svg,/icons/publons.svg,/icons/dblp.svg,/icons/f-droid.svg,/icons/zillow.svg,/icons/zend.svg,/icons/icloud.svg,/icons/dcentertainment.svg,/icons/deepin.svg,/icons/nfc.svg,/icons/onstar.svg,/icons/aral.svg,/icons/riseup.svg,/icons/quarkus.svg,/icons/xfce.svg,/icons/buddy.svg,/icons/githubactions.svg,/icons/xmpp.svg,/icons/hyundai.svg,/icons/stubhub.svg,/icons/fifa.svg,/icons/nutanix.svg,/icons/vk.svg,/icons/r.svg,/icons/vuetify.svg,/icons/gnome.svg,/icons/apachenetbeanside.svg,/icons/coinbase.svg,/icons/dailymotion.svg,/icons/zoom.svg,/icons/fila.svg,/icons/stackexchange.svg,/icons/jcb.svg,/icons/coursera.svg,/icons/solus.svg,/icons/box.svg,/icons/flickr.svg,/icons/facebook.svg,/icons/mixcloud.svg,/icons/fedramp.svg,/icons/fossa.svg"
+
+const init = async () => {
+  var result = []
+  let index = 0;
+  const regex = /flac/gm; // ERROR LINK conditional
+  const scrapPage = () => {
+    let $ = cheerio.load(fs.readFileSync('./simpleicon.html'))
+    let dark = $("ul > li.grid-item--dark");
+    let light = $("li.grid-item--light");
+    let link = $("a.grid-item__link");
+    // console.log(dark)
+    _.each(link, (v, k) => {
+      let obj = {
+        id: k,
+        name: (() => {
+          return ((v.attribs.href).split('/')[2])
+        })(),
+        title: v.children[2].next.children[0].data,
+        link: v.attribs.href,
+        isDark: (() => {return v.parent.attribs.class.includes('dark') ? true : false})(),
+        color: (() => { return v.next.next.children[0].data })(),
+        attribs: {
+          class: v.parent.attribs.class,
+          style: v.parent.attribs.style
+        }
+      }
+      result.push(obj)
+      // if(k > 1000 & k <= 1500) {
+      //   console.log(obj)
+      //   // downloadSvg(obj.link, obj.name)
+      // }
+    })
+    return result
+    // linkToDownload.each((k, v) => {
+    //   let link = $(v).attr('href');
+    //   console.log(link)
+    // })
+  }
+  const downloadSvg = async (url, pathWithFilename) => {
+    let response = await axios.get("http://simpleicons.org" + url)
+    wroteNew(pathWithFilename, response.data)
+  }
+  scrapPage()
+  console.log(result)
+  wroteNew('simpleicon.json', JSON.stringify(result));
+
+
+  // let j = arr.split(",")
+  // _.each(j, async (v, k) => {
+  //   let a = await axios.get("https://simpleicons.org/"+v)
+  //   // wroteNew(a.data)
+  // })
+
+  // _.each(await linkGenerator(), async (v, k) => {
+  //   let html = await getHtml(v)
+  //   let detailsHtml
+  //   let count = $('h4 > a', html).length
+  //   let title, link, durasi, obj, url, description, simak, simaktanggal, ustad;
+  //   for (let i = 0; i < count; i++) {
+  //     let desc = []
+  //
+  //     // Radio List
+  //     ustad = $('div.profile-info > h4 > strong', await html)[0].children[0].data
+  //     title = $('h4 > a', await html)[i].children[0].data
+  //     link = $('h4 > a', await html)[i].attribs.href
+  //     durasi = $('div.col-md-9 > div > div.durasi', await html)[i].children[0].data
+  //     // simaktanggal = $('div.col-md-9 > div > span', html)[i].children[0].data
+  //
+  //     if(!title.match(regex)) {
+  //       // Radio Details
+  //       detailsHtml = await getHtml(link)
+  //       description = $('div.stream-item-content > p', detailsHtml)[0].children;
+  //       // console.log('link', description)
+  //       // console.log(detailsHtml)
+  //       url = $('#apsh', await detailsHtml)[0].attribs['data-source']
+  //       simak = $('div.stream-item-action > ul > li > a', await detailsHtml)[0].children[0].next.data
+  //       tanggal = $('div.stream-item-header > small', await detailsHtml)[0].children[1].data
+  //       _.each(description, (v, k) => {
+  //         if(!_.isUndefined(v.data)) {
+  //           desc.push(v.data)
+  //           console.log(v.data)
+  //         }
+  //       })
+  //       index += 1;
+  //       obj = {
+  //         id: index,
+  //         radio_ustad: ustad,
+  //         name: title,
+  //         date: tanggal,
+  //         radio_link: link,
+  //         radio_url: url,
+  //         duration: durasi,
+  //         viewed: parseFloat(simak),
+  //         kajian_description: desc.join(' ')
+  //       };
+  //       result.push(obj)
+  //     }
+  //   }
+  //   wroteNew(result)
+  // })
+}
+
+init()

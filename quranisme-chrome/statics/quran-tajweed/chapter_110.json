@@ -1,0 +1,35 @@
+{
+  "chapters": {
+    "chapter_number": 110,
+    "bismillah_pre": true,
+    "revelation_order": 114,
+    "revelation_place": "madinah",
+    "name_arabic": "النصر",
+    "name_complex": "An-Naşr",
+    "name_simple": "An-Nasr",
+    "verses_count": 3,
+    "pages": [
+      603,
+      603
+    ],
+    "meaning": {
+      "text": "The Divine Support",
+      "en": "The Divine Support",
+      "id": "Pertolongan"
+    },
+    "verses": [
+      {
+        "verse_number": 1,
+        "text_tajweed": "إِذَا ج[o[َا]ٓءَ نَصْرُ [h:1184[ٱ]للَّهِ وَ[h:14666[ٱ]لْفَتْحُ"
+      },
+      {
+        "verse_number": 2,
+        "text_tajweed": "وَرَأَيْتَ [h:14667[ٱ][l[ل][g[نّ]َاسَ يَ[q:3156[دْ]خُلُونَ فِى دِينِ [h:2072[ٱ]للَّهِ أَفْوَاجًا"
+      },
+      {
+        "verse_number": 3,
+        "text_tajweed": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَ[h:14668[ٱ]سْتَغْفِرْهُ‌ۚ إِ[g[نّ]َهُ[n[ۥ] كَانَ تَوَّابَۢا"
+      }
+    ]
+  }
+}

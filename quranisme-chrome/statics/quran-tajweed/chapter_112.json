@@ -1,0 +1,39 @@
+{
+  "chapters": {
+    "chapter_number": 112,
+    "bismillah_pre": true,
+    "revelation_order": 22,
+    "revelation_place": "makkah",
+    "name_arabic": "الإخلاص",
+    "name_complex": "Al-'Ikhlāş",
+    "name_simple": "Al-Ikhlas",
+    "verses_count": 4,
+    "pages": [
+      604,
+      604
+    ],
+    "meaning": {
+      "text": "The Sincerity",
+      "en": "The Sincerity",
+      "id": "Ikhlash"
+    },
+    "verses": [
+      {
+        "verse_number": 1,
+        "text_tajweed": "قُلْ هُوَ [h:8078[ٱ]للَّهُ أَحَ[q[د]ٌ"
+      },
+      {
+        "verse_number": 2,
+        "text_tajweed": "ٱللَّهُ [h:14675[ٱ][l[ل]صَّمَ[q[د]ُ"
+      },
+      {
+        "verse_number": 3,
+        "text_tajweed": "لَمْ يَلِ[q:14676[دْ] وَلَمْ يُولَ[q:14677[دْ]"
+      },
+      {
+        "verse_number": 4,
+        "text_tajweed": "وَلَمْ يَك[u:2596[ُن ل]َّهُ[n[ۥ] كُفُوًا أَحَ[q[د]ُۢ"
+      }
+    ]
+  }
+}
