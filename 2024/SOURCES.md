@@ -1,0 +1,4 @@
+- quran.com
+- qari.app
+- quranwbw.com
+- quran.corpus.com

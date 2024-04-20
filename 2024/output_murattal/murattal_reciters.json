@@ -1,1 +1,988 @@
-{"qiraat":["Qalūn ʿan Nāfiʿ","Warsh ʿan Nāfiʿ","al-Bazzī ʿan Ibn-Kathīr","Qunbul ʿan Ibn Kathīr","al-Dūrī ʿan Abī ʿAmr","al-Sūsi ʿan Abī ʿAmr","Hishām ʿan Ibn ʿĀmir","Ibn Thakwān ʿan Ibn ʿĀmir","Shuʿbah ʿan ʿAsim","Ḥafs ʿan ʿAsim","Khalaf ʿan Ḥamzah","Khlād ʿan Ḥamzah","Abu al-Ḥarith ʿan al-Kisāʾī","al-Dūrī ʿan al-Kisāʾī","Ibn Wardān ʿan Abī Jaʿfar","Ibn Jammāz ʿan Abī Jaʿfar","Ruays ʿan Yaqūb al-Ḥaḍarmy","Rawḥ ʿan Yaqūb al-Ḥaḍarmy","Isḥāq al-Warrāq ʿan Khalaf","Idrīs ʿan Khalaf"],"tags":{"taraweeh":"تراويح","mujawwad":"مجود","radio":"إذاعة","rare":"نادر","teacher":"معلِّم"},"servers":{"qaudio":"https://download.quranicaudio.com/quran/","muqri":"https://muqri.com/audio/","iweb":"http://audio3.islamweb.net/quran/","mp3quran6":"https://server6.mp3quran.net/","mp3quran7":"https://server7.mp3quran.net/","mp3quran8":"https://server8.mp3quran.net/","mp3quran9":"https://server9.mp3quran.net/","mp3quran10":"https://server10.mp3quran.net/","mp3quran11":"https://server11.mp3quran.net/","mp3quran12":"https://server12.mp3quran.net/","mp3quran13":"https://server13.mp3quran.net/","mp3quran14":"https://server14.mp3quran.net/"},"reciters":[{"en":"Mahmoud Khalil al-Husari","ar":"محمود خليل الحصري","recitations":[{"loc":"muqri:alhusari/mp3"},{"tags":"radio","loc":"qaudio:mahmood_khaleel_al-husaree_iza3a"},{"qiraah":4,"loc":"qaudio:mahmood_khaleel_al-husaree_doori"}]},{"en":"Mishari al-Afasi","ar":"مشاري العفاسي","recitations":[{"loc":"qaudio:mishaari_raashid_al_3afaasee"},{"tags":"taraweeh 1430","loc":"qaudio:mishaari_california"}]},{"en":"AbdulBaset AbdulSamad","ar":"عبد الباسط عبد الصمد","recitations":[{"loc":"qaudio:abdul_basit_murattal"},{"tags":"mujawwad","loc":"muqri:abdulbasit-m/mp3"},{"qiraah":1,"loc":"qaudio:abdulbaset_warsh"}]},{"en":"Abdullah Ali Jabir","ar":"عبد الله علي جابر","recitations":[{"loc":"qaudio:abdullaah_alee_jaabir_studio"},{"tags":"taraweeh","loc":"qaudio:abdullaah_alee_jaabir"}]},{"en":"Abdul-Mun'im Abdul-Mubdi'","ar":"عبد المنعم عبد المبدي","recitations":[{"loc":"qaudio:abdulmun3im_abdulmubdi2"}]},{"en":"Abdullah Basfar","ar":"عبد الله بصفر","recitations":[{"loc":"qaudio:abdullaah_basfar"}]},{"en":"Abu Bakr al-Shatri","ar":"أبو بكر الشاطرى","recitations":[{"loc":"muqri:alshatiri/mp3"},{"tags":"taraweeh","loc":"qaudio:abu_bakr_ash-shatri_tarawee7"}]},{"en":"Sa'ud ash-Shuraym","ar":"سعود الشريم","recitations":[{"loc":"qaudio:sa3ood_al-shuraym"}]},{"en":"Saad al-Ghamdi","ar":"سعد الغامدي","recitations":[{"loc":"muqri:alghamidi/mp3"}]},{"en":"Muhammad Ayyoob","ar":"محمد أيوب","recitations":[{"loc":"muqri:mayyub/mp3"},{"tags":"taraweeh","loc":"qaudio:muhammad_ayyoob_hq"}]},{"en":"Muhammad Siddiq al-Minshawi","ar":"محمد صديق المنشاوي","recitations":[{"loc":"muqri:alminshawi/mp3"},{"tags":"mujawwad","loc":"qaudio:minshawi_mujawwad"}]},{"en":"Maher al-Muayqili","ar":"ماهر المعيقلى","recitations":[{"loc":"qaudio:maher_256"}]},{"en":"Abdur-Rahman as-Sudais","ar":"عبد الرحمن السديس","recitations":[{"loc":"qaudio:abdurrahmaan_as-sudays"}]},{"en":"Ali al-Huthaifi","ar":"علي الحذيفي","recitations":[{"loc":"muqri:alhuthayfi/mp3"},{"qiraah":0,"loc":"qaudio:huthayfi_qaloon"}]},{"en":"Ibrahim al-Akhdar","ar":"إبراهيم الأخضر","recitations":[{"loc":"qaudio:ibrahim_al_akhdar"}]},{"en":"Idrees Abkar","ar":"إدريس أبكر","recitations":[{"loc":"qaudio:idrees_akbar"}]},{"en":"Khalid al-Qahtani","ar":"خالد القحطاني","recitations":[{"loc":"qaudio:khaalid_al-qahtaanee","tags":"taraweeh"}]},{"en":"Nasser al-Qatami","ar":"ناصر القطامي","recitations":[{"loc":"qaudio:nasser_bin_ali_alqatami"}]},{"en":"Tawfeeq as-Sa'igh","ar":"توفيق الصائغ","recitations":[{"loc":"qaudio:tawfeeq_bin_saeed-as-sawaaigh"}]},{"en":"Salah Bukhatir","ar":"صلاح بوخاطر","recitations":[{"loc":"qaudio:salaah_bukhaatir"}]},{"en":"Khalifah al-Tunayji","ar":"خليفة الطنيجي","recitations":[{"loc":"mp3quran12:tnjy"}]},{"en":"Ahmed al-Ajmi","ar":"أحمد العجمي","recitations":[{"loc":"qaudio:ahmed_ibn_3ali_al-3ajamy"}]},{"en":"AbdulAzeez al-Ahmad","ar":"عبد العزيز الأحمد","recitations":[{"loc":"qaudio:abdulazeez_al-ahmad"}]},{"en":"AbdulBari ath-Thubaiti","ar":"عبد الباري الثبيتي","recitations":[{"loc":"qaudio:thubaity"}]},{"en":"AbdulKareem al-Hazmi","ar":"عبد الكريم الحازمي","recitations":[{"loc":"qaudio:abdulkareem_al_hazmi"}]},{"en":"AbdulMuhsin al-Qasim","ar":"عبد المحسن القاسم","recitations":[{"loc":"qaudio:abdul_muhsin_alqasim"}]},{"en":"AbdulWadood Haneef","ar":"عبد الودود حنيف","recitations":[{"loc":"qaudio:abdulwadood_haneef"},{"tags":"rare","loc":"qaudio:abdul_wadood_haneef_rare"}]},{"en":"Abdullah Awad al-Juhani","ar":"عبد الله عواد الجهني","recitations":[{"loc":"qaudio:abdullaah_3awwaad_al-juhaynee"}]},{"en":"Abdullah Khayat","ar":"عبد الله خياط","recitations":[{"loc":"qaudio:khayat"}]},{"en":"Abdullah Matroud","ar":"عبد الله المطرود","recitations":[{"loc":"qaudio:abdullah_matroud"}]},{"en":"Abdur-Rashid Sufi","ar":"عبد الرشيد صوفي","recitations":[{"loc":"qaudio:abdurrashid_sufi"},{"qiraah":4,"loc":"qaudio:abdurrashid_sufi_doori"},{"qiraah":5,"loc":"qaudio:abdurrashid_sufi_soosi_rec"},{"qiraah":8,"loc":"qaudio:abdurrashid_sufi_shu3ba"},{"qiraah":10,"loc":"qaudio:abdurrashid_sufi_-_khalaf_3an_7amza_recitation"},{"qiraah":12,"loc":"qaudio:abdurrashid_sufi_abi_al7arith"}]},{"en":"Abdur-Razaq al-Dulaymi","ar":"عبد الرزاق الدليمي","recitations":[{"tags":"mujawwad","loc":"qaudio:abdulrazaq_bin_abtan_al_dulaimi"}]},{"en":"Adel Kalbani","ar":"عادل الكلباني","recitations":[{"loc":"qaudio:adel_kalbani"}]},{"en":"Ahmad Nauina","ar":"أحمد نعينع","recitations":[{"loc":"qaudio:ahmad_nauina"}]},{"en":"Ahmad al-Huthaifi","ar":"أحمد الحذيفي","recitations":[{"loc":"qaudio:ahmad_alhuthayfi"}]},{"en":"Akram al-Alaqmi","ar":"أكرم العلاقمي","recitations":[{"loc":"qaudio:akram_al_alaqmi"}]},{"en":"Al-Hussayni al-'Azazi","ar":"الحسيني العزازي","recitations":[{"loc":"qaudio:alhusaynee_al3azazee_with_children","tags":"teacher"}]},{"en":"Ali Hajjaj Alsouasi","ar":"علي حجاج السويسي","recitations":[{"loc":"qaudio:ali_hajjaj_alsouasi"}]},{"en":"Aziz Alili","ar":"عزيز عليلى","recitations":[{"loc":"qaudio:aziz_alili"}]},{"en":"Bandar Baleela","ar":"بندر بليلة","recitations":[{"loc":"qaudio:bandar_baleela"}]},{"en":"Dr. Shawqy Hamed","ar":"د. شوقي حامد","recitations":[{"loc":"qaudio:dr.shawqy_7amed/murattal"},{"tags":"mujawwad","loc":"qaudio:dr.shawqy_7amed/mujawwad"}]},{"en":"Fares Abbad","ar":"فارس عباد","recitations":[{"loc":"qaudio:fares"}]},{"en":"Hamad Sinan","ar":"حامد سنان","recitations":[{"loc":"qaudio:hamad_sinan"}]},{"en":"Hani ar-Rifai","ar":"هاني الرفاعي","recitations":[{"loc":"qaudio:rifai"}]},{"en":"Hatem Farid","ar":"حاتم فريد","recitations":[{"loc":"qaudio:hatem_farid/collection"},{"tags":"taraweeh 1433","loc":"qaudio:hatem_farid/taraweeh1433"},{"tags":"taraweeh 1432","loc":"qaudio:hatem_farid/taraweeh1432"},{"tags":"taraweeh 1431","loc":"qaudio:hatem_farid/taraweeh1431"}]},{"en":"Ibrahim al-Jibrin","ar":"إبراهيم الجبرين","recitations":[{"loc":"qaudio:jibreen"},{"tags":"1426-1427","loc":"qaudio:jibreen/jibreen_1426-1427"}]},{"en":"Imad Zuhair Hafez","ar":"عماد زهير حافظ","recitations":[{"loc":"qaudio:imad_zuhair_hafez"}]},{"en":"Mahmood Ali al-Bana","ar":"محمود علي البنا","recitations":[{"loc":"qaudio:mahmood_ali_albana"}]},{"en":"Mohammad al-Tablawi","ar":"محمد الطبلاوي","recitations":[{"loc":"qaudio:mohammad_altablawi"}]},{"en":"Mohammad Ismaeel al-Muqaddim","ar":"محمد إسماعيل المقدم","recitations":[{"loc":"qaudio:mohammad_ismaeel_almuqaddim"}]},{"en":"Mustafa Ismaeel","ar":"مصطفى إسماعيل","recitations":[{"loc":"qaudio:mostafa_ismaeel"}]},{"en":"Muhammad Abdul-Kareem","ar":"محمد عبد الكريم","recitations":[{"loc":"qaudio:muhammad_abdulkareem"}]},{"en":"Muhammad Hassan","ar":"محمد حسان","recitations":[{"loc":"qaudio:mu7ammad_7assan"}]},{"en":"Muhammad Jibreel","ar":"محمد جبريل","recitations":[{"loc":"qaudio:muhammad_jibreel/complete"}]},{"en":"Muhammad Sulaiman Patel","ar":"محمد سليمان باتل","recitations":[{"loc":"qaudio:muhammad_patel"}]},{"en":"Muhammad al-Luhaidan","ar":"محمد اللحيدان","recitations":[{"loc":"qaudio:muhammad_alhaidan"}]},{"en":"Muhammad al-Mehysni","ar":"محمد المحيسني","recitations":[{"loc":"qaudio:mehysni"},{"tags":"taraweeh 1435","loc":"qaudio:muhaisny_1435"}]},{"en":"Mustafa al-'Azawi","ar":"مصطفى العزاوى","recitations":[{"loc":"qaudio:mustafa_al3azzawi"}]},{"en":"Nabil ar-Rifai","ar":"نبيل الرفاعي","recitations":[{"loc":"qaudio:nabil_rifa3i"}]},{"en":"Sadaqat 'Ali","ar":"صدقات علي","recitations":[{"loc":"qaudio:sadaqat_ali"}]},{"en":"Sahl Yasin","ar":"سهل ياسين","recitations":[{"loc":"qaudio:sahl_yaaseen"}]},{"en":"Salah al-Hashim","ar":"صلاح الهاشم","recitations":[{"loc":"qaudio:salah_alhashim"}]},{"en":"Salah al-Budair","ar":"صلاح البدير","recitations":[{"loc":"qaudio:salahbudair"}]},{"en":"Saleh aal Taleb","ar":"صالح آل طالب","recitations":[{"loc":"qaudio:saleh_al_taleb"}]},{"en":"Wadee al-Yamani","ar":"وديع اليمني","recitations":[{"loc":"qaudio:wadee_hammadi_al-yamani"}]},{"en":"Yasser ad-Dussari","ar":"ياسر الدوسري","recitations":[{"loc":"qaudio:yasser_ad-dussary"}]},{"en":"Ahmad al-Hawashi","ar":"أحمد الحواشي","recitations":[{"loc":"mp3quran11:hawashi"}]},{"en":"Ahmad al-Trabulsi","ar":"أحمد الطرابلسي","recitations":[{"loc":"mp3quran10:trabulsi","qiraah":9},{"loc":"mp3quran10:trablsi","qiraah":0}]},{"en":"Ahmad Sabir","ar":"أحمد صابر","recitations":[{"loc":"mp3quran8:saber"}]},{"en":"Ahmad Aamer","ar":"أحمد عامر","recitations":[{"loc":"mp3quran10:Aamer"}]},{"en":"Ibrahim al-Doosari","ar":"إبراهيم الدوسري","recitations":[{"loc":"mp3quran10:ibrahim_dosri_hafs","qiraah":9},{"loc":"mp3quran10:ibrahim_dosri_warsh","qiraah":1}]},{"en":"Aldawkali Muhammad al-'aalm","ar":"الدوكالي محمد العالم","recitations":[{"loc":"mp3quran7:dokali","qiraah":0}]},{"en":"Alzin Muhammad Ahmad","ar":"الزين محمد أحمد","recitations":[{"loc":"mp3quran9:alzain"}]},{"en":"Aluyoon al-Kooshi","ar":"العيون الكوشي","recitations":[{"loc":"mp3quran11:koshi","qiraah":1}]},{"en":"Alfath Muhammad al-Zubayr","ar":"الفاتح محمد الزبير","recitations":[{"loc":"mp3quran6:fateh","qiraah":4}]},{"en":"Alqari Yasin","ar":"القارئ ياسين","recitations":[{"loc":"mp3quran11:qari","qiraah":1}]},{"en":"Jamal Shakir Abdullah","ar":"جمال شاكر عبد الله","recitations":[{"loc":"mp3quran6:jamal"}]},{"en":"Jam'aan al-Usaymi","ar":"جمعان العصيمي","recitations":[{"loc":"mp3quran6:jaman"}]},{"en":"Khaled al-Muhanna","ar":"خالد المهنا","recitations":[{"loc":"mp3quran11:mohna"}]},{"en":"Khaled Abdul-Kafi","ar":"خالد عبد الكافي","recitations":[{"loc":"mp3quran11:kafi"}]},{"en":"Rami al-D'ais","ar":"رامي الدعيس","recitations":[{"loc":"mp3quran6:rami"}]},{"en":"Zaki Daghstani","ar":"زكي داغستاني","recitations":[{"loc":"mp3quran9:zaki"}]},{"en":"Sayyid Ramadhan","ar":"سيد رمضان","recitations":[{"loc":"mp3quran12:sayed"}]},{"en":"Shirzad Abdul-Rahman tahr","ar":"شيرزاد عبد الرحمن طاهر","recitations":[{"loc":"mp3quran12:taher"}]},{"en":"Sabr Abdul-Hakam","ar":"صابر عبد الحكم","recitations":[{"loc":"mp3quran12:hkm"}]},{"en":"Tariq Abdul-Ghani da'oob","ar":"طارق عبد الغني دعوب","recitations":[{"loc":"mp3quran10:tareq","qiraah":0}]},{"en":"Adil Rayan","ar":"عادل ريان","recitations":[{"loc":"mp3quran8:ryan"}]},{"en":"Abdul-Bari Muhammad","ar":"عبد البارئ محمد","recitations":[{"loc":"mp3quran12:bari"}]},{"en":"Abdul-Rahman al-'uoosi","ar":"عبد الرحمن العوسي","recitations":[{"loc":"mp3quran6:aloosi"}]},{"en":"Abdul-Rahman al-Majd","ar":"عبد الرحمن الماجد","recitations":[{"loc":"mp3quran10:a_majed"}]},{"en":"Abdullah al-Khalaf","ar":"عبد الله الخلف","recitations":[{"loc":"mp3quran14:khalf"}]},{"en":"Abdullah al-Kandri","ar":"عبد الله الكندري","recitations":[{"loc":"mp3quran10:Abdullahk"}]},{"en":"Abdul-Muhsin al-Harithi","ar":"عبد المحسن الحارثي","recitations":[{"loc":"mp3quran6:mohsin_harthi"}]},{"en":"Abdul-Muhsin al-'Ubaykan","ar":"عبد المحسن العبيكان","recitations":[{"loc":"mp3quran12:obk"}]},{"en":"Abdul-Hadi Ahmad knakri","ar":"عبد الهادي أحمد كناكري","recitations":[{"loc":"mp3quran6:kanakeri"}]},{"en":"Umar al-Qazabiri","ar":"عمر القزابري","recitations":[{"loc":"mp3quran9:omar_warsh","qiraah":1}]},{"en":"Maher Shakhashero","ar":"ماهر شخاشيرو","recitations":[{"loc":"mp3quran10:shaksh"}]},{"en":"Muhammad Rashad al-Sharif","ar":"محمد رشاد الشريف","recitations":[{"loc":"mp3quran10:rashad"}]},{"en":"Muhammad salh 'aalm shah","ar":"محمد صالح عالم شاه","recitations":[{"loc":"mp3quran12:shah"}]},{"en":"Abdul-Hakim Saeed aal Abdullah","ar":"عبد الحكيم سعيد آل عبد الله","recitations":[{"loc":"mp3quran12:abdullah_dori","qiraah":13},{"loc":"mp3quran9:abdullah","qiraah":"البزي وقنبل"}]},{"en":"Muhammad Uthman khan","ar":"محمد عثمان خان","recitations":[{"loc":"mp3quran6:khan"}]},{"en":"Mahmood al-Rifa'ai","ar":"محمود الرفاعي","recitations":[{"loc":"mp3quran11:mrifai"}]},{"en":"Mahmood al-Shimi","ar":"محمود الشيمي","recitations":[{"loc":"mp3quran10:sheimy","qiraah":13}]},{"en":"Mustafa al-Lahwani","ar":"مصطفى اللاهوني","recitations":[{"loc":"mp3quran6:lahoni"}]},{"en":"Muaydh al-Harthi","ar":"معيض الحارثي","recitations":[{"loc":"mp3quran8:harthi"}]},{"en":"Miftah al-Sltni","ar":"مفتاح السلطني","recitations":[{"loc":"mp3quran11:muftah_thakwan","qiraah":7},{"loc":"mp3quran9:sultany","qiraah":4},{"loc":"mp3quran10:muftah","qiraah":9},{"loc":"mp3quran6:saltany_kisaia","qiraah":13}]},{"en":"Musa Bilal","ar":"موسى بلال","recitations":[{"loc":"mp3quran11:bilal"}]},{"en":"Nimah al-Hasan","ar":"نعمة الحسان","recitations":[{"loc":"mp3quran8:namh"}]},{"en":"Walid al-Naihi","ar":"وليد النائحي","recitations":[{"loc":"mp3quran9:waleed","qiraah":"قالون ط أبي نشيط"}]},{"en":"Yasir al-Qurashi","ar":"ياسر القرشي","recitations":[{"loc":"mp3quran9:qurashi"}]},{"en":"Yasir al-Mazroo'iee","ar":"ياسر المزروعي","recitations":[{"loc":"mp3quran9:mzroyee","qiraah":"رويس وروح"}]},{"en":"Yahya Hawa","ar":"يحيى حوى","recitations":[{"loc":"mp3quran12:yahya"}]},{"en":"Yusuf al-Shawayiee","ar":"يوسف الشويعي","recitations":[{"loc":"mp3quran9:yousef"}]},{"en":"Yusuf ibn Nuh Ahmad","ar":"يوسف بن نوح أحمد","recitations":[{"loc":"mp3quran8:noah"}]}]}
+{
+  "qiraat": [
+    "Qalūn ʿan Nāfiʿ",
+    "Warsh ʿan Nāfiʿ",
+    "al-Bazzī ʿan Ibn-Kathīr",
+    "Qunbul ʿan Ibn Kathīr",
+    "al-Dūrī ʿan Abī ʿAmr",
+    "al-Sūsi ʿan Abī ʿAmr",
+    "Hishām ʿan Ibn ʿĀmir",
+    "Ibn Thakwān ʿan Ibn ʿĀmir",
+    "Shuʿbah ʿan ʿAsim",
+    "Ḥafs ʿan ʿAsim",
+    "Khalaf ʿan Ḥamzah",
+    "Khlād ʿan Ḥamzah",
+    "Abu al-Ḥarith ʿan al-Kisāʾī",
+    "al-Dūrī ʿan al-Kisāʾī",
+    "Ibn Wardān ʿan Abī Jaʿfar",
+    "Ibn Jammāz ʿan Abī Jaʿfar",
+    "Ruays ʿan Yaqūb al-Ḥaḍarmy",
+    "Rawḥ ʿan Yaqūb al-Ḥaḍarmy",
+    "Isḥāq al-Warrāq ʿan Khalaf",
+    "Idrīs ʿan Khalaf"
+  ],
+  "qiraat_description": {
+    "Qalūn ʿan Nāfiʿ": {
+      "en": "This recitation is transmitted through [Nafi' ibn 'Abd al-Rahman al-Madani], who was one of the most famous reciters of the Quran. His style of recitation is known for its clarity and adherence to the rules of Tajweed (the correct pronunciation of Arabic letters).",
+      "id": "Bacaan ini disampaikan melalui [Nafi' ibn 'Abd al-Rahman al-Madani], yang merupakan salah satu qari terkenal dalam dunia Islam. Gaya bacaannya dikenal karena kejelasannya dan ketaatannya pada aturan Tajwid (penyebutan yang benar dari huruf-huruf Arab).",
+      "bio": {
+        "en": "Nafi' ibn 'Abd al-Rahman al-Madani was a prominent reciter of the Quran who lived during the time of the Tabi'un (the generation after the companions of the Prophet Muhammad). He was known for his mastery of the Quranic recitation and his contributions to the preservation of its various recitations.",
+        "id": "Nafi' ibn 'Abd al-Rahman al-Madani adalah seorang qari terkenal dari Al-Quran yang hidup pada masa Tabi'un (generasi setelah para sahabat Nabi Muhammad). Dia dikenal karena mahir dalam membaca Al-Quran dan kontribusinya dalam melestarikan berbagai bacaannya."
+      },
+      "bio_source": {
+        "en": "https://en.wikipedia.org/wiki/Nafi%27_al-Madani",
+        "id": "https://id.wikipedia.org/wiki/Nafi%27_al-Madani"
+      }
+    },
+    "Warsh ʿan Nāfiʿ": {
+      "en": "Similar to Qalun, this recitation is also transmitted through [Nafi' ibn 'Abd al-Rahman al-Madani], but it differs in certain pronunciations and recitation rules. Warsh's recitation is more prevalent in parts of North and West Africa.",
+      "id": "Mirip dengan Qalun, bacaan ini juga disampaikan melalui [Nafi' ibn 'Abd al-Rahman al-Madani], tetapi berbeda dalam beberapa pelafalan dan aturan bacaan. Bacaan Warsh lebih umum digunakan di sebagian wilayah Afrika Utara dan Barat.",
+      "bio": {
+        "en": "Nafi' ibn 'Abd al-Rahman al-Madani was a renowned transmitter of the Quranic recitation known as Warsh. He was known for his meticulous preservation of the recitation and his efforts in spreading it throughout North and West Africa.",
+        "id": "Nafi' ibn 'Abd al-Rahman al-Madani adalah seorang pemancar terkenal bacaan Al-Quran yang dikenal sebagai Warsh. Dia dikenal karena melestarikan bacaan dengan cermat dan upayanya dalam menyebarkannya di Afrika Utara dan Barat."
+      },
+      "bio_source": {
+        "en": "https://en.wikipedia.org/wiki/Warsh_%28Quranic_recitation%29",
+        "id": "https://id.wikipedia.org/wiki/Warsh_%28Quranic_recitation%29"
+      }
+    },
+    "al-Bazzī ʿan Ibn-Kathīr": {
+      "en": "This recitation is transmitted through [Abu al-Harith al-Laythi], also known as Ibn Kathir al-Makki. His style of recitation is distinct and follows a specific set of rules different from other recitations.",
+      "id": "Bacaan ini disampaikan melui [Abu al-Harith al-Laythi], juga dikenal sebagai Ibn Kathir al-Makki. Gaya bacaannya yang khas mengikuti seperangkat aturan yang spesifik yang berbeda dari bacaan-bacaan lain.",
+      "bio": {
+        "en": "Abu al-Harith al-Laythi, commonly known as Ibn Kathir al-Makki, was a prominent transmitter of the Quranic recitation. He was known for his deep understanding of the Quranic sciences and his contributions to the preservation of the recitation.",
+        "id": "Abu al-Harith al-Laythi, yang lebih dikenal sebagai Ibn Kathir al-Makki, adalah seorang pemancar terkemuka bacaan Al-Quran. Dia dikenal karena pemahamannya yang mendalam tentang ilmu Al-Quran dan kontribusinya dalam melestarikan bacaan."
+      },
+      "bio_source": {
+        "en": "https://en.wikipedia.org/wiki/Abu_al-Harith_ibn_Muhammad_al-Laythi",
+        "id": "https://id.wikipedia.org/wiki/Abu_al-Harith_ibn_Muhammad_al-Laythi"
+      }
+    },
+    "Qunbul ʿan Ibn Kathīr": {
+      "en": "Another recitation transmitted through [Ibn Kathir], but through a different chain of transmission, known as Qunbul. It has its own unique characteristics and pronunciation rules.",
+      "id": "Bacaan lain yang disampaikan melalui [Ibn Kathir], tetapi melalui jalur transmisi yang berbeda, dikenal sebagai Qunbul. Memiliki karakteristik dan aturan pelafalan yang unik.",
+      "bio": {
+        "en": "Qunbul was a distinguished transmitter of the Quranic recitation who received the recitation from Ibn Kathir. He was known for his mastery of the recitation and his adherence to its rules.",
+        "id": "Qunbul adalah seorang pemancar terkemuka bacaan Al-Quran yang menerima bacaan dari Ibn Kathir. Dia dikenal karena keahliannya dalam membaca Al-Quran dan ketaatannya pada aturan bacaan."
+      },
+      "bio_source": {
+        "en": "https://en.wikipedia.org/wiki/Qunbul",
+        "id": "https://id.wikipedia.org/wiki/Qunbul"
+      }
+    },
+    "al-Dūrī ʿan Abī ʿAmr": {
+      "en": "This recitation is attributed to [Abu 'Amr ibn al-'Ala], also known as al-Duri. His style of recitation is known for its clarity and melodious tone.",
+      "id": "Bacaan ini diatribusikan kepada [Abu 'Amr ibn al-'Ala], juga dikenal sebagai al-Duri. Gaya bacaannya dikenal karena kejelasan dan nada yang merdu.",
+      "bio": {
+        "en": "Abu 'Amr ibn al-'Ala, known as al-Duri, was a prominent transmitter of the Quranic recitation during the early Islamic period. He was revered for his beautiful recitation and his efforts in preserving the Quranic text.",
+        "id": "Abu 'Amr ibn al-'Ala, yang dikenal sebagai al-Duri, adalah seorang pemancar terkemuka bacaan Al-Quran pada periode awal Islam. Dia dihormati karena bacaannya yang indah dan upayanya dalam melestarikan teks Al-Quran."
+      },
+      "bio_source": {
+        "en": "https://en.wikipedia.org/wiki/Abu_Amr_ibn_al-Ala",
+        "id": "https://id.wikipedia.org/wiki/Abu_Amr_ibn_al-Ala"
+      }
+    },
+    "al-Sūsi ʿan Abī ʿAmr": {
+      "en": "Another recitation attributed to [Abu 'Amr ibn al-'Ala], but through a different chain of transmission, known as al-Susi. It may have slight variations compared to al-Duri's recitation.",
+      "id": "Bacaan lain yang diatribusikan kepada [Abu 'Amr ibn al-'Ala], tetapi melalui jalur transmisi yang berbeda, dikenal sebagai al-Susi. Mungkin memiliki variasi kecil dibandingkan dengan bacaan al-Duri.",
+      "bio": {
+        "en": "Abu 'Amr ibn al-'Ala, known as al-Susi, was a transmitter of the Quranic recitation who played a significant role in its preservation. He was known for his unique style of recitation and his contributions to the dissemination of the Quran.",
+        "id": "Abu 'Amr ibn al-'Ala, yang dikenal sebagai al-Susi, adalah seorang pemancar bacaan Al-Quran yang memainkan peran penting dalam melestarikannya. Dia dikenal karena gaya bacaannya yang unik dan kontribusinya dalam penyebaran Al-Quran."
+      },
+      "bio_source": {
+        "en": "https://en.wikipedia.org/wiki/Abu_Amr_ibn_al-Ala",
+        "id": "https://id.wikipedia.org/wiki/Abu_Amr_ibn_al-Ala"
+      }
+    },
+    "Hishām ʿan Ibn ʿĀmir": {
+      "en": "This recitation is transmitted through [Hisham ibn 'Amir al-Dabi]. His style of recitation is known for its precision and adherence to the rules of Tajweed.",
+      "id": "Bacaan ini disampaikan melalui [Hisham ibn 'Amir al-Dabi]. Gaya bacaannya dikenal karena ketepatannya dan ketaatannya pada aturan Tajwid.",
+      "bio": {
+        "en": "Hisham ibn 'Amir al-Dabi was a renowned transmitter of the Quranic recitation known for his strict adherence to the rules of Tajweed. He was highly respected for his precise recitation and his efforts in teaching others.",
+        "id": "Hisham ibn 'Amir al-Dabi adalah seorang pemancar terkenal bacaan Al-Quran yang dikenal karena ketaatannya yang ketat pada aturan Tajwid. Dia sangat dihormati karena bacaannya yang presisi dan upayanya dalam mengajarkan kepada orang lain."
+      },
+      "bio_source": {
+        "en": "https://en.wikipedia.org/wiki/Hisham_ibn_Amir_al-Dabi",
+        "id": "https://id.wikipedia.org/wiki/Hisham_ibn_Amir_al-Dabi"
+      }
+    },
+    "Ibn Thakwān ʿan Ibn ʿĀmir": {
+      "en": "Similar to Hisham's recitation, this one is also transmitted through [Ibn Amir], but through a different chain of transmission, known as Ibn Thakwan.",
+      "id": "Mirip dengan bacaan Hisham, bacaan ini juga disampaikan melalui [Ibn Amir], tetapi melalui jalur transmisi yang berbeda, dikenal sebagai Ibn Thakwan.",
+      "bio": {
+        "en": "Ibn Thakwan was a transmitter of the Quranic recitation who received the recitation from Ibn Amir. He was known for his mastery of the recitation and his contributions to its transmission.",
+        "id": "Ibn Thakwan adalah seorang pemancar bacaan Al-Quran yang menerima bacaan dari Ibn Amir. Dia dikenal karena keahliannya dalam membaca Al-Quran dan kontribusinya dalam transmisi bacaan tersebut."
+      },
+      "bio_source": {
+        "en": "https://en.wikipedia.org/wiki/Ibn_Thakwan",
+        "id": "https://id.wikipedia.org/wiki/Ibn_Thakwan"
+      }
+    },
+    "Shuʿbah ʿan ʿAsim": {
+      "en": "Shu'bah ibn al-Ḥajjaj al-Azdī transmitted this recitation, which is based on the narration of 'Asim ibn Abi al-Najud. It is one of the most widely used recitations globally.",
+      "id": "Shu'bah ibn al-Ḥajjaj al-Azdī menyampaikan bacaan ini, yang didasarkan pada riwayat 'Asim ibn Abi al-Najud. Ini adalah salah satu bacaan yang paling banyak digunakan secara global.",
+      "bio": {
+        "en": "Shu'bah ibn al-Ḥajjaj al-Azdī was a prominent transmitter of the Quranic recitation who received the recitation from 'Asim ibn Abi al-Najud. He was widely recognized for his mastery of the recitation and his efforts in spreading it.",
+        "id": "Shu'bah ibn al-Ḥajjaj al-Azdī adalah seorang pemancar terkemuka bacaan Al-Quran yang menerima bacaan dari 'Asim ibn Abi al-Najud. Dia dikenal luas karena keahliannya dalam membaca Al-Quran dan upayanya dalam menyebarkannya."
+      },
+      "bio_source": {
+        "en": "https://en.wikipedia.org/wiki/Shu%27bah_ibn_al-Hajjaj",
+        "id": "https://id.wikipedia.org/wiki/Shu%27bah_ibn_al-Hajjaj"
+      }
+    },
+    "Ḥafs ʿan ʿAsim": {
+      "en": "This recitation is also transmitted through [ʿAsim ibn Abi al-Najud] but through a different student, Hafs ibn Sulayman. It is the most common recitation used in many parts of the world.",
+      "id": "Bacaan ini juga disampaikan melalui [ʿAsim ibn Abi al-Najud] tetapi melalui seorang murid yang berbeda, Hafs ibn Sulayman. Ini adalah bacaan yang paling umum digunakan di banyak bagian dunia.",
+      "bio": {
+        "en": "Hafs ibn Sulayman was a prominent transmitter of the Quranic recitation known for his transmission of the recitation from ʿAsim ibn Abi al-Najud. He played a significant role in the standardization and dissemination of the recitation.",
+        "id": "Hafs ibn Sulayman adalah seorang pemancar terkemuka bacaan Al-Quran yang dikenal karena transmisinya dari ʿAsim ibn Abi al-Najud. Dia memainkan peran penting dalam standarisasi dan penyebaran bacaan."
+      },
+      "bio_source": {
+        "en": "https://en.wikipedia.org/wiki/Hafs_%28Quran_recitation%29",
+        "id": "https://id.wikipedia.org/wiki/Hafs_%28Quran_recitation%29"
+      }
+    },
+    "Khalaf ʿan Ḥamzah": {
+      "en": "[Khalaf ibn Hisham al-Bazzar] transmitted this recitation, which is based on the narration of Hamzah al-Kufi. It has its own distinct pronunciation and rules.",
+      "id": "[Khalaf ibn Hisham al-Bazzar] menyampaikan bacaan ini, yang didasarkan pada riwayat Hamzah al-Kufi. Memiliki pelafalan dan aturan yang berbeda.",
+      "bio": {
+        "en": "Khalaf ibn Hisham al-Bazzar was a transmitter of the Quranic recitation known for his transmission of the recitation from Hamzah al-Kufi. He was recognized for his adherence to the rules of recitation and his contributions to its transmission.",
+        "id": "Khalaf ibn Hisham al-Bazzar adalah seorang pemancar bacaan Al-Quran yang dikenal karena transmisinya dari Hamzah al-Kufi. Dia diakui karena ketaatannya pada aturan bacaan dan kontribusinya dalam transmisi tersebut."
+      },
+      "bio_source": {
+        "en": "https://en.wikipedia.org/wiki/Khalaf_al-Bazzar",
+        "id": "https://id.wikipedia.org/wiki/Khalaf_al-Bazzar"
+      }
+    },
+    "Khlād ʿan Ḥamzah": {
+      "en": "Another recitation attributed to Hamzah al-Kufi, but through a different chain of transmission, known as Khlād.",
+      "id": "Bacaan lain yang diatribusikan kepada Hamzah al-Kufi, tetapi melalui jalur transmisi yang berbeda, dikenal sebagai Khlād.",
+      "bio": {
+        "en": "Khlād was a transmitter of the Quranic recitation who received the recitation from Hamzah al-Kufi through a separate transmission chain. He was known for his meticulous preservation of the recitation and his efforts in teaching it to others.",
+        "id": "Khlād adalah seorang pemancar bacaan Al-Quran yang menerima bacaan dari Hamzah al-Kufi melalui jalur transmisi yang terpisah. Dia dikenal karena melestarikan bacaan dengan cermat dan upayanya dalam mengajarkannya kepada orang lain."
+      },
+      "bio_source": {
+        "en": "https://en.wikipedia.org/wiki/Hamzah_al-Kufi",
+        "id": "https://id.wikipedia.org/wiki/Hamzah_al-Kufi"
+      }
+    },
+    "Abu al-Ḥarith ʿan al-Kisāʾī": {
+      "en": "[Abu al-Harith al-Laythi] transmitted this recitation, which is based on the narration of al-Kisai. It is known for its unique melody and pronunciation.",
+      "id": "[Abu al-Harith al-Laythi] menyampaikan bacaan ini, yang didasarkan pada riwayat al-Kisai. Dikenal karena melodi dan pelafalannya yang unik.",
+      "bio": {
+        "en": "Abu al-Harith al-Laythi, known as Abu al-Harith al-Laythi, was a transmitter of the Quranic recitation known for his beautiful recitation style. He played a significant role in the preservation and dissemination of the recitation.",
+        "id": "Abu al-Harith al-Laythi, yang dikenal sebagai Abu al-Harith al-Laythi, adalah seorang pemancar bacaan Al-Quran yang dikenal karena gaya bacaannya yang indah. Dia memainkan peran penting dalam melestarikan dan menyebarkan bacaan tersebut."
+      },
+      "bio_source": {
+        "en": "https://en.wikipedia.org/wiki/Abu_al-Harith_ibn_Muhammad_al-Laythi",
+        "id": "https://id.wikipedia.org/wiki/Abu_al-Harith_ibn_Muhammad_al-Laythi"
+      }
+    },
+    "al-Dūrī ʿan al-Kisāʾī": {
+      "en": "Similar to the previous one, this recitation is also attributed to al-Kisai but through a different chain of transmission, known as al-Duri.",
+      "id": "Mirip dengan yang sebelumnya, bacaan ini juga diatribusikan kepada al-Kisai tetapi melalui jalur transmisi yang berbeda, dikenal sebagai al-Duri.",
+      "bio": {
+        "en": "Al-Duri was a transmitter of the Quranic recitation known for his precise transmission of the recitation from al-Kisai. He was respected for his dedication to preserving the recitation and ensuring its accurate transmission.",
+        "id": "Al-Duri adalah seorang pemancar bacaan Al-Quran yang dikenal karena transmisinya yang presisi dari al-Kisai. Dia dihormati karena dedikasinya dalam melestarikan bacaan dan memastikan transmisi yang akurat."
+      },
+      "bio_source": {
+        "en": "https://en.wikipedia.org/wiki/Al-Duri_(Quran_reciter)",
+        "id": "https://id.wikipedia.org/wiki/Al-Duri_(Quran_reciter)"
+      }
+    },
+    "Ibn Wardān ʿan Abī Jaʿfar": {
+      "en": "This recitation is transmitted through Abi Ja'far al-Madani, also known as Ibn Wardan. It has its own distinct characteristics and rules.",
+      "id": "Bacaan ini disampaikan melalui Abi Ja'far al-Madani, juga dikenal sebagai Ibn Wardan. Memiliki karakteristik dan aturan yang berbeda.",
+      "bio": {
+        "en": "Ibn Wardan, also known as Abi Ja'far al-Madani, was a transmitter of the Quranic recitation known for his meticulous preservation of the recitation. He was revered for his mastery of the recitation and his contributions to its transmission.",
+        "id": "Ibn Wardan, juga dikenal sebagai Abi Ja'far al-Madani, adalah seorang pemancar bacaan Al-Quran yang dikenal karena melestarikan bacaan dengan cermat. Dia dihormati karena keahliannya dalam membaca Al-Quran dan kontribusinya dalam transmisi tersebut."
+      },
+      "bio_source": {
+        "en": "https://en.wikipedia.org/wiki/Ibn_Wardan",
+        "id": "https://id.wikipedia.org/wiki/Ibn_Wardan"
+      }
+    },
+    "Ibn Jammāz ʿan Abī Jaʿfar": {
+      "en": "Another recitation attributed to Ibn Wardan, but through a different chain of transmission, known as Ibn Jammaz.",
+      "id": "Bacaan lain yang diatribusikan kepada Ibn Wardan, tetapi melalui jalur transmisi yang berbeda, dikenal sebagai Ibn Jammaz.",
+      "bio": {
+        "en": "Ibn Jammaz was a transmitter of the Quranic recitation who received the recitation from Ibn Wardan through a separate transmission chain. He was known for his dedication to preserving the recitation and his efforts in teaching it to others.",
+        "id": "Ibn Jammaz adalah seorang pemancar bacaan Al-Quran yang menerima bacaan dari Ibn Wardan melalui jalur transmisi yang terpisah. Dia dikenal karena dedikasinya dalam melestarikan bacaan dan upayanya dalam mengajarkannya kepada orang lain."
+      },
+      "bio_source": {
+        "en": "https://en.wikipedia.org/wiki/Ibn_Jammaz",
+        "id": "https://id.wikipedia.org/wiki/Ibn_Jammaz"
+      }
+    },
+    "Ruays ʿan Yaqūb al-Ḥaḍarmy": {
+      "en": "Ruays al-Yamani transmitted this recitation, which is based on the narration of Yaqub al-Hadarmi. It is less common compared to some other recitations.",
+      "id": "Ruays al-Yamani menyampaikan bacaan ini, yang didasarkan pada riwayat Yaqub al-Hadarmi. Kurang umum dibandingkan dengan beberapa bacaan lainnya.",
+      "bio": {
+        "en": "Ruays al-Yamani was a transmitter of the Quranic recitation who received the recitation from Yaqub al-Hadarmi. Although less common, his recitation was valued for its adherence to the rules of Tajweed and its melodious tone.",
+        "id": "Ruays al-Yamani adalah seorang pemancar bacaan Al-Quran yang menerima bacaan dari Yaqub al-Hadarmi. Meskipun kurang umum, bacaannya dihargai karena ketaatannya pada aturan Tajwid dan nada yang merdunya."
+      },
+      "bio_source": {
+        "en": "https://en.wikipedia.org/wiki/Ruays_al-Yamani",
+        "id": "https://id.wikipedia.org/wiki/Ruays_al-Yamani"
+      }
+    },
+    "Rawḥ ʿan Yaqūb al-Ḥaḍarmy": {
+      "en": "Another recitation attributed to Yaqub al-Hadarmi, but through a different chain of transmission, known as Rawh.",
+      "id": "Bacaan lain yang diatribusikan kepada Yaqub al-Hadarmi, tetapi melalui jalur transmisi yang berbeda, dikenal sebagai Rawh.",
+      "bio": {
+        "en": "Rawh was a transmitter of the Quranic recitation who received the recitation from Yaqub al-Hadarmi through a separate transmission chain. His recitation had its own unique characteristics and was valued for its adherence to the rules of Tajweed.",
+        "id": "Rawh adalah seorang pemancar bacaan Al-Quran yang menerima bacaan dari Yaqub al-Hadarmi melalui jalur transmisi yang terpisah. Bacaannya memiliki karakteristik unik tersendiri dan dihargai karena ketaatannya pada aturan Tajwid."
+      },
+      "bio_source": {
+        "en": "https://en.wikipedia.org/wiki/Rawh_al-Yamani",
+        "id": "https://id.wikipedia.org/wiki/Rawh_al-Yamani"
+      }
+    },
+    "Isḥāq al-Warrāq ʿan Khalaf": {
+      "en": "Isḥāq al-Warrāq transmitted this recitation, which is based on the narration of Khalaf. It has its own unique characteristics.",
+      "id": "Isḥāq al-Warrāq menyampaikan bacaan ini, yang didasarkan pada riwayat Khalaf. Memiliki karakteristik unik tersendiri.",
+      "bio": {
+        "en": "Isḥāq al-Warrāq was a transmitter of the Quranic recitation known for his accurate transmission of the recitation from Khalaf. His recitation style was characterized by its distinctiveness and adherence to the rules of Tajweed.",
+        "id": "Isḥāq al-Warrāq adalah seorang pemancar bacaan Al-Quran yang dikenal karena transmisinya yang akurat dari Khalaf. Gaya bacaannya ditandai dengan keunikan dan ketaatannya pada aturan Tajwid."
+      },
+      "bio_source": {
+        "en": "https://en.wikipedia.org/wiki/Is%E1%B8%A5%C4%81q_al-Warr%C4%81q",
+        "id": "https://id.wikipedia.org/wiki/Is%E1%B8%A5%C4%81q_al-Warr%C4%81q"
+      }
+    },
+    "Idrīs ʿan Khalaf": {
+      "en": "Idris al-Kufi transmitted this recitation, also based on the narration of Khalaf. It may have slight variations compared to Isḥāq al-Warrāq's recitation.",
+      "id": "Idris al-Kufi menyampaikan bacaan ini, juga didasarkan pada riwayat Khalaf. Mungkin memiliki sedikit variasi dibandingkan dengan bacaan Isḥāq al-Warrāq.",
+      "bio": {
+        "en": "Idris al-Kufi was a transmitter of the Quranic recitation known for his accurate transmission of the recitation from Khalaf. His recitation style may have contained slight variations compared to other transmitters.",
+        "id": "Idris al-Kufi adalah seorang pemancar bacaan Al-Quran yang dikenal karena transmisinya yang akurat dari Khalaf. Gaya bacaannya mungkin memiliki sedikit variasi dibandingkan dengan pemancar lainnya."
+      },
+      "bio_source": {
+        "en": "https://en.wikipedia.org/wiki/Idris_al-Kufi",
+        "id": "https://id.wikipedia.org/wiki/Idris_al-Kufi"
+      }
+    }
+  },
+  "tags": {
+    "taraweeh": "تراويح",
+    "mujawwad": "مجود",
+    "radio": "إذاعة",
+    "rare": "نادر",
+    "teacher": "معلِّم"
+  },
+  "servers": {
+    "qaudio": "https://download.quranicaudio.com/quran/",
+    "muqri": "https://muqri.com/audio/",
+    "iweb": "http://audio3.islamweb.net/quran/",
+    "mp3quran6": "https://server6.mp3quran.net/",
+    "mp3quran7": "https://server7.mp3quran.net/",
+    "mp3quran8": "https://server8.mp3quran.net/",
+    "mp3quran9": "https://server9.mp3quran.net/",
+    "mp3quran10": "https://server10.mp3quran.net/",
+    "mp3quran11": "https://server11.mp3quran.net/",
+    "mp3quran12": "https://server12.mp3quran.net/",
+    "mp3quran13": "https://server13.mp3quran.net/",
+    "mp3quran14": "https://server14.mp3quran.net/",
+    "mp3quran16": "https://server16.mp3quran.net/"
+  },
+  "reciters": [
+    {
+      "en": "Mahmoud Khalil al-Husari",
+      "ar": "محمود خليل الحصري",
+      "recitations": [
+        { "loc": "muqri:alhusari/mp3" },
+        { "tags": "radio", "loc": "qaudio:mahmood_khaleel_al-husaree_iza3a" },
+        { "qiraah": 4, "loc": "qaudio:mahmood_khaleel_al-husaree_doori" }
+      ]
+    },
+    {
+      "en": "Mansour Al-Salemi",
+      "ar": "منصور السالمي",
+      "recitations": [{ "qiraah": 9, "loc": "mp3quran14:mansor" }]
+    },
+    {
+      "en": "Mishari al-Afasi",
+      "ar": "مشاري العفاسي",
+      "recitations": [
+        { "loc": "qaudio:mishaari_raashid_al_3afaasee" },
+        { "tags": "taraweeh 1430", "loc": "qaudio:mishaari_california" }
+      ]
+    },
+    {
+      "en": "AbdulBaset AbdulSamad",
+      "ar": "عبد الباسط عبد الصمد",
+      "recitations": [
+        { "loc": "qaudio:abdul_basit_murattal" },
+        { "tags": "mujawwad", "loc": "muqri:abdulbasit-m/mp3" },
+        { "qiraah": 1, "loc": "qaudio:abdulbaset_warsh" }
+      ]
+    },
+    {
+      "en": "Abdullah Ali Jabir",
+      "ar": "عبد الله علي جابر",
+      "recitations": [
+        { "loc": "qaudio:abdullaah_alee_jaabir_studio" },
+        { "tags": "taraweeh", "loc": "qaudio:abdullaah_alee_jaabir" }
+      ]
+    },
+    {
+      "en": "Abdulelah bin Aoun",
+      "ar": "عبدالإله بن عون",
+      "recitations": [
+        { "qiraah": 9, "loc": "mp3quran16:a_binaoun/Rewayat-Hafs-A-n-Assem" }
+      ]
+    },
+    {
+      "en": "Abdul-Mun'im Abdul-Mubdi'",
+      "ar": "عبد المنعم عبد المبدي",
+      "recitations": [{ "loc": "qaudio:abdulmun3im_abdulmubdi2" }]
+    },
+    {
+      "en": "Abdullah Basfar",
+      "ar": "عبد الله بصفر",
+      "recitations": [{ "loc": "qaudio:abdullaah_basfar" }]
+    },
+    {
+      "en": "Abu Bakr al-Shatri",
+      "ar": "أبو بكر الشاطرى",
+      "recitations": [
+        { "loc": "muqri:alshatiri/mp3" },
+        { "tags": "taraweeh", "loc": "qaudio:abu_bakr_ash-shatri_tarawee7" }
+      ]
+    },
+    {
+      "en": "Sa'ud ash-Shuraym",
+      "ar": "سعود الشريم",
+      "recitations": [{ "loc": "qaudio:sa3ood_al-shuraym" }]
+    },
+    {
+      "en": "Saad al-Ghamdi",
+      "ar": "سعد الغامدي",
+      "recitations": [{ "loc": "muqri:alghamidi/mp3" }]
+    },
+    {
+      "en": "Muhammad Ayyoob",
+      "ar": "محمد أيوب",
+      "recitations": [
+        { "loc": "muqri:mayyub/mp3" },
+        { "tags": "taraweeh", "loc": "qaudio:muhammad_ayyoob_hq" }
+      ]
+    },
+    {
+      "en": "Muhammad Siddiq al-Minshawi",
+      "ar": "محمد صديق المنشاوي",
+      "recitations": [
+        { "loc": "muqri:alminshawi/mp3" },
+        { "tags": "mujawwad", "loc": "qaudio:minshawi_mujawwad" }
+      ]
+    },
+    {
+      "en": "Maher al-Muayqili",
+      "ar": "ماهر المعيقلى",
+      "recitations": [{ "loc": "qaudio:maher_256" }]
+    },
+    {
+      "en": "Abdur-Rahman as-Sudais",
+      "ar": "عبد الرحمن السديس",
+      "recitations": [{ "loc": "qaudio:abdurrahmaan_as-sudays" }]
+    },
+    {
+      "en": "Ali al-Huthaifi",
+      "ar": "علي الحذيفي",
+      "recitations": [
+        { "loc": "muqri:alhuthayfi/mp3" },
+        { "qiraah": 0, "loc": "qaudio:huthayfi_qaloon" }
+      ]
+    },
+    {
+      "en": "Ibrahim al-Akhdar",
+      "ar": "إبراهيم الأخضر",
+      "recitations": [{ "loc": "qaudio:ibrahim_al_akhdar" }]
+    },
+    {
+      "en": "Idrees Abkar",
+      "ar": "إدريس أبكر",
+      "recitations": [{ "loc": "qaudio:idrees_akbar" }]
+    },
+    {
+      "en": "Khalid al-Qahtani",
+      "ar": "خالد القحطاني",
+      "recitations": [
+        { "loc": "qaudio:khaalid_al-qahtaanee", "tags": "taraweeh" }
+      ]
+    },
+    {
+      "en": "Emad Hafez",
+      "ar": "عماد زهير حافظ",
+      "recitations": [{ "loc": "mp3quran6:hafz", "qiraah": 9 }]
+    },
+    {
+      "en": "Nasser al-Qatami",
+      "ar": "ناصر القطامي",
+      "recitations": [{ "loc": "qaudio:nasser_bin_ali_alqatami" }]
+    },
+    {
+      "en": "Tawfeeq as-Sa'igh",
+      "ar": "توفيق الصائغ",
+      "recitations": [{ "loc": "qaudio:tawfeeq_bin_saeed-as-sawaaigh" }]
+    },
+    {
+      "en": "Salah Bukhatir",
+      "ar": "صلاح بوخاطر",
+      "recitations": [{ "loc": "qaudio:salaah_bukhaatir" }]
+    },
+    {
+      "en": "Khalifah al-Tunayji",
+      "ar": "خليفة الطنيجي",
+      "recitations": [{ "loc": "mp3quran12:tnjy" }]
+    },
+    {
+      "en": "Ahmed al-Ajmi",
+      "ar": "أحمد العجمي",
+      "recitations": [{ "loc": "qaudio:ahmed_ibn_3ali_al-3ajamy" }]
+    },
+    {
+      "en": "AbdulAzeez al-Ahmad",
+      "ar": "عبد العزيز الأحمد",
+      "recitations": [{ "loc": "qaudio:abdulazeez_al-ahmad" }]
+    },
+    {
+      "en": "AbdulBari ath-Thubaiti",
+      "ar": "عبد الباري الثبيتي",
+      "recitations": [{ "loc": "qaudio:thubaity" }]
+    },
+    {
+      "en": "AbdulKareem al-Hazmi",
+      "ar": "عبد الكريم الحازمي",
+      "recitations": [{ "loc": "qaudio:abdulkareem_al_hazmi" }]
+    },
+    {
+      "en": "AbdulMuhsin al-Qasim",
+      "ar": "عبد المحسن القاسم",
+      "recitations": [{ "loc": "qaudio:abdul_muhsin_alqasim" }]
+    },
+    {
+      "en": "AbdulWadood Haneef",
+      "ar": "عبد الودود حنيف",
+      "recitations": [
+        { "loc": "qaudio:abdulwadood_haneef" },
+        { "tags": "rare", "loc": "qaudio:abdul_wadood_haneef_rare" }
+      ]
+    },
+    {
+      "en": "Abdullah Awad al-Juhani",
+      "ar": "عبد الله عواد الجهني",
+      "recitations": [{ "loc": "qaudio:abdullaah_3awwaad_al-juhaynee" }]
+    },
+    {
+      "en": "Abdullah Khayat",
+      "ar": "عبد الله خياط",
+      "recitations": [{ "loc": "qaudio:khayat" }]
+    },
+    {
+      "en": "Abdullah Matroud",
+      "ar": "عبد الله المطرود",
+      "recitations": [{ "loc": "qaudio:abdullah_matroud" }]
+    },
+    {
+      "en": "Abdur-Rashid Sufi",
+      "ar": "عبد الرشيد صوفي",
+      "recitations": [
+        { "loc": "qaudio:abdurrashid_sufi" },
+        { "qiraah": 4, "loc": "qaudio:abdurrashid_sufi_doori" },
+        { "qiraah": 5, "loc": "qaudio:abdurrashid_sufi_soosi_rec" },
+        { "qiraah": 8, "loc": "qaudio:abdurrashid_sufi_shu3ba" },
+        {
+          "qiraah": 10,
+          "loc": "qaudio:abdurrashid_sufi_-_khalaf_3an_7amza_recitation"
+        },
+        { "qiraah": 12, "loc": "qaudio:abdurrashid_sufi_abi_al7arith" }
+      ]
+    },
+    {
+      "en": "Abdur-Razaq al-Dulaymi",
+      "ar": "عبد الرزاق الدليمي",
+      "recitations": [
+        { "tags": "mujawwad", "loc": "qaudio:abdulrazaq_bin_abtan_al_dulaimi" }
+      ]
+    },
+    {
+      "en": "Adel Kalbani",
+      "ar": "عادل الكلباني",
+      "recitations": [{ "loc": "qaudio:adel_kalbani" }]
+    },
+    {
+      "en": "Ahmad Nauina",
+      "ar": "أحمد نعينع",
+      "recitations": [{ "loc": "qaudio:ahmad_nauina" }]
+    },
+    {
+      "en": "Ahmad al-Huthaifi",
+      "ar": "أحمد الحذيفي",
+      "recitations": [{ "loc": "qaudio:ahmad_alhuthayfi" }]
+    },
+    {
+      "en": "Akram al-Alaqmi",
+      "ar": "أكرم العلاقمي",
+      "recitations": [{ "loc": "qaudio:akram_al_alaqmi" }]
+    },
+    {
+      "en": "Al-Hussayni al-'Azazi",
+      "ar": "الحسيني العزازي",
+      "recitations": [
+        {
+          "loc": "qaudio:alhusaynee_al3azazee_with_children",
+          "tags": "teacher"
+        }
+      ]
+    },
+    {
+      "en": "Ali Hajjaj Alsouasi",
+      "ar": "علي حجاج السويسي",
+      "recitations": [{ "loc": "qaudio:ali_hajjaj_alsouasi" }]
+    },
+    {
+      "en": "Alashri Omran",
+      "ar": "العشري عمران",
+      "recitations": [{ "qiraah": 9, "loc": "mp3quran9:omran" }]
+    },
+    {
+      "en": "Abdulkarim Alhazmi",
+      "ar": "عبدالكريم الحازمي",
+      "recitations": [
+        { "qiraah": 9, "loc": "mp3quran16:a_alhazmi/Rewayat-Hafs-A-n-Assem" }
+      ]
+    },
+    {
+      "en": "Anas Alemadi",
+      "ar": "أنس العمادي",
+      "recitations": [
+        { "qiraah": 9, "loc": "mp3quran16:a_alemadi/Rewayat-Hafs-A-n-Assem" }
+      ]
+    },
+    {
+      "en": "Ahmad Talib bin Humaid",
+      "ar": "أحمد طالب بن حميد",
+      "recitations": [
+        { "qiraah": 9, "loc": "mp3quran16:a_binhameed/Rewayat-Hafs-A-n-Assem" }
+      ]
+    },
+    {
+      "en": "Aziz Alili",
+      "ar": "عزيز عليلى",
+      "recitations": [{ "loc": "qaudio:aziz_alili" }]
+    },
+    {
+      "en": "Bandar Baleela",
+      "ar": "بندر بليلة",
+      "recitations": [{ "loc": "qaudio:bandar_baleela" }]
+    },
+    {
+      "en": "Dr. Shawqy Hamed",
+      "ar": "د. شوقي حامد",
+      "recitations": [
+        { "loc": "qaudio:dr.shawqy_7amed/murattal" },
+        { "tags": "mujawwad", "loc": "qaudio:dr.shawqy_7amed/mujawwad" }
+      ]
+    },
+    {
+      "en": "Fares Abbad",
+      "ar": "فارس عباد",
+      "recitations": [{ "loc": "qaudio:fares" }]
+    },
+    {
+      "en": "Hamad Sinan",
+      "ar": "حامد سنان",
+      "recitations": [{ "loc": "qaudio:hamad_sinan" }]
+    },
+    {
+      "en": "Hani ar-Rifai",
+      "ar": "هاني الرفاعي",
+      "recitations": [{ "loc": "qaudio:rifai" }]
+    },
+    {
+      "en": "Hicham Lharraz",
+      "ar": "هشام الهراز",
+      "recitations": [
+        { "qiraah": 1, "loc": "mp3quran16:H-Lharraz/Rewayat-Warsh-A-n-Naf" }
+      ]
+    },
+    {
+      "en": "Hatem Farid",
+      "ar": "حاتم فريد",
+      "recitations": [
+        { "loc": "qaudio:hatem_farid/collection" },
+        { "tags": "taraweeh 1433", "loc": "qaudio:hatem_farid/taraweeh1433" },
+        { "tags": "taraweeh 1432", "loc": "qaudio:hatem_farid/taraweeh1432" },
+        { "tags": "taraweeh 1431", "loc": "qaudio:hatem_farid/taraweeh1431" }
+      ]
+    },
+    {
+      "en": "Ibrahim al-Jibrin",
+      "ar": "إبراهيم الجبرين",
+      "recitations": [
+        { "loc": "qaudio:jibreen" },
+        { "tags": "1426-1427", "loc": "qaudio:jibreen/jibreen_1426-1427" }
+      ]
+    },
+    {
+      "en": "Imad Zuhair Hafez",
+      "ar": "عماد زهير حافظ",
+      "recitations": [{ "loc": "qaudio:imad_zuhair_hafez" }]
+    },
+    {
+      "en": "Mahmood Ali al-Bana",
+      "ar": "محمود علي البنا",
+      "recitations": [{ "loc": "qaudio:mahmood_ali_albana" }]
+    },
+    {
+      "en": "Mohammad al-Tablawi",
+      "ar": "محمد الطبلاوي",
+      "recitations": [{ "loc": "qaudio:mohammad_altablawi" }]
+    },
+    {
+      "en": "Mohammad Ismaeel al-Muqaddim",
+      "ar": "محمد إسماعيل المقدم",
+      "recitations": [{ "loc": "qaudio:mohammad_ismaeel_almuqaddim" }]
+    },
+    {
+      "en": "Mustafa Ismaeel",
+      "ar": "مصطفى إسماعيل",
+      "recitations": [{ "loc": "qaudio:mostafa_ismaeel" }]
+    },
+    {
+      "en": "Muhammad Abdul-Kareem",
+      "ar": "محمد عبد الكريم",
+      "recitations": [{ "loc": "qaudio:muhammad_abdulkareem" }]
+    },
+    {
+      "en": "Muhammad Hassan",
+      "ar": "محمد حسان",
+      "recitations": [{ "loc": "qaudio:mu7ammad_7assan" }]
+    },
+    {
+      "en": "Muhammad Jibreel",
+      "ar": "محمد جبريل",
+      "recitations": [{ "loc": "qaudio:muhammad_jibreel/complete" }]
+    },
+    {
+      "en": "Muhammad Sulaiman Patel",
+      "ar": "محمد سليمان باتل",
+      "recitations": [{ "loc": "qaudio:muhammad_patel" }]
+    },
+    {
+      "en": "Muhammad al-Luhaidan",
+      "ar": "محمد اللحيدان",
+      "recitations": [{ "loc": "qaudio:muhammad_alhaidan" }]
+    },
+    {
+      "en": "Muhammad al-Mehysni",
+      "ar": "محمد المحيسني",
+      "recitations": [
+        { "loc": "qaudio:mehysni" },
+        { "tags": "taraweeh 1435", "loc": "qaudio:muhaisny_1435" }
+      ]
+    },
+    {
+      "en": "Mustafa al-'Azawi",
+      "ar": "مصطفى العزاوى",
+      "recitations": [{ "loc": "qaudio:mustafa_al3azzawi" }]
+    },
+    {
+      "en": "Nabil ar-Rifai",
+      "ar": "نبيل الرفاعي",
+      "recitations": [{ "loc": "qaudio:nabil_rifa3i" }]
+    },
+    {
+      "en": "Sadaqat 'Ali",
+      "ar": "صدقات علي",
+      "recitations": [{ "loc": "qaudio:sadaqat_ali" }]
+    },
+    {
+      "en": "Sahl Yasin",
+      "ar": "سهل ياسين",
+      "recitations": [{ "loc": "qaudio:sahl_yaaseen" }]
+    },
+    {
+      "en": "Salah al-Hashim",
+      "ar": "صلاح الهاشم",
+      "recitations": [{ "loc": "qaudio:salah_alhashim" }]
+    },
+    {
+      "en": "Salah al-Budair",
+      "ar": "صلاح البدير",
+      "recitations": [{ "loc": "qaudio:salahbudair" }]
+    },
+    {
+      "en": "Saleh aal Taleb",
+      "ar": "صالح آل طالب",
+      "recitations": [{ "loc": "qaudio:saleh_al_taleb" }]
+    },
+    {
+      "en": "Wadee al-Yamani",
+      "ar": "وديع اليمني",
+      "recitations": [{ "loc": "qaudio:wadee_hammadi_al-yamani" }]
+    },
+    {
+      "en": "Yasser ad-Dussari",
+      "ar": "ياسر الدوسري",
+      "recitations": [{ "loc": "qaudio:yasser_ad-dussary" }]
+    },
+    {
+      "en": "Ahmad al-Hawashi",
+      "ar": "أحمد الحواشي",
+      "recitations": [{ "loc": "mp3quran11:hawashi" }]
+    },
+    {
+      "en": "Ahmad al-Trabulsi",
+      "ar": "أحمد الطرابلسي",
+      "recitations": [
+        { "loc": "mp3quran10:trabulsi", "qiraah": 9 },
+        { "loc": "mp3quran10:trablsi", "qiraah": 0 }
+      ]
+    },
+    {
+      "en": "Ahmad Sabir",
+      "ar": "أحمد صابر",
+      "recitations": [{ "loc": "mp3quran8:saber" }]
+    },
+    {
+      "en": "Ahmad Aamer",
+      "ar": "أحمد عامر",
+      "recitations": [{ "loc": "mp3quran10:Aamer" }]
+    },
+    {
+      "en": "Ibrahim al-Doosari",
+      "ar": "إبراهيم الدوسري",
+      "recitations": [
+        { "loc": "mp3quran10:ibrahim_dosri_hafs", "qiraah": 9 },
+        { "loc": "mp3quran10:ibrahim_dosri_warsh", "qiraah": 1 }
+      ]
+    },
+    {
+      "en": "Aldawkali Muhammad al-'aalm",
+      "ar": "الدوكالي محمد العالم",
+      "recitations": [{ "loc": "mp3quran7:dokali", "qiraah": 0 }]
+    },
+    {
+      "en": "Alzin Muhammad Ahmad",
+      "ar": "الزين محمد أحمد",
+      "recitations": [{ "loc": "mp3quran9:alzain" }]
+    },
+    {
+      "en": "Aluyoon al-Kooshi",
+      "ar": "العيون الكوشي",
+      "recitations": [{ "loc": "mp3quran11:koshi", "qiraah": 1 }]
+    },
+    {
+      "en": "Alfath Muhammad al-Zubayr",
+      "ar": "الفاتح محمد الزبير",
+      "recitations": [{ "loc": "mp3quran6:fateh", "qiraah": 4 }]
+    },
+    {
+      "en": "Alqari Yasin",
+      "ar": "القارئ ياسين",
+      "recitations": [{ "loc": "mp3quran11:qari", "qiraah": 1 }]
+    },
+    {
+      "en": "Jamal Shakir Abdullah",
+      "ar": "جمال شاكر عبد الله",
+      "recitations": [{ "loc": "mp3quran6:jamal" }]
+    },
+    {
+      "en": "Jam'aan al-Usaymi",
+      "ar": "جمعان العصيمي",
+      "recitations": [{ "loc": "mp3quran6:jaman" }]
+    },
+    {
+      "en": "Khaled al-Muhanna",
+      "ar": "خالد المهنا",
+      "recitations": [{ "loc": "mp3quran11:mohna" }]
+    },
+    {
+      "en": "Khaled Abdul-Kafi",
+      "ar": "خالد عبد الكافي",
+      "recitations": [{ "loc": "mp3quran11:kafi" }]
+    },
+    {
+      "en": "Rami al-D'ais",
+      "ar": "رامي الدعيس",
+      "recitations": [{ "loc": "mp3quran6:rami" }]
+    },
+    {
+      "en": "Zaki Daghstani",
+      "ar": "زكي داغستاني",
+      "recitations": [{ "loc": "mp3quran9:zaki" }]
+    },
+    {
+      "en": "Sayyid Ramadhan",
+      "ar": "سيد رمضان",
+      "recitations": [{ "loc": "mp3quran12:sayed" }]
+    },
+    {
+      "en": "Shirzad Abdul-Rahman tahr",
+      "ar": "شيرزاد عبد الرحمن طاهر",
+      "recitations": [{ "loc": "mp3quran12:taher" }]
+    },
+    {
+      "en": "Sabr Abdul-Hakam",
+      "ar": "صابر عبد الحكم",
+      "recitations": [{ "loc": "mp3quran12:hkm" }]
+    },
+    {
+      "en": "Tariq Abdul-Ghani da'oob",
+      "ar": "طارق عبد الغني دعوب",
+      "recitations": [{ "loc": "mp3quran10:tareq", "qiraah": 0 }]
+    },
+    {
+      "en": "Adil Rayan",
+      "ar": "عادل ريان",
+      "recitations": [{ "loc": "mp3quran8:ryan" }]
+    },
+    {
+      "en": "Abdul-Bari Muhammad",
+      "ar": "عبد البارئ محمد",
+      "recitations": [{ "loc": "mp3quran12:bari" }]
+    },
+    {
+      "en": "Abdul-Rahman al-'uoosi",
+      "ar": "عبد الرحمن العوسي",
+      "recitations": [{ "loc": "mp3quran6:aloosi" }]
+    },
+    {
+      "en": "Abdul-Rahman al-Majd",
+      "ar": "عبد الرحمن الماجد",
+      "recitations": [{ "loc": "mp3quran10:a_majed" }]
+    },
+    {
+      "en": "Abdullah al-Khalaf",
+      "ar": "عبد الله الخلف",
+      "recitations": [{ "loc": "mp3quran14:khalf" }]
+    },
+    {
+      "en": "Abdullah al-Kandri",
+      "ar": "عبد الله الكندري",
+      "recitations": [{ "loc": "mp3quran10:Abdullahk" }]
+    },
+    {
+      "en": "Abdul-Muhsin al-Harithi",
+      "ar": "عبد المحسن الحارثي",
+      "recitations": [{ "loc": "mp3quran6:mohsin_harthi" }]
+    },
+    {
+      "en": "Abdul-Muhsin al-'Ubaykan",
+      "ar": "عبد المحسن العبيكان",
+      "recitations": [{ "loc": "mp3quran12:obk" }]
+    },
+    {
+      "en": "Abdul-Hadi Ahmad knakri",
+      "ar": "عبد الهادي أحمد كناكري",
+      "recitations": [{ "loc": "mp3quran6:kanakeri" }]
+    },
+    {
+      "en": "Umar al-Qazabiri",
+      "ar": "عمر القزابري",
+      "recitations": [{ "loc": "mp3quran9:omar_warsh", "qiraah": 1 }]
+    },
+    {
+      "en": "Maher Shakhashero",
+      "ar": "ماهر شخاشيرو",
+      "recitations": [{ "loc": "mp3quran10:shaksh" }]
+    },
+    {
+      "en": "Muhammad Rashad al-Sharif",
+      "ar": "محمد رشاد الشريف",
+      "recitations": [{ "loc": "mp3quran10:rashad" }]
+    },
+    {
+      "en": "Muhammad salh 'aalm shah",
+      "ar": "محمد صالح عالم شاه",
+      "recitations": [{ "loc": "mp3quran12:shah" }]
+    },
+    {
+      "en": "Abdul-Hakim Saeed aal Abdullah",
+      "ar": "عبد الحكيم سعيد آل عبد الله",
+      "recitations": [
+        { "loc": "mp3quran12:abdullah_dori", "qiraah": 13 },
+        { "loc": "mp3quran9:abdullah", "qiraah": "البزي وقنبل" }
+      ]
+    },
+    {
+      "en": "Muhammad Uthman khan",
+      "ar": "محمد عثمان خان",
+      "recitations": [{ "loc": "mp3quran6:khan" }]
+    },
+    {
+      "en": "Mahmood al-Rifa'ai",
+      "ar": "محمود الرفاعي",
+      "recitations": [{ "loc": "mp3quran11:mrifai" }]
+    },
+    {
+      "en": "Mahmood al-Shimi",
+      "ar": "محمود الشيمي",
+      "recitations": [{ "loc": "mp3quran10:sheimy", "qiraah": 13 }]
+    },
+    {
+      "en": "Mustafa al-Lahwani",
+      "ar": "مصطفى اللاهوني",
+      "recitations": [{ "loc": "mp3quran6:lahoni" }]
+    },
+    {
+      "en": "Muaydh al-Harthi",
+      "ar": "معيض الحارثي",
+      "recitations": [{ "loc": "mp3quran8:harthi" }]
+    },
+    {
+      "en": "Miftah al-Sltni",
+      "ar": "مفتاح السلطني",
+      "recitations": [
+        { "loc": "mp3quran11:muftah_thakwan", "qiraah": 7 },
+        { "loc": "mp3quran9:sultany", "qiraah": 4 },
+        { "loc": "mp3quran10:muftah", "qiraah": 9 },
+        { "loc": "mp3quran6:saltany_kisaia", "qiraah": 13 }
+      ]
+    },
+    {
+      "en": "Musa Bilal",
+      "ar": "موسى بلال",
+      "recitations": [{ "loc": "mp3quran11:bilal" }]
+    },
+    {
+      "en": "Nimah al-Hasan",
+      "ar": "نعمة الحسان",
+      "recitations": [{ "loc": "mp3quran8:namh" }]
+    },
+    {
+      "en": "Walid al-Naihi",
+      "ar": "وليد النائحي",
+      "recitations": [
+        { "loc": "mp3quran9:waleed", "qiraah": "قالون ط أبي نشيط" }
+      ]
+    },
+    {
+      "en": "Yasir al-Qurashi",
+      "ar": "ياسر القرشي",
+      "recitations": [{ "loc": "mp3quran9:qurashi" }]
+    },
+    {
+      "en": "Yasir al-Mazroo'iee",
+      "ar": "ياسر المزروعي",
+      "recitations": [{ "loc": "mp3quran9:mzroyee", "qiraah": "رويس وروح" }]
+    },
+    {
+      "en": "Yahya Hawa",
+      "ar": "يحيى حوى",
+      "recitations": [{ "loc": "mp3quran12:yahya" }]
+    },
+    {
+      "en": "Yusuf al-Shawayiee",
+      "ar": "يوسف الشويعي",
+      "recitations": [{ "loc": "mp3quran9:yousef" }]
+    },
+    {
+      "en": "Yusuf ibn Nuh Ahmad",
+      "ar": "يوسف بن نوح أحمد",
+      "recitations": [{ "loc": "mp3quran8:noah" }]
+    }
+  ]
+}
