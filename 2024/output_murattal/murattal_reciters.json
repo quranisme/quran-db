@@ -309,6 +309,21 @@
       ]
     },
     {
+        "en": "Ahmad Deban",
+        "ar": "أحمد ديبان",
+        "recitations": [
+          { "loc": "qaudio:mishaari_raashid_al_3afaasee" },
+          { "tags": "taraweeh 1430", "loc": "qaudio:mishaari_california" },
+          { "qiraah": 9, "loc": "mp3quran16:deban/Rewayat-Hafs-A-n-Assem"},
+          { "qiraah": 8, "loc": "mp3quran16:deban/Rewayat-Sho-bah-A-n-Asim"},
+          { "qiraah": 3, "loc": "mp3quran16:deban/Rewayat-Qunbol-A-n-Ibn-Katheer"},
+          { "qiraah": 2, "loc": "mp3quran16:deban/Rewayat-Albizi-A-n-Ibn-Katheer"},
+          { "qiraah": 0, "loc": "mp3quran16:deban/Rewayat-Qalon-A-n-Nafi"},
+          { "qiraah": 4, "loc": "mp3quran16:deban/Rewayat-Aldori-A-n-Abi-Amr"},
+          { "qiraah": 1, "loc": "mp3quran16:deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq"}
+        ]
+      },
+    {
       "en": "AbdulBaset AbdulSamad",
       "ar": "عبد الباسط عبد الصمد",
       "recitations": [
@@ -379,7 +394,10 @@
     {
       "en": "Maher al-Muayqili",
       "ar": "ماهر المعيقلى",
-      "recitations": [{ "loc": "qaudio:maher_256" }]
+      "recitations": [
+        { "loc": "qaudio:maher_256" },
+        { "tags": "mujawwad", "loc": "mp3quran12:maher/Almusshaf-Al-Mojawwad" }
+    ]
     },
     {
       "en": "Abdur-Rahman as-Sudais",
