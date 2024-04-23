@@ -893,9 +893,9 @@
       "recitations": [{ "loc": "mp3quran12:obk" }]
     },
     {
-      "en": "Abdul-Hadi Ahmad knakri",
+      "en": "Abdul-Hadi Ahmad Kanakeri",
       "ar": "عبد الهادي أحمد كناكري",
-      "recitations": [{ "loc": "mp3quran6:kanakeri" }]
+      "recitations": [{ "qiraah": 9, "loc": "mp3quran6:kanakeri" }]
     },
     {
       "en": "Umar al-Qazabiri",
