@@ -1,0 +1,182 @@
+{
+  "code": 200,
+  "data": {
+    "verses": {
+      "1:1": {
+        "meta": {
+          "chapter": 1,
+          "verse": 1,
+          "page": 1,
+          "juz": 1,
+          "hizb": 1,
+          "manzil": 1,
+          "ruku": 1,
+          "words": 4
+        },
+        "words": {
+          "arabic": "بِسۡمِ|ٱللَّهِ|ٱلرَّحۡمَٰنِ|ٱلرَّحِيمِ",
+          "translation": "In (the) name|(of) Allah|the Most Gracious|the Most Merciful",
+          "transliteration": "bis'mi|al-lahi|al-rahmani|al-rahimi",
+          "timestamp": "0.06|0.62|1.3|2.4",
+          "line": "9|9|9|9",
+          "end": "١",
+          "end_line": 9
+        },
+        "translations": {
+          "1": "Bismil laahir Rahmaanir Raheem",
+          "2": "Bismi All<u>a</U>hi a<b>l</B>rra<u>h</U>m<u>a</U>ni a<b>l</B>rra<u>h</U>eem<b>i</b>"
+        }
+      },
+      "1:2": {
+        "meta": {
+          "chapter": 1,
+          "verse": 2,
+          "page": 1,
+          "juz": 1,
+          "hizb": 1,
+          "manzil": 1,
+          "ruku": 1,
+          "words": 4
+        },
+        "words": {
+          "arabic": "ٱلۡحَمۡدُ|لِلَّهِ|رَبِّ|ٱلۡعَٰلَمِينَ",
+          "translation": "All praises and thanks|(be) to Allah|(the) Lord|(of all) the worlds",
+          "transliteration": "al-hamdu|lillahi|rabbi|al-'alamina",
+          "timestamp": "0.08|0.97|1.8|2.4",
+          "line": "10|10|10|10",
+          "end": "٢",
+          "end_line": 10
+        },
+        "translations": {
+          "1": "Alhamdu lillaahi Rabbil 'aalameen",
+          "2": "Al<u>h</U>amdu lill<u>a</U>hi rabbi alAA<u>a</U>lameen<b>a</b>"
+        }
+      },
+      "1:3": {
+        "meta": {
+          "chapter": 1,
+          "verse": 3,
+          "page": 1,
+          "juz": 1,
+          "hizb": 1,
+          "manzil": 1,
+          "ruku": 1,
+          "words": 2
+        },
+        "words": {
+          "arabic": "ٱلرَّحۡمَٰنِ|ٱلرَّحِيمِ",
+          "translation": "The Most Gracious|the Most Merciful",
+          "transliteration": "al-rahmani|al-rahimi",
+          "timestamp": "0.04|1.2",
+          "line": "11|11",
+          "end": "٣",
+          "end_line": 11
+        },
+        "translations": {
+          "1": "Ar-Rahmaanir Raheem",
+          "2": "A<b>l</B>rra<u>h</U>m<u>a</U>ni a<b>l</B>rra<u>h</U>eem<b>i</b>"
+        }
+      },
+      "1:4": {
+        "meta": {
+          "chapter": 1,
+          "verse": 4,
+          "page": 1,
+          "juz": 1,
+          "hizb": 1,
+          "manzil": 1,
+          "ruku": 1,
+          "words": 3
+        },
+        "words": {
+          "arabic": "مَٰلِكِ|يَوۡمِ|ٱلدِّينِ",
+          "translation": "Master|(of the) Day|(of) [the] Judgment",
+          "transliteration": "maliki|yawmi|al-dini",
+          "timestamp": "0.06|0.85|1.4",
+          "line": "11|11|11",
+          "end": "٤",
+          "end_line": 11
+        },
+        "translations": {
+          "1": "Maaliki Yawmid Deen",
+          "2": "M<u>a</U>liki yawmi a<b>l</B>ddeen<b>i</b>"
+        }
+      },
+      "1:5": {
+        "meta": {
+          "chapter": 1,
+          "verse": 5,
+          "page": 1,
+          "juz": 1,
+          "hizb": 1,
+          "manzil": 1,
+          "ruku": 1,
+          "words": 4
+        },
+        "words": {
+          "arabic": "إِيَّاكَ|نَعۡبُدُ|وَإِيَّاكَ|نَسۡتَعِينُ",
+          "translation": "You Alone|we worship|and You Alone|we ask for help",
+          "transliteration": "iyyaka|na'budu|wa-iyyaka|nasta'inu",
+          "timestamp": "0.03|0.98|1.7|2.8",
+          "line": "12|12|12|12",
+          "end": "٥",
+          "end_line": 12
+        },
+        "translations": {
+          "1": "Iyyaaka na'budu wa-lyyaaka nasta'een",
+          "2": "Iyy<u>a</U>ka naAAbudu waiyy<u>a</U>ka nastaAAeen<b>u</b>"
+        }
+      },
+      "1:6": {
+        "meta": {
+          "chapter": 1,
+          "verse": 6,
+          "page": 1,
+          "juz": 1,
+          "hizb": 1,
+          "manzil": 1,
+          "ruku": 1,
+          "words": 3
+        },
+        "words": {
+          "arabic": "ٱهۡدِنَا|ٱلصِّرَٰطَ|ٱلۡمُسۡتَقِيمَ",
+          "translation": "Guide us|(to) the path|the straight",
+          "transliteration": "ih'dina|al-sirata|al-mus'taqima",
+          "timestamp": "0.03|0.68|1.6",
+          "line": "12|13|13",
+          "end": "٦",
+          "end_line": 13
+        },
+        "translations": {
+          "1": "Ihdinas Siraatal Mustaqeem",
+          "2": "Ihdin<u>a</U> a<b>l</B><u>ss</U>ir<u>at</U>a almustaqeem<b>a</b>"
+        }
+      },
+      "1:7": {
+        "meta": {
+          "chapter": 1,
+          "verse": 7,
+          "page": 1,
+          "juz": 1,
+          "hizb": 1,
+          "manzil": 1,
+          "ruku": 1,
+          "words": 9
+        },
+        "words": {
+          "arabic": "صِرَٰطَ|ٱلَّذِينَ|أَنۡعَمۡتَ|عَلَيۡهِمۡ|غَيۡرِ|ٱلۡمَغۡضُوبِ|عَلَيۡهِمۡ|وَلَا|ٱلضَّآلِّينَ",
+          "translation": "(The) path|(of) those|You have bestowed (Your) Favors|on them|not (of)|those who earned (Your) wrath|on themselves|and not|(of) those who go astray",
+          "transliteration": "sirata|alladhina|an'amta|alayhim|ghayri|al-maghdubi|alayhim|wala|al-dalina",
+          "timestamp": "0.03|0.75|1.7|2.6|3.6|4.2|5.3|6.3|6.6",
+          "line": "13|13|13|14|14|14|14|15|15",
+          "end": "٧",
+          "end_line": 15
+        },
+        "translations": {
+          "1": "Siraatal lazeena an'amta 'alaihim ghayril maghdoobi 'alaihim wa-lad daaalleen",
+          "2": "<u>S</U>ir<u>at</U>a alla<u>th</U>eena anAAamta AAalayhim ghayri almagh<u>d</U>oobi AAalayhim wal<u>a</U> a<b>l</B><u>dda</U>lleen<b>a</b>"
+        }
+      }
+    }
+  }
+}

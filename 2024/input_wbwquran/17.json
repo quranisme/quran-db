@@ -1,0 +1,2671 @@
+{
+    "code": 200,
+    "data": {
+      "verses": {
+        "17:1": {
+          "meta": {
+            "chapter": 17,
+            "verse": 1,
+            "page": 282,
+            "juz": 15,
+            "hizb": 113,
+            "manzil": 4,
+            "ruku": 240,
+            "words": 21
+          },
+          "words": {
+            "arabic": "سُبۡحَٰنَ|ٱلَّذِيٓ|أَسۡرَىٰ|بِعَبۡدِهِۦ|لَيۡلٗا|مِّنَ|ٱلۡمَسۡجِدِ|ٱلۡحَرَامِ|إِلَى|ٱلۡمَسۡجِدِ|ٱلۡأَقۡصَا|ٱلَّذِي|بَٰرَكۡنَا|حَوۡلَهُۥ|لِنُرِيَهُۥ|مِنۡ|ءَايَٰتِنَآۚ|إِنَّهُۥ|هُوَ|ٱلسَّمِيعُ|ٱلۡبَصِيرُ",
+            "translation": "Exalted|(is) the One Who|took|His servant|(by) night|from|Al-Masjid|Al-Haraam|to|Al-Masjid|Al-Aqsa|which|We blessed|its surroundings|that We may show him|of|Our Signs|Indeed He|He|(is) the All-Hearer|the All-Seer",
+            "transliteration": "sub'hana|alladhi|asra|bi'abdihi|laylan|mina|al-masjidi|al-harami|ila|al-masjidi|al-aqsa|alladhi|barakna|hawlahu|linuriyahu|min|ayatina|innahu|huwa|al-sami'u|al-basiru",
+            "timestamp": "0.03|1.1|3.1|3.8|5.2|5.7|6.7|7.9|8.9|9.2|10.4|11|12|13.2|14.3|15.6|16|18.4|20|20.5|21",
+            "line": "3|3|3|3|3|3|3|3|3|4|4|4|4|4|4|4|4|4|5|5|5",
+            "end": "١",
+            "end_line": 5
+          },
+          "translations": {
+            "1": "Subhaanal lazeee asraa bi'abdihee lailam minal Masjidil Haraami ilal Masjidil Aqsal lazee baaraknaa haw-lahoo linuriyahoo min aayaatinaa; innahoo Huwas Samee'ul Baseer"
+          }
+        },
+        "17:2": {
+          "meta": {
+            "chapter": 17,
+            "verse": 2,
+            "page": 282,
+            "juz": 15,
+            "hizb": 113,
+            "manzil": 4,
+            "ruku": 240,
+            "words": 12
+          },
+          "words": {
+            "arabic": "وَءَاتَيۡنَا|مُوسَى|ٱلۡكِتَٰبَ|وَجَعَلۡنَٰهُ|هُدٗى|لِّبَنِيٓ|إِسۡرَٰٓءِيلَ|أَلَّا|تَتَّخِذُواْ|مِن|دُونِي|وَكِيلٗا",
+            "translation": "And We gave|Musa|the Book|and made it|a guidance|for the Children|(of) Israel|That not|you take|other than Me|other than Me|(as) a Disposer of affairs",
+            "transliteration": "waatayna|musa|al-kitaba|waja'alnahu|hudan|libani|is'raila|alla|tattakhidhu|min|duni|wakilan",
+            "timestamp": "0.05|1.4|2|3.1|4.5|5.1|7.1|9.9|10.7|12|13|13.8",
+            "line": "5|5|5|5|6|6|6|6|6|6|6|6",
+            "end": "٢",
+            "end_line": 6
+          },
+          "translations": {
+            "1": "Wa-aatainaa Moosal Kitaaba Wa-ja'alnaahu hudal liBaneee Israaa'eel; allaa tat-takhizoo min doonee wakeelaa."
+          }
+        },
+        "17:3": {
+          "meta": {
+            "chapter": 17,
+            "verse": 3,
+            "page": 282,
+            "juz": 15,
+            "hizb": 113,
+            "manzil": 4,
+            "ruku": 240,
+            "words": 9
+          },
+          "words": {
+            "arabic": "ذُرِّيَّةَ|مَنۡ|حَمَلۡنَا|مَعَ|نُوحٍۚ|إِنَّهُۥ|كَانَ|عَبۡدٗا|شَكُورٗا",
+            "translation": "Offsprings|(of one) who|We carried|with|Nuh|Indeed he|was|a servant|grateful",
+            "transliteration": "dhurriyyata|man|hamalna|ma'a|nuhin|innahu|kana|abdan|shakuran",
+            "timestamp": "0.03|1.2|1.6|2.7|3.1|5.2|6.8|7.4|9.1",
+            "line": "7|7|7|7|7|7|7|7|7",
+            "end": "٣",
+            "end_line": 7
+          },
+          "translations": {
+            "1": "Zurriyyata man hamalnaa ma'a Nooh innahoo kaana 'abdan shakooraa"
+          }
+        },
+        "17:4": {
+          "meta": {
+            "chapter": 17,
+            "verse": 4,
+            "page": 282,
+            "juz": 15,
+            "hizb": 113,
+            "manzil": 4,
+            "ruku": 240,
+            "words": 13
+          },
+          "words": {
+            "arabic": "وَقَضَيۡنَآ|إِلَىٰ|بَنِيٓ|إِسۡرَٰٓءِيلَ|فِي|ٱلۡكِتَٰبِ|لَتُفۡسِدُنَّ|فِي|ٱلۡأَرۡضِ|مَرَّتَيۡنِ|وَلَتَعۡلُنَّ|عُلُوّٗا|كَبِيرٗا",
+            "translation": "And We decreed|for|(the) Children|(of) Israel|in|the Book|Surely you will cause corruption|in|the earth|twice|and surely you will reach|haughtiness|great",
+            "transliteration": "waqadayna|ila|bani|is'raila|fi|al-kitabi|latuf'sidunna|fi|al-ardi|marratayni|walata'lunna|uluwwan|kabiran",
+            "timestamp": "0.03|2.5|3|4.9|7.9|8.2|9.2|10.9|11.2|12|19.2|21.1|23",
+            "line": "8|8|8|8|8|8|8|8|8|9|9|9|9",
+            "end": "٤",
+            "end_line": 9
+          },
+          "translations": {
+            "1": "Wa qadainaaa ilaa Baneee Israaa'eela fil Kitaabi latufsidunna fil ardi marratain; Wa-lata'lunna'uluwwan kabeeraa"
+          }
+        },
+        "17:5": {
+          "meta": {
+            "chapter": 17,
+            "verse": 5,
+            "page": 282,
+            "juz": 15,
+            "hizb": 113,
+            "manzil": 4,
+            "ruku": 240,
+            "words": 17
+          },
+          "words": {
+            "arabic": "فَإِذَا|جَآءَ|وَعۡدُ|أُولَىٰهُمَا|بَعَثۡنَا|عَلَيۡكُمۡ|عِبَادٗا|لَّنَآ|أُوْلِي|بَأۡسٖ|شَدِيدٖ|فَجَاسُواْ|خِلَٰلَ|ٱلدِّيَارِۚ|وَكَانَ|وَعۡدٗا|مَّفۡعُولٗا",
+            "translation": "So when|came|(the) promise|(for) the first of the two|We raised|against you|servants|of Ours|those of great military might|those of great military might|those of great military might|and they entered|the inner most part|(of) the homes|and (it) was|a promise|fulfilled",
+            "transliteration": "fa-idha|jaa|wa'du|ulahuma|ba'athna|alaykum|ibadan|lana|uli|basin|shadidin|fajasu|khilala|al-diyari|wakana|wa'dan|maf'ulan",
+            "timestamp": "0.03|0.84|3|3.6|5.1|6|7.2|8.1|10.3|10.9|12.4|24|25.5|26.4|29.3|30.1|30.6",
+            "line": "9|9|9|9|10|10|10|10|10|10|10|10|10|11|11|11|11",
+            "end": "٥",
+            "end_line": 11
+          },
+          "translations": {
+            "1": "Fa-izaa jaaa'a wa'du oolaahumaa ba'asnaaa 'alykum 'ibaadal lanaaa ulee baasin shadeedin fajaasoo khilaalad diyaar; Wa-kaana wa'dam maf'oolaa"
+          }
+        },
+        "17:6": {
+          "meta": {
+            "chapter": 17,
+            "verse": 6,
+            "page": 282,
+            "juz": 15,
+            "hizb": 113,
+            "manzil": 4,
+            "ruku": 240,
+            "words": 11
+          },
+          "words": {
+            "arabic": "ثُمَّ|رَدَدۡنَا|لَكُمُ|ٱلۡكَرَّةَ|عَلَيۡهِمۡ|وَأَمۡدَدۡنَٰكُم|بِأَمۡوَٰلٖ|وَبَنِينَ|وَجَعَلۡنَٰكُمۡ|أَكۡثَرَ|نَفِيرًا",
+            "translation": "Then|We gave back|to you|the return victory|over them|And We reinforced you|with the wealth|and sons|and made you|more|numerous",
+            "transliteration": "thumma|radadna|lakumu|al-karata|alayhim|wa-amdadnakum|bi-amwalin|wabanina|waja'alnakum|akthara|nafiran",
+            "timestamp": "0.03|1|2.1|2.7|3.8|4.9|7.3|9.1|10|14.2|15.1",
+            "line": "11|11|11|11|12|12|12|12|12|12|12",
+            "end": "٦",
+            "end_line": 12
+          },
+          "translations": {
+            "1": "Summa radadnaa lakumul karrata 'alaihim Wa-amdad-naakum-bi amwaalinuw Wa-baneen; Wa-ja'alnaakum aksara nafeeraa"
+          }
+        },
+        "17:7": {
+          "meta": {
+            "chapter": 17,
+            "verse": 7,
+            "page": 282,
+            "juz": 15,
+            "hizb": 113,
+            "manzil": 4,
+            "ruku": 240,
+            "words": 23
+          },
+          "words": {
+            "arabic": "إِنۡ|أَحۡسَنتُمۡ|أَحۡسَنتُمۡ|لِأَنفُسِكُمۡۖ|وَإِنۡ|أَسَأۡتُمۡ|فَلَهَاۚ|فَإِذَا|جَآءَ|وَعۡدُ|ٱلۡأٓخِرَةِ|لِيَسُـُٔواْ|وُجُوهَكُمۡ|وَلِيَدۡخُلُواْ|ٱلۡمَسۡجِدَ|كَمَا|دَخَلُوهُ|أَوَّلَ|مَرَّةٖ|وَلِيُتَبِّرُواْ|مَا|عَلَوۡاْ|تَتۡبِيرًا",
+            "translation": "If|you do good|you do good|for yourselves|and if|you do evil|then it is for it|So when|came|promise|the last|to sadden|your faces|and to enter|the Masjid|just as|they (had) entered it|first|time|and to destroy|what|they had conquered|(with) destruction",
+            "transliteration": "in|ahsantum|ahsantum|li-anfusikum|wa-in|asatum|falaha|fa-idha|jaa|wa'du|al-akhirati|liyasuu|wujuhakum|waliyadkhulu|al-masjida|kama|dakhaluhu|awwala|marratin|waliyutabbiru|ma|alaw|tatbiran",
+            "timestamp": "0.03|0.42|2.4|4.6|7.1|7.7|8.7|10.5|11.3|13.7|14.4|15.7|17.9|19.6|20.9|21.9|22.6|29.2|30.1|31|33.8|34.1|34.8",
+            "line": "13|13|13|13|13|13|13|13|14|14|14|14|14|14|14|15|15|15|15|15|15|15|15",
+            "end": "٧",
+            "end_line": 15
+          },
+          "translations": {
+            "1": "In ahsantum ahsantum li-anfusikum Wa-in asaatum falahaa; fa-izaa jaaa'a wa'dul aakhirati liyasooo'oo wujoo-hakum Wa-liyadkhulul masjida kamaa dakhaloohu awwala marratinw Wa-liyutabbiroo maa a'law tatbeera"
+          }
+        },
+        "17:8": {
+          "meta": {
+            "chapter": 17,
+            "verse": 8,
+            "page": 283,
+            "juz": 15,
+            "hizb": 113,
+            "manzil": 4,
+            "ruku": 240,
+            "words": 11
+          },
+          "words": {
+            "arabic": "عَسَىٰ|رَبُّكُمۡ|أَن|يَرۡحَمَكُمۡۚ|وَإِنۡ|عُدتُّمۡ|عُدۡنَاۚ|وَجَعَلۡنَا|جَهَنَّمَ|لِلۡكَٰفِرِينَ|حَصِيرًا",
+            "translation": "(It) may be|that your Lord|that your Lord|(may) have mercy upon you|But if|you return|We will return|And We have made|Hell|for the disbelievers|a prison-bed",
+            "transliteration": "asa|rabbukum|an|yarhamakum|wa-in|udttum|ud'na|waja'alna|jahannama|lil'kafirina|hasiran",
+            "timestamp": "0.09|0.74|1.8|3.1|4.7|5.2|6.1|7.5|8.8|10.5|12.5",
+            "line": "1|1|1|1|1|1|1|1|1|1|2",
+            "end": "٨",
+            "end_line": 2
+          },
+          "translations": {
+            "1": "Asaa rabbukum aien yarhamakum; Wa-in 'uttum 'udnaa; Wa-ja'alnaa jahannama lilkaafireena haseera"
+          }
+        },
+        "17:9": {
+          "meta": {
+            "chapter": 17,
+            "verse": 9,
+            "page": 283,
+            "juz": 15,
+            "hizb": 113,
+            "manzil": 4,
+            "ruku": 240,
+            "words": 16
+          },
+          "words": {
+            "arabic": "إِنَّ|هَٰذَا|ٱلۡقُرۡءَانَ|يَهۡدِي|لِلَّتِي|هِيَ|أَقۡوَمُ|وَيُبَشِّرُ|ٱلۡمُؤۡمِنِينَ|ٱلَّذِينَ|يَعۡمَلُونَ|ٱلصَّٰلِحَٰتِ|أَنَّ|لَهُمۡ|أَجۡرٗا|كَبِيرٗا",
+            "translation": "Indeed|this|the Quran|guides|to that|which|(is) most straight|and gives glad tidings|to the believers|those who|do|the righteous deeds|that|for them|(is) a reward|great",
+            "transliteration": "inna|hadha|al-qur'ana|yahdi|lillati|hiya|aqwamu|wayubashiru|al-mu'minina|alladhina|ya'maluna|al-salihati|anna|lahum|ajran|kabiran",
+            "timestamp": "0.15|1.1|1.8|3.1|4|5|5.4|6.2|7.6|12.9|13.9|15.2|16.8|17|18.4|19.9",
+            "line": "2|2|2|2|2|2|2|2|3|3|3|3|3|3|3|3",
+            "end": "٩",
+            "end_line": 3
+          },
+          "translations": {
+            "1": "Inna haazal Quraana yahdee lillatee hiya aqwamu Wa-yubashshirul mu'mineenal lazeena ya'maloonas saalihaati anna lahum ajran kabeeraa"
+          }
+        },
+        "17:10": {
+          "meta": {
+            "chapter": 17,
+            "verse": 10,
+            "page": 283,
+            "juz": 15,
+            "hizb": 113,
+            "manzil": 4,
+            "ruku": 240,
+            "words": 9
+          },
+          "words": {
+            "arabic": "وَأَنَّ|ٱلَّذِينَ|لَا|يُؤۡمِنُونَ|بِٱلۡأٓخِرَةِ|أَعۡتَدۡنَا|لَهُمۡ|عَذَابًا|أَلِيمٗا",
+            "translation": "And that|those who|(do) not|believe|in the Hereafter|We have prepared|for them|a punishment|painful",
+            "transliteration": "wa-anna|alladhina|la|yu'minuna|bil-akhirati|a'tadna|lahum|adhaban|aliman",
+            "timestamp": "0.03|1.4|2.5|2.9|4.2|5.7|6.9|7.5|8.7",
+            "line": "4|4|4|4|4|4|4|4|4",
+            "end": "١٠",
+            "end_line": 4
+          },
+          "translations": {
+            "1": "Wa-annal lazeena laa yu'minoona bil-aakhirati a'tadnaa lahum 'azaaban aleemaa"
+          }
+        },
+        "17:11": {
+          "meta": {
+            "chapter": 17,
+            "verse": 11,
+            "page": 283,
+            "juz": 15,
+            "hizb": 113,
+            "manzil": 4,
+            "ruku": 241,
+            "words": 8
+          },
+          "words": {
+            "arabic": "وَيَدۡعُ|ٱلۡإِنسَٰنُ|بِٱلشَّرِّ|دُعَآءَهُۥ|بِٱلۡخَيۡرِۖ|وَكَانَ|ٱلۡإِنسَٰنُ|عَجُولٗا",
+            "translation": "And prays|the man|for evil|(as) he prays|for the good|And is|the man|ever hasty",
+            "transliteration": "wayad'u|al-insanu|bil-shari|du'aahu|bil-khayri|wakana|al-insanu|ajulan",
+            "timestamp": "0.03|0.85|2.8|3.9|6.3|8.5|9.4|11.5",
+            "line": "5|5|5|5|5|5|5|5",
+            "end": "١١",
+            "end_line": 5
+          },
+          "translations": {
+            "1": "Wa-yad'ul insaanu bishsharri du'aaa-'ahoo bilkhayr; Wa-kaanal insaanu 'ajoola"
+          }
+        },
+        "17:12": {
+          "meta": {
+            "chapter": 17,
+            "verse": 12,
+            "page": 283,
+            "juz": 15,
+            "hizb": 113,
+            "manzil": 4,
+            "ruku": 241,
+            "words": 23
+          },
+          "words": {
+            "arabic": "وَجَعَلۡنَا|ٱلَّيۡلَ|وَٱلنَّهَارَ|ءَايَتَيۡنِۖ|فَمَحَوۡنَآ|ءَايَةَ|ٱلَّيۡلِ|وَجَعَلۡنَآ|ءَايَةَ|ٱلنَّهَارِ|مُبۡصِرَةٗ|لِّتَبۡتَغُواْ|فَضۡلٗا|مِّن|رَّبِّكُمۡ|وَلِتَعۡلَمُواْ|عَدَدَ|ٱلسِّنِينَ|وَٱلۡحِسَابَۚ|وَكُلَّ|شَيۡءٖ|فَصَّلۡنَٰهُ|تَفۡصِيلٗا",
+            "translation": "And We have made|the night|and the day|(as) two signs|Then We erased|(the) sign|(of) the night|and We made|(the) sign|(of) the day|visible|that you may seek|bounty|from|your Lord|and that you may know|(the) number|(of) the years|and the account|And every|thing|We have explained it|(in) detail",
+            "transliteration": "waja'alna|al-layla|wal-nahara|ayatayni|famahawna|ayata|al-layli|waja'alna|ayata|al-nahari|mub'siratan|litabtaghu|fadlan|min|rabbikum|walita'lamu|adada|al-sinina|wal-hisaba|wakulla|shayin|fassalnahu|tafsilan",
+            "timestamp": "0.03|1|1.9|3.5|5.9|8.4|9.2|10|10.9|13.7|15.1|16|19.8|20.5|21.8|22.9|24.3|24.9|26|29.1|29.9|31.3|32.8",
+            "line": "6|6|6|6|6|6|6|6|6|7|7|7|7|7|7|7|7|8|8|8|8|8|8",
+            "end": "١٢",
+            "end_line": 8
+          },
+          "translations": {
+            "1": "Wa-ja'alnal laila wannahaara Aayatayni famahawnaaa Aayatal laili Wa-ja'alnaaa Aayatan nahaari mubsiratal litabtaghoo fadlam mir Rabbikum Wa-lita'lamoo 'adadas sineena walhisaab; Wa-kulla shai'in fassalnaahu tafseelaa"
+          }
+        },
+        "17:13": {
+          "meta": {
+            "chapter": 17,
+            "verse": 13,
+            "page": 283,
+            "juz": 15,
+            "hizb": 113,
+            "manzil": 4,
+            "ruku": 241,
+            "words": 13
+          },
+          "words": {
+            "arabic": "وَكُلَّ|إِنسَٰنٍ|أَلۡزَمۡنَٰهُ|طَٰٓئِرَهُۥ|فِي|عُنُقِهِۦۖ|وَنُخۡرِجُ|لَهُۥ|يَوۡمَ|ٱلۡقِيَٰمَةِ|كِتَٰبٗا|يَلۡقَىٰهُ|مَنشُورًا",
+            "translation": "And (for) every|man|We have fastened to him|his fate|in|his neck|and We will bring forth|for him|(on the) Day|(of) the Resurrection|a record|which he will find|wide open",
+            "transliteration": "wakulla|insanin|alzamnahu|tairahu|fi|unuqihi|wanukh'riju|lahu|yawma|al-qiyamati|kitaban|yalqahu|manshuran",
+            "timestamp": "0.03|0.85|2.9|4.4|7.5|7.8|9.2|10.2|10.8|11.4|12.7|14.4|15.5",
+            "line": "8|8|9|9|9|9|9|9|9|9|9|9|10",
+            "end": "١٣",
+            "end_line": 10
+          },
+          "translations": {
+            "1": "Wa-kulla insaanin alzamnaahu taaa'irahoo fee 'unuqihee Wa-nukhriji lahoo Yawmal Qiyaamati kitaabany yalqaahu manshooraa"
+          }
+        },
+        "17:14": {
+          "meta": {
+            "chapter": 17,
+            "verse": 14,
+            "page": 283,
+            "juz": 15,
+            "hizb": 113,
+            "manzil": 4,
+            "ruku": 241,
+            "words": 7
+          },
+          "words": {
+            "arabic": "ٱقۡرَأۡ|كِتَٰبَكَ|كَفَىٰ|بِنَفۡسِكَ|ٱلۡيَوۡمَ|عَلَيۡكَ|حَسِيبٗا",
+            "translation": "Read|your record|Sufficient|(is) yourself|today|against you|(as) accountant",
+            "transliteration": "iq'ra|kitabaka|kafa|binafsika|al-yawma|alayka|hasiban",
+            "timestamp": "0.03|0.7|1.8|2.5|3.6|4.5|5.4",
+            "line": "10|10|10|10|10|10|10",
+            "end": "١٤",
+            "end_line": 10
+          },
+          "translations": {
+            "1": "Iqra kitaabaka kafaa bi-nafsikal Yawma 'alaika haseebaa"
+          }
+        },
+        "17:15": {
+          "meta": {
+            "chapter": 17,
+            "verse": 15,
+            "page": 283,
+            "juz": 15,
+            "hizb": 113,
+            "manzil": 4,
+            "ruku": 241,
+            "words": 21
+          },
+          "words": {
+            "arabic": "مَّنِ|ٱهۡتَدَىٰ|فَإِنَّمَا|يَهۡتَدِي|لِنَفۡسِهِۦۖ|وَمَن|ضَلَّ|فَإِنَّمَا|يَضِلُّ|عَلَيۡهَاۚ|وَلَا|تَزِرُ|وَازِرَةٞ|وِزۡرَ|أُخۡرَىٰۗ|وَمَا|كُنَّا|مُعَذِّبِينَ|حَتَّىٰ|نَبۡعَثَ|رَسُولٗا",
+            "translation": "Whoever|(is) guided|then only|he is guided|for his soul|And whoever|goes astray|then only|he goes astray|against it|And not|will bear|one laden with burden|burden|(of) another|And not|We|are to punish|until|We have sent|a Messenger",
+            "transliteration": "mani|ih'tada|fa-innama|yahtadi|linafsihi|waman|dalla|fa-innama|yadillu|alayha|wala|taziru|waziratun|wiz'ra|ukh'ra|wama|kunna|mu'adhibina|hatta|nab'atha|rasulan",
+            "timestamp": "0.06|0.39|1.2|3|4.2|5.5|7|7.7|9.6|10.5|12.2|12.7|13.4|14.9|16.1|17.4|18|19.6|21|22|22.8",
+            "line": "11|11|11|11|11|11|11|11|11|12|12|12|12|12|12|12|12|12|12|12|13",
+            "end": "١٥",
+            "end_line": 13
+          },
+          "translations": {
+            "1": "Manih tadaa fa-innamaa yahtadee linafsihee Wa-man dalla fa-innamaa yadillu 'alaihaa; Wa-laa taziru waaziratunw wizra ukhraa; Wa-maa kunnaa mu'azzibeena hatta nab'asa Rasoola"
+          }
+        },
+        "17:16": {
+          "meta": {
+            "chapter": 17,
+            "verse": 16,
+            "page": 283,
+            "juz": 15,
+            "hizb": 113,
+            "manzil": 4,
+            "ruku": 241,
+            "words": 14
+          },
+          "words": {
+            "arabic": "وَإِذَآ|أَرَدۡنَآ|أَن|نُّهۡلِكَ|قَرۡيَةً|أَمَرۡنَا|مُتۡرَفِيهَا|فَفَسَقُواْ|فِيهَا|فَحَقَّ|عَلَيۡهَا|ٱلۡقَوۡلُ|فَدَمَّرۡنَٰهَا|تَدۡمِيرٗا",
+            "translation": "And when|We intend|that|We destroy|a town|We order|its wealthy people|but they defiantly disobey|therein|so (is) proved true|against it|the word|and We destroy it|(with) destruction",
+            "transliteration": "wa-idha|aradna|an|nuh'lika|qaryatan|amarna|mut'rafiha|fafasaqu|fiha|fahaqqa|alayha|al-qawlu|fadammarnaha|tadmiran",
+            "timestamp": "0.05|2.2|4.6|4.9|6.3|7.4|8.5|10|11.1|14.3|15.2|16|16.9|19.3",
+            "line": "13|13|13|13|13|13|13|13|13|14|14|14|14|14",
+            "end": "١٦",
+            "end_line": 14
+          },
+          "translations": {
+            "1": "Wa-izaaa aradnaaa an nuhlika qaryatan amarnaa mutrafeehaa fafasaqoo feehaa fahaqqa 'alaihal qawlu fadammarnaahaa tadmeeraa"
+          }
+        },
+        "17:17": {
+          "meta": {
+            "chapter": 17,
+            "verse": 17,
+            "page": 283,
+            "juz": 15,
+            "hizb": 113,
+            "manzil": 4,
+            "ruku": 241,
+            "words": 13
+          },
+          "words": {
+            "arabic": "وَكَمۡ|أَهۡلَكۡنَا|مِنَ|ٱلۡقُرُونِ|مِنۢ|بَعۡدِ|نُوحٖۗ|وَكَفَىٰ|بِرَبِّكَ|بِذُنُوبِ|عِبَادِهِۦ|خَبِيرَۢا|بَصِيرٗا",
+            "translation": "And how many|We destroyed|from|the generations|after|after|Nuh|And sufficient|(is) your Lord|concerning the sins|(of) His servants|All-Aware|All-Seer",
+            "transliteration": "wakam|ahlakna|mina|al-quruni|min|ba'di|nuhin|wakafa|birabbika|bidhunubi|ibadihi|khabiran|basiran",
+            "timestamp": "0.03|0.6|1.8|2.2|3.3|4.5|5.2|7|7.9|8.9|10|11.2|13.1",
+            "line": "14|14|14|14|15|15|15|15|15|15|15|15|15",
+            "end": "١٧",
+            "end_line": 15
+          },
+          "translations": {
+            "1": "Wa-kam ahlaknaa minal qurooni min ba'di Nooh; Wa-kafaa bi-Rabbika bizunoobi 'ibaadihee Khabeeram Baseeraa"
+          }
+        },
+        "17:18": {
+          "meta": {
+            "chapter": 17,
+            "verse": 18,
+            "page": 284,
+            "juz": 15,
+            "hizb": 113,
+            "manzil": 4,
+            "ruku": 241,
+            "words": 18
+          },
+          "words": {
+            "arabic": "مَّن|كَانَ|يُرِيدُ|ٱلۡعَاجِلَةَ|عَجَّلۡنَا|لَهُۥ|فِيهَا|مَا|نَشَآءُ|لِمَن|نُّرِيدُ|ثُمَّ|جَعَلۡنَا|لَهُۥ|جَهَنَّمَ|يَصۡلَىٰهَا|مَذۡمُومٗا|مَّدۡحُورٗا",
+            "translation": "Whoever|should|desire|the immediate|We hasten|for him|in it|what|We will|to whom|We intend|Then|We have made|for him|Hell|he will burn|disgraced|rejected",
+            "transliteration": "man|kana|yuridu|al-'ajilata|ajjalna|lahu|fiha|ma|nashau|liman|nuridu|thumma|ja'alna|lahu|jahannama|yaslaha|madhmuman|madhuran",
+            "timestamp": "0.06|1|1.7|2.5|3.8|5.2|5.7|6.6|7.1|10|10.4|21.7|23|24.1|24.7|32.2|33|34.6",
+            "line": "1|1|1|1|1|1|1|1|1|1|1|1|2|2|2|2|2|2",
+            "end": "١٨",
+            "end_line": 2
+          },
+          "translations": {
+            "1": "Man kaana yureedul 'aajilata 'ajjalnaa lahoo feehaa maa nashaaa'u liman nureedu summa ja'alnaa lahoo Jahannama yaslaahaa mazmoomammad hooraa"
+          }
+        },
+        "17:19": {
+          "meta": {
+            "chapter": 17,
+            "verse": 19,
+            "page": 284,
+            "juz": 15,
+            "hizb": 113,
+            "manzil": 4,
+            "ruku": 241,
+            "words": 12
+          },
+          "words": {
+            "arabic": "وَمَنۡ|أَرَادَ|ٱلۡأٓخِرَةَ|وَسَعَىٰ|لَهَا|سَعۡيَهَا|وَهُوَ|مُؤۡمِنٞ|فَأُوْلَٰٓئِكَ|كَانَ|سَعۡيُهُم|مَّشۡكُورٗا",
+            "translation": "And whoever|desires|the Hereafter|and exerts|for it|the effort|while he|(is) a believer|then those|[are]|their effort|(is) appreciated",
+            "transliteration": "waman|arada|al-akhirata|wasa'a|laha|sa'yaha|wahuwa|mu'minun|fa-ulaika|kana|sa'yuhum|mashkuran",
+            "timestamp": "0.04|0.66|1.5|2.8|3.7|4.4|5.6|6.2|7.9|10.7|11.3|12.4",
+            "line": "2|2|3|3|3|3|3|3|3|3|4|4",
+            "end": "١٩",
+            "end_line": 4
+          },
+          "translations": {
+            "1": "Wa-man araadal Aakhirata Wa-sa'aa lahaa sa'yahaa Wa-huwa mu'minun fa-ulaaa'ika kaana sa'yuhum mashkooraa"
+          }
+        },
+        "17:20": {
+          "meta": {
+            "chapter": 17,
+            "verse": 20,
+            "page": 284,
+            "juz": 15,
+            "hizb": 113,
+            "manzil": 4,
+            "ruku": 241,
+            "words": 12
+          },
+          "words": {
+            "arabic": "كُلّٗا|نُّمِدُّ|هَٰٓؤُلَآءِ|وَهَٰٓؤُلَآءِ|مِنۡ|عَطَآءِ|رَبِّكَۚ|وَمَا|كَانَ|عَطَآءُ|رَبِّكَ|مَحۡظُورًا",
+            "translation": "(To) each|We extend|(to) these|and (to) these|from|(the) gift|(of) your Lord|And not|is|(the) gift|(of) your Lord|restricted",
+            "transliteration": "kullan|numiddu|haulai|wahaulai|min|atai|rabbika|wama|kana|atau|rabbika|mahzuran",
+            "timestamp": "0.03|0.67|2.4|6.8|11.8|12.1|14.7|15.9|16.5|17.1|19.8|20.6",
+            "line": "4|4|4|4|4|5|5|5|5|5|5|5",
+            "end": "٢٠",
+            "end_line": 5
+          },
+          "translations": {
+            "1": "Kullan numiddu haaa-'ulaaa'i Wa-haaa'ulaaa'i min 'ataaa'i rabbik; Wa-maa kaana 'ataaa'u rabbika mahzooraa"
+          }
+        },
+        "17:21": {
+          "meta": {
+            "chapter": 17,
+            "verse": 21,
+            "page": 284,
+            "juz": 15,
+            "hizb": 113,
+            "manzil": 4,
+            "ruku": 241,
+            "words": 11
+          },
+          "words": {
+            "arabic": "ٱنظُرۡ|كَيۡفَ|فَضَّلۡنَا|بَعۡضَهُمۡ|عَلَىٰ|بَعۡضٖۚ|وَلَلۡأٓخِرَةُ|أَكۡبَرُ|دَرَجَٰتٖ|وَأَكۡبَرُ|تَفۡضِيلٗا",
+            "translation": "See|how|We preferred|some of them|over|others|And surely the Hereafter|(is) greater|(in) degrees|and greater|(in) excellence",
+            "transliteration": "unzur|kayfa|faddalna|ba'dahum|ala|ba'din|walalakhiratu|akbaru|darajatin|wa-akbaru|tafdilan",
+            "timestamp": "0.07|1.4|2|3.3|4.3|5|6.2|8|8.9|10.3|12.5",
+            "line": "5|5|6|6|6|6|6|6|6|6|7",
+            "end": "٢١",
+            "end_line": 7
+          },
+          "translations": {
+            "1": "Unzur kaifa faddalnaa ba'dahum 'alaa ba'd; Wa-lal-Aakhiratu akbaru darajaatinw Wa-akbaru tafdeelaa"
+          }
+        },
+        "17:22": {
+          "meta": {
+            "chapter": 17,
+            "verse": 22,
+            "page": 284,
+            "juz": 15,
+            "hizb": 113,
+            "manzil": 4,
+            "ruku": 241,
+            "words": 9
+          },
+          "words": {
+            "arabic": "لَّا|تَجۡعَلۡ|مَعَ|ٱللَّهِ|إِلَٰهًا|ءَاخَرَ|فَتَقۡعُدَ|مَذۡمُومٗا|مَّخۡذُولٗا",
+            "translation": "(Do) not|make|with|Allah|god|another|lest you will sit|disgraced|forsaken",
+            "transliteration": "la|taj'al|ma'a|al-lahi|ilahan|akhara|fataq'uda|madhmuman|makhdhulan",
+            "timestamp": "0.12|0.45|1.3|1.7|2.5|3.4|4.2|5.3|6.1",
+            "line": "7|7|7|7|7|7|7|7|8",
+            "end": "٢٢",
+            "end_line": 8
+          },
+          "translations": {
+            "1": "Laa taj'al ma'al laahi ilaahan aakhara fataq'uda mazoomam makhzoolaa"
+          }
+        },
+        "17:23": {
+          "meta": {
+            "chapter": 17,
+            "verse": 23,
+            "page": 284,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 242,
+            "words": 25
+          },
+          "words": {
+            "arabic": "۞وَقَضَىٰ|رَبُّكَ|أَلَّا|تَعۡبُدُوٓاْ|إِلَّآ|إِيَّاهُ|وَبِٱلۡوَٰلِدَيۡنِ|إِحۡسَٰنًاۚ|إِمَّا|يَبۡلُغَنَّ|عِندَكَ|ٱلۡكِبَرَ|أَحَدُهُمَآ|أَوۡ|كِلَاهُمَا|فَلَا|تَقُل|لَّهُمَآ|أُفّٖ|وَلَا|تَنۡهَرۡهُمَا|وَقُل|لَّهُمَا|قَوۡلٗا|كَرِيمٗا",
+            "translation": "And has decreed|your Lord|that (do) not|worship|except|Him Alone|and to the parents|(be) good|Whether|reach|with you|the old age|one of them|or|both of them|then (do) not|say|to both of them|a word of disrespect|and (do) not|repel them|but speak|to them|a word|noble",
+            "transliteration": "waqada|rabbuka|alla|ta'budu|illa|iyyahu|wabil-walidayni|ih'sanan|imma|yablughanna|indaka|al-kibara|ahaduhuma|aw|kilahuma|fala|taqul|lahuma|uffin|wala|tanharhuma|waqul|lahuma|qawlan|kariman",
+            "timestamp": "0.03|0.78|1.6|2.3|4.7|6.8|7.9|9.6|11|12.8|14.8|16.5|17.3|18.3|20.4|21.7|22.3|23.1|29.2|31.9|32.5|34|34.7|35.5|37",
+            "line": "8|8|8|8|8|8|8|8|9|9|9|9|9|9|9|9|9|9|10|10|10|10|10|10|10",
+            "end": "٢٣",
+            "end_line": 10
+          },
+          "translations": {
+            "1": "Wa qadaa Rabbuka allaa ta'budooo illaaa iyyaahu Wa-bilwaalidaini ihsaanaa; immaa yablughanna 'indakal kibara ahaduhumaaa aw kilaahumaa falaa taqul lahumaaa uffinw Wa-laa tanharhumaa Wa-qullahumaa qawlan kareemaa"
+          }
+        },
+        "17:24": {
+          "meta": {
+            "chapter": 17,
+            "verse": 24,
+            "page": 284,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 242,
+            "words": 12
+          },
+          "words": {
+            "arabic": "وَٱخۡفِضۡ|لَهُمَا|جَنَاحَ|ٱلذُّلِّ|مِنَ|ٱلرَّحۡمَةِ|وَقُل|رَّبِّ|ٱرۡحَمۡهُمَا|كَمَا|رَبَّيَانِي|صَغِيرٗا",
+            "translation": "And lower|to them|(the) wing|(of) humility|(out) of|[the] mercy|and say|My Lord!|Have mercy on both of them|as|they brought me up|(when I was) small",
+            "transliteration": "wa-ikh'fid|lahuma|janaha|al-dhuli|mina|al-rahmati|waqul|rabbi|ir'hamhuma|kama|rabbayani|saghiran",
+            "timestamp": "0.04|0.94|1.7|2.6|3.5|3.8|4.9|5.3|6.1|7.4|8.1|9.5",
+            "line": "10|10|11|11|11|11|11|11|11|11|11|12",
+            "end": "٢٤",
+            "end_line": 12
+          },
+          "translations": {
+            "1": "Wakhfid lahumaa janaahaz zulli minar rahmati Wa-qur Rabbir hamhumaa kamaa rabbayaanee sagheera"
+          }
+        },
+        "17:25": {
+          "meta": {
+            "chapter": 17,
+            "verse": 25,
+            "page": 284,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 242,
+            "words": 12
+          },
+          "words": {
+            "arabic": "رَّبُّكُمۡ|أَعۡلَمُ|بِمَا|فِي|نُفُوسِكُمۡۚ|إِن|تَكُونُواْ|صَٰلِحِينَ|فَإِنَّهُۥ|كَانَ|لِلۡأَوَّٰبِينَ|غَفُورٗا",
+            "translation": "Your Lord|(is) most knowing|of what|(is) in|yourselves|If|you are|righteous|then indeed He|is|to those who often turn (to Him)|Most Forgiving",
+            "transliteration": "rabbukum|a'lamu|bima|fi|nufusikum|in|takunu|salihina|fa-innahu|kana|lil'awwabina|ghafuran",
+            "timestamp": "0.06|1|1.8|2.4|2.8|4.5|5.7|6.7|8|9.6|10.3|12.1",
+            "line": "12|12|12|12|12|12|12|12|13|13|13|13",
+            "end": "٢٥",
+            "end_line": 13
+          },
+          "translations": {
+            "1": "Rabbukum a'lamu bimaa fee nufoosikum; in takoonoo saaliheena fa-innahoo kaana lil-awwaabeena Ghafoooraa"
+          }
+        },
+        "17:26": {
+          "meta": {
+            "chapter": 17,
+            "verse": 26,
+            "page": 284,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 242,
+            "words": 10
+          },
+          "words": {
+            "arabic": "وَءَاتِ|ذَا|ٱلۡقُرۡبَىٰ|حَقَّهُۥ|وَٱلۡمِسۡكِينَ|وَٱبۡنَ|ٱلسَّبِيلِ|وَلَا|تُبَذِّرۡ|تَبۡذِيرًا",
+            "translation": "And give|the relatives|the relatives|his right|and the needy|and the wayfarer|and the wayfarer|and (do) not|spend|wastefully",
+            "transliteration": "waati|dha|al-qur'ba|haqqahu|wal-mis'kina|wa-ib'na|al-sabili|wala|tubadhir|tabdhiran",
+            "timestamp": "0.05|0.88|1|2|3|4.5|5.1|6.3|6.8|7.8",
+            "line": "13|13|13|13|14|14|14|14|14|14",
+            "end": "٢٦",
+            "end_line": 14
+          },
+          "translations": {
+            "1": "Wa-aati zal qurbaa haqqahoo walmiskeena wabnas sabeeli Wa-laa tubazzir tabzeeraa"
+          }
+        },
+        "17:27": {
+          "meta": {
+            "chapter": 17,
+            "verse": 27,
+            "page": 284,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 242,
+            "words": 9
+          },
+          "words": {
+            "arabic": "إِنَّ|ٱلۡمُبَذِّرِينَ|كَانُوٓاْ|إِخۡوَٰنَ|ٱلشَّيَٰطِينِۖ|وَكَانَ|ٱلشَّيۡطَٰنُ|لِرَبِّهِۦ|كَفُورٗا",
+            "translation": "Indeed|the spendthrifts|are|brothers|(of) the devils|And is|the Shaitaan|to his Lord|ungrateful",
+            "transliteration": "inna|al-mubadhirina|kanu|ikh'wana|al-shayatini|wakana|al-shaytanu|lirabbihi|kafuran",
+            "timestamp": "0.07|1.3|3|5|6|7.4|8.3|9.5|10.8",
+            "line": "14|14|15|15|15|15|15|15|15",
+            "end": "٢٧",
+            "end_line": 15
+          },
+          "translations": {
+            "1": "Innal mubazzireena kaanoo ikhwaanash shayaateeni Wa-kaanash shaytaanu li-Rabbihee kafooraa"
+          }
+        },
+        "17:28": {
+          "meta": {
+            "chapter": 17,
+            "verse": 28,
+            "page": 285,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 242,
+            "words": 12
+          },
+          "words": {
+            "arabic": "وَإِمَّا|تُعۡرِضَنَّ|عَنۡهُمُ|ٱبۡتِغَآءَ|رَحۡمَةٖ|مِّن|رَّبِّكَ|تَرۡجُوهَا|فَقُل|لَّهُمۡ|قَوۡلٗا|مَّيۡسُورٗا",
+            "translation": "And if|you turn away|from them|seeking|mercy|from|your Lord|which you expect|then say|to them|a word|gentle",
+            "transliteration": "wa-imma|tu'ridanna|anhumu|ib'tighaa|rahmatin|min|rabbika|tarjuha|faqul|lahum|qawlan|maysuran",
+            "timestamp": "0.04|1.5|3.3|4.2|7|8.5|8.6|9.7|10.9|11.3|13.9|14.5",
+            "line": "1|1|1|1|1|1|1|1|1|1|1|2",
+            "end": "٢٨",
+            "end_line": 2
+          },
+          "translations": {
+            "1": "Wa-immaa tu'ridanna 'anhum ubtighaaa'a rahmatim mir rabbika tarjoohaa faqul lahum qawlam maisooraa"
+          }
+        },
+        "17:29": {
+          "meta": {
+            "chapter": 17,
+            "verse": 29,
+            "page": 285,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 242,
+            "words": 13
+          },
+          "words": {
+            "arabic": "وَلَا|تَجۡعَلۡ|يَدَكَ|مَغۡلُولَةً|إِلَىٰ|عُنُقِكَ|وَلَا|تَبۡسُطۡهَا|كُلَّ|ٱلۡبَسۡطِ|فَتَقۡعُدَ|مَلُومٗا|مَّحۡسُورًا",
+            "translation": "And (do) not|make|your hand|chained|to|your neck|and not|extend it|(to its) utmost|reach|so that you sit|blameworthy|insolvent",
+            "transliteration": "wala|taj'al|yadaka|maghlulatan|ila|unuqika|wala|tabsut'ha|kulla|al-basti|fataq'uda|maluman|mahsuran",
+            "timestamp": "0.06|0.65|1.5|2.1|3.7|4.2|5.1|5.7|7|7.5|8.5|9.5|10.3",
+            "line": "2|2|2|2|2|2|2|2|3|3|3|3|3",
+            "end": "٢٩",
+            "end_line": 3
+          },
+          "translations": {
+            "1": "Wa-laa taj'al yadaka maghloolatan ilaa 'unuqika Wa-laa tabsut-haa kullal basti fataq'uda maloomam mahsooraa"
+          }
+        },
+        "17:30": {
+          "meta": {
+            "chapter": 17,
+            "verse": 30,
+            "page": 285,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 242,
+            "words": 12
+          },
+          "words": {
+            "arabic": "إِنَّ|رَبَّكَ|يَبۡسُطُ|ٱلرِّزۡقَ|لِمَن|يَشَآءُ|وَيَقۡدِرُۚ|إِنَّهُۥ|كَانَ|بِعِبَادِهِۦ|خَبِيرَۢا|بَصِيرٗا",
+            "translation": "Indeed|your Lord|extends|the provision|for whom|He wills|and straitens|Indeed He|is|of His slaves|All-Aware|All-Seer",
+            "transliteration": "inna|rabbaka|yabsutu|al-riz'qa|liman|yashau|wayaqdiru|innahu|kana|bi'ibadihi|khabiran|basiran",
+            "timestamp": "0.15|1|1.9|2.8|3.6|4.8|7.1|8.5|9.8|10.5|11.9|13.7",
+            "line": "3|3|3|3|4|4|4|4|4|4|4|4",
+            "end": "٣٠",
+            "end_line": 4
+          },
+          "translations": {
+            "1": "Inna Rabbaka yabsutur rizqa limaien yashaaa'u Wa-yaqdir; innahoo kaana bi'ibaadihee Khabeeran Baseera"
+          }
+        },
+        "17:31": {
+          "meta": {
+            "chapter": 17,
+            "verse": 31,
+            "page": 285,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 243,
+            "words": 13
+          },
+          "words": {
+            "arabic": "وَلَا|تَقۡتُلُوٓاْ|أَوۡلَٰدَكُمۡ|خَشۡيَةَ|إِمۡلَٰقٖۖ|نَّحۡنُ|نَرۡزُقُهُمۡ|وَإِيَّاكُمۡۚ|إِنَّ|قَتۡلَهُمۡ|كَانَ|خِطۡـٔٗا|كَبِيرٗا",
+            "translation": "And (do) not|kill|your children|(for) fear|(of) poverty|We|(We) provide for them|and for you|Indeed|their killing|is|a sin|great",
+            "transliteration": "wala|taqtulu|awladakum|khashyata|im'laqin|nahnu|narzuquhum|wa-iyyakum|inna|qatlahum|kana|khit'an|kabiran",
+            "timestamp": "0.07|0.61|2.9|4.3|5.2|6.3|7.8|9|10.9|11|12.9|13.5|14.9",
+            "line": "4|4|5|5|5|5|5|5|5|5|5|6|6",
+            "end": "٣١",
+            "end_line": 6
+          },
+          "translations": {
+            "1": "Wa-laa taqtulooo awlaadakum khashyata imlaaqin nahnu narzuquhum Wa-iyyaakum; inna qatlahum kaana khit-'an kabeeraa"
+          }
+        },
+        "17:32": {
+          "meta": {
+            "chapter": 17,
+            "verse": 32,
+            "page": 285,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 243,
+            "words": 8
+          },
+          "words": {
+            "arabic": "وَلَا|تَقۡرَبُواْ|ٱلزِّنَىٰٓۖ|إِنَّهُۥ|كَانَ|فَٰحِشَةٗ|وَسَآءَ|سَبِيلٗا",
+            "translation": "And (do) not|go near|adultery|Indeed it|is|an immorality|and (an) evil|way",
+            "transliteration": "wala|taqrabu|al-zina|innahu|kana|fahishatan|wasaa|sabilan",
+            "timestamp": "0.1|0.57|1.4|2.8|4.2|4.9|6.2|9.3",
+            "line": "6|6|6|6|6|6|6|7",
+            "end": "٣٢",
+            "end_line": 7
+          },
+          "translations": {
+            "1": "Wa-laa taqrabuz zinaaa innahoo kaana faahishatanw Wa-saaa'a sabeelaa"
+          }
+        },
+        "17:33": {
+          "meta": {
+            "chapter": 17,
+            "verse": 33,
+            "page": 285,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 243,
+            "words": 22
+          },
+          "words": {
+            "arabic": "وَلَا|تَقۡتُلُواْ|ٱلنَّفۡسَ|ٱلَّتِي|حَرَّمَ|ٱللَّهُ|إِلَّا|بِٱلۡحَقِّۗ|وَمَن|قُتِلَ|مَظۡلُومٗا|فَقَدۡ|جَعَلۡنَا|لِوَلِيِّهِۦ|سُلۡطَٰنٗا|فَلَا|يُسۡرِف|فِّي|ٱلۡقَتۡلِۖ|إِنَّهُۥ|كَانَ|مَنصُورٗا",
+            "translation": "And (do) not|kill|the soul|which|Allah has forbidden|Allah has forbidden|except|by right|And whoever|(is) killed|wrongfully|verily|We have made|for his heir|an authority|but not|he should exceed|in|the killing|Indeed, he|is|helped",
+            "transliteration": "wala|taqtulu|al-nafsa|allati|harrama|al-lahu|illa|bil-haqi|waman|qutila|mazluman|faqad|ja'alna|liwaliyyihi|sul'tanan|fala|yus'rif|fi|al-qatli|innahu|kana|mansuran",
+            "timestamp": "0.03|0.62|1.5|2.8|3.7|4.5|5.5|6.4|7.8|8.9|9.5|11.2|11.9|13|14.5|16.4|17.1|17.9|18.1|19.2|20.7|21.4",
+            "line": "7|7|7|7|7|7|7|7|8|8|8|8|8|8|8|8|8|8|9|9|9|9",
+            "end": "٣٣",
+            "end_line": 9
+          },
+          "translations": {
+            "1": "Wa-laa taqtulun nafsal latee harramal laahu illaa bilhaqq; Wa-man qutila mazlooman faqad ja'alnaa liwaliyyihee sultaanan falaa yusrif fil qatli innahoo kaana mansooraa"
+          }
+        },
+        "17:34": {
+          "meta": {
+            "chapter": 17,
+            "verse": 34,
+            "page": 285,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 243,
+            "words": 17
+          },
+          "words": {
+            "arabic": "وَلَا|تَقۡرَبُواْ|مَالَ|ٱلۡيَتِيمِ|إِلَّا|بِٱلَّتِي|هِيَ|أَحۡسَنُ|حَتَّىٰ|يَبۡلُغَ|أَشُدَّهُۥۚ|وَأَوۡفُواْ|بِٱلۡعَهۡدِۖ|إِنَّ|ٱلۡعَهۡدَ|كَانَ|مَسۡـُٔولٗا",
+            "translation": "And (do) not|come near|(the) wealth|(of) the orphan|except|with what|[it] is|best|until|he reaches|his maturity|And fulfil|the covenant|Indeed|the covenant|will be|questioned",
+            "transliteration": "wala|taqrabu|mala|al-yatimi|illa|bi-allati|hiya|ahsanu|hatta|yablugha|ashuddahu|wa-awfu|bil-'ahdi|inna|al-'ahda|kana|masulan",
+            "timestamp": "0.03|0.57|1.7|2.2|3.4|4.1|5.2|5.7|6.5|7.3|8.2|9.7|10.8|11.9|13|13.9|14.6",
+            "line": "9|9|9|9|9|9|10|10|10|10|10|10|10|10|10|10|11",
+            "end": "٣٤",
+            "end_line": 11
+          },
+          "translations": {
+            "1": "Wa-laa taqraboo maalal yateemi illaa billatee hiya ahsanu hattaa yablugha ashuddah; Wa-awfoo bil'ahd, innal 'ahda kaana mas'oolaa"
+          }
+        },
+        "17:35": {
+          "meta": {
+            "chapter": 17,
+            "verse": 35,
+            "page": 285,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 243,
+            "words": 11
+          },
+          "words": {
+            "arabic": "وَأَوۡفُواْ|ٱلۡكَيۡلَ|إِذَا|كِلۡتُمۡ|وَزِنُواْ|بِٱلۡقِسۡطَاسِ|ٱلۡمُسۡتَقِيمِۚ|ذَٰلِكَ|خَيۡرٞ|وَأَحۡسَنُ|تَأۡوِيلٗا",
+            "translation": "And give full|[the] measure|when|you measure|and weigh|with the balance|the straight|That|(is) good|and best|(in) result",
+            "transliteration": "wa-awfu|al-kayla|idha|kil'tum|wazinu|bil-qis'tasi|al-mus'taqimi|dhalika|khayrun|wa-ahsanu|tawilan",
+            "timestamp": "0.05|0.94|1.7|2.4|3.3|4.1|5.6|9.1|9.9|11|12.6",
+            "line": "11|11|11|11|11|11|11|12|12|12|12",
+            "end": "٣٥",
+            "end_line": 12
+          },
+          "translations": {
+            "1": "Wa-awful kaila izaa kiltum Wa-zinoo bilqistaasil mustaqeem; zaalika khairunw Wa-ahsanu ta'weelaa"
+          }
+        },
+        "17:36": {
+          "meta": {
+            "chapter": 17,
+            "verse": 36,
+            "page": 285,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 243,
+            "words": 16
+          },
+          "words": {
+            "arabic": "وَلَا|تَقۡفُ|مَا|لَيۡسَ|لَكَ|بِهِۦ|عِلۡمٌۚ|إِنَّ|ٱلسَّمۡعَ|وَٱلۡبَصَرَ|وَٱلۡفُؤَادَ|كُلُّ|أُوْلَٰٓئِكَ|كَانَ|عَنۡهُ|مَسۡـُٔولٗا",
+            "translation": "And (do) not|pursue|what|not|you have|of it|any knowledge|Indeed|the hearing|and the sight|and the heart|all|those|will be|[about it]|questioned",
+            "transliteration": "wala|taqfu|ma|laysa|laka|bihi|il'mun|inna|al-sam'a|wal-basara|wal-fuada|kullu|ulaika|kana|anhu|masulan",
+            "timestamp": "0.03|0.59|1.3|1.7|2.3|2.7|3.3|4.2|5.4|6.3|7.4|8.7|9.4|12.1|12.7|13.4",
+            "line": "12|12|12|12|12|12|12|12|13|13|13|13|13|13|13|13",
+            "end": "٣٦",
+            "end_line": 13
+          },
+          "translations": {
+            "1": "Wa-laa taqfu maa laisa laka bihee 'ilm; innas sam'a walbasara walfu'aada kullu ulaaa'ika kaana 'anhu mas'oolaa"
+          }
+        },
+        "17:37": {
+          "meta": {
+            "chapter": 17,
+            "verse": 37,
+            "page": 285,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 243,
+            "words": 13
+          },
+          "words": {
+            "arabic": "وَلَا|تَمۡشِ|فِي|ٱلۡأَرۡضِ|مَرَحًاۖ|إِنَّكَ|لَن|تَخۡرِقَ|ٱلۡأَرۡضَ|وَلَن|تَبۡلُغَ|ٱلۡجِبَالَ|طُولٗا",
+            "translation": "And (do) not|walk|in|the earth|(with) insolence|Indeed you|will never|tear|the earth|and will never|reach|the mountains|(in) height",
+            "transliteration": "wala|tamshi|fi|al-ardi|marahan|innaka|lan|takhriqa|al-arda|walan|tablugha|al-jibala|tulan",
+            "timestamp": "0.03|0.56|1.2|1.5|2.3|3.6|5|5.9|6.8|7.6|8.8|9.7|10.8",
+            "line": "14|14|14|14|14|14|14|14|14|14|14|15|15",
+            "end": "٣٧",
+            "end_line": 15
+          },
+          "translations": {
+            "1": "Wa-laa tamshi fil ardi marahan innaka lan takhriqal arda Wa-lan tablughal jibaala toola"
+          }
+        },
+        "17:38": {
+          "meta": {
+            "chapter": 17,
+            "verse": 38,
+            "page": 285,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 243,
+            "words": 7
+          },
+          "words": {
+            "arabic": "كُلُّ|ذَٰلِكَ|كَانَ|سَيِّئُهُۥ|عِندَ|رَبِّكَ|مَكۡرُوهٗا",
+            "translation": "All|that|is|[its] evil|near|your Lord|hateful",
+            "transliteration": "kullu|dhalika|kana|sayyi-uhu|inda|rabbika|makruhan",
+            "timestamp": "0.03|0.63|1.4|2|3.3|4.9|5.8",
+            "line": "15|15|15|15|15|15|15",
+            "end": "٣٨",
+            "end_line": 15
+          },
+          "translations": {
+            "1": "Kullu zaalika kaana sayyi'uhoo inda Rabbika makroohaa"
+          }
+        },
+        "17:39": {
+          "meta": {
+            "chapter": 17,
+            "verse": 39,
+            "page": 286,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 243,
+            "words": 18
+          },
+          "words": {
+            "arabic": "ذَٰلِكَ|مِمَّآ|أَوۡحَىٰٓ|إِلَيۡكَ|رَبُّكَ|مِنَ|ٱلۡحِكۡمَةِۗ|وَلَا|تَجۡعَلۡ|مَعَ|ٱللَّهِ|إِلَٰهًا|ءَاخَرَ|فَتُلۡقَىٰ|فِي|جَهَنَّمَ|مَلُومٗا|مَّدۡحُورًا",
+            "translation": "That|(is) from what|(was) revealed|to you|(from) your Lord|of|the wisdom|And (do) not|make|with|Allah|god|other|lest you should be thrown|in|Hell|blameworthy|abandoned",
+            "transliteration": "dhalika|mimma|awha|ilayka|rabbuka|mina|al-hik'mati|wala|taj'al|ma'a|al-lahi|ilahan|akhara|fatul'qa|fi|jahannama|maluman|madhuran",
+            "timestamp": "0.03|1|3.6|4.2|6.5|7.4|7.8|9.5|10.1|11|11.4|12.3|13|14.2|15.4|15.8|17.3|18.1",
+            "line": "1|1|1|1|1|1|1|1|1|1|1|1|2|2|2|2|2|2",
+            "end": "٣٩",
+            "end_line": 2
+          },
+          "translations": {
+            "1": "Zaalika mimmaaa awhaaa ilaika Rabbuka minal hikmah; Wa-laa taj'al ma'al laahi ilaahan aakhara fatulqaa fee Jahannama maloomammad hooraa"
+          }
+        },
+        "17:40": {
+          "meta": {
+            "chapter": 17,
+            "verse": 40,
+            "page": 286,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 243,
+            "words": 11
+          },
+          "words": {
+            "arabic": "أَفَأَصۡفَىٰكُمۡ|رَبُّكُم|بِٱلۡبَنِينَ|وَٱتَّخَذَ|مِنَ|ٱلۡمَلَٰٓئِكَةِ|إِنَٰثًاۚ|إِنَّكُمۡ|لَتَقُولُونَ|قَوۡلًا|عَظِيمٗا",
+            "translation": "Then has chosen (for) you|your Lord|sons|and He has taken|from|the Angels|daughters|Indeed, you|surely say|a word|grave",
+            "transliteration": "afa-asfakum|rabbukum|bil-banina|wa-ittakhadha|mina|al-malaikati|inathan|innakum|lataquluna|qawlan|aziman",
+            "timestamp": "0.03|1.6|3.3|4.6|5.7|6.1|8.7|10|12.1|13.6|14.4",
+            "line": "2|2|3|3|3|3|3|3|3|3|3",
+            "end": "٤٠",
+            "end_line": 3
+          },
+          "translations": {
+            "1": "Afa-asfaakum rabbukum bilbaneena wattakhaza minal malaaa'ikati inaasaa; innakum lataqooloona qawlan 'azeema"
+          }
+        },
+        "17:41": {
+          "meta": {
+            "chapter": 17,
+            "verse": 41,
+            "page": 286,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 244,
+            "words": 10
+          },
+          "words": {
+            "arabic": "وَلَقَدۡ|صَرَّفۡنَا|فِي|هَٰذَا|ٱلۡقُرۡءَانِ|لِيَذَّكَّرُواْ|وَمَا|يَزِيدُهُمۡ|إِلَّا|نُفُورٗا",
+            "translation": "And verily|We have explained|in|this|the Quran|that they may take heed|but not|it increases them|except|(in) aversion",
+            "transliteration": "walaqad|sarrafna|fi|hadha|al-qur'ani|liyadhakkaru|wama|yaziduhum|illa|nufuran",
+            "timestamp": "0.03|0.75|2.1|2.5|3.3|4.6|6.4|7|8.4|9.3",
+            "line": "4|4|4|4|4|4|4|4|4|4",
+            "end": "٤١",
+            "end_line": 4
+          },
+          "translations": {
+            "1": "Wa-laqad sarrafnaa fee haazal Quraani liyazzakkaroo Wa-maa yazeeduhum illaa nufooraa"
+          }
+        },
+        "17:42": {
+          "meta": {
+            "chapter": 17,
+            "verse": 42,
+            "page": 286,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 244,
+            "words": 13
+          },
+          "words": {
+            "arabic": "قُل|لَّوۡ|كَانَ|مَعَهُۥٓ|ءَالِهَةٞ|كَمَا|يَقُولُونَ|إِذٗا|لَّٱبۡتَغَوۡاْ|إِلَىٰ|ذِي|ٱلۡعَرۡشِ|سَبِيلٗا",
+            "translation": "Say|If|(there) were|with Him|gods|as|they say|then|surely they (would) have sought|to|(the) Owner|(of) the Throne|a way",
+            "transliteration": "qul|law|kana|ma'ahu|alihatun|kama|yaquluna|idhan|la-ib'taghaw|ila|dhi|al-'arshi|sabilan",
+            "timestamp": "0.03|0.49|0.79|1.4|3.5|5.5|6.1|7.5|7.9|9.3|9.8|10.1|10.9",
+            "line": "5|5|5|5|5|5|5|5|5|5|5|5|5",
+            "end": "٤٢",
+            "end_line": 5
+          },
+          "translations": {
+            "1": "Qul law kaana ma'ahooo aalihatun kamaa yaqooloona izal labtaghaw ilaa zil 'Arshi Sabeela"
+          }
+        },
+        "17:43": {
+          "meta": {
+            "chapter": 17,
+            "verse": 43,
+            "page": 286,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 244,
+            "words": 6
+          },
+          "words": {
+            "arabic": "سُبۡحَٰنَهُۥ|وَتَعَٰلَىٰ|عَمَّا|يَقُولُونَ|عُلُوّٗا|كَبِيرٗا",
+            "translation": "Glorified is He|and Exalted is He|above what|they say|(by) height|great",
+            "transliteration": "sub'hanahu|wata'ala|amma|yaquluna|uluwwan|kabiran",
+            "timestamp": "0.03|1.6|2.9|4.3|5.6|7.3",
+            "line": "6|6|6|6|6|6",
+            "end": "٤٣",
+            "end_line": 6
+          },
+          "translations": {
+            "1": "Subhaanahoo Wa-Ta'aalaa 'ammaa yaqooloona 'uluwwan kabeeraa"
+          }
+        },
+        "17:44": {
+          "meta": {
+            "chapter": 17,
+            "verse": 44,
+            "page": 286,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 244,
+            "words": 21
+          },
+          "words": {
+            "arabic": "تُسَبِّحُ|لَهُ|ٱلسَّمَٰوَٰتُ|ٱلسَّبۡعُ|وَٱلۡأَرۡضُ|وَمَن|فِيهِنَّۚ|وَإِن|مِّن|شَيۡءٍ|إِلَّا|يُسَبِّحُ|بِحَمۡدِهِۦ|وَلَٰكِن|لَّا|تَفۡقَهُونَ|تَسۡبِيحَهُمۡۚ|إِنَّهُۥ|كَانَ|حَلِيمًا|غَفُورٗا",
+            "translation": "Glorify|[to] Him|the seven heavens|the seven heavens|and the earth|and whatever|(is) in them|And (there is) not|any|thing|except|glorifies|His Praise|but|not|you understand|their glorification|Indeed, He|is|Ever-Forbearing|Oft-Forgiving",
+            "transliteration": "tusabbihu|lahu|al-samawatu|al-sab'u|wal-ardu|waman|fihinna|wa-in|min|shayin|illa|yusabbihu|bihamdihi|walakin|la|tafqahuna|tasbihahum|innahu|kana|haliman|ghafuran",
+            "timestamp": "0.03|1|1.4|3|3.9|4.9|6.4|8.6|9.8|10.6|11.5|12.4|13.5|14.8|15.8|16.4|17.7|19.6|21.3|22|23.1",
+            "line": "6|6|6|7|7|7|7|7|7|7|7|7|7|7|8|8|8|8|8|8|8",
+            "end": "٤٤",
+            "end_line": 8
+          },
+          "translations": {
+            "1": "Tusabbihu lahus samaawaatus sab'u wal-ardu Wa-man feehinn; Wa-im min shai'in illaa yusabbihu bihamdihee Wa-laakil laa tafqahoona tasbeehahum; innahoo kaana Haleeman Ghafooraa"
+          }
+        },
+        "17:45": {
+          "meta": {
+            "chapter": 17,
+            "verse": 45,
+            "page": 286,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 244,
+            "words": 12
+          },
+          "words": {
+            "arabic": "وَإِذَا|قَرَأۡتَ|ٱلۡقُرۡءَانَ|جَعَلۡنَا|بَيۡنَكَ|وَبَيۡنَ|ٱلَّذِينَ|لَا|يُؤۡمِنُونَ|بِٱلۡأٓخِرَةِ|حِجَابٗا|مَّسۡتُورٗا",
+            "translation": "And when|you recite|the Quran|We place|between you|and between|those who|(do) not|believe|in the Hereafter|a barrier|hidden",
+            "transliteration": "wa-idha|qarata|al-qur'ana|ja'alna|baynaka|wabayna|alladhina|la|yu'minuna|bil-akhirati|hijaban|masturan",
+            "timestamp": "0.03|0.84|1.7|3|4.1|5|5.8|6.9|7.3|8.7|10.1|11",
+            "line": "8|8|9|9|9|9|9|9|9|9|9|10",
+            "end": "٤٥",
+            "end_line": 10
+          },
+          "translations": {
+            "1": "Wa-izaa qara'-tal Quraana ja'alnaa bainaka Wa-bainal lazeena laa yu'minoona bil-aakhirati hijaabam mastooraa"
+          }
+        },
+        "17:46": {
+          "meta": {
+            "chapter": 17,
+            "verse": 46,
+            "page": 286,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 244,
+            "words": 19
+          },
+          "words": {
+            "arabic": "وَجَعَلۡنَا|عَلَىٰ|قُلُوبِهِمۡ|أَكِنَّةً|أَن|يَفۡقَهُوهُ|وَفِيٓ|ءَاذَانِهِمۡ|وَقۡرٗاۚ|وَإِذَا|ذَكَرۡتَ|رَبَّكَ|فِي|ٱلۡقُرۡءَانِ|وَحۡدَهُۥ|وَلَّوۡاْ|عَلَىٰٓ|أَدۡبَٰرِهِمۡ|نُفُورٗا",
+            "translation": "And We have placed|over|their hearts|coverings|lest|they understand it|and in|their ears|deafness|And when|you mention|your Lord|in|the Quran|Alone|they turn|on|their backs|(in) aversion",
+            "transliteration": "waja'alna|ala|qulubihim|akinnatan|an|yafqahuhu|wafi|adhanihim|waqran|wa-idha|dhakarta|rabbaka|fi|al-qur'ani|wahdahu|wallaw|ala|adbarihim|nufuran",
+            "timestamp": "0.08|1.2|1.9|3.2|5|6|7.1|8.9|10.4|11.9|12.8|13.7|14.5|14.8|16.1|17|17.9|19|21.1",
+            "line": "10|10|10|10|10|10|10|10|11|11|11|11|11|11|11|11|11|11|11",
+            "end": "٤٦",
+            "end_line": 11
+          },
+          "translations": {
+            "1": "Wa-ja'alnaa 'alaa quloo-bihim akinnatan any yafqahoohu Wa-feee aazaanihim waqraa; Wa-izaa zakarta Rabbaka fil Quraani wahdahoo wallaw 'alaaa adbaarihim nufooraa"
+          }
+        },
+        "17:47": {
+          "meta": {
+            "chapter": 17,
+            "verse": 47,
+            "page": 286,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 244,
+            "words": 19
+          },
+          "words": {
+            "arabic": "نَّحۡنُ|أَعۡلَمُ|بِمَا|يَسۡتَمِعُونَ|بِهِۦٓ|إِذۡ|يَسۡتَمِعُونَ|إِلَيۡكَ|وَإِذۡ|هُمۡ|نَجۡوَىٰٓ|إِذۡ|يَقُولُ|ٱلظَّٰلِمُونَ|إِن|تَتَّبِعُونَ|إِلَّا|رَجُلٗا|مَّسۡحُورًا",
+            "translation": "We|know best|[of] what|they listen|to [it]|when|they listen|to you|and when|they|(are) in private conversation|when|say|the wrongdoers|Not|you follow|but|a man|bewitched",
+            "transliteration": "nahnu|a'lamu|bima|yastami'una|bihi|idh|yastami'una|ilayka|wa-idh|hum|najwa|idh|yaqulu|al-zalimuna|in|tattabi'una|illa|rajulan|mashuran",
+            "timestamp": "0.05|0.69|1.5|2.1|3.6|5.4|5.7|7.1|8|8.7|9|12.1|14.2|15.1|16|17.7|19.3|20.1|21.7",
+            "line": "12|12|12|12|12|12|12|12|12|12|12|13|13|13|13|13|13|13|13",
+            "end": "٤٧",
+            "end_line": 13
+          },
+          "translations": {
+            "1": "Nahnu a'lamu bimaa yastami'oona biheee iz yastami'oona ilaika Wa-iz hum najwaaa iz yaqooluz zaalimoona in tattabi'oona illaa rajulam mas-hooraa"
+          }
+        },
+        "17:48": {
+          "meta": {
+            "chapter": 17,
+            "verse": 48,
+            "page": 286,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 244,
+            "words": 9
+          },
+          "words": {
+            "arabic": "ٱنظُرۡ|كَيۡفَ|ضَرَبُواْ|لَكَ|ٱلۡأَمۡثَالَ|فَضَلُّواْ|فَلَا|يَسۡتَطِيعُونَ|سَبِيلٗا",
+            "translation": "See|how|they put forth|for you|the examples|but they have gone astray|so not|they can|(find) a way",
+            "transliteration": "unzur|kayfa|darabu|laka|al-amthala|fadallu|fala|yastati'una|sabilan",
+            "timestamp": "0.04|1.3|2|2.9|3.3|4.7|7.4|8.1|10.1",
+            "line": "13|14|14|14|14|14|14|14|14",
+            "end": "٤٨",
+            "end_line": 14
+          },
+          "translations": {
+            "1": "Unzur kaifa daraboo lakal amsaala fadalloo falaa yastatee'oona sabeelaa"
+          }
+        },
+        "17:49": {
+          "meta": {
+            "chapter": 17,
+            "verse": 49,
+            "page": 286,
+            "juz": 15,
+            "hizb": 114,
+            "manzil": 4,
+            "ruku": 244,
+            "words": 9
+          },
+          "words": {
+            "arabic": "وَقَالُوٓاْ|أَءِذَا|كُنَّا|عِظَٰمٗا|وَرُفَٰتًا|أَءِنَّا|لَمَبۡعُوثُونَ|خَلۡقٗا|جَدِيدٗا",
+            "translation": "And they say|Is it when|we are|bones|and crumbled particles|will we|surely (be) resurrected|(as) a creation|new",
+            "transliteration": "waqalu|a-idha|kunna|izaman|warufatan|a-inna|lamab'uthuna|khalqan|jadidan",
+            "timestamp": "0.06|2.1|2.9|4.1|5|7|8.5|10.1|11.6",
+            "line": "15|15|15|15|15|15|15|15|15",
+            "end": "٤٩",
+            "end_line": 15
+          },
+          "translations": {
+            "1": "Wa-qaalooo 'a-izaa kunnaa 'izaamanw Wa-rufaatan 'a-innaa lamab'oosoona khalqan jadeedaa"
+          }
+        },
+        "17:50": {
+          "meta": {
+            "chapter": 17,
+            "verse": 50,
+            "page": 287,
+            "juz": 15,
+            "hizb": 115,
+            "manzil": 4,
+            "ruku": 244,
+            "words": 5
+          },
+          "words": {
+            "arabic": "۞قُلۡ|كُونُواْ|حِجَارَةً|أَوۡ|حَدِيدًا",
+            "translation": "Say|Be|stones|or|iron",
+            "transliteration": "qul|kunu|hijaratan|aw|hadidan",
+            "timestamp": "0.08|0.42|1.3|2.6|2.9",
+            "line": "1|1|1|1|1",
+            "end": "٥٠",
+            "end_line": 1
+          },
+          "translations": {
+            "1": "Qul koonoo hijaaratan aw hadeedaa"
+          }
+        },
+        "17:51": {
+          "meta": {
+            "chapter": 17,
+            "verse": 51,
+            "page": 287,
+            "juz": 15,
+            "hizb": 115,
+            "manzil": 4,
+            "ruku": 244,
+            "words": 25
+          },
+          "words": {
+            "arabic": "أَوۡ|خَلۡقٗا|مِّمَّا|يَكۡبُرُ|فِي|صُدُورِكُمۡۚ|فَسَيَقُولُونَ|مَن|يُعِيدُنَاۖ|قُلِ|ٱلَّذِي|فَطَرَكُمۡ|أَوَّلَ|مَرَّةٖۚ|فَسَيُنۡغِضُونَ|إِلَيۡكَ|رُءُوسَهُمۡ|وَيَقُولُونَ|مَتَىٰ|هُوَۖ|قُلۡ|عَسَىٰٓ|أَن|يَكُونَ|قَرِيبٗا",
+            "translation": "Or|a creation|of what|(is) great|in|your breasts|Then they will say|Who|will restore us|Say|He Who|created you|(the) first|time|Then they will shake|at you|their heads|and they say|When (will)|it (be)|Say|Perhaps|that|(it) will be|soon",
+            "transliteration": "aw|khalqan|mimma|yakburu|fi|sudurikum|fasayaquluna|man|yu'iduna|quli|alladhi|fatarakum|awwala|marratin|fasayun'ghiduna|ilayka|ruusahum|wayaquluna|mata|huwa|qul|asa|an|yakuna|qariban",
+            "timestamp": "0.03|0.28|0.85|3.4|4.3|4.7|6.4|8.1|9.7|11|11.6|12|13.6|14.5|15.7|17|18.3|19.6|21.1|21.8|22.7|23|23.4|26|26.9",
+            "line": "1|1|1|1|1|2|2|2|2|2|2|2|2|2|3|3|3|3|3|3|3|3|3|4|4",
+            "end": "٥١",
+            "end_line": 4
+          },
+          "translations": {
+            "1": "Aw khalqam mimmaa yakburu fee sudoorikum; fasa-yaqooloona maien yu'eedunaa qulil lazee fatarakum awwala marrah; fasa yunghidoona ilaika ru'oosahum Wa-yaqooloona mataahoo; qul 'asaaa any yakoona qareeba"
+          }
+        },
+        "17:52": {
+          "meta": {
+            "chapter": 17,
+            "verse": 52,
+            "page": 287,
+            "juz": 15,
+            "hizb": 115,
+            "manzil": 4,
+            "ruku": 244,
+            "words": 9
+          },
+          "words": {
+            "arabic": "يَوۡمَ|يَدۡعُوكُمۡ|فَتَسۡتَجِيبُونَ|بِحَمۡدِهِۦ|وَتَظُنُّونَ|إِن|لَّبِثۡتُمۡ|إِلَّا|قَلِيلٗا",
+            "translation": "(On) the Day|He will call you|and you will respond|with His Praise|and you will think|not|you had remained|except|a little (while)",
+            "transliteration": "yawma|yad'ukum|fatastajibuna|bihamdihi|watazunnuna|in|labith'tum|illa|qalilan",
+            "timestamp": "0.05|0.6|1.9|3.8|5.1|7.2|7.5|8.7|9.5",
+            "line": "4|4|4|4|4|5|5|5|5",
+            "end": "٥٢",
+            "end_line": 5
+          },
+          "translations": {
+            "1": "Yawma yad'ookum fatastajeeboona bihamdihee Wa-tazunnoona il labistum illaa qaleela"
+          }
+        },
+        "17:53": {
+          "meta": {
+            "chapter": 17,
+            "verse": 53,
+            "page": 287,
+            "juz": 15,
+            "hizb": 115,
+            "manzil": 4,
+            "ruku": 245,
+            "words": 16
+          },
+          "words": {
+            "arabic": "وَقُل|لِّعِبَادِي|يَقُولُواْ|ٱلَّتِي|هِيَ|أَحۡسَنُۚ|إِنَّ|ٱلشَّيۡطَٰنَ|يَنزَغُ|بَيۡنَهُمۡۚ|إِنَّ|ٱلشَّيۡطَٰنَ|كَانَ|لِلۡإِنسَٰنِ|عَدُوّٗا|مُّبِينٗا",
+            "translation": "And say|to My slaves|(to) say|that|which|(is) best|Indeed|the Shaitaan|sows discord|between them|Indeed|the Shaitaan|is|to the man|an enemy|clear",
+            "transliteration": "waqul|li'ibadi|yaqulu|allati|hiya|ahsanu|inna|al-shaytana|yanzaghu|baynahum|inna|al-shaytana|kana|lil'insani|aduwwan|mubinan",
+            "timestamp": "0.03|1|2|2.8|3.7|4.1|5.4|6.5|7.8|9.3|10.7|11.9|13.3|14|16|17",
+            "line": "5|5|5|5|5|5|6|6|6|6|6|6|6|6|6|7",
+            "end": "٥٣",
+            "end_line": 7
+          },
+          "translations": {
+            "1": "Wa-qul li'ibaadee yaqoolul latee hiya ahsan; innash shaitaana yanzaghu bainahum; innash shaitaana kaana lil-insaani 'aduwwam mubeenaa"
+          }
+        },
+        "17:54": {
+          "meta": {
+            "chapter": 17,
+            "verse": 54,
+            "page": 287,
+            "juz": 15,
+            "hizb": 115,
+            "manzil": 4,
+            "ruku": 245,
+            "words": 14
+          },
+          "words": {
+            "arabic": "رَّبُّكُمۡ|أَعۡلَمُ|بِكُمۡۖ|إِن|يَشَأۡ|يَرۡحَمۡكُمۡ|أَوۡ|إِن|يَشَأۡ|يُعَذِّبۡكُمۡۚ|وَمَآ|أَرۡسَلۡنَٰكَ|عَلَيۡهِمۡ|وَكِيلٗا",
+            "translation": "Your Lord|(is) most knowing|of you|If|He wills|He will have mercy on you|or|if|He wills|He will punish you|And not|We have sent you|over them|(as) a guardian",
+            "transliteration": "rabbukum|a'lamu|bikum|in|yasha|yarhamkum|aw|in|yasha|yu'adhib'kum|wama|arsalnaka|alayhim|wakilan",
+            "timestamp": "0.07|1.1|1.9|3|3.9|4.4|5.6|6.1|7|7.4|9.3|11.2|12.6|13",
+            "line": "7|7|7|7|7|7|7|7|7|8|8|8|8|8",
+            "end": "٥٤",
+            "end_line": 8
+          },
+          "translations": {
+            "1": "Rabbukum a'lamu bikum iny yasha' yarhamkum aw iny yasha' yu'azzibkum; Wa-maaa arsalnaaka 'alaihim wakeelaa"
+          }
+        },
+        "17:55": {
+          "meta": {
+            "chapter": 17,
+            "verse": 55,
+            "page": 287,
+            "juz": 15,
+            "hizb": 115,
+            "manzil": 4,
+            "ruku": 245,
+            "words": 15
+          },
+          "words": {
+            "arabic": "وَرَبُّكَ|أَعۡلَمُ|بِمَن|فِي|ٱلسَّمَٰوَٰتِ|وَٱلۡأَرۡضِۗ|وَلَقَدۡ|فَضَّلۡنَا|بَعۡضَ|ٱلنَّبِيِّـۧنَ|عَلَىٰ|بَعۡضٖۖ|وَءَاتَيۡنَا|دَاوُۥدَ|زَبُورٗا",
+            "translation": "And your Lord|(is) most knowing|of whoever|(is) in|the heavens|and the earth|And verily|We have preferred|some|(of) the Prophets|to|others|And We gave|Dawood|Zaboor",
+            "transliteration": "warabbuka|a'lamu|biman|fi|al-samawati|wal-ardi|walaqad|faddalna|ba'da|al-nabiyina|ala|ba'din|waatayna|dawuda|zaburan",
+            "timestamp": "0.03|1|1.9|3|3.2|4.8|6.1|6.9|8.2|8.9|10.9|11.6|12.6|14.4|15.4",
+            "line": "8|8|9|9|9|9|9|9|9|9|9|10|10|10|10",
+            "end": "٥٥",
+            "end_line": 10
+          },
+          "translations": {
+            "1": "Wa-Rabbuka a'lamu biman fis samaawaati wal-ard; Wa-laqad faddalnaa ba'dan Nabiyyeena 'alaa ba'dinw Wa-aatainaaa Daawooda Zabooraa"
+          }
+        },
+        "17:56": {
+          "meta": {
+            "chapter": 17,
+            "verse": 56,
+            "page": 287,
+            "juz": 15,
+            "hizb": 115,
+            "manzil": 4,
+            "ruku": 245,
+            "words": 13
+          },
+          "words": {
+            "arabic": "قُلِ|ٱدۡعُواْ|ٱلَّذِينَ|زَعَمۡتُم|مِّن|دُونِهِۦ|فَلَا|يَمۡلِكُونَ|كَشۡفَ|ٱلضُّرِّ|عَنكُمۡ|وَلَا|تَحۡوِيلًا",
+            "translation": "Say|Call|those whom|you claimed|besides Him|besides Him|[then] not|they have power|(to) remove|the misfortunes|from you|and not|(to) transfer (it)",
+            "transliteration": "quli|id'u|alladhina|za'amtum|min|dunihi|fala|yamlikuna|kashfa|al-duri|ankum|wala|tahwilan",
+            "timestamp": "0.06|0.41|0.82|1.8|3.5|4.5|5.7|6.3|7.6|8.3|9.1|10.6|11.3",
+            "line": "10|10|10|10|10|11|11|11|11|11|11|11|11",
+            "end": "٥٦",
+            "end_line": 11
+          },
+          "translations": {
+            "1": "Qulid 'ul lazeena za'amtum min doonihee falaa yamlikoona kashfad durri 'ankum Wa-laa tahweelaa"
+          }
+        },
+        "17:57": {
+          "meta": {
+            "chapter": 17,
+            "verse": 57,
+            "page": 287,
+            "juz": 15,
+            "hizb": 115,
+            "manzil": 4,
+            "ruku": 245,
+            "words": 18
+          },
+          "words": {
+            "arabic": "أُوْلَٰٓئِكَ|ٱلَّذِينَ|يَدۡعُونَ|يَبۡتَغُونَ|إِلَىٰ|رَبِّهِمُ|ٱلۡوَسِيلَةَ|أَيُّهُمۡ|أَقۡرَبُ|وَيَرۡجُونَ|رَحۡمَتَهُۥ|وَيَخَافُونَ|عَذَابَهُۥٓۚ|إِنَّ|عَذَابَ|رَبِّكَ|كَانَ|مَحۡذُورٗا",
+            "translation": "Those|whom|they call|seek|to|their Lord|the means of access|which of them|(is) nearest|and they hope|(for) His mercy|and fear|His punishment|Indeed|(the) punishment|(of) your Lord|is|(ever) feared",
+            "transliteration": "ulaika|alladhina|yad'una|yabtaghuna|ila|rabbihimu|al-wasilata|ayyuhum|aqrabu|wayarjuna|rahmatahu|wayakhafuna|adhabahu|inna|adhaba|rabbika|kana|mahdhuran",
+            "timestamp": "0.03|2.8|3.8|4.9|6.2|6.8|7.9|9.3|10.4|11.2|16.1|17.5|18.9|20.5|21|22.7|23|24.2",
+            "line": "11|12|12|12|12|12|12|12|12|13|13|13|13|13|13|13|13|14",
+            "end": "٥٧",
+            "end_line": 14
+          },
+          "translations": {
+            "1": "Ulaaa'ikal lazeena yad'oona yabtaghoona ilaa Rabbihimul waseelata ayyuhum aqrabu Wa-yarjoona rahmatahoo Wa-yakhaafoona 'azaabah; inna 'azaaba rabbika kaana mahzooraa"
+          }
+        },
+        "17:58": {
+          "meta": {
+            "chapter": 17,
+            "verse": 58,
+            "page": 287,
+            "juz": 15,
+            "hizb": 115,
+            "manzil": 4,
+            "ruku": 245,
+            "words": 18
+          },
+          "words": {
+            "arabic": "وَإِن|مِّن|قَرۡيَةٍ|إِلَّا|نَحۡنُ|مُهۡلِكُوهَا|قَبۡلَ|يَوۡمِ|ٱلۡقِيَٰمَةِ|أَوۡ|مُعَذِّبُوهَا|عَذَابٗا|شَدِيدٗاۚ|كَانَ|ذَٰلِكَ|فِي|ٱلۡكِتَٰبِ|مَسۡطُورٗا",
+            "translation": "And not|(is) any|town|but|We|(will) destroy it|before|(the) Day|(of) the Resurrection|or|punish it|with a punishment|severe|That is|That is|in|the Book|written",
+            "transliteration": "wa-in|min|qaryatin|illa|nahnu|muh'likuha|qabla|yawmi|al-qiyamati|aw|mu'adhibuha|adhaban|shadidan|kana|dhalika|fi|al-kitabi|masturan",
+            "timestamp": "0.03|1.2|2|3.1|4|4.7|6.2|6.8|7.5|8.9|9.2|11|12.8|14.5|15.1|16|16.2|17.4",
+            "line": "14|14|14|14|14|14|14|14|14|15|15|15|15|15|15|15|15|15",
+            "end": "٥٨",
+            "end_line": 15
+          },
+          "translations": {
+            "1": "Wa-in min qaryatin illaa Nahnu muhlikoohaa qabla Yawmil Qiyaamati aw mu'az-ziboohaa 'azaaban shadeedaa; kaana zaalika fil Kitaabi mastooraa"
+          }
+        },
+        "17:59": {
+          "meta": {
+            "chapter": 17,
+            "verse": 59,
+            "page": 288,
+            "juz": 15,
+            "hizb": 115,
+            "manzil": 4,
+            "ruku": 245,
+            "words": 21
+          },
+          "words": {
+            "arabic": "وَمَا|مَنَعَنَآ|أَن|نُّرۡسِلَ|بِٱلۡأٓيَٰتِ|إِلَّآ|أَن|كَذَّبَ|بِهَا|ٱلۡأَوَّلُونَۚ|وَءَاتَيۡنَا|ثَمُودَ|ٱلنَّاقَةَ|مُبۡصِرَةٗ|فَظَلَمُواْ|بِهَاۚ|وَمَا|نُرۡسِلُ|بِٱلۡأٓيَٰتِ|إِلَّا|تَخۡوِيفٗا",
+            "translation": "And not|stopped Us|that|We send|the Signs|except|that|denied|them|the former (people)|And We gave|Thamud|the she-camel|(as) a visible sign|but they wronged|her|And not|We send|the Signs|except|(as) a warning",
+            "transliteration": "wama|mana'ana|an|nur'sila|bil-ayati|illa|an|kadhaba|biha|al-awaluna|waatayna|thamuda|al-naqata|mub'siratan|fazalamu|biha|wama|nur'silu|bil-ayati|illa|takhwifan",
+            "timestamp": "0.03|0.63|2.6|3.2|4.7|6.2|6.7|9.6|10.5|10.9|14.1|15.6|16.5|18.1|19.9|21|22.1|22.8|23.6|25.2|26",
+            "line": "1|1|1|1|1|1|1|1|1|1|2|2|2|2|2|2|2|2|2|3|3",
+            "end": "٥٩",
+            "end_line": 3
+          },
+          "translations": {
+            "1": "Wa-maa mana'anaaa an nursila bil-aayaati illaaa an kazzaba bihal awwaloon; Wa-aatainaa Samoodan naaqata mubsiratan fazalamoo bihaa; Wa-maa nursilu bil-aayaati illaa takhweefaa"
+          }
+        },
+        "17:60": {
+          "meta": {
+            "chapter": 17,
+            "verse": 60,
+            "page": 288,
+            "juz": 15,
+            "hizb": 115,
+            "manzil": 4,
+            "ruku": 245,
+            "words": 25
+          },
+          "words": {
+            "arabic": "وَإِذۡ|قُلۡنَا|لَكَ|إِنَّ|رَبَّكَ|أَحَاطَ|بِٱلنَّاسِۚ|وَمَا|جَعَلۡنَا|ٱلرُّءۡيَا|ٱلَّتِيٓ|أَرَيۡنَٰكَ|إِلَّا|فِتۡنَةٗ|لِّلنَّاسِ|وَٱلشَّجَرَةَ|ٱلۡمَلۡعُونَةَ|فِي|ٱلۡقُرۡءَانِۚ|وَنُخَوِّفُهُمۡ|فَمَا|يَزِيدُهُمۡ|إِلَّا|طُغۡيَٰنٗا|كَبِيرٗا",
+            "translation": "And when|We said|to you|Indeed|your Lord|has encompassed|the mankind|And not|We made|the vision|which|We showed you|except|(as) a trial|for mankind|and the tree|the accursed|in|the Quran|And We threaten them|but not|it increases them|except|(in) transgression|great",
+            "transliteration": "wa-idh|qul'na|laka|inna|rabbaka|ahata|bil-nasi|wama|ja'alna|al-ru'ya|allati|araynaka|illa|fit'natan|lilnnasi|wal-shajarata|al-mal'unata|fi|al-qur'ani|wanukhawwifuhum|fama|yaziduhum|illa|tugh'yanan|kabiran",
+            "timestamp": "0.03|0.54|1.4|1.8|2.9|3.7|4.6|7.7|8.3|9.1|10|12|13.3|14.1|15|16|18.1|19.6|19.9|23.1|24.8|25.5|27|27.8|29.9",
+            "line": "3|3|3|3|3|3|3|3|3|4|4|4|4|4|4|4|4|5|5|5|5|5|5|5|5",
+            "end": "٦٠",
+            "end_line": 5
+          },
+          "translations": {
+            "1": "Wa-iz qulnaa laka inna rabbaka ahaata binnaas; Wa-maa ja'alnar ru'yal lateee arainaaka illaa fitnatal linnaasi washshajaratal mal'oonata fil quraan; Wa-nukhaw-wifuhum famaa yazeeduhum illa tughyaanan kabeeraa"
+          }
+        },
+        "17:61": {
+          "meta": {
+            "chapter": 17,
+            "verse": 61,
+            "page": 288,
+            "juz": 15,
+            "hizb": 115,
+            "manzil": 4,
+            "ruku": 246,
+            "words": 13
+          },
+          "words": {
+            "arabic": "وَإِذۡ|قُلۡنَا|لِلۡمَلَٰٓئِكَةِ|ٱسۡجُدُواْ|لِأٓدَمَ|فَسَجَدُوٓاْ|إِلَّآ|إِبۡلِيسَ|قَالَ|ءَأَسۡجُدُ|لِمَنۡ|خَلَقۡتَ|طِينٗا",
+            "translation": "And when|We said|to the Angels|Prostrate|to Adam|So they prostrated|except|Iblis|He said|Shall I prostrate|to (one) whom|You created|(from) clay",
+            "transliteration": "wa-idh|qul'na|lil'malaikati|us'judu|liadama|fasajadu|illa|ib'lisa|qala|a-asjudu|liman|khalaqta|tinan",
+            "timestamp": "0.06|0.64|1.4|4.2|5|6|8.1|8.9|18.2|18.9|19.9|20|21.2",
+            "line": "6|6|6|6|6|6|6|6|7|7|7|7|7",
+            "end": "٦١",
+            "end_line": 7
+          },
+          "translations": {
+            "1": "Wa-iz qulnaa lilma-laaa'ikatis judoo li-Aadama fasajadooo illaaa Ibleesa qaala 'a-asjudu liman khalaqta teena"
+          }
+        },
+        "17:62": {
+          "meta": {
+            "chapter": 17,
+            "verse": 62,
+            "page": 288,
+            "juz": 15,
+            "hizb": 115,
+            "manzil": 4,
+            "ruku": 246,
+            "words": 15
+          },
+          "words": {
+            "arabic": "قَالَ|أَرَءَيۡتَكَ|هَٰذَا|ٱلَّذِي|كَرَّمۡتَ|عَلَيَّ|لَئِنۡ|أَخَّرۡتَنِ|إِلَىٰ|يَوۡمِ|ٱلۡقِيَٰمَةِ|لَأَحۡتَنِكَنَّ|ذُرِّيَّتَهُۥٓ|إِلَّا|قَلِيلٗا",
+            "translation": "He said|Do You see|this|whom|You have honored|above me|If|You give me respite|till|(the) Day|(of) the Resurrection|I will surely destroy|his offspring|except|a few",
+            "transliteration": "qala|ara-aytaka|hadha|alladhi|karramta|alayya|la-in|akhartani|ila|yawmi|al-qiyamati|la-ahtanikanna|dhurriyyatahu|illa|qalilan",
+            "timestamp": "0.03|0.63|1.9|2.5|3.3|4.4|5.3|5.9|7.1|7.7|8.4|9.7|14.5|17.4|18.2",
+            "line": "7|7|7|7|8|8|8|8|8|8|8|8|9|9|9",
+            "end": "٦٢",
+            "end_line": 9
+          },
+          "translations": {
+            "1": "Qaala ara'aytaka haazal lazee karramta 'alaiya la'in akhartani ilaa Yawmil Qiyaamati la-ahtanikanna zurriyyatahooo illaa qaleelaa"
+          }
+        },
+        "17:63": {
+          "meta": {
+            "chapter": 17,
+            "verse": 63,
+            "page": 288,
+            "juz": 15,
+            "hizb": 115,
+            "manzil": 4,
+            "ruku": 246,
+            "words": 10
+          },
+          "words": {
+            "arabic": "قَالَ|ٱذۡهَبۡ|فَمَن|تَبِعَكَ|مِنۡهُمۡ|فَإِنَّ|جَهَنَّمَ|جَزَآؤُكُمۡ|جَزَآءٗ|مَّوۡفُورٗا",
+            "translation": "He said|Go|and whoever|follows you|among them|then indeed|Hell|(is) your recompense|a recompense|ample",
+            "transliteration": "qala|idh'hab|faman|tabi'aka|min'hum|fa-inna|jahannama|jazaukum|jazaan|mawfuran",
+            "timestamp": "0.04|0.59|1.2|2.4|3.4|4.1|5.5|7.1|9.5|12",
+            "line": "9|9|9|9|9|9|10|10|10|10",
+            "end": "٦٣",
+            "end_line": 10
+          },
+          "translations": {
+            "1": "Qaalaz hab faman tabi'aka minhum fa-inna Jahannama jazaaa'ukum jazaaa'am mawfooraa"
+          }
+        },
+        "17:64": {
+          "meta": {
+            "chapter": 17,
+            "verse": 64,
+            "page": 288,
+            "juz": 15,
+            "hizb": 115,
+            "manzil": 4,
+            "ruku": 246,
+            "words": 19
+          },
+          "words": {
+            "arabic": "وَٱسۡتَفۡزِزۡ|مَنِ|ٱسۡتَطَعۡتَ|مِنۡهُم|بِصَوۡتِكَ|وَأَجۡلِبۡ|عَلَيۡهِم|بِخَيۡلِكَ|وَرَجِلِكَ|وَشَارِكۡهُمۡ|فِي|ٱلۡأَمۡوَٰلِ|وَٱلۡأَوۡلَٰدِ|وَعِدۡهُمۡۚ|وَمَا|يَعِدُهُمُ|ٱلشَّيۡطَٰنُ|إِلَّا|غُرُورًا",
+            "translation": "And incite|whoever|you can|among them|with your voice|and assault|[on] them|with your cavalry|and infantry|and be a partner|in|the wealth|and the children|and promise them|And not|promises them|the Shaitaan|except|delusion",
+            "transliteration": "wa-is'tafziz|mani|is'tata'ta|min'hum|bisawtika|wa-ajlib|alayhim|bikhaylika|warajilika|washarik'hum|fi|al-amwali|wal-awladi|wa'id'hum|wama|ya'iduhumu|al-shaytanu|illa|ghururan",
+            "timestamp": "0.03|1.2|1.6|2.8|4.3|5.4|6.4|7.9|9|10.1|13.3|13.6|14.8|16.3|17.6|18.2|19.3|20.7|21.5",
+            "line": "10|10|10|11|11|11|11|11|11|11|12|12|12|12|12|12|12|12|13",
+            "end": "٦٤",
+            "end_line": 13
+          },
+          "translations": {
+            "1": "Wastafziz manis tata'ta minhum bisawtika Wa-ajlib 'alaihim bikhailika Wa-rajilika Wa-shaarik-hum fil amwaali wal-awlaadi Wa-'idhum; Wa-maa ya'iduhumush Shaitaanu illaa ghurooraa"
+          }
+        },
+        "17:65": {
+          "meta": {
+            "chapter": 17,
+            "verse": 65,
+            "page": 288,
+            "juz": 15,
+            "hizb": 115,
+            "manzil": 4,
+            "ruku": 246,
+            "words": 9
+          },
+          "words": {
+            "arabic": "إِنَّ|عِبَادِي|لَيۡسَ|لَكَ|عَلَيۡهِمۡ|سُلۡطَٰنٞۚ|وَكَفَىٰ|بِرَبِّكَ|وَكِيلٗا",
+            "translation": "Indeed|My slaves|not|for you|over them|any authority|And sufficient|(is) your Lord|(as) a Guardian",
+            "transliteration": "inna|ibadi|laysa|laka|alayhim|sul'tanun|wakafa|birabbika|wakilan",
+            "timestamp": "0.07|1.3|2.5|3.1|3.5|4.6|7.3|8.2|9.3",
+            "line": "13|13|13|13|13|13|13|14|14",
+            "end": "٦٥",
+            "end_line": 14
+          },
+          "translations": {
+            "1": "Inna 'ibaadee laisa laka 'alaihim sultaan; Wa-kafaa bi-Rabbika Wakeelaa"
+          }
+        },
+        "17:66": {
+          "meta": {
+            "chapter": 17,
+            "verse": 66,
+            "page": 288,
+            "juz": 15,
+            "hizb": 115,
+            "manzil": 4,
+            "ruku": 246,
+            "words": 14
+          },
+          "words": {
+            "arabic": "رَّبُّكُمُ|ٱلَّذِي|يُزۡجِي|لَكُمُ|ٱلۡفُلۡكَ|فِي|ٱلۡبَحۡرِ|لِتَبۡتَغُواْ|مِن|فَضۡلِهِۦٓۚ|إِنَّهُۥ|كَانَ|بِكُمۡ|رَحِيمٗا",
+            "translation": "Your Lord|(is) the One Who|drives|for you|the ship|in|the sea|that you may seek|of|His Bounty|Indeed He|is|to you|Ever Merciful",
+            "transliteration": "rabbukumu|alladhi|yuz'ji|lakumu|al-ful'ka|fi|al-bahri|litabtaghu|min|fadlihi|innahu|kana|bikum|rahiman",
+            "timestamp": "0.06|1.1|1.9|2.8|3.5|4.3|4.5|5.4|6.7|7.7|9|10|11|11.6",
+            "line": "14|14|14|14|14|14|15|15|15|15|15|15|15|15",
+            "end": "٦٦",
+            "end_line": 15
+          },
+          "translations": {
+            "1": "Rabbukumul lazee yuzjee lakumul fulka fil bahri litabtaghoo min fadlih; innahoo kaana bikum Raheemaa"
+          }
+        },
+        "17:67": {
+          "meta": {
+            "chapter": 17,
+            "verse": 67,
+            "page": 289,
+            "juz": 15,
+            "hizb": 115,
+            "manzil": 4,
+            "ruku": 246,
+            "words": 18
+          },
+          "words": {
+            "arabic": "وَإِذَا|مَسَّكُمُ|ٱلضُّرُّ|فِي|ٱلۡبَحۡرِ|ضَلَّ|مَن|تَدۡعُونَ|إِلَّآ|إِيَّاهُۖ|فَلَمَّا|نَجَّىٰكُمۡ|إِلَى|ٱلۡبَرِّ|أَعۡرَضۡتُمۡۚ|وَكَانَ|ٱلۡإِنسَٰنُ|كَفُورًا",
+            "translation": "And when|touches you|the hardship|in|the sea|lost|(are) who|you call|except|Him Alone|But when|He delivers you|to|the land|you turn away|And is|man|ungrateful",
+            "transliteration": "wa-idha|massakumu|al-duru|fi|al-bahri|dalla|man|tad'una|illa|iyyahu|falamma|najjakum|ila|al-bari|a'radtum|wakana|al-insanu|kafuran",
+            "timestamp": "0.1|0.93|1.9|2.8|3|3.8|4.5|5.4|6.4|7.2|11.2|12.8|14|14.4|15.3|16.5|17.3|19.2",
+            "line": "1|1|1|1|1|1|1|1|1|1|1|2|2|2|2|2|2|2",
+            "end": "٦٧",
+            "end_line": 2
+          },
+          "translations": {
+            "1": "Wa-izaa massakumud durru fil bahri dalla man tad'oona illaaa iyyaahu falammaa najjaakum ilal barri a'radtum; Wa-kaanal insaanu kafooraa"
+          }
+        },
+        "17:68": {
+          "meta": {
+            "chapter": 17,
+            "verse": 68,
+            "page": 289,
+            "juz": 15,
+            "hizb": 115,
+            "manzil": 4,
+            "ruku": 246,
+            "words": 15
+          },
+          "words": {
+            "arabic": "أَفَأَمِنتُمۡ|أَن|يَخۡسِفَ|بِكُمۡ|جَانِبَ|ٱلۡبَرِّ|أَوۡ|يُرۡسِلَ|عَلَيۡكُمۡ|حَاصِبٗا|ثُمَّ|لَا|تَجِدُواْ|لَكُمۡ|وَكِيلًا",
+            "translation": "Do you then feel secure|that (not)|He will cause to swallow|you|side|(of) the land|or|send|against you|a storm of stones|Then|not|you will find|for you|a guardian",
+            "transliteration": "afa-amintum|an|yakhsifa|bikum|janiba|al-bari|aw|yur'sila|alaykum|hasiban|thumma|la|tajidu|lakum|wakilan",
+            "timestamp": "0.03|1.9|3|3.7|4.3|5.2|6|6.4|7.1|8.2|13.7|14.9|15.2|16.1|16.8",
+            "line": "2|3|3|3|3|3|3|3|3|3|3|4|4|4|4",
+            "end": "٦٨",
+            "end_line": 4
+          },
+          "translations": {
+            "1": "Afa-amintum aien yakhsifa bikum jaanibal barri aw yursila 'alaikum haasiban summa laa tajidoo lakum wakeelaa"
+          }
+        },
+        "17:69": {
+          "meta": {
+            "chapter": 17,
+            "verse": 69,
+            "page": 289,
+            "juz": 15,
+            "hizb": 115,
+            "manzil": 4,
+            "ruku": 246,
+            "words": 22
+          },
+          "words": {
+            "arabic": "أَمۡ|أَمِنتُمۡ|أَن|يُعِيدَكُمۡ|فِيهِ|تَارَةً|أُخۡرَىٰ|فَيُرۡسِلَ|عَلَيۡكُمۡ|قَاصِفٗا|مِّنَ|ٱلرِّيحِ|فَيُغۡرِقَكُم|بِمَا|كَفَرۡتُمۡ|ثُمَّ|لَا|تَجِدُواْ|لَكُمۡ|عَلَيۡنَا|بِهِۦ|تَبِيعٗا",
+            "translation": "Or|do you feel secure|that (not)|He will send you back|into it|another time|another time|and send|upon you|a hurricane|of|the wind|and drown you|because|you disbelieved|Then|not|you will find|for you|against Us|therein|an avenger",
+            "transliteration": "am|amintum|an|yu'idakum|fihi|taratan|ukh'ra|fayur'sila|alaykum|qasifan|mina|al-rihi|fayugh'riqakum|bima|kafartum|thumma|la|tajidu|lakum|alayna|bihi|tabi'an",
+            "timestamp": "0.1|0.43|2.3|3.5|4.4|5.1|6.2|7|8|9.2|11|11.3|12.1|16|16.8|17.9|19.3|19.7|20.7|21.3|22.6|23.4",
+            "line": "4|4|4|4|4|4|5|5|5|5|5|5|5|5|5|6|6|6|6|6|6|6",
+            "end": "٦٩",
+            "end_line": 6
+          },
+          "translations": {
+            "1": "Am amintum aien yu'eedakum feehi taaratan ukhraa fa-yursila 'alaikum qaasifam minar reehi fa-yugh-riqakum bimaa kafartum summa laa tajidoo lakum 'alainaa bihee tabee'aa"
+          }
+        },
+        "17:70": {
+          "meta": {
+            "chapter": 17,
+            "verse": 70,
+            "page": 289,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 246,
+            "words": 17
+          },
+          "words": {
+            "arabic": "۞وَلَقَدۡ|كَرَّمۡنَا|بَنِيٓ|ءَادَمَ|وَحَمَلۡنَٰهُمۡ|فِي|ٱلۡبَرِّ|وَٱلۡبَحۡرِ|وَرَزَقۡنَٰهُم|مِّنَ|ٱلطَّيِّبَٰتِ|وَفَضَّلۡنَٰهُمۡ|عَلَىٰ|كَثِيرٖ|مِّمَّنۡ|خَلَقۡنَا|تَفۡضِيلٗا",
+            "translation": "And certainly|We have honored|(the) children of Adam|(the) children of Adam|and We carried them|on|the land|and the sea|and We have provided them|of|the good things|and We preferred them|over|many|of those whom|We have created|(with) preference",
+            "transliteration": "walaqad|karramna|bani|adama|wahamalnahum|fi|al-bari|wal-bahri|warazaqnahum|mina|al-tayibati|wafaddalnahum|ala|kathirin|mimman|khalaqna|tafdilan",
+            "timestamp": "0.03|0.75|1.9|3.5|4.3|5.9|6.2|7|8|10|10.8|17.8|19|20.3|21.9|23|24.1",
+            "line": "6|6|6|7|7|7|7|7|7|7|7|8|8|8|8|8|8",
+            "end": "٧٠",
+            "end_line": 8
+          },
+          "translations": {
+            "1": "Wa-laqad karramnaa Baneee aadama Wa-hamalnaahum fil barri walbahri Wa-razaqnaahum minat taiyibaati Wa-faddalnaahum 'alaa kaseerim mimman khalaqnaa tafdeelaa"
+          }
+        },
+        "17:71": {
+          "meta": {
+            "chapter": 17,
+            "verse": 71,
+            "page": 289,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 247,
+            "words": 15
+          },
+          "words": {
+            "arabic": "يَوۡمَ|نَدۡعُواْ|كُلَّ|أُنَاسِۭ|بِإِمَٰمِهِمۡۖ|فَمَنۡ|أُوتِيَ|كِتَٰبَهُۥ|بِيَمِينِهِۦ|فَأُوْلَٰٓئِكَ|يَقۡرَءُونَ|كِتَٰبَهُمۡ|وَلَا|يُظۡلَمُونَ|فَتِيلٗا",
+            "translation": "(The) Day|We will call|all|human beings|with their record|then whoever|is given|his record|in his right hand|then those|will read|their records|and not|they will be wronged|(even as much as) a hair on a date seed",
+            "transliteration": "yawma|nad'u|kulla|unasin|bi-imamihim|faman|utiya|kitabahu|biyaminihi|fa-ulaika|yaqrauna|kitabahum|wala|yuz'lamuna|fatilan",
+            "timestamp": "0.07|0.64|1.4|2.1|3.9|5.6|6.2|7|8.3|9.7|12.4|13.5|14|15.4|16.8",
+            "line": "8|8|9|9|9|9|9|9|9|9|10|10|10|10|10",
+            "end": "٧١",
+            "end_line": 10
+          },
+          "translations": {
+            "1": "Yawma nad'oo kulla unaasim bi-imaamihim faman ootiya kitaabahoo bi-yameenihee fa-ulaaa'ika yaqra'oona kitaabahum Wa-laa yuzlamoona fateelaa"
+          }
+        },
+        "17:72": {
+          "meta": {
+            "chapter": 17,
+            "verse": 72,
+            "page": 289,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 247,
+            "words": 11
+          },
+          "words": {
+            "arabic": "وَمَن|كَانَ|فِي|هَٰذِهِۦٓ|أَعۡمَىٰ|فَهُوَ|فِي|ٱلۡأٓخِرَةِ|أَعۡمَىٰ|وَأَضَلُّ|سَبِيلٗا",
+            "translation": "And whoever|is|in|this (world)|blind|then he|in|the Hereafter|(will be) blind|and more astray|(from the) path",
+            "transliteration": "waman|kana|fi|hadhihi|a'ma|fahuwa|fi|al-akhirati|a'ma|wa-adallu|sabilan",
+            "timestamp": "0.03|1.2|1.9|2.3|4.5|5.4|6.1|6.3|7.7|8.5|9.5",
+            "line": "10|10|11|11|11|11|11|11|11|11|11",
+            "end": "٧٢",
+            "end_line": 11
+          },
+          "translations": {
+            "1": "Wa-man kaana fee haaziheee a'maa fahuwa fil aakhirati a'maa Wa-adallu sabeelaa"
+          }
+        },
+        "17:73": {
+          "meta": {
+            "chapter": 17,
+            "verse": 73,
+            "page": 289,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 247,
+            "words": 13
+          },
+          "words": {
+            "arabic": "وَإِن|كَادُواْ|لَيَفۡتِنُونَكَ|عَنِ|ٱلَّذِيٓ|أَوۡحَيۡنَآ|إِلَيۡكَ|لِتَفۡتَرِيَ|عَلَيۡنَا|غَيۡرَهُۥۖ|وَإِذٗا|لَّٱتَّخَذُوكَ|خَلِيلٗا",
+            "translation": "And indeed|they were about (to)|tempt you away|from|that which|We revealed|to you|that you invent|about Us|other (than) it|And then|surely they would take you|(as) a friend",
+            "transliteration": "wa-in|kadu|layaftinunaka|ani|alladhi|awhayna|ilayka|litaftariya|alayna|ghayrahu|wa-idhan|la-ittakhadhuka|khalilan",
+            "timestamp": "0.03|1.1|2|3.6|4.1|5.9|6.8|9|10|11.3|12.6|13.1|14.9",
+            "line": "11|12|12|12|12|12|12|12|13|13|13|13|13",
+            "end": "٧٣",
+            "end_line": 13
+          },
+          "translations": {
+            "1": "Wa-in kaadoo la-yaftinoonaka 'anil lazeee awhainaaa ilaika litaftariya 'alainaaa ghairahoo Wa-izallat takhazooka khaleelaa"
+          }
+        },
+        "17:74": {
+          "meta": {
+            "chapter": 17,
+            "verse": 74,
+            "page": 289,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 247,
+            "words": 9
+          },
+          "words": {
+            "arabic": "وَلَوۡلَآ|أَن|ثَبَّتۡنَٰكَ|لَقَدۡ|كِدتَّ|تَرۡكَنُ|إِلَيۡهِمۡ|شَيۡـٔٗا|قَلِيلًا",
+            "translation": "And if not|[that]|We (had) strengthened you|certainly|you almost|(would) have inclined|to them|(in) something|a little",
+            "transliteration": "walawla|an|thabbatnaka|laqad|kidtta|tarkanu|ilayhim|shayan|qalilan",
+            "timestamp": "0.09|2.2|3.2|4.8|5.3|6|6.8|7.7|9.4",
+            "line": "13|13|13|14|14|14|14|14|14",
+            "end": "٧٤",
+            "end_line": 14
+          },
+          "translations": {
+            "1": "Wa-law-laaa an sabbatnaaka laqad kitta tarkanu ilaihim shai'an qaleela"
+          }
+        },
+        "17:75": {
+          "meta": {
+            "chapter": 17,
+            "verse": 75,
+            "page": 289,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 247,
+            "words": 12
+          },
+          "words": {
+            "arabic": "إِذٗا|لَّأَذَقۡنَٰكَ|ضِعۡفَ|ٱلۡحَيَوٰةِ|وَضِعۡفَ|ٱلۡمَمَاتِ|ثُمَّ|لَا|تَجِدُ|لَكَ|عَلَيۡنَا|نَصِيرٗا",
+            "translation": "Then|We (would) have made you taste|double|(in) the life|and double|(after) the death|Then|not|you (would) have found|for you|against Us|any helper",
+            "transliteration": "idhan|la-adhaqnaka|di'fa|al-hayati|wadi'fa|al-mamati|thumma|la|tajidu|laka|alayna|nasiran",
+            "timestamp": "0.03|0.85|2|2.7|3.8|4.6|5.7|6.9|7.2|7.9|8.3|9.4",
+            "line": "14|14|14|15|15|15|15|15|15|15|15|15",
+            "end": "٧٥",
+            "end_line": 15
+          },
+          "translations": {
+            "1": "Izal la-azaqnaaka di'fal hayaati Wa-di'fal mamaati summa laa tajidu laka 'alainaa naseeraa"
+          }
+        },
+        "17:76": {
+          "meta": {
+            "chapter": 17,
+            "verse": 76,
+            "page": 290,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 247,
+            "words": 13
+          },
+          "words": {
+            "arabic": "وَإِن|كَادُواْ|لَيَسۡتَفِزُّونَكَ|مِنَ|ٱلۡأَرۡضِ|لِيُخۡرِجُوكَ|مِنۡهَاۖ|وَإِذٗا|لَّا|يَلۡبَثُونَ|خِلَٰفَكَ|إِلَّا|قَلِيلٗا",
+            "translation": "And indeed|they were about|(to) scare you|from|the land|that they evict you|from it|But then|not|they (would) have stayed|after you|except|a little",
+            "transliteration": "wa-in|kadu|layastafizzunaka|mina|al-ardi|liyukh'rijuka|min'ha|wa-idhan|la|yalbathuna|khilafaka|illa|qalilan",
+            "timestamp": "0.1|1.2|2|4.2|4.5|5.4|6.9|8.4|8.8|9.6|10.8|12|12.8",
+            "line": "1|1|1|1|1|1|1|2|2|2|2|2|2",
+            "end": "٧٦",
+            "end_line": 2
+          },
+          "translations": {
+            "1": "Wa-in kaadoo la-yastafizzoonaka minal ardi liyukhri-jooka minhaa Wa-izal laa yalbasoona khilaafaka illaa qaleelaa"
+          }
+        },
+        "17:77": {
+          "meta": {
+            "chapter": 17,
+            "verse": 77,
+            "page": 290,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 247,
+            "words": 11
+          },
+          "words": {
+            "arabic": "سُنَّةَ|مَن|قَدۡ|أَرۡسَلۡنَا|قَبۡلَكَ|مِن|رُّسُلِنَاۖ|وَلَا|تَجِدُ|لِسُنَّتِنَا|تَحۡوِيلًا",
+            "translation": "(Such is Our) Way|(for) whom|[verily]|We sent|before you|of|Our Messengers|And not|you will find|(in) Our way|any alteration",
+            "transliteration": "sunnata|man|qad|arsalna|qablaka|min|rusulina|wala|tajidu|lisunnatina|tahwilan",
+            "timestamp": "0.06|1.5|2.7|3.1|4.4|5.3|5.5|7.2|7.8|8.4|10.6",
+            "line": "2|2|2|2|3|3|3|3|3|3|3",
+            "end": "٧٧",
+            "end_line": 3
+          },
+          "translations": {
+            "1": "Sunnata man qad arsalnaa qablaka mir Rusulinaa Wa-laa tajidu lisunnatinaa tahweelaa"
+          }
+        },
+        "17:78": {
+          "meta": {
+            "chapter": 17,
+            "verse": 78,
+            "page": 290,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 248,
+            "words": 14
+          },
+          "words": {
+            "arabic": "أَقِمِ|ٱلصَّلَوٰةَ|لِدُلُوكِ|ٱلشَّمۡسِ|إِلَىٰ|غَسَقِ|ٱلَّيۡلِ|وَقُرۡءَانَ|ٱلۡفَجۡرِۖ|إِنَّ|قُرۡءَانَ|ٱلۡفَجۡرِ|كَانَ|مَشۡهُودٗا",
+            "translation": "Establish|the prayer|at the decline|(of) the sun|till|(the) darkness|(of) the night|and Quran|at dawn|indeed|the Quran|(at) the dawn|is|ever witnessed",
+            "transliteration": "aqimi|al-salata|liduluki|al-shamsi|ila|ghasaqi|al-layli|waqur'ana|al-fajri|inna|qur'ana|al-fajri|kana|mashhudan",
+            "timestamp": "0.03|0.63|1.7|2.8|3.7|4.3|5|5.9|7.1|8.3|9.3|10|11.2|11.9",
+            "line": "3|4|4|4|4|4|4|4|4|5|5|5|5|5",
+            "end": "٧٨",
+            "end_line": 5
+          },
+          "translations": {
+            "1": "Aqimis Salaata liduloo-kish shamsi ilaa ghasaqil laili Wa-quraanal Fajri inna quraa-nal Fajri kaana mashhoodaa"
+          }
+        },
+        "17:79": {
+          "meta": {
+            "chapter": 17,
+            "verse": 79,
+            "page": 290,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 248,
+            "words": 12
+          },
+          "words": {
+            "arabic": "وَمِنَ|ٱلَّيۡلِ|فَتَهَجَّدۡ|بِهِۦ|نَافِلَةٗ|لَّكَ|عَسَىٰٓ|أَن|يَبۡعَثَكَ|رَبُّكَ|مَقَامٗا|مَّحۡمُودٗا",
+            "translation": "And from|the night|arise from sleep for prayer|with it|(as) additional|for you|it may be|that|will raise you|your Lord|(to) a station|praiseworthy",
+            "transliteration": "wamina|al-layli|fatahajjad|bihi|nafilatan|laka|asa|an|yab'athaka|rabbuka|maqaman|mahmudan",
+            "timestamp": "0.08|0.7|1.5|2.8|3.5|4.6|5.2|5.6|7.8|9|9.9|10.7",
+            "line": "5|5|5|6|6|6|6|6|6|6|6|6",
+            "end": "٧٩",
+            "end_line": 6
+          },
+          "translations": {
+            "1": "Wa-minal laili fatahajjad bihee naafilatal laka 'asaaa any yab'asaka Rabbuka Maqaamam Mahmoodaa"
+          }
+        },
+        "17:80": {
+          "meta": {
+            "chapter": 17,
+            "verse": 80,
+            "page": 290,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 248,
+            "words": 14
+          },
+          "words": {
+            "arabic": "وَقُل|رَّبِّ|أَدۡخِلۡنِي|مُدۡخَلَ|صِدۡقٖ|وَأَخۡرِجۡنِي|مُخۡرَجَ|صِدۡقٖ|وَٱجۡعَل|لِّي|مِن|لَّدُنكَ|سُلۡطَٰنٗا|نَّصِيرٗا",
+            "translation": "And say|My Lord!|Cause me to enter|an entrance|sound|and cause me to exit|an exit|sound|and make|for me|from|near You|an authority|helping",
+            "transliteration": "waqul|rabbi|adkhil'ni|mud'khala|sid'qin|wa-akhrij'ni|mukh'raja|sid'qin|wa-ij'al|li|min|ladunka|sul'tanan|nasiran",
+            "timestamp": "0.03|0.38|1.3|2.5|3.3|4.1|6.2|7|7.7|9.3|11.3|11.5|13.2|14.1",
+            "line": "7|7|7|7|7|7|7|7|8|8|8|8|8|8",
+            "end": "٨٠",
+            "end_line": 8
+          },
+          "translations": {
+            "1": "Wa-qur Rabbi adkhilnee mudkhala sidqinw Wa-akhrijnee mukhraja sidqinw waj'al lee mil ladunka sultaanan naseeraa"
+          }
+        },
+        "17:81": {
+          "meta": {
+            "chapter": 17,
+            "verse": 81,
+            "page": 290,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 248,
+            "words": 9
+          },
+          "words": {
+            "arabic": "وَقُلۡ|جَآءَ|ٱلۡحَقُّ|وَزَهَقَ|ٱلۡبَٰطِلُۚ|إِنَّ|ٱلۡبَٰطِلَ|كَانَ|زَهُوقٗا",
+            "translation": "And say|Has come|the truth|and perished|the falsehood|Indeed|the falsehood|is|(bound) to perish",
+            "transliteration": "waqul|jaa|al-haqu|wazahaqa|al-batilu|inna|al-batila|kana|zahuqan",
+            "timestamp": "0.03|0.59|2.6|3.7|4.6|5.9|7.3|8.3|9",
+            "line": "8|8|8|8|9|9|9|9|9",
+            "end": "٨١",
+            "end_line": 9
+          },
+          "translations": {
+            "1": "Wa-qul jaaa'al haqqu Wa-zahaqal baatil; innal baatila kaana zahooqaa"
+          }
+        },
+        "17:82": {
+          "meta": {
+            "chapter": 17,
+            "verse": 82,
+            "page": 290,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 248,
+            "words": 13
+          },
+          "words": {
+            "arabic": "وَنُنَزِّلُ|مِنَ|ٱلۡقُرۡءَانِ|مَا|هُوَ|شِفَآءٞ|وَرَحۡمَةٞ|لِّلۡمُؤۡمِنِينَ|وَلَا|يَزِيدُ|ٱلظَّٰلِمِينَ|إِلَّا|خَسَارٗا",
+            "translation": "And We reveal|from|the Quran|that|it|(is) a healing|and a mercy|for the believers|but not|it increases|the wrongdoers|except|(in) loss",
+            "transliteration": "wanunazzilu|mina|al-qur'ani|ma|huwa|shifaon|warahmatun|lil'mu'minina|wala|yazidu|al-zalimina|illa|khasaran",
+            "timestamp": "0.03|1.2|1.6|2.9|3.3|3.7|7|8.2|10.2|10.8|11.7|13.3|14.1",
+            "line": "9|9|9|9|9|10|10|10|10|10|10|10|10",
+            "end": "٨٢",
+            "end_line": 10
+          },
+          "translations": {
+            "1": "Wa-nunazzilu minal quraani maa huwa shifaaa'unw Wa-rahmatullil mu'mineena Wa-laa yazeeduz zaalimeena illaa khasaaraa"
+          }
+        },
+        "17:83": {
+          "meta": {
+            "chapter": 17,
+            "verse": 83,
+            "page": 290,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 248,
+            "words": 12
+          },
+          "words": {
+            "arabic": "وَإِذَآ|أَنۡعَمۡنَا|عَلَى|ٱلۡإِنسَٰنِ|أَعۡرَضَ|وَنَـَٔا|بِجَانِبِهِۦ|وَإِذَا|مَسَّهُ|ٱلشَّرُّ|كَانَ|يَـُٔوسٗا",
+            "translation": "And when|We bestow favor|on|man|he turns away|and becomes remote|on his side|And when|touches him|the evil|he is|(in) despair",
+            "transliteration": "wa-idha|an'amna|ala|al-insani|a'rada|wanaa|bijanibihi|wa-idha|massahu|al-sharu|kana|yausan",
+            "timestamp": "0.07|2.2|3.4|3.8|5.9|6.8|7.7|9.3|10.2|11.1|12|12.6",
+            "line": "11|11|11|11|11|11|11|11|11|12|12|12",
+            "end": "٨٣",
+            "end_line": 12
+          },
+          "translations": {
+            "1": "Wa-izaaa an'amnaa 'alal insaani a'rada Wa-na-aa bijaani-bihee Wa-izaa massahush sharru kaana ya'oosaa"
+          }
+        },
+        "17:84": {
+          "meta": {
+            "chapter": 17,
+            "verse": 84,
+            "page": 290,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 248,
+            "words": 11
+          },
+          "words": {
+            "arabic": "قُلۡ|كُلّٞ|يَعۡمَلُ|عَلَىٰ|شَاكِلَتِهِۦ|فَرَبُّكُمۡ|أَعۡلَمُ|بِمَنۡ|هُوَ|أَهۡدَىٰ|سَبِيلٗا",
+            "translation": "Say|Each|works|on|his manner|but your Lord|(is) most knowing|of who|[he]|(is) best guided|(in) way",
+            "transliteration": "qul|kullun|ya'malu|ala|shakilatihi|farabbukum|a'lamu|biman|huwa|ahda|sabilan",
+            "timestamp": "0.03|0.37|1.9|2.8|3.3|4.9|6.2|7.1|7.6|8.2|9",
+            "line": "12|12|12|12|12|12|12|13|13|13|13",
+            "end": "٨٤",
+            "end_line": 13
+          },
+          "translations": {
+            "1": "Qul kulluny ya'malu 'alaa shaakilatihee fa-rabbukum a'lamu biman huwa ahdaa sabeelaa"
+          }
+        },
+        "17:85": {
+          "meta": {
+            "chapter": 17,
+            "verse": 85,
+            "page": 290,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 249,
+            "words": 14
+          },
+          "words": {
+            "arabic": "وَيَسۡـَٔلُونَكَ|عَنِ|ٱلرُّوحِۖ|قُلِ|ٱلرُّوحُ|مِنۡ|أَمۡرِ|رَبِّي|وَمَآ|أُوتِيتُم|مِّنَ|ٱلۡعِلۡمِ|إِلَّا|قَلِيلٗا",
+            "translation": "And they ask you|concerning|the soul|Say|The soul|(is) of|(the) affair|(of) my Lord|And not|you have been given|of|the knowledge|except|a little",
+            "transliteration": "wayasalunaka|ani|al-ruhi|quli|al-ruhu|min|amri|rabbi|wama|utitum|mina|al-'il'mi|illa|qalilan",
+            "timestamp": "0.03|1.6|2|4.5|4.8|5.7|6.1|6.7|7.6|7.9|11.5|11.9|12.7|13.6",
+            "line": "13|13|13|13|13|13|14|14|14|14|14|14|14|14",
+            "end": "٨٥",
+            "end_line": 14
+          },
+          "translations": {
+            "1": "Wa-yas'aloonaka 'anir rooh; qulir roohu min amri rabbee Wa-maaa ooteetum minal 'ilmi illaa qaleelaa"
+          }
+        },
+        "17:86": {
+          "meta": {
+            "chapter": 17,
+            "verse": 86,
+            "page": 290,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 249,
+            "words": 13
+          },
+          "words": {
+            "arabic": "وَلَئِن|شِئۡنَا|لَنَذۡهَبَنَّ|بِٱلَّذِيٓ|أَوۡحَيۡنَآ|إِلَيۡكَ|ثُمَّ|لَا|تَجِدُ|لَكَ|بِهِۦ|عَلَيۡنَا|وَكِيلًا",
+            "translation": "And if|We willed|We (would) have surely taken away|that which|We have revealed|to you|Then|not|you would find|for you|concerning it|against Us|any advocate",
+            "transliteration": "wala-in|shi'na|lanadhhabanna|bi-alladhi|awhayna|ilayka|thumma|la|tajidu|laka|bihi|alayna|wakilan",
+            "timestamp": "0.03|1.5|2.5|4.7|6.9|9.6|10.4|11.8|12.1|12|13.3|13|15",
+            "line": "14|14|14|15|15|15|15|15|15|15|15|15|15",
+            "end": "٨٦",
+            "end_line": 15
+          },
+          "translations": {
+            "1": "Wa-la'in shi'naa lanaz-habanna billazeee awhainaaa ilaika summa laa tajidu laka bihee 'alainaa wakeelaa"
+          }
+        },
+        "17:87": {
+          "meta": {
+            "chapter": 17,
+            "verse": 87,
+            "page": 291,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 249,
+            "words": 9
+          },
+          "words": {
+            "arabic": "إِلَّا|رَحۡمَةٗ|مِّن|رَّبِّكَۚ|إِنَّ|فَضۡلَهُۥ|كَانَ|عَلَيۡكَ|كَبِيرٗا",
+            "translation": "Except|a mercy|from|your Lord|Indeed|His Bounty|is|upon you|great",
+            "transliteration": "illa|rahmatan|min|rabbika|inna|fadlahu|kana|alayka|kabiran",
+            "timestamp": "0.03|0.87|3|3.1|4.6|6.1|7.4|8.1|9.2",
+            "line": "1|1|1|1|1|1|1|1|1",
+            "end": "٨٧",
+            "end_line": 1
+          },
+          "translations": {
+            "1": "Illaa rahmatam mir Rabbik; inna fadlahoo kaana 'alaika kabeeraa"
+          }
+        },
+        "17:88": {
+          "meta": {
+            "chapter": 17,
+            "verse": 88,
+            "page": 291,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 249,
+            "words": 19
+          },
+          "words": {
+            "arabic": "قُل|لَّئِنِ|ٱجۡتَمَعَتِ|ٱلۡإِنسُ|وَٱلۡجِنُّ|عَلَىٰٓ|أَن|يَأۡتُواْ|بِمِثۡلِ|هَٰذَا|ٱلۡقُرۡءَانِ|لَا|يَأۡتُونَ|بِمِثۡلِهِۦ|وَلَوۡ|كَانَ|بَعۡضُهُمۡ|لِبَعۡضٖ|ظَهِيرٗا",
+            "translation": "Say|If|gathered|the mankind|and the jinn|to|[that]|bring|the like|(of) this|Quran|not|they (could) bring|the like of it|even if|were|some of them|to some others|assistants",
+            "transliteration": "qul|la-ini|ij'tama'ati|al-insu|wal-jinu|ala|an|yatu|bimith'li|hadha|al-qur'ani|la|yatuna|bimith'lihi|walaw|kana|ba'duhum|liba'din|zahiran",
+            "timestamp": "0.03|0.49|0.96|2|3.4|4.9|6.8|7.9|8.6|9.5|10.3|11.5|11.8|12.9|14.2|14.8|15.4|16.5|17.5",
+            "line": "1|2|2|2|2|2|2|2|2|2|2|3|3|3|3|3|3|3|3",
+            "end": "٨٨",
+            "end_line": 3
+          },
+          "translations": {
+            "1": "Qul la'inij tama'atil insu waljinnu 'alaaa aien ya'too bimisli haazal quraani laa ya'toona bimislihee Wa-law kaana ba'duhum liba-'din zaheeraa"
+          }
+        },
+        "17:89": {
+          "meta": {
+            "chapter": 17,
+            "verse": 89,
+            "page": 291,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 249,
+            "words": 14
+          },
+          "words": {
+            "arabic": "وَلَقَدۡ|صَرَّفۡنَا|لِلنَّاسِ|فِي|هَٰذَا|ٱلۡقُرۡءَانِ|مِن|كُلِّ|مَثَلٖ|فَأَبَىٰٓ|أَكۡثَرُ|ٱلنَّاسِ|إِلَّا|كُفُورٗا",
+            "translation": "And verily|We have explained|to mankind|in|this|Quran|from|every|example|but refused|most|(of) the mankind|except|disbelief",
+            "transliteration": "walaqad|sarrafna|lilnnasi|fi|hadha|al-qur'ani|min|kulli|mathalin|fa-aba|aktharu|al-nasi|illa|kufuran",
+            "timestamp": "0.03|0.72|2|3.4|3.9|4.5|5.8|6.7|7.3|8.6|9.1|11.5|12|13.7",
+            "line": "4|4|4|4|4|4|4|4|4|4|4|5|5|5",
+            "end": "٨٩",
+            "end_line": 5
+          },
+          "translations": {
+            "1": "Wa-laqad sarrafnaa linnaasi fee haazal quraani min kulli masalin fa-abaaa aksarun naasi illaa kufooraa"
+          }
+        },
+        "17:90": {
+          "meta": {
+            "chapter": 17,
+            "verse": 90,
+            "page": 291,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 249,
+            "words": 10
+          },
+          "words": {
+            "arabic": "وَقَالُواْ|لَن|نُّؤۡمِنَ|لَكَ|حَتَّىٰ|تَفۡجُرَ|لَنَا|مِنَ|ٱلۡأَرۡضِ|يَنۢبُوعًا",
+            "translation": "And they say|Never|we will believe|in you|until|you cause to gush forth|for us|from|the earth|a spring",
+            "transliteration": "waqalu|lan|nu'mina|laka|hatta|tafjura|lana|mina|al-ardi|yanbu'an",
+            "timestamp": "0.03|1|1.3|2.8|3.2|4|4.9|5.5|5.9|6.8",
+            "line": "5|5|5|5|5|5|6|6|6|6",
+            "end": "٩٠",
+            "end_line": 6
+          },
+          "translations": {
+            "1": "Wa-qaaloo lan nu'mina laka hattaa tafjura lanaa minal ardi yamboo'aa"
+          }
+        },
+        "17:91": {
+          "meta": {
+            "chapter": 17,
+            "verse": 91,
+            "page": 291,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 249,
+            "words": 11
+          },
+          "words": {
+            "arabic": "أَوۡ|تَكُونَ|لَكَ|جَنَّةٞ|مِّن|نَّخِيلٖ|وَعِنَبٖ|فَتُفَجِّرَ|ٱلۡأَنۡهَٰرَ|خِلَٰلَهَا|تَفۡجِيرًا",
+            "translation": "Or|you have|for you|a garden|of|date-palms|and grapes|and cause to gush forth|the rivers|within them|abundantly",
+            "transliteration": "aw|takuna|laka|jannatun|min|nakhilin|wa'inabin|fatufajjira|al-anhara|khilalaha|tafjiran",
+            "timestamp": "0.03|0.34|1.2|1.6|3.9|4.6|5.5|7.3|8.7|9.8|11.1",
+            "line": "6|6|6|6|6|6|7|7|7|7|7",
+            "end": "٩١",
+            "end_line": 7
+          },
+          "translations": {
+            "1": "Aw takoona laka jannatum min nakheelinw Wa-'inabin fatufajjiral anhaara khilaalahaa tafjeeraa"
+          }
+        },
+        "17:92": {
+          "meta": {
+            "chapter": 17,
+            "verse": 92,
+            "page": 291,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 249,
+            "words": 12
+          },
+          "words": {
+            "arabic": "أَوۡ|تُسۡقِطَ|ٱلسَّمَآءَ|كَمَا|زَعَمۡتَ|عَلَيۡنَا|كِسَفًا|أَوۡ|تَأۡتِيَ|بِٱللَّهِ|وَٱلۡمَلَٰٓئِكَةِ|قَبِيلًا",
+            "translation": "Or|you cause to fall|the sky|as|you have claimed|upon us|(in) pieces|or|you bring|Allah|and the Angels|before (us)",
+            "transliteration": "aw|tus'qita|al-samaa|kama|za'amta|alayna|kisafan|aw|tatiya|bil-lahi|wal-malaikati|qabilan",
+            "timestamp": "0.04|0.42|1.2|3.5|4.2|5.1|6.1|7|7.4|8.3|9.4|12.9",
+            "line": "7|7|7|8|8|8|8|8|8|8|8|9",
+            "end": "٩٢",
+            "end_line": 9
+          },
+          "translations": {
+            "1": "Aw tusqitas samaaa'a kamaa za'amta 'alainaa kisafan aw ta'tiya billaahi wal-malaaa'ikati qabeelaa"
+          }
+        },
+        "17:93": {
+          "meta": {
+            "chapter": 17,
+            "verse": 93,
+            "page": 291,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 249,
+            "words": 26
+          },
+          "words": {
+            "arabic": "أَوۡ|يَكُونَ|لَكَ|بَيۡتٞ|مِّن|زُخۡرُفٍ|أَوۡ|تَرۡقَىٰ|فِي|ٱلسَّمَآءِ|وَلَن|نُّؤۡمِنَ|لِرُقِيِّكَ|حَتَّىٰ|تُنَزِّلَ|عَلَيۡنَا|كِتَٰبٗا|نَّقۡرَؤُهُۥۗ|قُلۡ|سُبۡحَانَ|رَبِّي|هَلۡ|كُنتُ|إِلَّا|بَشَرٗا|رَّسُولٗا",
+            "translation": "Or|is|for you|a house|of|ornament|or|you ascend|into|the sky|And never|we will believe|in your ascension|until|you bring down|to us|a book|we could read it|Say|Glorified (is)|my Lord!|What|am I|but|a human|a Messenger",
+            "transliteration": "aw|yakuna|laka|baytun|min|zukh'rufin|aw|tarqa|fi|al-samai|walan|nu'mina|liruqiyyika|hatta|tunazzila|alayna|kitaban|naqra-uhu|qul|sub'hana|rabbi|hal|kuntu|illa|basharan|rasulan",
+            "timestamp": "0.03|0.39|1.2|1.6|2.8|4|5.1|5.4|6.3|6.6|9.2|10.5|11.3|16.3|17.2|18.2|19.2|20.2|22.5|22.9|24|24.8|25.3|26.6|27.4|28.1",
+            "line": "9|9|9|9|9|9|9|9|9|9|10|10|10|10|10|10|10|10|10|11|11|11|11|11|11|11",
+            "end": "٩٣",
+            "end_line": 11
+          },
+          "translations": {
+            "1": "Aw yakoona laka baitum min zukhrufin aw tarqaa fis samaaa'i Wa-lan nu'mina liruqiyyika hatta tunazzila 'alainaa kitaaban naqra'uh; qul Subhaana Rabbee hal kuntu illaa basharar Rasoolaa"
+          }
+        },
+        "17:94": {
+          "meta": {
+            "chapter": 17,
+            "verse": 94,
+            "page": 291,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 250,
+            "words": 15
+          },
+          "words": {
+            "arabic": "وَمَا|مَنَعَ|ٱلنَّاسَ|أَن|يُؤۡمِنُوٓاْ|إِذۡ|جَآءَهُمُ|ٱلۡهُدَىٰٓ|إِلَّآ|أَن|قَالُوٓاْ|أَبَعَثَ|ٱللَّهُ|بَشَرٗا|رَّسُولٗا",
+            "translation": "And what|prevented|the people|that|they believe|when|came to them|the guidance|except|that|they said|Has Allah sent|Has Allah sent|a human|Messenger",
+            "transliteration": "wama|mana'a|al-nasa|an|yu'minu|idh|jaahumu|al-huda|illa|an|qalu|aba'atha|al-lahu|basharan|rasulan",
+            "timestamp": "0.03|0.63|1.2|2.6|3.8|5.7|6|8.8|9.3|12.5|13.8|20.3|21.2|22|22.5",
+            "line": "11|11|11|12|12|12|12|12|12|12|12|12|12|12|13",
+            "end": "٩٤",
+            "end_line": 13
+          },
+          "translations": {
+            "1": "Wa-maa mana'an naasa any yu'minooo iz jaaa'ahumul hudaaa illaaa an qaalooo aba'asal laahu basharar Rasoolaa"
+          }
+        },
+        "17:95": {
+          "meta": {
+            "chapter": 17,
+            "verse": 95,
+            "page": 291,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 250,
+            "words": 14
+          },
+          "words": {
+            "arabic": "قُل|لَّوۡ|كَانَ|فِي|ٱلۡأَرۡضِ|مَلَٰٓئِكَةٞ|يَمۡشُونَ|مُطۡمَئِنِّينَ|لَنَزَّلۡنَا|عَلَيۡهِم|مِّنَ|ٱلسَّمَآءِ|مَلَكٗا|رَّسُولٗا",
+            "translation": "Say|If|(there) were|in|the earth|Angels|walking|securely|surely We (would) have sent down|to them|from|the heaven|an Angel|(as) a Messenger",
+            "transliteration": "qul|law|kana|fi|al-ardi|malaikatun|yamshuna|mut'ma-innina|lanazzalna|alayhim|mina|al-samai|malakan|rasulan",
+            "timestamp": "0.03|0.4|0.8|1.4|1.7|2.5|6.1|7.2|9.5|10.9|15.6|15.9|18.6|19.2",
+            "line": "13|13|13|13|13|13|13|13|14|14|14|14|14|14",
+            "end": "٩٥",
+            "end_line": 14
+          },
+          "translations": {
+            "1": "Qul law kaana fil ardi malaaa-'ikatuien yamshoona mutma'in-neena lanazzalnaa 'alaihim minas samaaa'i malakar Rasoolaa"
+          }
+        },
+        "17:96": {
+          "meta": {
+            "chapter": 17,
+            "verse": 96,
+            "page": 291,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 250,
+            "words": 11
+          },
+          "words": {
+            "arabic": "قُلۡ|كَفَىٰ|بِٱللَّهِ|شَهِيدَۢا|بَيۡنِي|وَبَيۡنَكُمۡۚ|إِنَّهُۥ|كَانَ|بِعِبَادِهِۦ|خَبِيرَۢا|بَصِيرٗا",
+            "translation": "Say|Sufficient is|Allah|(as) a witness|between me|and between you|Indeed He|is|of His slaves|All-Aware|All-Seer",
+            "transliteration": "qul|kafa|bil-lahi|shahidan|bayni|wabaynakum|innahu|kana|bi'ibadihi|khabiran|basiran",
+            "timestamp": "0.03|0.31|1|2.1|4.2|5|6.7|8.3|9|10.4|12.4",
+            "line": "14|14|14|15|15|15|15|15|15|15|15",
+            "end": "٩٦",
+            "end_line": 15
+          },
+          "translations": {
+            "1": "Qul kafaa billaahi shaheedam bainee Wa-bainakum; innahoo kaana bi'ibaadihee Khabeeram Baseeraa"
+          }
+        },
+        "17:97": {
+          "meta": {
+            "chapter": 17,
+            "verse": 97,
+            "page": 292,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 250,
+            "words": 27
+          },
+          "words": {
+            "arabic": "وَمَن|يَهۡدِ|ٱللَّهُ|فَهُوَ|ٱلۡمُهۡتَدِۖ|وَمَن|يُضۡلِلۡ|فَلَن|تَجِدَ|لَهُمۡ|أَوۡلِيَآءَ|مِن|دُونِهِۦۖ|وَنَحۡشُرُهُمۡ|يَوۡمَ|ٱلۡقِيَٰمَةِ|عَلَىٰ|وُجُوهِهِمۡ|عُمۡيٗا|وَبُكۡمٗا|وَصُمّٗاۖ|مَّأۡوَىٰهُمۡ|جَهَنَّمُۖ|كُلَّمَا|خَبَتۡ|زِدۡنَٰهُمۡ|سَعِيرٗا",
+            "translation": "And whoever|Allah guides|Allah guides|then he (is)|the guided one|and whoever|He lets go astray|then never|you will find|for them|protectors|besides Him|besides Him|And We will gather them|(on) the Day|(of) the Resurrection|on|their faces|blind|and dumb|and deaf|Their abode|(is) Hell|every time|it subsides|We (will) increase (for) them|the blazing fire",
+            "transliteration": "waman|yahdi|al-lahu|fahuwa|al-muh'tadi|waman|yud'lil|falan|tajida|lahum|awliyaa|min|dunihi|wanahshuruhum|yawma|al-qiyamati|ala|wujuhihim|um'yan|wabuk'man|wasumman|mawahum|jahannamu|kullama|khabat|zid'nahum|sa'iran",
+            "timestamp": "0.03|1.7|2.2|3|3.7|5|6.2|7|8.4|9.1|9.7|12.3|13.3|14.6|16.1|16.8|18.1|18.8|20|21|22.3|25.5|26.8|32.2|33.3|34|35.3",
+            "line": "1|1|1|1|1|1|1|1|1|1|1|2|2|2|2|2|2|2|2|2|3|3|3|3|3|3|3",
+            "end": "٩٧",
+            "end_line": 3
+          },
+          "translations": {
+            "1": "Wa-maien yahdil laahu fahuwal muhtad; Wa-mai yudlil falan tajida lahum awliyaaa'a min doonih; Wa-nahshuruhum Yawmal Qiyaamati 'alaa wujoohihim umyanw Wa-bukmanw Wa-summaa; ma'waahum Jahannamu kullamaa khabat zidnaahum sa'eeraa"
+          }
+        },
+        "17:98": {
+          "meta": {
+            "chapter": 17,
+            "verse": 98,
+            "page": 292,
+            "juz": 15,
+            "hizb": 116,
+            "manzil": 4,
+            "ruku": 250,
+            "words": 14
+          },
+          "words": {
+            "arabic": "ذَٰلِكَ|جَزَآؤُهُم|بِأَنَّهُمۡ|كَفَرُواْ|بِـَٔايَٰتِنَا|وَقَالُوٓاْ|أَءِذَا|كُنَّا|عِظَٰمٗا|وَرُفَٰتًا|أَءِنَّا|لَمَبۡعُوثُونَ|خَلۡقٗا|جَدِيدًا",
+            "translation": "That|(is) their recompense|because they|disbelieved|in Our Verses|and said|When|we are|bones|and crumbled particles|will we|surely (be) resurrected|(as) a creation|new",
+            "transliteration": "dhalika|jazauhum|bi-annahum|kafaru|biayatina|waqalu|a-idha|kunna|izaman|warufatan|a-inna|lamab'uthuna|khalqan|jadidan",
+            "timestamp": "0.03|0.84|4|5.6|6.5|8.3|12.1|12.9|14.3|15.2|17.1|18.9|20.6|22.2",
+            "line": "4|4|4|4|4|4|4|4|4|5|5|5|5|5",
+            "end": "٩٨",
+            "end_line": 5
+          },
+          "translations": {
+            "1": "Zaalika jazaa'uhum bi-annahum kafaroo bi-aayaatinaa Wa-qaalooo 'a-izaa kunnaa 'izaamanw Wa-rufaatan 'a-innaa la-mab'oosoona khalqan jadeedaa"
+          }
+        },
+        "17:99": {
+          "meta": {
+            "chapter": 17,
+            "verse": 99,
+            "page": 292,
+            "juz": 15,
+            "hizb": 117,
+            "manzil": 4,
+            "ruku": 250,
+            "words": 23
+          },
+          "words": {
+            "arabic": "۞أَوَلَمۡ|يَرَوۡاْ|أَنَّ|ٱللَّهَ|ٱلَّذِي|خَلَقَ|ٱلسَّمَٰوَٰتِ|وَٱلۡأَرۡضَ|قَادِرٌ|عَلَىٰٓ|أَن|يَخۡلُقَ|مِثۡلَهُمۡ|وَجَعَلَ|لَهُمۡ|أَجَلٗا|لَّا|رَيۡبَ|فِيهِ|فَأَبَى|ٱلظَّٰلِمُونَ|إِلَّا|كُفُورٗا",
+            "translation": "Do not|they see|that|Allah|the One Who|created|the heavens|and the earth|(is) Able|[on]|to|create|the like of them|And He has made|for them|a term|no|doubt|in it|But refused|the wrongdoers|except|disbelief",
+            "transliteration": "awalam|yaraw|anna|al-laha|alladhi|khalaqa|al-samawati|wal-arda|qadirun|ala|an|yakhluqa|mith'lahum|waja'ala|lahum|ajalan|la|rayba|fihi|fa-aba|al-zalimuna|illa|kufuran",
+            "timestamp": "0.03|0.8|1.4|2.6|3.5|4.3|5|6.5|7.5|8.7|9|11.8|12.5|13.5|14.4|16.8|17.5|18.1|18|19|20.4|21.7|22.5",
+            "line": "5|5|5|5|6|6|6|6|6|6|6|6|6|7|7|7|7|7|7|7|7|7|7",
+            "end": "٩٩",
+            "end_line": 7
+          },
+          "translations": {
+            "1": "Awalam yaraw annal laahal lazee khalaqas samaawaati wal-arda qaadirun 'alaaa aien yakhluqa mislahum Wa-ja'ala lahum ajalal laa raiba fee; fa-abaz zaalimoona illaa kufooraa"
+          }
+        },
+        "17:100": {
+          "meta": {
+            "chapter": 17,
+            "verse": 100,
+            "page": 292,
+            "juz": 15,
+            "hizb": 117,
+            "manzil": 4,
+            "ruku": 250,
+            "words": 14
+          },
+          "words": {
+            "arabic": "قُل|لَّوۡ|أَنتُمۡ|تَمۡلِكُونَ|خَزَآئِنَ|رَحۡمَةِ|رَبِّيٓ|إِذٗا|لَّأَمۡسَكۡتُمۡ|خَشۡيَةَ|ٱلۡإِنفَاقِۚ|وَكَانَ|ٱلۡإِنسَٰنُ|قَتُورٗا",
+            "translation": "Say|If|you|possess|the treasures|(of) the Mercy|(of) my Lord|then|surely you would withhold|(out of) fear|(of) spending|And is|man|stingy",
+            "transliteration": "qul|law|antum|tamlikuna|khazaina|rahmati|rabbi|idhan|la-amsaktum|khashyata|al-infaqi|wakana|al-insanu|qaturan",
+            "timestamp": "0.03|0.79|0.8|2.3|3.6|6.3|7.1|9.4|9.6|11.4|12.3|16|17.4|19.8",
+            "line": "8|8|8|8|8|8|8|8|8|8|9|9|9|9",
+            "end": "١٠٠",
+            "end_line": 9
+          },
+          "translations": {
+            "1": "Qul law antum tamlikoona khazaaa'ina rahmati Rabbeee izal la-amsaktum khash-yatal infaaq; Wa-kaanal insaanu qatooraa"
+          }
+        },
+        "17:101": {
+          "meta": {
+            "chapter": 17,
+            "verse": 101,
+            "page": 292,
+            "juz": 15,
+            "hizb": 117,
+            "manzil": 4,
+            "ruku": 251,
+            "words": 18
+          },
+          "words": {
+            "arabic": "وَلَقَدۡ|ءَاتَيۡنَا|مُوسَىٰ|تِسۡعَ|ءَايَٰتِۭ|بَيِّنَٰتٖۖ|فَسۡـَٔلۡ|بَنِيٓ|إِسۡرَٰٓءِيلَ|إِذۡ|جَآءَهُمۡ|فَقَالَ|لَهُۥ|فِرۡعَوۡنُ|إِنِّي|لَأَظُنُّكَ|يَٰمُوسَىٰ|مَسۡحُورٗا",
+            "translation": "And certainly|We had given|Musa|nine|Signs|clear|so ask|(the) Children of Israel|(the) Children of Israel|when|he came to them|then said|to him|Firaun|Indeed, I|[I] think you|O Musa|(you are) bewitched",
+            "transliteration": "walaqad|atayna|musa|tis'a|ayatin|bayyinatin|fasal|bani|is'raila|idh|jaahum|faqala|lahu|fir'awnu|inni|la-azunnuka|yamusa|mashuran",
+            "timestamp": "0.04|0.72|1.9|2.7|3.3|5.3|8.4|9.2|10.7|13.4|13.8|16.2|17|17.5|22.4|23.6|25.5|26.7",
+            "line": "9|9|9|9|10|10|10|10|10|10|10|10|10|10|11|11|11|11",
+            "end": "١٠١",
+            "end_line": 11
+          },
+          "translations": {
+            "1": "Wa-laqad aatainaa Moosaa tis'a Aayaatim baiyyinaatin fas'al Baneee Israaa'eela iz jaaa'ahum faqaala lahoo Fir'awnu inee la-azunnuka yaa-Moosaa mas-hooraa"
+          }
+        },
+        "17:102": {
+          "meta": {
+            "chapter": 17,
+            "verse": 102,
+            "page": 292,
+            "juz": 15,
+            "hizb": 117,
+            "manzil": 4,
+            "ruku": 251,
+            "words": 15
+          },
+          "words": {
+            "arabic": "قَالَ|لَقَدۡ|عَلِمۡتَ|مَآ|أَنزَلَ|هَٰٓؤُلَآءِ|إِلَّا|رَبُّ|ٱلسَّمَٰوَٰتِ|وَٱلۡأَرۡضِ|بَصَآئِرَ|وَإِنِّي|لَأَظُنُّكَ|يَٰفِرۡعَوۡنُ|مَثۡبُورٗا",
+            "translation": "He said|Verily|you know|none|has sent down|these|except|(the) Lord|(of) the heavens|and the earth|(as) evidence|and indeed I|[I] surely think you|O Firaun!|(you are) destroyed",
+            "transliteration": "qala|laqad|alim'ta|ma|anzala|haulai|illa|rabbu|al-samawati|wal-ardi|basaira|wa-inni|la-azunnuka|yafir'awnu|mathburan",
+            "timestamp": "0.03|0.62|1.1|2|3.7|5.2|9|9.8|10.5|12|13|15.5|16.9|18.7|20.2",
+            "line": "11|11|11|11|11|12|12|12|12|12|12|12|12|13|13",
+            "end": "١٠٢",
+            "end_line": 13
+          },
+          "translations": {
+            "1": "Qaala laqad 'alimta maaa anzala haaa'ulaaa'i illaa Rabbus samaawaati wal-ardi basaaa'ira Wa-innee la-azun-nuka yaa-Fir'awnu masbooraa"
+          }
+        },
+        "17:103": {
+          "meta": {
+            "chapter": 17,
+            "verse": 103,
+            "page": 292,
+            "juz": 15,
+            "hizb": 117,
+            "manzil": 4,
+            "ruku": 251,
+            "words": 9
+          },
+          "words": {
+            "arabic": "فَأَرَادَ|أَن|يَسۡتَفِزَّهُم|مِّنَ|ٱلۡأَرۡضِ|فَأَغۡرَقۡنَٰهُ|وَمَن|مَّعَهُۥ|جَمِيعٗا",
+            "translation": "So he intended|to|drive them out|from|the land|but We drowned him|and who|(were) with him|all",
+            "transliteration": "fa-arada|an|yastafizzahum|mina|al-ardi|fa-aghraqnahu|waman|ma'ahu|jami'an",
+            "timestamp": "0.03|1|2|4|4.3|5.1|6.9|8.2|8.9",
+            "line": "13|13|13|13|13|14|14|14|14",
+            "end": "١٠٣",
+            "end_line": 14
+          },
+          "translations": {
+            "1": "Fa-araada aien yastafizzahum minal ardi fa-aghraqnaahu Wa-mam ma'ahoo jamee'aa"
+          }
+        },
+        "17:104": {
+          "meta": {
+            "chapter": 17,
+            "verse": 104,
+            "page": 292,
+            "juz": 15,
+            "hizb": 117,
+            "manzil": 4,
+            "ruku": 251,
+            "words": 14
+          },
+          "words": {
+            "arabic": "وَقُلۡنَا|مِنۢ|بَعۡدِهِۦ|لِبَنِيٓ|إِسۡرَٰٓءِيلَ|ٱسۡكُنُواْ|ٱلۡأَرۡضَ|فَإِذَا|جَآءَ|وَعۡدُ|ٱلۡأٓخِرَةِ|جِئۡنَا|بِكُمۡ|لَفِيفٗا",
+            "translation": "And We said|after him|after him|to the Children of Israel|to the Children of Israel|Dwell|(in) the land|then when|comes|(the) promise|(of) the Hereafter|We will bring|you|(as) a mixed crowd",
+            "transliteration": "waqul'na|min|ba'dihi|libani|is'raila|us'kunu|al-arda|fa-idha|jaa|wa'du|al-akhirati|ji'na|bikum|lafifan",
+            "timestamp": "0.04|1.1|2.1|3.2|5.1|8|8.7|9.5|10.3|12.5|13.1|14.4|15.2|15.9",
+            "line": "14|14|14|14|14|15|15|15|15|15|15|15|15|15",
+            "end": "١٠٤",
+            "end_line": 15
+          },
+          "translations": {
+            "1": "Wa-qulnaa min ba'dihee li-Baneee Israaa'eelas kunul arda fa-izaa jaaa'a wa'dul aakhirati ji'naa bikum lafeefaa"
+          }
+        },
+        "17:105": {
+          "meta": {
+            "chapter": 17,
+            "verse": 105,
+            "page": 293,
+            "juz": 15,
+            "hizb": 117,
+            "manzil": 4,
+            "ruku": 251,
+            "words": 9
+          },
+          "words": {
+            "arabic": "وَبِٱلۡحَقِّ|أَنزَلۡنَٰهُ|وَبِٱلۡحَقِّ|نَزَلَۗ|وَمَآ|أَرۡسَلۡنَٰكَ|إِلَّا|مُبَشِّرٗا|وَنَذِيرٗا",
+            "translation": "And with the truth|We sent it down|and with the truth|it descended|And not|We sent you|except|(as) a bearer of glad tidings|and a warner",
+            "transliteration": "wabil-haqi|anzalnahu|wabil-haqi|nazala|wama|arsalnaka|illa|mubashiran|wanadhiran",
+            "timestamp": "0.03|1.2|3.4|4.7|5.7|6|9.1|10|11.1",
+            "line": "1|1|1|1|1|1|1|1|1",
+            "end": "١٠٥",
+            "end_line": 1
+          },
+          "translations": {
+            "1": "Wa-bilhaqqi anzalnaahu Wa-bilhaqqi nazal; Wa-maaa arsalnaaka illaa mubash-shiranw Wa-nazeeraa"
+          }
+        },
+        "17:106": {
+          "meta": {
+            "chapter": 17,
+            "verse": 106,
+            "page": 293,
+            "juz": 15,
+            "hizb": 117,
+            "manzil": 4,
+            "ruku": 251,
+            "words": 9
+          },
+          "words": {
+            "arabic": "وَقُرۡءَانٗا|فَرَقۡنَٰهُ|لِتَقۡرَأَهُۥ|عَلَى|ٱلنَّاسِ|عَلَىٰ|مُكۡثٖ|وَنَزَّلۡنَٰهُ|تَنزِيلٗا",
+            "translation": "And the Quran|We have divided|that you might recite it|to|the people|at|intervals|And We have revealed it|(in) stages",
+            "transliteration": "waqur'anan|faraqnahu|litaqra-ahu|ala|al-nasi|ala|muk'thin|wanazzalnahu|tanzilan",
+            "timestamp": "0.03|1.9|3.2|4.7|5.1|6.4|7.1|8|10.2",
+            "line": "2|2|2|2|2|2|2|2|2",
+            "end": "١٠٦",
+            "end_line": 2
+          },
+          "translations": {
+            "1": "Wa-quraanan faraqnaahu litaqra-ahoo 'alan naasi 'alaa muksinw Wa-nazzalnaahu tanzeelaa"
+          }
+        },
+        "17:107": {
+          "meta": {
+            "chapter": 17,
+            "verse": 107,
+            "page": 293,
+            "juz": 15,
+            "hizb": 117,
+            "manzil": 4,
+            "ruku": 251,
+            "words": 18
+          },
+          "words": {
+            "arabic": "قُلۡ|ءَامِنُواْ|بِهِۦٓ|أَوۡ|لَا|تُؤۡمِنُوٓاْۚ|إِنَّ|ٱلَّذِينَ|أُوتُواْ|ٱلۡعِلۡمَ|مِن|قَبۡلِهِۦٓ|إِذَا|يُتۡلَىٰ|عَلَيۡهِمۡ|يَخِرُّونَۤ|لِلۡأَذۡقَانِۤ|سُجَّدٗاۤ",
+            "translation": "Say|Believe|in it|or|(do) not|believe|Indeed|those who|were given|the knowledge|before it|before it|when|it is recited|to them|they fall|on their faces|(in) prostration",
+            "transliteration": "qul|aminu|bihi|aw|la|tu'minu|inna|alladhina|utu|al-'il'ma|min|qablihi|idha|yut'la|alayhim|yakhirruna|lil'adhqani|sujjadan",
+            "timestamp": "0.03|0.4|1.4|3.3|3.7|4.1|5.5|6.9|7.9|8.6|9.5|10.4|12.6|13.3|14.1|15.2|19.9|21.3",
+            "line": "3|3|3|3|3|3|3|3|3|3|3|3|3|3|4|4|4|4",
+            "end": "١٠٧",
+            "end_line": 4
+          },
+          "translations": {
+            "1": "Qul aaminoo biheee aw laa tu'minoo; innal lazeena ootul 'ilma min qabliheee izaa yutlaa 'alaihim yakhirroona lil-azqaani sujjadaa"
+          }
+        },
+        "17:108": {
+          "meta": {
+            "chapter": 17,
+            "verse": 108,
+            "page": 293,
+            "juz": 15,
+            "hizb": 117,
+            "manzil": 4,
+            "ruku": 251,
+            "words": 8
+          },
+          "words": {
+            "arabic": "وَيَقُولُونَ|سُبۡحَٰنَ|رَبِّنَآ|إِن|كَانَ|وَعۡدُ|رَبِّنَا|لَمَفۡعُولٗا",
+            "translation": "And they say|Glory be to|our Lord!|Indeed|is|(the) promise|(of) our Lord|surely fulfilled",
+            "transliteration": "wayaquluna|sub'hana|rabbina|in|kana|wa'du|rabbina|lamaf'ulan",
+            "timestamp": "0.03|1.4|2.6|4.4|6.1|6.8|7.5|8.5",
+            "line": "4|4|4|4|4|5|5|5",
+            "end": "١٠٨",
+            "end_line": 5
+          },
+          "translations": {
+            "1": "Wa-yaqooloona Subhaana Rabbinaaa in kaana wa'du Rabbinaa lamaf'oolaa"
+          }
+        },
+        "17:109": {
+          "meta": {
+            "chapter": 17,
+            "verse": 109,
+            "page": 293,
+            "juz": 15,
+            "hizb": 117,
+            "manzil": 4,
+            "ruku": 251,
+            "words": 5
+          },
+          "words": {
+            "arabic": "وَيَخِرُّونَ|لِلۡأَذۡقَانِ|يَبۡكُونَ|وَيَزِيدُهُمۡ|خُشُوعٗا۩",
+            "translation": "And they fall|on their faces|weeping|and it increases them|(in) humility",
+            "transliteration": "wayakhirruna|lil'adhqani|yabkuna|wayaziduhum|khushu'an",
+            "timestamp": "0.03|1.5|3|4.1|5.7",
+            "line": "5|5|5|5|6",
+            "end": "١٠٩",
+            "end_line": 6
+          },
+          "translations": {
+            "1": "Wa-yakhirroona lil-azqaani yabkoona Wa-yazeeduhum khushoo'aa"
+          }
+        },
+        "17:110": {
+          "meta": {
+            "chapter": 17,
+            "verse": 110,
+            "page": 293,
+            "juz": 15,
+            "hizb": 117,
+            "manzil": 4,
+            "ruku": 251,
+            "words": 22
+          },
+          "words": {
+            "arabic": "قُلِ|ٱدۡعُواْ|ٱللَّهَ|أَوِ|ٱدۡعُواْ|ٱلرَّحۡمَٰنَۖ|أَيّٗا|مَّا|تَدۡعُواْ|فَلَهُ|ٱلۡأَسۡمَآءُ|ٱلۡحُسۡنَىٰۚ|وَلَا|تَجۡهَرۡ|بِصَلَاتِكَ|وَلَا|تُخَافِتۡ|بِهَا|وَٱبۡتَغِ|بَيۡنَ|ذَٰلِكَ|سَبِيلٗا",
+            "translation": "Say|Invoke|Allah|or|invoke|the Most Gracious|By whatever (name)|By whatever (name)|you invoke|to Him (belongs)|the Most Beautiful Names|the Most Beautiful Names|And (do) not|be loud|in your prayers|and not|be silent|therein|but seek|between|that|a way",
+            "transliteration": "quli|id'u|al-laha|awi|id'u|al-rahmana|ayyan|ma|tad'u|falahu|al-asmau|al-hus'na|wala|tajhar|bisalatika|wala|tukhafit|biha|wa-ib'taghi|bayna|dhalika|sabilan",
+            "timestamp": "0.04|0.33|0.81|1.6|2|2.5|3.3|6.1|7.2|8.1|8.8|11|12.8|13.3|14.2|15.6|16.2|17.3|17.9|18.8|19.4|20.3",
+            "line": "6|6|6|6|6|6|6|6|6|6|7|7|7|7|7|7|7|7|7|8|8|8",
+            "end": "١١٠",
+            "end_line": 8
+          },
+          "translations": {
+            "1": "Qulid 'ul laaha awid 'ur Rahmaana ayyam maa tad'oo falahul asmaaa'ul Husnaa; Wa-laa tajhar bi-Salaatika Wa-laa tukhaafit bihaa wabtaghi baina zaalika sabeela"
+          }
+        },
+        "17:111": {
+          "meta": {
+            "chapter": 17,
+            "verse": 111,
+            "page": 293,
+            "juz": 15,
+            "hizb": 117,
+            "manzil": 4,
+            "ruku": 251,
+            "words": 21
+          },
+          "words": {
+            "arabic": "وَقُلِ|ٱلۡحَمۡدُ|لِلَّهِ|ٱلَّذِي|لَمۡ|يَتَّخِذۡ|وَلَدٗا|وَلَمۡ|يَكُن|لَّهُۥ|شَرِيكٞ|فِي|ٱلۡمُلۡكِ|وَلَمۡ|يَكُن|لَّهُۥ|وَلِيّٞ|مِّنَ|ٱلذُّلِّۖ|وَكَبِّرۡهُ|تَكۡبِيرَۢا",
+            "translation": "And say|All Praise|(is) for Allah|the One Who|has not taken|has not taken|a son|and not|is|for Him|a partner|in|the dominion|and not|is|for Him|any protector|out of|weakness|And magnify Him|(with all) magnificence",
+            "transliteration": "waquli|al-hamdu|lillahi|alladhi|lam|yattakhidh|waladan|walam|yakun|lahu|sharikun|fi|al-mul'ki|walam|yakun|lahu|waliyyun|mina|al-dhuli|wakabbir'hu|takbiran",
+            "timestamp": "0.03|0.63|1.4|2.5|3.4|3.7|4.8|5.5|6.9|7.4|8.2|9.8|10.1|11|11.5|12|12.9|14.6|15|21.2|22.5",
+            "line": "8|8|8|8|8|8|8|8|8|9|9|9|9|9|9|9|9|9|9|9|9",
+            "end": "١١١",
+            "end_line": 9
+          },
+          "translations": {
+            "1": "Wa-qulil hamdu lillaahil lazee lam yattakhiz waladanw Wa-lam yakul lahoo shareekun fil mulki Wa-lam yakul lahoo waliyyum minaz zulli Wa-kabbirhu takbeeraa"
+          }
+        }
+      }
+    }
+  }
