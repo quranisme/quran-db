@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@kmaslesa/holy-quran-word-by-word-full-data": "^1.0.6",
+    "@kmaslesa/quran-metadata": "^1.0.24",
     "axios": "^1.6.8",
     "cheerio": "^1.0.0-rc.12",
     "feedparser-promised": "^2.0.1",
